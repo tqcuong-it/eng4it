@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Error Analysis"
-date: 2025-09-14
+date: 2023-04-23
 summary: "Ôn tập tuần 16 — tổng hợp tất cả dạng câu hỏi Reading, phân tích lỗi sai và kế hoạch luyện tập tiếp theo."
 description: "Review toàn bộ dạng câu hỏi IELTS Reading đã học trong tuần 15-16, checklist kỹ năng và tài liệu luyện tập."
 tags: ["ielts", "reading", "review", "week-16"]
