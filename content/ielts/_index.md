@@ -7,6 +7,6 @@ description: "Lộ trình tự học IELTS 6.0 dành cho người mới bắt đ
 
 Chào mừng bạn đến với series **Tự Học IELTS 6.0**! 🎯
 
-Đây là lộ trình tự học IELTS 6.0 trong 10 tháng, dành cho người mới bắt đầu. Mỗi ngày chỉ cần **1–2 giờ**, học theo giáo án chi tiết.
+Đây là lộ trình tự học IELTS 6.0 trong 40 tuần, dành cho người mới bắt đầu. Mỗi ngày chỉ cần **1–2 giờ**, học theo giáo án chi tiết.
 
 👉 [Xem Lộ Trình Tổng Quan](/ielts/roadmap/)

@@ -1,8 +1,8 @@
 ---
 title: "Lộ Trình Tự Học IELTS Academic 6.0 — 10 Tháng"
 date: 2023-01-01
-summary: "Lộ trình tự học IELTS Academic 6.0 trong 10 tháng — dành cho người mới bắt đầu. Mỗi ngày 1-2 giờ."
-description: "Lộ trình chi tiết tự học IELTS Academic 6.0 trong 10 tháng — phù hợp người bận rộn, mỗi ngày 1-2 giờ."
+summary: "Lộ trình tự học IELTS Academic 6.0 (40 tuần) — dành cho người mới bắt đầu. Mỗi ngày 1-2 giờ."
+description: "Lộ trình chi tiết tự học IELTS Academic 6.0 (40 tuần) — phù hợp người bận rộn, mỗi ngày 1-2 giờ."
 tags: ["IELTS", "lộ trình", "tự học", "band 6.0"]
 series: ["IELTS"]
 categories: ["IELTS"]
@@ -13,11 +13,11 @@ ShowToc: true
 
 ## 🎯 Mục tiêu
 
-**IELTS Academic 6.0** trong **10 tháng** (40 tuần) — học theo tốc độ của bạn.
+**IELTS Academic 6.0** trong **40 tuần** — học theo tốc độ của bạn.
 
 - ⏰ Mỗi ngày: **1-2 giờ** tự học
 - 👤 Đối tượng: Người Việt muốn tự học IELTS từ đầu
-- 📅 Dự kiến thi: **01/2027**
+- 📅 Thi khi bạn sẵn sàng!
 
 ---
 
@@ -214,4 +214,4 @@ ShowToc: true
 
 👉 [**Week 1 — Day 1: Education & Present Simple**](/ielts/week-1/day-1-greetings-basics-present-simple/)
 
-Hành trình 10 tháng bắt đầu từ bước đầu tiên. Mỗi ngày 1-2 giờ, kiên trì là chìa khóa! 💪
+Hành trình 40 tuần bắt đầu từ bước đầu tiên. Mỗi ngày 1-2 giờ, kiên trì là chìa khóa! 💪

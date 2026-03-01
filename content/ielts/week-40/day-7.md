@@ -22,7 +22,7 @@ Không phải "bạn đã thi xong." Mà là **"bạn đã hoàn thành 40 tuầ
 
 Hãy dừng lại một giây và cảm nhận điều đó.
 
-**40 tuần.** 280 ngày. Gần **10 tháng** kiên trì. Có những ngày bạn mệt mỏi nhưng vẫn mở bài học. Có những ngày bạn muốn bỏ cuộc nhưng vẫn tiếp tục. Có những ngày bạn không hiểu nhưng vẫn cố gắng.
+**40 tuần.** 280 ngày. Kiên trì từng bước. Có những ngày bạn mệt mỏi nhưng vẫn mở bài học. Có những ngày bạn muốn bỏ cuộc nhưng vẫn tiếp tục. Có những ngày bạn không hiểu nhưng vẫn cố gắng.
 
 **Đó là sức mạnh thực sự.** Không phải band điểm — mà là **con người bạn đã trở thành** trong hành trình này. 🌟
 
