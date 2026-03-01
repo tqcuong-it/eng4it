@@ -1,0 +1,14 @@
+<!-- In-article Ad Unit -->
+{{ with .Site.Params.adsenseId }}
+{{ if not $.Site.IsServer }}
+<div class="adsbygoogle-container" style="margin: 2em 0; text-align: center;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ . }}"
+       data-ad-slot="{{ with $.Get "slot" }}{{ . }}{{ end }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ end }}
+{{ end }}

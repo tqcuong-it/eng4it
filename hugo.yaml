@@ -10,6 +10,7 @@ pagination:
 
 params:
   env: production
+  adsenseId: "ca-pub-4584704267487925"
   title: "Eng4IT"
   description: "Học tiếng Anh chuyên ngành IT — Dành cho Developer, BrSE, PM tại Nhật và Việt Nam"
   keywords: ["tiếng anh IT", "english for developer", "tiếng anh lập trình", "IELTS IT", "BrSE english"]
@@ -74,6 +75,13 @@ menu:
     - name: "Về tác giả"
       url: /about/
       weight: 5
+  footer:
+    - name: "Privacy Policy"
+      url: /privacy/
+      weight: 1
+    - name: "Terms of Service"
+      url: /terms/
+      weight: 2
 
 outputs:
   home:
