@@ -28,11 +28,15 @@ Hôm nay bạn sẽ làm **bài thi Listening hoàn chỉnh** — 4 sections, 40
 
 ---
 
-> 🔊 **Nguồn Audio:** Sử dụng audio từ [British Council IELTS Practice](https://www.britishcouncil.org/exam/ielts/prepare/free-practice-tests/listening) hoặc [IDP IELTS Practice](https://ielts.idp.com/prepare/article/free-ielts-practice-tests). Mở audio trước khi bắt đầu làm bài.
-
 
 ## Section 1: Conversation (10 câu)
 *Chủ đề: Đặt phòng khách sạn*
+
+🔊 **Nghe audio rồi trả lời:**
+
+<audio controls>
+  <source src="/audio/week-37/section1.mp3" type="audio/mpeg">
+</audio>
 
 **Câu 1-5: Form Completion**
 
@@ -76,6 +80,12 @@ Nghe cuộc hội thoại và điền thông tin:
 ---
 
 ## Section 2: Monologue (10 câu)
+
+🔊 **Nghe audio rồi trả lời:**
+
+<audio controls>
+  <source src="/audio/week-37/section2.mp3" type="audio/mpeg">
+</audio>
 *Chủ đề: Hướng dẫn tham quan bảo tàng*
 
 **Câu 11-15: Map/Plan Labelling**
@@ -101,6 +111,12 @@ Nghe và ghi tên địa điểm trên sơ đồ:
 ---
 
 ## Section 3: Discussion (10 câu)
+
+🔊 **Nghe audio rồi trả lời:**
+
+<audio controls>
+  <source src="/audio/week-37/section3.mp3" type="audio/mpeg">
+</audio>
 *Chủ đề: Hai sinh viên thảo luận về bài nghiên cứu*
 
 **Câu 21-25: Matching**
@@ -148,6 +164,12 @@ Nối người nói với ý kiến:
 ---
 
 ## Section 4: Lecture (10 câu)
+
+🔊 **Nghe audio rồi trả lời:**
+
+<audio controls>
+  <source src="/audio/week-37/section4.mp3" type="audio/mpeg">
+</audio>
 *Chủ đề: Bài giảng về biến đổi khí hậu và nông nghiệp*
 
 **Câu 31-35: Note Completion**

@@ -41,6 +41,12 @@ Làm **10 câu hỏi** — mỗi dạng 2 câu:
 
 **Dạng 1: Form/Note Completion (2 câu)**
 
+🔊 **Nghe audio rồi điền đáp án:**
+
+<audio controls>
+  <source src="/audio/week-35/diagnostic.mp3" type="audio/mpeg">
+</audio>
+
 Nghe đoạn hội thoại và điền:
 1. The appointment is on __________ at 2:30 PM.
 2. The patient's reference number is __________.
