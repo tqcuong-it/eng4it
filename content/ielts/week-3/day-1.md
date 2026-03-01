@@ -20,6 +20,8 @@ draft: false
 
 Tuần này chúng ta học cách nói về **quá khứ** — những gì đã xảy ra! Hôm nay bắt đầu với các hoạt động thường ngày ở dạng quá khứ. 💪
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ### 📝 20 từ vựng hôm nay
 
 | # | English | Phát âm (IPA) | Tiếng Việt | Ví dụ (Past Simple) |

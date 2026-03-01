@@ -19,6 +19,8 @@ draft: false
 
 Hôm nay chúng ta khám phá thế giới **động vật và thiên nhiên** — chủ đề thường gặp trong IELTS! 🌿🐾
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ### 📝 20 từ vựng hôm nay
 
 | # | English | Phát âm (IPA) | Tiếng Việt | Ví dụ |

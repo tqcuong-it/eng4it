@@ -19,6 +19,8 @@ draft: false
 
 Tuần này chúng ta học về **nơi chốn và di chuyển** — những từ bạn cần khi ra đường, hỏi đường, hoặc mô tả thành phố! 🏙️
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ### 📝 20 từ vựng hôm nay
 
 | # | English | Phát âm (IPA) | Tiếng Việt | Ví dụ |

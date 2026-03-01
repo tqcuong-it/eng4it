@@ -20,6 +20,8 @@ draft: false
 
 Hôm nay chúng ta bắt đầu với những từ **cơ bản nhất** — chào hỏi và các hành động thường ngày. Đây là nền tảng để bạn xây dựng mọi thứ phía sau! 💪
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ### 📝 20 từ vựng hôm nay
 
 | # | English | Phát âm (IPA) | Tiếng Việt | Ví dụ |

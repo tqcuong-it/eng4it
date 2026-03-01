@@ -19,6 +19,8 @@ draft: false
 
 Hôm nay chúng ta học cách **chỉ đường** và nói về **phương tiện đi lại** — rất hữu ích khi đi du lịch hoặc sống ở nước ngoài! 🚌🗺️
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ### 📝 20 từ vựng hôm nay
 
 | # | English | Phát âm (IPA) | Tiếng Việt | Ví dụ |
