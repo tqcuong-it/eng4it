@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Full Reading Test 1 — 3 Passages, 40 Questions"
-slug: "full-reading-test-1-3-passages-40-questions"
+slug: "day-6-full-reading-test-1-3-passages-40-questions"
 date: 2023-07-08
 summary: "Bài thi Reading hoàn chỉnh — 3 passages, 40 câu hỏi, 60 phút. Luyện tập như thi thật!"
 description: "IELTS Reading Full Test 1 — 3 passages từ dễ đến khó, 40 câu hỏi mixed, 60 phút. Practice test với đáp án chi tiết."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: 🏆 PHASE 3 MILESTONE TEST — Mô phỏng thi thật + Celebration!"
-slug: "phase-3-milestone-test-mo-phong-thi-that-celebration"
+slug: "day-7-phase-3-milestone-test-mo-phong-thi-that-celebration"
 date: 2023-09-10
 summary: "MILESTONE TEST — bài thi mô phỏng IELTS hoàn chỉnh kết thúc Phase 3, celebration thành tựu và preview Phase 4!"
 description: "Phase 3 Milestone Test: full IELTS simulation (Listening + Reading + Writing + Speaking), đánh giá tổng kết và celebration."

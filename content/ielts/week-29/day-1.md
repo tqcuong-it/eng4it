@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Task 1 Timed Practice — Line Graph + Bar Chart"
-slug: "task-1-timed-practice-line-graph-bar-chart"
+slug: "day-1-task-1-timed-practice-line-graph-bar-chart"
 date: 2023-07-17
 summary: "Luyện viết Task 1 có tính giờ: Line Graph và Bar Chart, mỗi bài 20 phút."
 description: "Thực hành viết IELTS Task 1 trong điều kiện thi thật với Line Graph và Bar Chart — 20 phút mỗi bài."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Describing an Event/Experience — Useful Phrases, Model Answer & Practice"
-slug: "describing-an-event-experience-useful-phrases-model-answer"
+slug: "day-4-describing-an-event-experience-useful-phrases-model-answer"
 date: 2023-06-01
 summary: "Chiến lược mô tả sự kiện/trải nghiệm trong IELTS Speaking Part 2 — từ vựng, model answer và bài tập."
 description: "Hướng dẫn mô tả event/experience trong IELTS Speaking Part 2 với useful phrases, model answer và practice tasks."

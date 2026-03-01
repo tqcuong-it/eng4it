@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Understanding Task 1 — Tổng quan & Tiêu chí chấm điểm"
-slug: "understanding-task-1-tong-quan-tieu-chi-cham-diem"
+slug: "day-1-understanding-task-1-tong-quan-tieu-chi-cham-diem"
 date: 2023-04-24
 summary: "Tổng quan IELTS Writing Task 1, tiêu chí chấm điểm, chiến lược quản lý thời gian 20 phút."
 description: "Hiểu rõ cấu trúc Writing Task 1, 4 tiêu chí chấm điểm Band Descriptors và cách phân bổ thời gian hiệu quả."

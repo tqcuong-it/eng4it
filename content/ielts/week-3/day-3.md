@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Hobbies & Sports + Past Simple (Negative & Questions)"
-slug: "hobbies-sports-past-simple-negative-questions"
+slug: "day-3-hobbies-sports-past-simple-negative-questions"
 date: 2023-01-18
 summary: "Học 20 từ vựng sở thích & thể thao, Past Simple dạng phủ định (didn't) và câu hỏi (Did...?), đọc đoạn văn 70 từ."
 description: "Bài IELTS Tuần 3 Ngày 3 — 20 từ vựng hobbies & sports, ngữ pháp Past Simple negative & questions, đoạn đọc 70 từ."

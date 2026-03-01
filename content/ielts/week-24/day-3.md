@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Writing Task 1 + Task 2"
-slug: "writing-task-1-task-2"
+slug: "day-3-writing-task-1-task-2"
 date: 2023-06-14
 summary: "Luyện viết có bấm giờ — Task 1 (20 phút) + Task 2 (40 phút) mô phỏng thi thật."
 description: "Bài thi Writing mô phỏng đầy đủ với Task 1 và Task 2, hướng dẫn phân bổ thời gian và rubric tự chấm điểm."

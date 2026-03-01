@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Family & People + Present Continuous"
-slug: "family-people-present-continuous"
+slug: "day-3-family-people-present-continuous"
 date: 2023-01-04
 summary: "Học 20 từ vựng về gia đình & con người, làm quen thì Hiện tại tiếp diễn (Present Continuous)."
 description: "Bài 3 — 20 từ vựng gia đình, ngữ pháp Present Continuous, đoạn đọc về family."

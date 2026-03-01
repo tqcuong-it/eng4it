@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Full Speaking Mock 2 — Parts 1-3 + Self-Assessment"
-slug: "full-speaking-mock-2-parts-1-3-self-assessment"
+slug: "day-5-full-speaking-mock-2-parts-1-3-self-assessment"
 date: 2023-08-11
 summary: "Bài thi Speaking thử thứ 2 — đề mới hoàn toàn, áp dụng vocabulary và grammar đã học trong tuần + tự đánh giá chi tiết."
 description: "IELTS Full Speaking Mock Test 2: new topics, Parts 1-3, model answers, self-assessment với band descriptors chi tiết."

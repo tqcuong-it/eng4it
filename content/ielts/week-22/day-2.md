@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Describing a Person — Useful Phrases, Model Answer & Practice"
-slug: "describing-a-person-useful-phrases-model-answer-practice"
+slug: "day-2-describing-a-person-useful-phrases-model-answer-practice"
 date: 2023-05-30
 summary: "Chiến lược mô tả người trong IELTS Speaking Part 2 — từ vựng, cấu trúc, model answer và bài tập thực hành."
 description: "Hướng dẫn mô tả người (person) trong IELTS Speaking Part 2 với useful phrases, model answer band 6.0+ và practice tasks."

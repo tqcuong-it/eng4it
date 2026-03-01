@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Mini Test — Tuần 2"
-slug: "review-mini-test-tuan-2"
+slug: "day-7-review-mini-test-tuan-2"
 date: 2023-01-15
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp Tuần 2: Places, Directions, Home, School, Shopping, Countries + Mini Test tổng hợp."
 description: "Bài 14 IELTS — Ôn tập và kiểm tra toàn bộ nội dung Tuần 2: There is/are, Prepositions, Articles, How much/many, Comparatives."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Exam Eve — Chuẩn bị mọi thứ cho ngày thi"
-slug: "exam-eve-chuan-bi-moi-thu-cho-ngay-thi"
+slug: "day-5-exam-eve-chuan-bi-moi-thu-cho-ngay-thi"
 date: 2023-10-02
 summary: "Checklist chuẩn bị trước ngày thi IELTS — giấy tờ, đồ mang theo, lịch ngủ, thói quen buổi sáng."
 description: "Hướng dẫn chi tiết chuẩn bị trước ngày thi IELTS: giấy tờ, đồ dùng, sức khỏe, tinh thần và morning routine."

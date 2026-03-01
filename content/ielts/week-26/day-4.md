@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Accent Training — British, Australian, American"
-slug: "accent-training-british-australian-american"
+slug: "day-4-accent-training-british-australian-american"
 date: 2023-06-29
 summary: "Luyện nghe các giọng British, Australian, American để quen tai với đa dạng accent trong IELTS Listening."
 description: "IELTS Listening Accent Training — so sánh phát âm British, Australian, American, đặc điểm nhận dạng và bài tập nghe đa accent."

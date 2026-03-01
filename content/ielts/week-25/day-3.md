@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Section 4 Skills — Bài Giảng & Ghi Chú Nhanh"
-slug: "section-4-skills-bai-giang-ghi-chu-nhanh"
+slug: "day-3-section-4-skills-bai-giang-ghi-chu-nhanh"
 date: 2023-06-21
 summary: "Chiến lược Section 4 — nghe bài giảng/độc thoại dài, kỹ thuật note-taking và dự đoán đáp án."
 description: "Kỹ năng IELTS Listening Section 4 — nghe bài giảng học thuật, note completion, summary completion và chiến lược ghi chú hiệu quả."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Score Tracking + Strategy Refinement"
-slug: "score-tracking-strategy-refinement"
+slug: "day-7-score-tracking-strategy-refinement"
 date: 2023-07-16
 summary: "Tổng kết tuần — theo dõi điểm số, phân tích lỗi sai và tinh chỉnh chiến lược Reading cho các tuần tiếp theo."
 description: "Phân tích kết quả 3 bài Full Test, xác định điểm yếu và xây dựng kế hoạch cải thiện cụ thể cho IELTS Reading."

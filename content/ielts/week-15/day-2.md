@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Skimming & Scanning Techniques"
-slug: "skimming-scanning-techniques"
+slug: "day-2-skimming-scanning-techniques"
 date: 2023-04-11
 summary: "Kỹ thuật Skimming (đọc lướt) và Scanning (đọc quét) — 2 kỹ năng cốt lõi để làm IELTS Reading hiệu quả."
 description: "Chiến lược Skimming để nắm ý chính và Scanning để tìm thông tin cụ thể, kèm bài tập thực hành với passage thực tế."

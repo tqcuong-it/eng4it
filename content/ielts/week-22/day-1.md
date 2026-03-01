@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Understanding the Cue Card — Cấu trúc, 1 phút chuẩn bị, 2 phút nói"
-slug: "understanding-the-cue-card-cau-truc-1-phut-chuan-bi-2-phut"
+slug: "day-1-understanding-the-cue-card-cau-truc-1-phut-chuan-bi-2-phut"
 date: 2023-05-29
 summary: "Hiểu cấu trúc Cue Card trong IELTS Speaking Part 2, chiến lược chuẩn bị 1 phút và nói liên tục 2 phút."
 description: "Hướng dẫn chi tiết cách đọc Cue Card, lập dàn ý trong 1 phút và nói liên tục 2 phút cho IELTS Speaking Part 2."

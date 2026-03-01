@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: School & Work + Articles (a/an/the)"
-slug: "school-work-articles-a-an-the"
+slug: "day-4-school-work-articles-a-an-the"
 date: 2023-01-12
 summary: "Học 20 từ vựng về trường học & công việc, làm quen mạo từ a/an/the, đọc đoạn văn về một ngày đi làm 80 từ."
 description: "Bài 11 IELTS cho người mới — 20 từ vựng trường học & công việc, mạo từ a/an/the, đoạn đọc 80 từ."

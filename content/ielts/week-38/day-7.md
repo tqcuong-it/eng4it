@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Confidence Building + Stress Management"
-slug: "confidence-building-stress-management"
+slug: "day-7-confidence-building-stress-management"
 date: 2023-09-24
 summary: "Xây dựng sự tự tin và kỹ năng quản lý stress — chuẩn bị tinh thần cho tuần Final Prep."
 description: "Ngày xây dựng mindset tích cực, kỹ thuật thở, visualization và quản lý lo âu trước kỳ thi IELTS."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Healthy Habits + Have to / Don't have to"
-slug: "healthy-habits-have-to-don-t-have-to"
+slug: "day-4-healthy-habits-have-to-don-t-have-to"
 date: 2023-02-02
 summary: "Học 20 từ vựng về thói quen lành mạnh, ngữ pháp have to/don't have to, đọc đoạn văn 75 từ."
 description: "Bài 4 Tuần 5 IELTS — 20 từ vựng thói quen sức khỏe, ngữ pháp have to/don't have to, đoạn đọc 75 từ."

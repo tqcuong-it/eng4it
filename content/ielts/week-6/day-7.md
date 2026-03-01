@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Mini Test — Tuần 6"
-slug: "review-mini-test-tuan-6"
+slug: "day-7-review-mini-test-tuan-6"
 date: 2023-02-12
 summary: "Ôn tập toàn bộ tuần 6: từ vựng công việc, Present Perfect, Superlatives + Mini Test kiểm tra."
 description: "Bài IELTS Tuần 6 Ngày 7 — Ôn tập + Mini Test tổng hợp từ vựng và ngữ pháp tuần 6."

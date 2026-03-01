@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Error Analysis + Improvement Plan — Phân Tích Lỗi & Lập Kế Hoạch"
-slug: "error-analysis-improvement-plan-phan-tich-loi-lap-ke-hoach"
+slug: "day-7-error-analysis-improvement-plan-phan-tich-loi-lap-ke-hoach"
 date: 2023-06-25
 summary: "Phân tích chi tiết lỗi sai từ Full Test 1, xác định patterns lỗi và lập kế hoạch cải thiện cho tuần tiếp theo."
 description: "IELTS Listening Error Analysis — phân loại lỗi sai, tìm pattern, lập improvement plan cá nhân để nâng band score."

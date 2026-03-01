@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Rest + Mental Preparation"
-slug: "rest-mental-preparation"
+slug: "day-7-rest-mental-preparation"
 date: 2023-09-17
 summary: "Nghỉ ngơi, ôn nhẹ và chuẩn bị tinh thần cho Mock Test 2 tuần sau."
 description: "Ngày nghỉ ngơi — review nhẹ kết quả, visualization và chuẩn bị mindset cho tuần luyện tiếp theo."

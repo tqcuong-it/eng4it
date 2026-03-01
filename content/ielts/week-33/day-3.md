@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Full Mock Test — Writing"
-slug: "full-mock-test-writing"
+slug: "day-3-full-mock-test-writing"
 date: 2023-08-16
 summary: "Bài thi Writing mô phỏng — Task 1 (báo cáo) + Task 2 (bài luận), 60 phút bấm giờ."
 description: "Mock test IELTS Writing hoàn chỉnh với Task 1 và Task 2, kèm bài mẫu và tiêu chí chấm điểm."

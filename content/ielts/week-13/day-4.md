@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Multiple Choice Listening — Tips & Practice"
-slug: "multiple-choice-listening-tips-practice"
+slug: "day-4-multiple-choice-listening-tips-practice"
 date: 2023-03-30
 summary: "Chiến lược làm dạng Multiple Choice trong IELTS Listening — kỹ thuật loại trừ và tránh bẫy."
 description: "Kỹ thuật làm câu hỏi trắc nghiệm trong IELTS Listening với chiến lược loại trừ và bài tập thực hành."

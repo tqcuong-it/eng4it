@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Part 1 Topics — Technology, Travel, Friends"
-slug: "part-1-topics-technology-travel-friends"
+slug: "day-4-part-1-topics-technology-travel-friends"
 date: 2023-05-25
 summary: "Luyện Speaking Part 1 với 3 chủ đề: Technology, Travel, Friends — Sample Q&A và Model Answers chi tiết."
 description: "IELTS Speaking Part 1 — câu hỏi mẫu và model answers cho chủ đề Technology, Travel, Friends với phân tích."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Pronunciation Drills — Word Stress, Intonation & Connected Speech"
-slug: "pronunciation-drills-word-stress-intonation-connected-speech"
+slug: "day-4-pronunciation-drills-word-stress-intonation-connected-speech"
 date: 2023-08-03
 summary: "Rèn phát âm chuyên sâu cho Speaking — word stress patterns, intonation rules, connected speech techniques với bài tập drill."
 description: "IELTS Speaking pronunciation: word stress, sentence stress, intonation patterns, connected speech, linking, reduction và elision."

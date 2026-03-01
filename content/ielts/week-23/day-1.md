@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Discussion & Opinion Skills"
-slug: "discussion-opinion-skills"
+slug: "day-1-discussion-opinion-skills"
 date: 2023-06-05
 summary: "Kỹ năng thảo luận và đưa ý kiến trong Speaking Part 3 — đồng ý, phản đối, và đưa lý do."
 description: "Học cách đồng ý/phản đối trong IELTS Speaking Part 3, các cụm từ thể hiện quan điểm và cách đưa lý do thuyết phục."

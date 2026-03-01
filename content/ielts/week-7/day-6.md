@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Internet & Technology + Passive Voice (Present)"
-slug: "internet-technology-passive-voice-present"
+slug: "day-6-internet-technology-passive-voice-present"
 date: 2023-02-18
 summary: "Học 20 từ vựng Internet & công nghệ, luyện Passive Voice thì hiện tại, đọc đoạn văn 80 từ."
 description: "IELTS Tuần 7 Ngày 6 — 20 từ vựng Internet & Technology, Passive Voice (present), đoạn đọc 80 từ."

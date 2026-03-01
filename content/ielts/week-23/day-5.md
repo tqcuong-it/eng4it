@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Complex Sentence Structures for Speaking"
-slug: "complex-sentence-structures-for-speaking"
+slug: "day-5-complex-sentence-structures-for-speaking"
 date: 2023-06-09
 summary: "Cách xây dựng câu phức để tăng điểm Grammar trong IELTS Speaking."
 description: "Học các cấu trúc câu phức giúp nâng band điểm Grammatical Range & Accuracy trong Speaking."

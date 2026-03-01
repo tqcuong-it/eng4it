@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Practice"
-slug: "review-practice"
+slug: "day-7-review-practice"
 date: 2023-05-14
 summary: "Ôn tập tổng hợp 4 dạng essay Task 2 — so sánh, luyện viết và tự đánh giá."
 description: "Ôn tập tuần 19 — so sánh 4 dạng essay, mini test viết essay hoàn chỉnh và self-assessment rubric."

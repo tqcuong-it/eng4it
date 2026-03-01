@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Task 1 Timed Practice — Pie Chart + Table"
-slug: "task-1-timed-practice-pie-chart-table"
+slug: "day-2-task-1-timed-practice-pie-chart-table"
 date: 2023-07-18
 summary: "Luyện viết Task 1 có tính giờ: Pie Chart và Table, mỗi bài 20 phút."
 description: "Thực hành viết IELTS Task 1 trong điều kiện thi thật với Pie Chart và Table — 20 phút mỗi bài."

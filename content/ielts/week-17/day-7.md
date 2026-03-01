@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Self-Assessment — Ôn tập Tuần 17"
-slug: "review-self-assessment-on-tap-tuan-17"
+slug: "day-7-review-self-assessment-on-tap-tuan-17"
 date: 2023-04-30
 summary: "Ôn tập kiến thức Writing Task 1 tuần 17, tự đánh giá và lập kế hoạch cải thiện."
 description: "Tổng ôn Task 1 basics — cấu trúc bài, từ vựng xu hướng, Line Graph, Bar Chart, Pie Chart và tự đánh giá trình độ."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: At the Doctor + Can / Can't"
-slug: "at-the-doctor-can-can-t"
+slug: "day-3-at-the-doctor-can-can-t"
 date: 2023-02-01
 summary: "Học 20 từ vựng khi đi khám bệnh, ngữ pháp can/can't diễn tả khả năng, đọc đoạn văn 75 từ."
 description: "Bài 3 Tuần 5 IELTS — 20 từ vựng khám bệnh, ngữ pháp can/can't, đoạn đọc 75 từ."

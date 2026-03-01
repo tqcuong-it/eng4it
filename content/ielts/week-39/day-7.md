@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: REST DAY — Mental Prep Only"
-slug: "rest-day-mental-prep-only"
+slug: "day-7-rest-day-mental-prep-only"
 date: 2023-10-01
 summary: "Ngày nghỉ hoàn toàn — chỉ chuẩn bị tinh thần, KHÔNG học bài."
 description: "REST DAY trước tuần cuối cùng. Tập trung vào tinh thần, giấc ngủ và sự bình an nội tâm."

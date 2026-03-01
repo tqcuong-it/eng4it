@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Diagnostic — Xác định Top 3 điểm yếu"
-slug: "diagnostic-xac-dinh-top-3-diem-yeu"
+slug: "day-1-diagnostic-xac-dinh-top-3-diem-yeu"
 date: 2023-08-28
 summary: "Bài test chẩn đoán để xác định chính xác 3 điểm yếu lớn nhất cần cải thiện trước Milestone."
 description: "Diagnostic exercises cho 4 kỹ năng IELTS, phân tích chi tiết để xác định Top 3 điểm yếu cần tập trung."

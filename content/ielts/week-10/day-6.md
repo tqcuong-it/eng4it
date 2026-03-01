@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Academic Vocabulary + Complex Sentences"
-slug: "academic-vocabulary-complex-sentences"
+slug: "day-6-academic-vocabulary-complex-sentences"
 date: 2023-03-11
 summary: "Học 20 từ vựng học thuật, nắm vững câu phức với although, while, unless, even though, đọc đoạn văn 90 từ."
 description: "Tuần 10 Ngày 6 — 20 từ vựng học thuật, ngữ pháp Complex Sentences, đoạn đọc 90 từ."

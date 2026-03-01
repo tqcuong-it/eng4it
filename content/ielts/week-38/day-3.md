@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Error Analysis + Score Trend"
-slug: "error-analysis-score-trend"
+slug: "day-3-error-analysis-score-trend"
 date: 2023-09-20
 summary: "Phân tích lỗi sai Mock Test 2 và so sánh xu hướng điểm từ Mock Test 1 đến Mock Test 2."
 description: "So sánh kết quả 2 Mock Tests, xác định xu hướng điểm, phân loại lỗi và lập chiến lược cho Mock Test 3."

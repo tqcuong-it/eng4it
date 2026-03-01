@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Progress Review + Score Tracking"
-slug: "progress-review-score-tracking"
+slug: "day-7-progress-review-score-tracking"
 date: 2023-08-27
 summary: "Tổng kết tiến bộ tuần 34 — biểu đồ điểm số, phân tích xu hướng và chuẩn bị cho Weakness Focus."
 description: "Review toàn diện tiến bộ qua 3 mock tests, vẽ biểu đồ điểm số và lập kế hoạch cho tuần tiếp theo."

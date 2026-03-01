@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Full Writing Test 1 — Task 1 + Task 2 (60 phút)"
-slug: "full-writing-test-1-task-1-task-2-60-phut"
+slug: "day-6-full-writing-test-1-task-1-task-2-60-phut"
 date: 2023-07-22
 summary: "Bài thi Writing đầy đủ đầu tiên: Task 1 (20 phút) + Task 2 (40 phút) = 60 phút."
 description: "Mô phỏng bài thi IELTS Writing thật — viết liên tục Task 1 và Task 2 trong 60 phút không nghỉ."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Last-minute Writing Tips + Templates Review"
-slug: "last-minute-writing-tips-templates-review"
+slug: "day-3-last-minute-writing-tips-templates-review"
 date: 2023-09-27
 summary: "Tips cuối cùng cho Writing — ôn lại templates Task 1 + Task 2, checklist tránh lỗi phổ biến."
 description: "Tổng hợp templates Writing, từ vựng quan trọng, cấu trúc câu nâng cao và checklist tránh lỗi cho ngày thi."

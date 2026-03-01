@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: News & Media + Passive Voice (Giới thiệu)"
-slug: "news-media-passive-voice-gioi-thieu"
+slug: "day-5-news-media-passive-voice-gioi-thieu"
 date: 2023-02-17
 summary: "Học 20 từ vựng tin tức & truyền thông, làm quen câu bị động (is/are + V3), đọc đoạn văn 75 từ."
 description: "IELTS Tuần 7 Ngày 5 — 20 từ vựng News & Media, ngữ pháp Passive Voice intro, đoạn đọc 75 từ."

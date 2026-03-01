@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Education System + Modals of Advice"
-slug: "education-system-modals-of-advice"
+slug: "day-1-education-system-modals-of-advice"
 date: 2023-03-06
 summary: "Học 20 từ vựng về hệ thống giáo dục, làm quen Modals of Advice (should/ought to), đọc đoạn văn 80 từ."
 description: "Tuần 10 Ngày 1 — 20 từ vựng hệ thống giáo dục, ngữ pháp should/ought to, đoạn đọc 80 từ."

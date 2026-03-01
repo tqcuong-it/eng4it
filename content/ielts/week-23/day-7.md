@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Self-Assessment"
-slug: "review-self-assessment"
+slug: "day-7-review-self-assessment"
 date: 2023-06-11
 summary: "Ôn tập toàn bộ kỹ năng Speaking Part 3 và tự đánh giá tiến độ cuối tuần."
 description: "Tổng hợp kiến thức Speaking Part 3 — opinion, reasons, comparing, speculating, complex sentences + tự đánh giá."

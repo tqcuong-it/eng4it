@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Weakness #3 — Intensive Practice"
-slug: "weakness-3-intensive-practice"
+slug: "day-4-weakness-3-intensive-practice"
 date: 2023-08-31
 summary: "Luyện tập chuyên sâu điểm yếu số 3 — coherence, linking words, và time management."
 description: "Intensive practice cho điểm yếu #3, bao gồm coherence & cohesion, linking words, và chiến lược làm bài."

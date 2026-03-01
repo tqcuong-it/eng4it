@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Essay Planning & Outlining"
-slug: "essay-planning-outlining"
+slug: "day-6-essay-planning-outlining"
 date: 2023-05-13
 summary: "Kỹ năng lập dàn ý — từ brainstorm đến outline đến viết essay hoàn chỉnh trong 40 phút."
 description: "Hướng dẫn quy trình lập dàn ý essay — brainstorming, outlining, và viết essay có chiến lược."

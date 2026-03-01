@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Practice Test — Passage 1 (Mixed Questions)"
-slug: "practice-test-passage-1-mixed-questions"
+slug: "day-6-practice-test-passage-1-mixed-questions"
 date: 2023-04-15
 summary: "Bài thi thử Reading Passage 1 (~400 từ) với các dạng câu hỏi hỗn hợp: T/F/NG, Matching Headings, Sentence Completion."
 description: "Practice Test Reading Passage 1 với bài đọc về Urban Farming, kết hợp nhiều dạng câu hỏi, đáp án chi tiết và phân tích."

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Note-taking Practice — Phương Pháp Cornell & Viết Tắt"
-slug: "note-taking-practice-phuong-phap-cornell-viet-tat"
+slug: "day-5-note-taking-practice-phuong-phap-cornell-viet-tat"
 date: 2023-06-23
 summary: "Học phương pháp ghi chú Cornell áp dụng cho IELTS Listening, hệ thống viết tắt và luyện tập ghi chú nhanh."
 description: "Note-taking cho IELTS Listening — phương pháp Cornell, hệ thống viết tắt, luyện ghi chú nhanh khi nghe bài giảng Section 3 & 4."

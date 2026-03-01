@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Social Issues + Reported Speech (Questions)"
-slug: "social-issues-reported-speech-questions"
+slug: "day-5-social-issues-reported-speech-questions"
 date: 2023-03-17
 summary: "Học 20 từ vựng về vấn đề xã hội, ngữ pháp Reported Speech cho câu hỏi (asked if/whether), đọc đoạn văn 90 từ."
 description: "IELTS Tuần 11 Ngày 5 — 20 từ vựng Social Issues, Reported Speech questions, đoạn đọc 90 từ."

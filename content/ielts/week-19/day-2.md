@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Opinion Essays (Agree/Disagree)"
-slug: "opinion-essays-agree-disagree"
+slug: "day-2-opinion-essays-agree-disagree"
 date: 2023-05-09
 summary: "Cấu trúc, bài mẫu và luyện tập viết Opinion Essay — dạng phổ biến nhất trong IELTS Writing Task 2."
 description: "Hướng dẫn viết Opinion Essay (Agree/Disagree) — cấu trúc 4 đoạn, bài mẫu Band 6+, cụm từ hữu ích và bài tập thực hành."

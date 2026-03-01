@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Life Events + Past Continuous (was/were + V-ing)"
-slug: "life-events-past-continuous-was-were-v-ing"
+slug: "day-4-life-events-past-continuous-was-were-v-ing"
 date: 2023-01-19
 summary: "Học 20 từ vựng sự kiện cuộc đời, Past Continuous (was/were + V-ing), đọc đoạn văn 75 từ."
 description: "Bài IELTS Tuần 3 Ngày 4 — 20 từ vựng life events, ngữ pháp Past Continuous, đoạn đọc 75 từ."

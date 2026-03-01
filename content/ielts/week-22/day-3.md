@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Describing a Place — Useful Phrases, Model Answer & Practice"
-slug: "describing-a-place-useful-phrases-model-answer-practice"
+slug: "day-3-describing-a-place-useful-phrases-model-answer-practice"
 date: 2023-05-31
 summary: "Chiến lược mô tả địa điểm trong IELTS Speaking Part 2 — từ vựng, model answer và bài tập thực hành."
 description: "Hướng dẫn mô tả place trong IELTS Speaking Part 2 với useful phrases, model answer band 6.0+ và practice tasks."

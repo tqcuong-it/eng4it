@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: True/False/Not Given — Strategy & Practice"
-slug: "true-false-not-given-strategy-practice"
+slug: "day-3-true-false-not-given-strategy-practice"
 date: 2023-04-12
 summary: "Chiến lược làm dạng True/False/Not Given — cách phân biệt 3 đáp án, bẫy thường gặp và 2 bài tập thực hành."
 description: "Hướng dẫn chi tiết dạng câu hỏi True/False/Not Given trong IELTS Reading, kèm chiến lược, ví dụ phân tích và 2 bài tập thực hành."

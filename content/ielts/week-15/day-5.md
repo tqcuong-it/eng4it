@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Matching Headings — Elimination Strategy"
-slug: "matching-headings-elimination-strategy"
+slug: "day-5-matching-headings-elimination-strategy"
 date: 2023-04-14
 summary: "Chiến lược loại trừ để làm dạng Matching Headings — cách tìm ý chính từng đoạn và chọn heading phù hợp."
 description: "Hướng dẫn chi tiết dạng Matching Headings trong IELTS Reading — chiến lược loại trừ, cách tìm main idea, kèm bài tập thực hành."

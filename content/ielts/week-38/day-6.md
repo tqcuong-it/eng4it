@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Final Weakness Check"
-slug: "final-weakness-check"
+slug: "day-6-final-weakness-check"
 date: 2023-09-23
 summary: "Kiểm tra điểm yếu lần cuối — bài test nhanh cho từng kỹ năng, xác nhận sẵn sàng cho kỳ thi."
 description: "Quick diagnostic cho 4 kỹ năng, so sánh với kết quả ban đầu, xác nhận mức độ sẵn sàng thi IELTS."

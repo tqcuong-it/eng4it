@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Map/Plan Labeling — Strategy & Practice"
-slug: "map-plan-labeling-strategy-practice"
+slug: "day-3-map-plan-labeling-strategy-practice"
 date: 2023-03-29
 summary: "Chiến lược làm dạng Map/Plan Labeling — nghe và gắn nhãn vị trí trên bản đồ."
 description: "Kỹ thuật làm bài Map Labeling trong IELTS Listening Section 1 — từ vựng chỉ hướng, bài tập thực hành."

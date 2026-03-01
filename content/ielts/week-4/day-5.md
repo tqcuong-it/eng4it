@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Career Goals + Will vs Going to"
-slug: "career-goals-will-vs-going-to"
+slug: "day-5-career-goals-will-vs-going-to"
 date: 2023-01-27
 summary: "Học 20 từ vựng về mục tiêu nghề nghiệp, phân biệt will vs going to, đọc đoạn văn về sự nghiệp."
 description: "Bài IELTS Tuần 4 Ngày 5 — 20 từ vựng Career Goals, phân biệt will vs going to, đoạn đọc 80 từ."

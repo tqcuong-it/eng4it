@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Predictions + Future (going to)"
-slug: "predictions-future-going-to"
+slug: "day-2-predictions-future-going-to"
 date: 2023-01-24
 summary: "Học 20 từ vựng về dự đoán, ngữ pháp Future với going to, đọc đoạn văn về dự đoán tương lai."
 description: "Bài IELTS Tuần 4 Ngày 2 — 20 từ vựng Predictions, ngữ pháp going to, đoạn đọc 75 từ."

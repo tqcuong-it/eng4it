@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Coherence & Cohesion — Tổ chức đoạn văn"
-slug: "coherence-cohesion-to-chuc-doan-van"
+slug: "day-4-coherence-cohesion-to-chuc-doan-van"
 date: 2023-07-27
 summary: "Cải thiện Coherence & Cohesion — tổ chức đoạn văn logic, dùng linking words tự nhiên, referencing hiệu quả."
 description: "Chiến lược đạt Band 6+ cho Coherence & Cohesion: paragraph organization, cohesive devices, referencing."

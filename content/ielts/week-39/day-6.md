@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Light Review + Relaxation"
-slug: "light-review-relaxation"
+slug: "day-6-light-review-relaxation"
 date: 2023-09-30
 summary: "Ôn nhẹ nhàng 15-20 phút và thư giãn — não bộ cần nghỉ ngơi trước ngày thi."
 description: "Ngày ôn tập nhẹ nhàng: xem lại vocabulary, templates và thư giãn bằng tiếng Anh tự nhiên."

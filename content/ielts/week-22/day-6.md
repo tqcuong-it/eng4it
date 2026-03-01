@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Time Management — Chiến lược 1 phút chuẩn bị + 2 phút nói"
-slug: "time-management-chien-luoc-1-phut-chuan-bi-2-phut-noi"
+slug: "day-6-time-management-chien-luoc-1-phut-chuan-bi-2-phut-noi"
 date: 2023-06-03
 summary: "Kỹ thuật quản lý thời gian cho IELTS Speaking Part 2 — tối ưu 1 phút prep và duy trì 2 phút talk."
 description: "Chiến lược time management cho IELTS Speaking Part 2 — 1 minute preparation technique và 2 minute speaking practice."

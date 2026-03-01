@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Vocabulary & Grammar Final Review — Top 100 lỗi & Key Collocations"
-slug: "vocabulary-grammar-final-review-top-100-loi-key-collocations"
+slug: "day-6-vocabulary-grammar-final-review-top-100-loi-key-collocations"
 date: 2023-09-09
 summary: "Ôn tập tổng hợp từ vựng và ngữ pháp — top 100 lỗi phổ biến, collocations quan trọng và bài tập thực hành."
 description: "Final review từ vựng và ngữ pháp cho IELTS Band 6.0: top errors, essential collocations, và bài tập consolidation."

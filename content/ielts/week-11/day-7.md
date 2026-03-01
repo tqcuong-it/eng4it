@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Mini Test — Tuần 11"
-slug: "review-mini-test-tuan-11"
+slug: "day-7-review-mini-test-tuan-11"
 date: 2023-03-19
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp tuần 11, làm Mini Test tổng hợp."
 description: "IELTS Tuần 11 Ngày 7 — Ôn tập Comparatives, Relative Clauses, Passive Voice, Reported Speech + Mini Test."

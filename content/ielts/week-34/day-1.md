@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Mock Test 1 — Listening + Reading"
-slug: "mock-test-1-listening-reading"
+slug: "day-1-mock-test-1-listening-reading"
 date: 2023-08-21
 summary: "Bài thi mô phỏng — Listening (30 phút) và Reading (60 phút) liên tiếp, bấm giờ nghiêm túc."
 description: "Mock test IELTS Listening và Reading hoàn chỉnh, luyện tập làm 2 kỹ năng liên tiếp như thi thật."

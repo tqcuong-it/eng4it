@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Vocabulary Range — Formal Alternatives & Collocations"
-slug: "vocabulary-range-formal-alternatives-collocations"
+slug: "day-2-vocabulary-range-formal-alternatives-collocations"
 date: 2023-07-25
 summary: "Mở rộng vốn từ vựng formal cho IELTS Writing — từ thay thế, collocations, topic vocabulary."
 description: "Nâng cấp từ vựng Writing từ Band 5 lên Band 6+ với từ formal, collocations mạnh và từ vựng theo chủ đề."

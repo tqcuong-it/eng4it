@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Part 2 Deep Practice — 5 Cue Cards với 2-Minute Response"
-slug: "part-2-deep-practice-5-cue-cards-voi-2-minute-response"
+slug: "day-2-part-2-deep-practice-5-cue-cards-voi-2-minute-response"
 date: 2023-08-01
 summary: "Luyện chuyên sâu Part 2 với 5 cue cards phổ biến — hướng dẫn brainstorm 1 phút, nói đúng 2 phút, model answers chi tiết."
 description: "IELTS Speaking Part 2 deep practice: 5 cue cards, timed 2-minute responses, brainstorming strategies, model answers với phân tích."

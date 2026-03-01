@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Communication + Relative Clauses (who)"
-slug: "communication-relative-clauses-who"
+slug: "day-1-communication-relative-clauses-who"
 date: 2023-02-13
 summary: "Học 20 từ vựng giao tiếp, làm quen mệnh đề quan hệ với 'who', đọc đoạn văn 70 từ về giao tiếp."
 description: "IELTS Tuần 7 Ngày 1 — 20 từ vựng Communication, ngữ pháp Relative Clauses (who), đoạn đọc 70 từ."

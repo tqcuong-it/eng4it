@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Yes/No/Not Given — Difference from T/F/NG"
-slug: "yes-no-not-given-difference-from-t-f-ng"
+slug: "day-4-yes-no-not-given-difference-from-t-f-ng"
 date: 2023-04-13
 summary: "Phân biệt Yes/No/Not Given với True/False/Not Given — chiến lược nhận diện quan điểm tác giả và bài tập thực hành."
 description: "Hướng dẫn dạng Yes/No/Not Given trong IELTS Reading — sự khác biệt với T/F/NG, cách xác định opinion vs fact, kèm bài tập thực hành."

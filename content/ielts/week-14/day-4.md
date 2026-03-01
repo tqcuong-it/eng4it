@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Sentence Completion (Listening)"
-slug: "sentence-completion-listening"
+slug: "day-4-sentence-completion-listening"
 date: 2023-04-06
 summary: "Chiến lược làm dạng Sentence Completion — hoàn thành câu khi nghe."
 description: "Kỹ thuật làm câu hỏi Sentence Completion trong IELTS Listening Section 2 với bài tập thực hành."
