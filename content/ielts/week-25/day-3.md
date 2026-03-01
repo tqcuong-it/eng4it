@@ -80,57 +80,72 @@ Bài giảng thường có cấu trúc rõ ràng:
 
 ---
 
-## 🎧 Bài tập 1: Note Completion
+## 🎧 Luyện tập — Cambridge IELTS 16, Test 1 — Section 4
 
-👉 [IELTS Liz — Section 4 Practice](https://ieltsliz.com/ielts-listening-section-4/)
+Bấm play, tua đến Section 4 (Stoicism) và làm bài bên dưới:
 
-**Hướng dẫn:** Nghe bài giảng và điền vào ghi chú. Mỗi chỗ trống chỉ điền **KHÔNG QUÁ 2 TỪ**.
+{{< youtube uTl1GrC_MK0 >}}
 
-```
-LECTURE: The History of Coffee
-
-Origins:
-- Coffee first discovered in (1) ____________
-- A goat herder noticed his goats became more (2) ____________
-- Coffee beans were first (3) ____________, not brewed
-
-Spread to Europe:
-- Arrived in Europe in the (4) ____________ century
-- First coffee house opened in (5) ____________
-- Was initially called "(6) ____________ wine"
-```
+> ⏱️ Section 4 bắt đầu khoảng phút 20. Nghe **1 lần duy nhất**, ghi chú nhanh!
 
 ---
 
-## 🎧 Bài tập 2: Summary Completion
+### Section 4: Stoicism (Câu 31-40)
 
-👉 [British Council — C1 Listening](https://learnenglish.britishcouncil.org/skills/listening/c1-listening)
+*Complete the notes below. Write ONE WORD ONLY for each answer.*
 
-Nghe và hoàn thành đoạn tóm tắt:
+**Stoicism**
 
-```
-The lecturer discusses the impact of _______ on urban development.
-She argues that the main challenge is _______.
-According to recent studies, cities that invest in _______
-have seen a _______ percent reduction in pollution.
-The lecture concludes that _______ is essential for future planning.
-```
+Stoicism is still relevant today because of its 31 __________ appeal.
+
+**Ancient Stoics**
+
+- Stoicism was founded over 2,000 years ago in Greece.
+- The Stoics' ideas are surprisingly well known, despite not being intended for 32 __________
+
+**Stoic principles**
+
+- Happiness could be achieved by leading a virtuous life.
+- Controlling emotions was essential.
+- Epictetus said that external events cannot be controlled but the 33 __________ people make in response can be controlled.
+- A Stoic is someone who has a different view on experiences which others would consider as 34 __________
+
+**The influence of Stoicism**
+
+- George Washington organised a 35 __________ about Cato to motivate his men.
+- The French artist Delacroix was a Stoic.
+- Adam Smith's ideas on 36 __________ were influenced by Stoicism.
+- Some of today's political leaders are inspired by the Stoics.
+- **Cognitive Behaviour Therapy (CBT):**
+  - the treatment for 37 __________ is based on ideas from Stoicism
+  - people learn to base their thinking on 38 __________
+- In business, people benefit from Stoicism by identifying obstacles as 39 __________
+
+**Relevance of Stoicism**
+
+- It requires a lot of 40 __________ but Stoicism can help people to lead a good life.
+- It teaches people that having a strong character is more important than anything else.
 
 ---
 
-## 🎧 Bài tập 3: Section 4 Timed Practice
+## ✅ Đáp án
 
-🔊 **Video luyện tập:**
+{{< spoiler "Bấm để xem đáp án" >}}
 
-{{< youtube U8yeL7ER76c >}}
+| Câu | Đáp án |
+|-----|--------|
+| 31 | practical |
+| 32 | publication |
+| 33 | choices |
+| 34 | negative |
+| 35 | play |
+| 36 | capitalism |
+| 37 | depression |
+| 38 | logic |
+| 39 | opportunity |
+| 40 | practice |
 
-*IELTS Listening Section 4 Practice*
-
-**Cách luyện:**
-1. Đọc câu hỏi trong 45 giây
-2. Nghe **KHÔNG DỪNG** — mô phỏng thi thật
-3. Kiểm tra đáp án
-4. Nghe lại với transcript, ghi chú từ vựng mới
+{{< /spoiler >}}
 
 ---
 

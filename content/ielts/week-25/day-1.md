@@ -55,75 +55,120 @@ draft: false
 
 ---
 
-## 🎧 Bài tập 1: Timed Practice — Section 1
+## 🎧 Luyện tập — Cambridge IELTS 16, Test 1
 
-**Thời gian: 10 phút** (bấm đồng hồ!)
+Bấm play và làm bài Section 1 + 2 bên dưới:
 
-🔊 **Luyện Section 1 — Form Completion:**
+{{< youtube uTl1GrC_MK0 >}}
 
-{{< youtube UwR4X78Ob6g >}}
-
-**Cách làm:**
-1. Mở bài nghe, đọc câu hỏi trong 30 giây
-2. Nghe **1 lần duy nhất** (không tua lại!)
-3. Điền đáp án
-4. Kiểm tra đáp án
-
-
-> ⚠️ **Lưu ý:** Video trên là bài luyện nghe Section 1 thực tế. Bài tập bên dưới là dạng mẫu để bạn tự luyện thêm — **làm bài tập trong video trước**, sau đó thử bài tập mẫu bên dưới.
-
-### Bài tập mẫu — Form Filling
-
-Nghe và điền thông tin:
-
-| Thông tin | Đáp án |
-|-----------|--------|
-| Full name | _____________ |
-| Phone number | _____________ |
-| Address | _____________ |
-| Date of arrival | _____________ |
-| Number of nights | _____________ |
-| Room type | _____________ |
+> ⏱️ Bấm giờ: 5 phút cho Section 1, 5 phút cho Section 2. Nghe **1 lần duy nhất!**
 
 ---
 
-## 🎧 Bài tập 2: Timed Practice — Section 2
+### Section 1: Children's Engineering Workshops (Câu 1-10)
 
-**Thời gian: 10 phút**
+*Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.*
 
-🔊 **Luyện Section 2 — Monologue:**
+**Tiny Engineers (ages 4-5) — Activities:**
 
-{{< youtube NXtR9h5HM2w >}}
+- Create a cover for an 1 __________ so they can drop it from a height without breaking it
+- Take part in a competition to build the tallest 2 __________
+- Make a 3 __________ powered by a balloon
 
-**Cách làm:**
-1. Đọc câu hỏi trong 30 giây
-2. Nghe 1 lần, ghi đáp án
-3. So sánh với đáp án
+**Junior Engineers (ages 6-8) — Activities:**
+
+- Build model cars, trucks and 4 __________ and learn how to program them so they can move
+- Take part in a competition to build the longest 5 __________ using card and wood
+- Create a short 6 __________ with special software
+- Build, 7 __________ and program a humanoid robot
+
+**Details:**
+
+- Cost for a five-week block: £50
+- Held on 8 __________ from 10 am to 11 am
+- Location: Building 10A, 9 __________ Industrial Estate, Grasford
+- Plenty of 10 __________ is available
 
 ---
 
-## 🎧 Bài tập 3: Map Labeling Review
+### Section 2: Stevenson's Site (Câu 11-20)
 
-🔊 **Video luyện tập:**
+**Câu 11-14: Choose the correct letter, A, B or C.**
 
-{{< youtube W1kuA2GuXks >}}
+11\. Stevenson's was founded in
 
-*IELTS Listening Map Labelling Practice*
+- A) 1923
+- B) 1924
+- C) 1926
 
-**Chiến lược nhớ nhanh cho Map:**
+12\. Originally, Stevenson's manufactured goods for
 
-```
-🗺️ BẢN ĐỒ CHEAT SHEET
-━━━━━━━━━━━━━━━━━━━━
-opposite = đối diện
-next to = bên cạnh
-between A and B = giữa A và B
-on the left/right = bên trái/phải
-at the corner = ở góc
-straight ahead = đi thẳng
-turn left/right = rẽ trái/phải
-past = đi qua
-```
+- A) the healthcare industry
+- B) the automotive industry
+- C) the machine tools industry
+
+13\. What does the speaker say about the company premises?
+
+- A) The company has recently moved.
+- B) The company has no plans to move.
+- C) The company is going to move shortly.
+
+14\. The programme for the work experience group includes
+
+- A) time to do research.
+- B) meetings with a teacher.
+- C) talks by staff.
+
+**Câu 15-20: Label the map — Plan of Stevenson's site**
+
+*Write the correct letter, A-J.*
+
+| # | Location | Answer |
+|---|---|---|
+| 15 | coffee room | __________ |
+| 16 | warehouse | __________ |
+| 17 | staff canteen | __________ |
+| 18 | meeting room | __________ |
+| 19 | human resources | __________ |
+| 20 | boardroom | __________ |
+
+---
+
+## ✅ Đáp án
+
+{{< spoiler "Bấm để xem đáp án" >}}
+
+### Section 1: Children's Engineering Workshops
+
+| Câu | Đáp án |
+|-----|--------|
+| 1 | egg |
+| 2 | tower |
+| 3 | car |
+| 4 | animals |
+| 5 | bridge |
+| 6 | movie / film |
+| 7 | decorate |
+| 8 | Wednesdays |
+| 9 | Fradstone |
+| 10 | parking |
+
+### Section 2: Stevenson's Site
+
+| Câu | Đáp án |
+|-----|--------|
+| 11 | C |
+| 12 | A |
+| 13 | B |
+| 14 | C |
+| 15 | H |
+| 16 | C |
+| 17 | G |
+| 18 | B |
+| 19 | I |
+| 20 | A |
+
+{{< /spoiler >}}
 
 ---
 

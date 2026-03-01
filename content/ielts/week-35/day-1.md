@@ -41,15 +41,18 @@ Làm **10 câu hỏi** — mỗi dạng 2 câu:
 
 **Dạng 1: Form/Note Completion (2 câu)**
 
-🔊 **Nghe audio rồi điền đáp án:**
+🔊 **Nghe Cambridge IELTS 16, Test 1 — Section 1:**
 
 {{< youtube uTl1GrC_MK0 >}}
 
-*Dùng Section 1 của video trên để làm bài diagnostic bên dưới:*
+*Nghe Section 1 (Children's Engineering Workshops) và điền đáp án:*
+1. Create a cover for an __________ so they can drop it from a height.
+2. Competition to build the tallest __________.
+3. Make a __________ powered by a balloon.
+4. Build model cars, trucks and __________.
+5. Competition to build the longest __________ using card and wood.
 
-Nghe đoạn hội thoại và điền:
-1. The appointment is on __________ at 2:30 PM.
-2. The patient's reference number is __________.
+**Đáp án Section 1:** 1) egg, 2) tower, 3) car, 4) animals, 5) bridge
 
 
 > ⚠️ **Hướng dẫn:** Làm bài nghe trong video (Cambridge 16, Section 1) để đánh giá trình độ. Sau đó thử bài diagnostic bên dưới.

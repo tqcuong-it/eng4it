@@ -26,17 +26,23 @@ Làm 10 câu — tập trung vào dạng bạn HAY SAI NHẤT.
 
 ### Dạng 1: Note Completion (5 câu)
 
-🔊 **Luyện Note Completion:**
+🔊 **Luyện Note Completion — Cambridge IELTS 16, Test 1:**
 
-{{< youtube BZkSPdM4b-0 >}}
+{{< youtube uTl1GrC_MK0 >}}
 
-*Làm bài note completion từ video trên, sau đó thử thêm 5 câu bên dưới (tự đọc hoặc nhờ người khác đọc):*
+*Nghe Section 4 (Stoicism) và điền note completion bên dưới:*
 
-1. The meeting is scheduled for __________ at 3 PM.
-2. Participants should bring their __________ and laptop.
-3. The budget has been increased to __________.
-4. The project deadline is __________.
-5. Contact person: __________ (extension 245).
+Stoicism is still relevant today because of its 1 __________ appeal.
+
+The Stoics' ideas are surprisingly well known, despite not being intended for 2 __________
+
+Epictetus said that the 3 __________ people make in response can be controlled.
+
+George Washington organised a 4 __________ about Cato to motivate his men.
+
+The treatment for 5 __________ is based on ideas from Stoicism.
+
+**Đáp án:** 1) practical, 2) publication, 3) choices, 4) play, 5) depression
 
 
 > ⚠️ **Hướng dẫn:** Làm bài Note Completion trong video trước. Sau đó thử bài tập bên dưới (tự đọc hoặc nhờ đọc hộ).
