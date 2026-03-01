@@ -2,7 +2,7 @@
 title: "Backend Development — 14 Thuật Ngữ Lập Trình Server Developer Phải Biết"
 date: 2023-02-10
 slug: "tu-vung-backend-development-thuat-ngu-lap-trinh-server"
-description: "Học 14 thuật ngữ tiếng Anh quan trọng về Backend Development — từ API, middleware, ORM đến authentication, rate limiting và dependency injection. Dễ hiểu cho developer Việt Nam."
+description: "Học 14 thuật ngữ tiếng Anh về Backend Development — từ API, middleware, ORM đến authentication và dependency injection. Dễ hiểu cho dev Việt."
 categories: ["IT English"]
 tags: ["backend", "api"]
 ShowToc: true
