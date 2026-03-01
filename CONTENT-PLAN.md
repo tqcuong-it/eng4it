@@ -9,8 +9,8 @@
 ## Queue — Bài viết chờ đăng
 
 ### 🏢 Workplace English
-- [ ] 1. Cách viết Daily Standup Report bằng tiếng Anh
-- [ ] 2. 30 câu hỏi & trả lời trong Code Review
+- [x] 1. Cách viết Daily Standup Report bằng tiếng Anh
+- [x] 2. 30 câu hỏi & trả lời trong Code Review
 - [ ] 3. Email xin nghỉ phép (Leave Request) — mẫu & từ vựng
 - [ ] 4. Cách viết Pull Request Description chuyên nghiệp
 - [ ] 5. 20 câu nói trong Sprint Planning Meeting
