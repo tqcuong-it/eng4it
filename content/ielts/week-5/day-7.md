@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Mini Test — Tuần 5"
-date: 2026-04-08
+date: 2025-06-29
 summary: "Ôn tập toàn bộ tuần 5: từ vựng sức khỏe & cơ thể, ngữ pháp imperative, should, can, have to, must, tính từ -ed/-ing + bài kiểm tra."
 description: "Bài 7 Tuần 5 IELTS — Ôn tập + Mini Test tổng hợp tuần 5."
 tags: ["ielts", "vocabulary", "grammar", "week-5", "review", "test"]

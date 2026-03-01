@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Healthy Habits + Have to / Don't have to"
-date: 2026-04-05
+date: 2025-06-26
 summary: "Học 20 từ vựng về thói quen lành mạnh, ngữ pháp have to/don't have to, đọc đoạn văn 75 từ."
 description: "Bài 4 Tuần 5 IELTS — 20 từ vựng thói quen sức khỏe, ngữ pháp have to/don't have to, đoạn đọc 75 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-5", "habits", "have-to"]

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Plans & Goals + Future Simple (will)"
-date: 2026-03-26
+date: 2025-06-16
 summary: "Học 20 từ vựng về kế hoạch & mục tiêu, ngữ pháp Future Simple với will, đọc đoạn văn về kế hoạch tương lai."
 description: "Bài IELTS Tuần 4 Ngày 1 — 20 từ vựng Plans & Goals, ngữ pháp Future Simple (will), đoạn đọc 70 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-4"]

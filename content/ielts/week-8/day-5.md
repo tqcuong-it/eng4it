@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Natural Disasters + Modals of Possibility"
-date: 2026-04-27
+date: 2025-07-18
 summary: "Học 20 từ vựng về thiên tai, ngữ pháp Modals of Possibility (might/may), đọc đoạn văn 85 từ."
 description: "Bài IELTS tuần 8 ngày 5 — từ vựng thiên tai, might/may, đoạn đọc 85 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-8", "disasters"]

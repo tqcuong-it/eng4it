@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Technology & Future + First Conditional"
-date: 2026-03-31
+date: 2025-06-21
 summary: "Học 20 từ vựng công nghệ tương lai, ngữ pháp First Conditional (If + present, will + V), đọc đoạn văn về công nghệ."
 description: "Bài IELTS Tuần 4 Ngày 6 — 20 từ vựng Technology & Future, ngữ pháp First Conditional, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-4"]

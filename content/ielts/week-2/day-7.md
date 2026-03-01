@@ -1,6 +1,6 @@
 ---
 title: "Ngày 14: Review & Mini Test — Ôn tập Tuần 2"
-date: 2026-03-18
+date: 2025-06-08
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp Tuần 2: Places, Directions, Home, School, Shopping, Countries + Mini Test tổng hợp."
 description: "Bài 14 IELTS — Ôn tập và kiểm tra toàn bộ nội dung Tuần 2: There is/are, Prepositions, Articles, How much/many, Comparatives."
 tags: ["ielts", "vocabulary", "grammar", "week-2", "review"]

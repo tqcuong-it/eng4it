@@ -1,7 +1,7 @@
 ---
 title: "Ngày 2: Travel Vocabulary + Past Simple (Irregular verbs)"
 
-date: 2026-03-20
+date: 2025-06-10
 summary: "Học 20 từ vựng du lịch, Past Simple với động từ bất quy tắc (went, saw, ate...), đọc đoạn văn 75 từ."
 description: "Bài IELTS Tuần 3 Ngày 2 — 20 từ vựng du lịch, ngữ pháp Past Simple (irregular verbs), đoạn đọc 75 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-3"]

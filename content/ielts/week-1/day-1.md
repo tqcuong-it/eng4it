@@ -1,7 +1,7 @@
 ---
 title: "Ngày 1: Greetings & Basics + Present Simple"
 
-date: 2026-03-05
+date: 2025-05-26
 summary: "Học 20 từ vựng chào hỏi & hành động cơ bản, làm quen thì Hiện tại đơn (Present Simple), đọc đoạn văn tự giới thiệu 50 từ."
 description: "Bài 1 IELTS cho người mới — 20 từ vựng chào hỏi, ngữ pháp Present Simple, đoạn đọc 55 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-1"]

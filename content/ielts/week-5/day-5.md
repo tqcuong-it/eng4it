@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Emotions & Feelings + Adjectives (-ed / -ing)"
-date: 2026-04-06
+date: 2025-06-27
 summary: "Học 20 từ vựng về cảm xúc, phân biệt tính từ -ed/-ing (bored/boring), đọc đoạn văn 80 từ."
 description: "Bài 5 Tuần 5 IELTS — 20 từ vựng cảm xúc, ngữ pháp tính từ -ed/-ing, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-5", "emotions", "adjectives"]

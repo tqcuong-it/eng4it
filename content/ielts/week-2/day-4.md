@@ -1,6 +1,6 @@
 ---
 title: "Ngày 11: School & Work + Articles (a/an/the)"
-date: 2026-03-15
+date: 2025-06-05
 summary: "Học 20 từ vựng về trường học & công việc, làm quen mạo từ a/an/the, đọc đoạn văn về một ngày đi làm 80 từ."
 description: "Bài 11 IELTS cho người mới — 20 từ vựng trường học & công việc, mạo từ a/an/the, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-2"]

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Office Vocabulary + Present Perfect (already/yet)"
-date: 2026-04-11
+date: 2025-07-02
 summary: "Học 20 từ vựng văn phòng, Present Perfect với already/yet, đọc đoạn văn 75 từ về một ngày ở văn phòng."
 description: "Bài IELTS Tuần 6 Ngày 3 — 20 từ vựng văn phòng, Present Perfect already/yet, đoạn đọc 75 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-6", "office"]

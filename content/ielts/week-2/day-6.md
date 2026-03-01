@@ -1,6 +1,6 @@
 ---
 title: "Ngày 13: Countries & Nationalities + Comparatives"
-date: 2026-03-17
+date: 2025-06-07
 summary: "Học 20 từ vựng về quốc gia & quốc tịch, làm quen so sánh hơn (-er/more), đọc đoạn văn so sánh hai thành phố 80 từ."
 description: "Bài 13 IELTS cho người mới — 20 từ vựng quốc gia & quốc tịch, so sánh hơn Comparatives, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-2"]

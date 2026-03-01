@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: News & Media + Passive Voice (Giới thiệu)"
-date: 2026-04-20
+date: 2025-07-11
 summary: "Học 20 từ vựng tin tức & truyền thông, làm quen câu bị động (is/are + V3), đọc đoạn văn 75 từ."
 description: "IELTS Tuần 7 Ngày 5 — 20 từ vựng News & Media, ngữ pháp Passive Voice intro, đoạn đọc 75 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-7", "passive-voice"]

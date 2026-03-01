@@ -1,7 +1,7 @@
 ---
 title: "Ngày 1: Past Activities + Past Simple (Regular verbs)"
 
-date: 2026-03-19
+date: 2025-06-09
 summary: "Học 20 từ vựng hoạt động trong quá khứ, làm quen thì Quá khứ đơn với động từ có quy tắc (-ed), đọc đoạn văn 70 từ."
 description: "Bài IELTS Tuần 3 Ngày 1 — 20 từ vựng hoạt động quá khứ, ngữ pháp Past Simple (regular verbs), đoạn đọc 70 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-3"]

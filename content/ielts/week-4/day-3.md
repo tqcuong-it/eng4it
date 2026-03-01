@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Schedules + Present Simple for Future"
-date: 2026-03-28
+date: 2025-06-18
 summary: "Học 20 từ vựng về lịch trình, ngữ pháp Present Simple cho tương lai, đọc đoạn văn về lịch trình."
 description: "Bài IELTS Tuần 4 Ngày 3 — 20 từ vựng Schedules, ngữ pháp Present Simple for Future, đoạn đọc 70 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-4"]

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Environment Problems + Zero Conditional"
-date: 2026-04-24
+date: 2025-07-15
 summary: "Học 20 từ vựng về vấn đề môi trường, ngữ pháp Zero Conditional (If + present, present), đọc đoạn văn 85 từ."
 description: "Bài IELTS tuần 8 ngày 2 — từ vựng môi trường, Zero Conditional, đoạn đọc 85 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-8", "environment"]

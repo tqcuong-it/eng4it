@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Phone Conversations + Reported Speech (Giới thiệu)"
-date: 2026-04-18
+date: 2025-07-09
 summary: "Học 20 từ vựng gọi điện, làm quen câu tường thuật (She said that...), đọc đoạn văn 70 từ."
 description: "IELTS Tuần 7 Ngày 3 — 20 từ vựng Phone Conversations, ngữ pháp Reported Speech intro, đoạn đọc 70 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-7", "reported-speech"]

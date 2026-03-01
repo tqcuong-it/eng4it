@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Ôn Tập & Mini Test — Tuần 7"
-date: 2026-04-22
+date: 2025-07-13
 summary: "Ôn tập 120 từ vựng tuần 7, tổng ôn Relative Clauses, Reported Speech, Passive Voice + Mini Test."
 description: "IELTS Tuần 7 Ngày 7 — Ôn tập tổng hợp và Mini Test kiểm tra kiến thức tuần 7."
 tags: ["ielts", "vocabulary", "grammar", "week-7", "review", "test"]

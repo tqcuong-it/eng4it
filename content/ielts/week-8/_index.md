@@ -1,6 +1,6 @@
 ---
 title: "Tuần 8: Thiên Nhiên & Môi Trường"
-date: 2026-04-23
+date: 2025-07-14
 summary: "Tuần 8 — học từ vựng về động vật, thiên nhiên, môi trường, khí hậu, thiên tai và lối sống xanh. Ngữ pháp: Passive Voice, Conditionals, Modals, Gerunds vs Infinitives."
 tags: ["ielts", "week-8", "nature", "environment"]
 series: ["Tự Học IELTS 6.0"]

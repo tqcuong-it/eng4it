@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Travel Plans + Future Continuous"
-date: 2026-03-29
+date: 2025-06-19
 summary: "Học 20 từ vựng về du lịch, ngữ pháp Future Continuous (will be + V-ing), đọc đoạn văn về kế hoạch du lịch."
 description: "Bài IELTS Tuần 4 Ngày 4 — 20 từ vựng Travel Plans, ngữ pháp Future Continuous, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-4"]

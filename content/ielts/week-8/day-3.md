@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Climate & Weather + First Conditional (Review)"
-date: 2026-04-25
+date: 2025-07-16
 summary: "Học 20 từ vựng về khí hậu & thời tiết, ôn tập First Conditional (If + present, will + V), đọc đoạn văn 80 từ."
 description: "Bài IELTS tuần 8 ngày 3 — từ vựng khí hậu thời tiết, First Conditional, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-8", "climate"]
