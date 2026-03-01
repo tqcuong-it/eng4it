@@ -3,6 +3,22 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
 {{ end }}
 
+<!-- Critical inline CSS for Google crawler rendering -->
+<style>
+body{font-family:'Be Vietnam Pro',system-ui,sans-serif;color:#37352F;max-width:800px;margin:0 auto;padding:0 16px;line-height:1.7}
+h1{font-size:1.8em;margin-bottom:.3em}
+h2{font-size:1.4em;border-bottom:1px solid #eee;padding-bottom:.3em}
+a{color:#1b70b8;text-decoration:none}
+.hero-cta{display:flex;gap:12px;margin:16px 0}
+.cta-btn{padding:10px 20px;border-radius:8px;font-weight:600;display:inline-block}
+.cta-primary{background:#1b70b8;color:#fff}
+.cta-secondary{background:#f0f0f0;color:#37352F}
+.social-icons a svg{width:24px;height:24px}
+.category-section{margin:24px 0}
+.post-entry{margin:12px 0;padding:12px 0;border-bottom:1px solid #f0f0f0}
+nav{padding:12px 0;border-bottom:1px solid #eee}
+</style>
+
 <!-- Structured Data for Google -->
 {{ if .IsHome }}
 <script type="application/ld+json">
