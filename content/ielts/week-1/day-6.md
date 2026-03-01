@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Daily Activities + Past Continuous"
+
 date: 2026-03-10
 summary: "Học 20 từ vựng về hoạt động hàng ngày, làm quen thì Quá khứ tiếp diễn (Past Continuous)."
 description: "Bài 6 — 20 từ vựng hoạt động, can/can't, đoạn đọc về sở thích."
@@ -11,6 +12,9 @@ TocOpen: true
 weight: 6
 draft: false
 ---
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+
+
 
 ## 🌅 Buổi sáng (15-20 phút) — Từ vựng: Daily Activities
 
@@ -48,6 +52,7 @@ Hôm nay học về những việc bạn làm MỖI NGÀY — từ lúc thức d
 3. **Sắp xếp lại** 5 hoạt động này theo đúng thứ tự: *have breakfast, wake up, get dressed, brush teeth, leave home*
 
 ---
+
 
 ## 🌙 Buổi tối (40-60 phút) — Grammar: Past Continuous (Thì Quá khứ tiếp diễn)
 
@@ -118,6 +123,7 @@ S + was/were + V-ing
 
 ---
 
+
 ### ✅ Đáp án Bài tập 1
 
 | Câu | Đáp án | Giải thích |
@@ -143,6 +149,7 @@ S + was/were + V-ing
 | 6 | took | "this morning" = hoàn thành → Past Simple |
 
 ---
+
 
 ## 😴 Trước ngủ (10-15 phút) — Nghe + Đọc
 
@@ -179,6 +186,7 @@ S + was/were + V-ing
 | 5 | One hour. | "studied English for one hour" |
 
 ---
+
 
 ## 🎯 Tổng kết Day 6
 

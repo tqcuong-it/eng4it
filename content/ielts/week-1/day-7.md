@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Ôn tập + Weekly Test"
+
 date: 2026-03-11
 summary: "Ôn tập 120 từ vựng, tổng ôn 4 thì (Present Simple, Present Continuous, Past Simple, Past Continuous), Weekly Test."
 description: "Bài 7 — Ôn tập tuần 1, bài kiểm tra 100 từ vựng và 3 thì ngữ pháp."
@@ -11,6 +12,9 @@ TocOpen: true
 weight: 7
 draft: false
 ---
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+
+
 
 ## 🌅 Buổi sáng (20 phút) — Ôn tập 120 từ vựng
 
@@ -49,6 +53,7 @@ Tuần này bạn đã học **120 từ** qua 6 chủ đề. Hãy ôn lại nhan
 
 ---
 
+
 ## 🌙 Buổi tối (60 phút) — Weekly Test
 
 ### 📖 Ôn nhanh 4 thì trước khi test
@@ -61,6 +66,7 @@ Tuần này bạn đã học **120 từ** qua 6 chủ đề. Hãy ôn lại nhan
 | **Past Continuous** | Đang xảy ra trong quá khứ | S + was/were + V-ing | I **was eating** at 7 PM. |
 
 ---
+
 
 ### 📝 PART A: Từ vựng (10 câu — Dịch Việt → Anh)
 
@@ -78,6 +84,7 @@ Dịch các từ/cụm từ sau sang tiếng Anh:
 10. tập thể dục → ______
 
 ---
+
 
 ### 📝 PART B: Grammar (15 câu)
 
@@ -110,6 +117,7 @@ Chia động từ đúng:
 
 ---
 
+
 ### 📝 PART C: Viết đoạn văn (80-100 từ)
 
 **Đề bài:** Viết về **"My Daily Routine"** (Thói quen hàng ngày của tôi)
@@ -128,6 +136,7 @@ Chia động từ đúng:
 5. Đi ngủ: I go to bed at...
 
 ---
+
 
 ## ✅ ĐÁP ÁN CHI TIẾT
 
@@ -180,6 +189,7 @@ Chia động từ đúng:
 
 ---
 
+
 ### 📊 Tự chấm điểm
 
 | Phần | Số câu đúng | Điểm |
@@ -206,6 +216,7 @@ Chia động từ đúng:
 | Dưới 50 | Đừng nản! Học lại Week 1 rồi làm test lần 2 |
 
 ---
+
 
 ## 🎯 Tổng kết Tuần 1
 

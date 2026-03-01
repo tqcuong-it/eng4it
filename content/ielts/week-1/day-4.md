@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Food & Drink + Ôn tập giữa tuần"
+
 date: 2026-03-08
 summary: "Học 20 từ vựng về đồ ăn & thức uống, ôn tập Present Simple vs Present Continuous, mini test giữa tuần."
 description: "Bài 4 — 20 từ vựng đồ ăn, mạo từ a/an/the, ôn tập giữa tuần."
@@ -11,6 +12,9 @@ TocOpen: true
 weight: 4
 draft: false
 ---
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+
+
 
 ## 🌅 Buổi sáng (15-20 phút) — Từ vựng: Food & Drink
 
@@ -48,6 +52,7 @@ Ai cũng ăn, ai cũng uống — chủ đề này rất thực tế! 🍚☕
 3. Nói: "My favorite food is ______."
 
 ---
+
 
 ## 🌙 Buổi tối (40-60 phút) — Ôn tập giữa tuần
 
@@ -103,6 +108,7 @@ Viết một đoạn văn ngắn **50 từ** giới thiệu bản thân. Dùng c
 
 ---
 
+
 ### ✅ Đáp án Mini Test
 
 | Câu | Đáp án | Giải thích |
@@ -119,6 +125,7 @@ Viết một đoạn văn ngắn **50 từ** giới thiệu bản thân. Dùng c
 | 10 | She is **eating** rice now. | Present Continuous: is + V-**ing** (không phải is + V) |
 
 ---
+
 
 ## 😴 Trước ngủ (10-15 phút) — Nghe + Đọc
 
@@ -160,6 +167,7 @@ Gợi ý bài dễ nghe:
 | 5 | Yes, it is very delicious. | "It is very delicious" |
 
 ---
+
 
 ## 🎯 Tổng kết Day 4
 

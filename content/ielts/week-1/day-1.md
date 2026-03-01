@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Greetings & Basics + Present Simple"
+
 date: 2026-03-05
 summary: "Học 20 từ vựng chào hỏi & hành động cơ bản, làm quen thì Hiện tại đơn (Present Simple), đọc đoạn văn tự giới thiệu 50 từ."
 description: "Bài 1 IELTS cho người mới — 20 từ vựng chào hỏi, ngữ pháp Present Simple, đoạn đọc 55 từ."
@@ -11,6 +12,9 @@ TocOpen: true
 weight: 1
 draft: false
 ---
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+
+
 
 ## 🌅 Buổi sáng (15-20 phút) — Từ vựng: Greetings & Basics
 
@@ -49,6 +53,7 @@ Hôm nay chúng ta bắt đầu với những từ **cơ bản nhất** — chà
 4. **Viết ra giấy** 5 từ bạn thấy khó nhớ nhất
 
 ---
+
 
 ## 🌙 Buổi tối (40-60 phút) — Grammar: Present Simple (Thì Hiện tại đơn)
 
@@ -125,6 +130,7 @@ Mỗi câu có 1 lỗi sai. Tìm và sửa:
 
 ---
 
+
 ### ✅ Đáp án Bài tập 1
 
 | Câu | Đáp án | Giải thích |
@@ -161,6 +167,7 @@ Mỗi câu có 1 lỗi sai. Tìm và sửa:
 | 5 | works | He doesn't **work** on Sunday. | Sau doesn't → động từ nguyên mẫu |
 
 ---
+
 
 ## 😴 Trước ngủ (10-15 phút) — Nghe + Đọc
 
@@ -203,6 +210,7 @@ Nghe bài này và cố hiểu ý chính (không cần hiểu hết!):
 | 5 | Yes / Yes, she understands English a little. | Câu "She understands English a little" |
 
 ---
+
 
 ## 🎯 Tổng kết Day 1
 

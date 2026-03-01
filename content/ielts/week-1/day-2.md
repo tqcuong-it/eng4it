@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Numbers & Time + Trạng từ tần suất"
+
 date: 2026-03-06
 summary: "Học 20 từ vựng về số đếm & thời gian, nắm vững trạng từ tần suất (always, usually, sometimes, rarely, never)."
 description: "Bài 2 — 20 từ vựng số đếm và thời gian, trạng từ tần suất always/usually/sometimes."
@@ -11,6 +12,9 @@ TocOpen: true
 weight: 2
 draft: false
 ---
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+
+
 
 ## 🌅 Buổi sáng (15-20 phút) — Từ vựng: Numbers & Time
 
@@ -52,6 +56,7 @@ Số đếm và thời gian — bạn sẽ dùng **mỗi ngày** trong tiếng A
 4. Nói: "Today is ______. Tomorrow is ______."
 
 ---
+
 
 ## 🌙 Buổi tối (40-60 phút) — Grammar: Trạng từ tần suất
 
@@ -112,6 +117,7 @@ Thêm trạng từ trong ngoặc vào đúng chỗ:
 
 ---
 
+
 ### ✅ Đáp án Bài tập 1
 
 | Câu | Đáp án | Giải thích |
@@ -138,6 +144,7 @@ Thêm trạng từ trong ngoặc vào đúng chỗ:
 | 5 | We rarely watch TV. | rarely + watch (We → nguyên mẫu) |
 
 ---
+
 
 ## 😴 Trước ngủ (10-15 phút) — Nghe + Đọc
 
@@ -176,6 +183,7 @@ Thêm trạng từ trong ngoặc vào đúng chỗ:
 | 5 | Ten / Ten new words. | "learn ten new words" |
 
 ---
+
 
 ## 🎯 Tổng kết Day 2
 

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Places & Directions + Past Simple"
+
 date: 2026-03-09
 summary: "Học 20 từ vựng về địa điểm & phương hướng, làm quen thì Quá khứ đơn (Past Simple) và 15 động từ bất quy tắc quan trọng."
 description: "Bài 5 — 20 từ vựng nơi chốn, giới từ in/on/at, đoạn đọc về thành phố."
@@ -11,6 +12,9 @@ TocOpen: true
 weight: 5
 draft: false
 ---
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+
+
 
 ## 🌅 Buổi sáng (15-20 phút) — Từ vựng: Places & Directions
 
@@ -48,6 +52,7 @@ draft: false
 3. Nói: "The ______ is **next to** the ______."
 
 ---
+
 
 ## 🌙 Buổi tối (40-60 phút) — Grammar: Past Simple (Thì Quá khứ đơn)
 
@@ -141,6 +146,7 @@ Dùng **did/didn't** + động từ **nguyên mẫu**:
 
 ---
 
+
 ### ✅ Đáp án Bài tập 1
 
 | Câu | Đáp án | Giải thích |
@@ -167,6 +173,7 @@ Dùng **did/didn't** + động từ **nguyên mẫu**:
 | 5 | We **didn't drink** coffee. | didn't + "drink" |
 
 ---
+
 
 ## 😴 Trước ngủ (10-15 phút) — Nghe + Đọc
 
@@ -203,6 +210,7 @@ Dùng **did/didn't** + động từ **nguyên mẫu**:
 | 5 | Fruit and milk. | "I wanted fruit and milk" |
 
 ---
+
 
 ## 🎯 Tổng kết Day 5
 
