@@ -13,6 +13,8 @@ draft: false
 ---
 > 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ## 🎯 Mục tiêu hôm nay
 
 Ôn lại **1,500+ từ vựng** đã học qua 11 tuần. Kiểm tra xem bạn nhớ được bao nhiêu! 📝

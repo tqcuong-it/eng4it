@@ -13,6 +13,8 @@ draft: false
 ---
 > 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
 
+> 💡 **Chưa biết đọc IPA?** Xem [Hướng Dẫn Đọc Phiên Âm Quốc Tế](/posts/huong-dan-doc-phien-am-quoc-te-ipa/) trước khi học từ vựng nhé!
+
 ## 🎯 Mục tiêu hôm nay
 
 Luyện kỹ năng **Reading** với 2 đoạn văn dài 250-300 từ. Thực hành dạng câu hỏi **True/False/Not Given** và **Matching** — hai dạng phổ biến nhất trong IELTS! 📖

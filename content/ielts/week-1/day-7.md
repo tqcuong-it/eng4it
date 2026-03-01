@@ -1,5 +1,5 @@
 ---
-title: "Ngày 7: Ôn tập + Weekly Test"
+title: "Ngày 7: Review & Mini Test — Tuần 1"
 
 date: 2023-01-08
 summary: "Ôn tập 120 từ vựng, tổng ôn 4 thì (Present Simple, Present Continuous, Past Simple, Past Continuous), Weekly Test."

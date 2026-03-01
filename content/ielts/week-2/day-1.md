@@ -1,5 +1,5 @@
 ---
-title: "Ngày 8: Places in Town + There is/There are"
+title: "Ngày 1: Places in Town + There is/There are"
 date: 2023-01-09
 summary: "Học 20 từ vựng về địa điểm trong thành phố, làm quen cấu trúc There is/There are, đọc đoạn văn mô tả thành phố 70 từ."
 description: "Bài 8 IELTS cho người mới — 20 từ vựng địa điểm, ngữ pháp There is/There are, đoạn đọc 70 từ."

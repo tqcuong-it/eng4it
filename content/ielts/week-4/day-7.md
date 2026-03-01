@@ -1,5 +1,5 @@
 ---
-title: "Ngày 7: Review & Mini Test Tuần 4"
+title: "Ngày 7: Review & Mini Test — Tuần 4"
 date: 2023-01-29
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp tuần 4, làm bài kiểm tra tổng hợp về tương lai và kế hoạch."
 description: "Bài IELTS Tuần 4 Ngày 7 — Ôn tập và Mini Test tổng hợp will, going to, Present Simple for Future, Future Continuous, First Conditional."
