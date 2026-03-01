@@ -1,7 +1,7 @@
 ---
 title: "Lộ Trình Tự Học IELTS Academic 6.0 — 10 Tháng"
 date: 2026-03-01
-summary: "Lộ trình tự học IELTS Academic 6.0 trong 10 tháng — dành cho người Việt tại Nhật. Mỗi ngày 1-2 giờ."
+summary: "Lộ trình tự học IELTS Academic 6.0 trong 10 tháng — dành cho người mới bắt đầu. Mỗi ngày 1-2 giờ."
 description: "Lộ trình chi tiết tự học IELTS Academic 6.0 trong 10 tháng — phù hợp người bận rộn, mỗi ngày 1-2 giờ."
 tags: ["IELTS", "lộ trình", "tự học", "band 6.0"]
 series: ["IELTS"]
@@ -17,7 +17,7 @@ weight: 1
 **IELTS Academic 6.0** trong **10 tháng** (40 tuần), bắt đầu từ **05/03/2026**.
 
 - ⏰ Mỗi ngày: **1-2 giờ** tự học
-- 👤 Đối tượng: IT developers, BrSE, PM — người Việt tại Nhật
+- 👤 Đối tượng: Người Việt muốn tự học IELTS từ đầu
 - 📅 Dự kiến thi: **01/2027**
 
 ---

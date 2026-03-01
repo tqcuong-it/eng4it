@@ -5,7 +5,7 @@ date: 2026-03-07
 summary: "Học 20 từ vựng về gia đình & con người, làm quen thì Hiện tại tiếp diễn (Present Continuous)."
 description: "Bài 3 — 20 từ vựng gia đình, ngữ pháp Present Continuous, đoạn đọc về family."
 tags: ["ielts", "vocabulary", "grammar", "week-1"]
-series: ["IELTS cho Dân IT"]
+series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
 TocOpen: true

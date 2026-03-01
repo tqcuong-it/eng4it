@@ -5,7 +5,7 @@ date: 2026-03-06
 summary: "Học 20 từ vựng về số đếm & thời gian, nắm vững trạng từ tần suất (always, usually, sometimes, rarely, never)."
 description: "Bài 2 — 20 từ vựng số đếm và thời gian, trạng từ tần suất always/usually/sometimes."
 tags: ["ielts", "vocabulary", "grammar", "week-1"]
-series: ["IELTS cho Dân IT"]
+series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
 TocOpen: true

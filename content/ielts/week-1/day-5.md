@@ -5,7 +5,7 @@ date: 2026-03-09
 summary: "Học 20 từ vựng về địa điểm & phương hướng, làm quen thì Quá khứ đơn (Past Simple) và 15 động từ bất quy tắc quan trọng."
 description: "Bài 5 — 20 từ vựng nơi chốn, giới từ in/on/at, đoạn đọc về thành phố."
 tags: ["ielts", "vocabulary", "grammar", "week-1"]
-series: ["IELTS cho Dân IT"]
+series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
 TocOpen: true

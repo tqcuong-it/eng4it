@@ -3,7 +3,7 @@ title: "Tuần 1: Làm Quen Với Tiếng Anh"
 date: 2026-03-05
 summary: "Tuần khởi động — học từ vựng cơ bản, grammar nền tảng, và bắt đầu quen với tiếng Anh qua reading & listening đơn giản."
 tags: ["ielts", "week-1", "beginner"]
-series: ["IELTS cho Dân IT"]
+series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
 TocOpen: true

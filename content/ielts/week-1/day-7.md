@@ -5,7 +5,7 @@ date: 2026-03-11
 summary: "Ôn tập 120 từ vựng, tổng ôn 4 thì (Present Simple, Present Continuous, Past Simple, Past Continuous), Weekly Test."
 description: "Bài 7 — Ôn tập tuần 1, bài kiểm tra 100 từ vựng và 3 thì ngữ pháp."
 tags: ["ielts", "vocabulary", "grammar", "week-1"]
-series: ["IELTS cho Dân IT"]
+series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
 TocOpen: true
