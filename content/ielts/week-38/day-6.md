@@ -38,6 +38,9 @@ Làm 10 câu — tập trung vào dạng bạn HAY SAI NHẤT.
 4. The project deadline is __________.
 5. Contact person: __________ (extension 245).
 
+
+> ⚠️ **Hướng dẫn:** Làm bài Note Completion trong video trước. Sau đó thử bài tập bên dưới (tự đọc hoặc nhờ đọc hộ).
+
 ### Dạng 2: Multiple Choice (5 câu)
 
 6. The main reason for the delay was:

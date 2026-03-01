@@ -51,6 +51,9 @@ Nghe đoạn hội thoại và điền:
 1. The appointment is on __________ at 2:30 PM.
 2. The patient's reference number is __________.
 
+
+> ⚠️ **Hướng dẫn:** Làm bài nghe trong video (Cambridge 16, Section 1) để đánh giá trình độ. Sau đó thử bài diagnostic bên dưới.
+
 **Dạng 2: Multiple Choice (2 câu)**
 
 3. The speaker mainly discusses:

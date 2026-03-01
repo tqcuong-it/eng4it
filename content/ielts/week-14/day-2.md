@@ -74,6 +74,12 @@ Nối mỗi địa điểm với hoạt động phù hợp:
 
 ## 🎧 Bài tập thực hành
 
+🔊 **Video luyện Matching Questions:**
+
+{{< youtube d6ou1eTJH3I >}}
+
+> ⚠️ **Hướng dẫn:** Làm bài matching trong video trước. Sau đó thử bài tập mẫu bên dưới.
+
 ### Bài tập 1: Matching Practice
 
 ### Bài tập 2: Matching Exercise

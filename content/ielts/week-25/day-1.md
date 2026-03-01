@@ -69,6 +69,9 @@ draft: false
 3. Điền đáp án
 4. Kiểm tra đáp án
 
+
+> ⚠️ **Lưu ý:** Video trên là bài luyện nghe Section 1 thực tế. Bài tập bên dưới là dạng mẫu để bạn tự luyện thêm — **làm bài tập trong video trước**, sau đó thử bài tập mẫu bên dưới.
+
 ### Bài tập mẫu — Form Filling
 
 Nghe và điền thông tin:

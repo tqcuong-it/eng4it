@@ -38,7 +38,11 @@ Giống Day 6 tuần trước, hãy tạo điều kiện thi thật:
 
 ## 🎧 Practice Test Section 2
 
-### Nguồn bài thi
+### 🔊 Audio Practice
+
+{{< youtube F-Omib_X_hQ >}}
+
+### Nguồn bài thi thêm
 
 Làm **1 bài** từ các nguồn sau (chọn bài chưa làm):
 
