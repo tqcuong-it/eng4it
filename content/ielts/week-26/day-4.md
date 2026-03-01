@@ -84,7 +84,11 @@ Nghe các đoạn audio sau và xác định accent:
 
 **Nguồn Australian 🇦🇺:**
 👉 [ABC (Australian Broadcasting)](https://www.abc.net.au/listen)
-👉 [YouTube — Australian English Practice](https://www.youtube.com/results?search_query=australian+english+listening+practice)
+🔊 **Video so sánh giọng:**
+
+{{< youtube fy-bd5AC-Ms >}}
+
+*American vs British vs Australian English*
 
 **Nguồn American 🇺🇸:**
 👉 [VOA Learning English](https://learningenglish.voanews.com/)
@@ -101,7 +105,7 @@ Nghe các đoạn audio sau và xác định accent:
 
 Tìm cùng 1 nội dung đọc bằng nhiều accent:
 
-👉 [YouTube — British vs American vs Australian accent](https://www.youtube.com/results?search_query=british+vs+american+vs+australian+accent+comparison)
+
 
 **Cách làm:**
 1. Nghe cùng 1 đoạn text bằng 3 accent
@@ -112,7 +116,7 @@ Tìm cùng 1 nội dung đọc bằng nhiều accent:
 
 ## 🎧 Bài tập 3: IELTS Listening với focus Accent
 
-👉 [Cambridge IELTS Listening](https://www.youtube.com/results?search_query=cambridge+ielts+listening+test)
+👉 [Cambridge IELTS 18 Listening Test 1](https://www.youtube.com/watch?v=yNt4oyUM6NI)
 
 **Cách làm:**
 1. Làm 1 bài listening practice

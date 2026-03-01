@@ -97,7 +97,11 @@ Nghe và điền thông tin:
 
 ## 🎧 Bài tập 3: Map Labeling Review
 
-👉 [Cambridge IELTS Listening — Map Practice](https://www.youtube.com/results?search_query=ielts+listening+map+labeling+practice)
+🔊 **Video luyện tập:**
+
+{{< youtube W1kuA2GuXks >}}
+
+*IELTS Listening Map Labelling Practice*
 
 **Chiến lược nhớ nhanh cho Map:**
 

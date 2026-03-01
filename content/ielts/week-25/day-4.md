@@ -76,7 +76,11 @@ Dự đoán từ khóa cho các câu hỏi sau:
 
 ## 🎧 Bài tập 1: Speed Listening 1.25x — Section 1
 
-👉 [YouTube — IELTS Listening Practice](https://www.youtube.com/results?search_query=ielts+listening+practice+test)
+🔊 **Video luyện tập tốc độ:**
+
+{{< youtube qwWJ_0wHx4U >}}
+
+*IELTS Listening 1.25x Speed Practice*
 
 **Cách làm:**
 1. Mở video bài nghe IELTS trên YouTube
@@ -89,7 +93,7 @@ Dự đoán từ khóa cho các câu hỏi sau:
 
 ## 🎧 Bài tập 2: Speed Listening 1.25x — Section 3
 
-👉 [Cambridge IELTS Listening](https://www.youtube.com/results?search_query=cambridge+ielts+listening+test+section+3)
+👉 [Cambridge IELTS Listening — Full Test](https://www.youtube.com/watch?v=yNt4oyUM6NI)
 
 **Cách làm:**
 1. Chỉnh tốc độ **1.25x**

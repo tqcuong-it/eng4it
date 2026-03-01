@@ -32,7 +32,12 @@ Chọn phần phù hợp với **điểm yếu #1** của bạn từ Day 1 diagn
    - Lặp lại 3 lần, mỗi lần pause ít hơn
 
 2. **Dictation Practice:**
-   Nghe và viết lại chính xác:
+
+   🔊 **Audio luyện dictation:**
+
+   {{< youtube BabD3drCdvA >}}
+
+   *Dùng video trên hoặc đọc từng câu dưới đây cho người khác đọc, rồi viết lại chính xác:*
    
    a) "The research demonstrates that **environmental** factors play a significantly greater role in **cognitive** development than previously **acknowledged**."
    

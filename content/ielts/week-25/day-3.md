@@ -120,7 +120,11 @@ The lecture concludes that _______ is essential for future planning.
 
 ## 🎧 Bài tập 3: Section 4 Timed Practice
 
-👉 [Cambridge IELTS Section 4 Practice](https://www.youtube.com/results?search_query=cambridge+ielts+listening+section+4+with+answers)
+🔊 **Video luyện tập:**
+
+{{< youtube U8yeL7ER76c >}}
+
+*IELTS Listening Section 4 Practice*
 
 **Cách luyện:**
 1. Đọc câu hỏi trong 45 giây

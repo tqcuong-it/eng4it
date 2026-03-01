@@ -26,7 +26,11 @@ Làm 10 câu — tập trung vào dạng bạn HAY SAI NHẤT.
 
 ### Dạng 1: Note Completion (5 câu)
 
-Nghe và điền:
+🔊 **Luyện Note Completion:**
+
+{{< youtube BZkSPdM4b-0 >}}
+
+*Làm bài note completion từ video trên, sau đó thử thêm 5 câu bên dưới (tự đọc hoặc nhờ người khác đọc):*
 
 1. The meeting is scheduled for __________ at 3 PM.
 2. Participants should bring their __________ and laptop.
