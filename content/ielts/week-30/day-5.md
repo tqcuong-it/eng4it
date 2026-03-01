@@ -8,7 +8,7 @@ series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
 TocOpen: true
-weight: 30
+weight: 5
 draft: false
 ---
 > 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
