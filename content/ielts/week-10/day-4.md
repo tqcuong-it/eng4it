@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Exams & Tests + Third Conditional"
-date: 2025-07-31
+date: 2023-03-09
 summary: "Học 20 từ vựng về thi cử, nắm vững Third Conditional (If + had V3, would have V3), đọc đoạn văn 85 từ."
 description: "Tuần 10 Ngày 4 — 20 từ vựng thi cử, ngữ pháp Third Conditional, đoạn đọc 85 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-10"]

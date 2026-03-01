@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: World Heritage + Compound Sentences"
-date: 2025-07-26
+date: 2023-03-04
 summary: "Học 20 từ vựng về di sản thế giới, nắm vững cách viết câu ghép với and, but, or, so, because."
 description: "IELTS Tuần 9 Ngày 6 — Từ vựng World Heritage, ngữ pháp Compound Sentences, đoạn đọc 90 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-9"]

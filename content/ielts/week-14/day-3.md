@@ -1,6 +1,6 @@
 ---
 title: "Ngày 3: Classification Questions"
-date: 2025-08-27
+date: 2023-04-05
 summary: "Chiến lược làm dạng Classification — phân loại thông tin vào đúng nhóm."
 description: "Kỹ thuật làm câu hỏi Classification trong IELTS Listening Section 2 với bài tập thực hành."
 tags: ["ielts", "listening", "classification", "section-2", "week-14"]

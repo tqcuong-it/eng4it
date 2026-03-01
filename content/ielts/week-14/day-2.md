@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Matching Questions — Strategy"
-date: 2025-08-26
+date: 2023-04-04
 summary: "Chiến lược làm dạng Matching trong IELTS Listening — nối thông tin với đáp án."
 description: "Kỹ thuật làm câu hỏi Matching trong IELTS Listening Section 2 với bài tập thực hành."
 tags: ["ielts", "listening", "matching", "section-2", "week-14"]

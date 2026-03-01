@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Job Interview + Present Perfect (for/since)"
-date: 2025-07-03
+date: 2023-02-09
 summary: "Học 20 từ vựng phỏng vấn xin việc, Present Perfect với for/since để nói khoảng thời gian, đọc đoạn văn 80 từ."
 description: "Bài IELTS Tuần 6 Ngày 4 — 20 từ vựng phỏng vấn, Present Perfect for/since, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-6", "interview"]

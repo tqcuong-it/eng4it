@@ -1,6 +1,6 @@
 ---
 title: "Ngày 4: Food Culture + Too / Enough"
-date: 2025-07-24
+date: 2023-03-02
 summary: "Học 20 từ vựng về văn hóa ẩm thực, nắm vững cấu trúc Too và Enough để mô tả mức độ."
 description: "IELTS Tuần 9 Ngày 4 — Từ vựng Food Culture, ngữ pháp Too/Enough, đoạn đọc 85 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-9"]

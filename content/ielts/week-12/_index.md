@@ -1,6 +1,6 @@
 ---
 title: "Tuần 12: Ôn Tập Phase 1 — MILESTONE TEST 🏆"
-date: 2025-08-11
+date: 2023-03-20
 summary: "Tuần tổng ôn Phase 1 — ôn lại toàn bộ ngữ pháp, từ vựng, kỹ năng đọc & nghe từ Tuần 1-11. Kết thúc bằng bài thi MILESTONE TEST 50 câu!"
 tags: ["ielts", "week-12", "review", "milestone"]
 series: ["Tự Học IELTS 6.0"]

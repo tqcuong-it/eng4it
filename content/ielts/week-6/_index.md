@@ -1,6 +1,6 @@
 ---
 title: "Tuần 6: Công Việc & Nghề Nghiệp"
-date: 2025-06-30
+date: 2023-02-06
 summary: "Tuần 6 — học từ vựng về công việc, nghề nghiệp, kỹ năng làm việc và phát triển sự nghiệp. Ngữ pháp: Present Perfect & Superlatives."
 tags: ["ielts", "week-6", "jobs", "career"]
 series: ["Tự Học IELTS 6.0"]

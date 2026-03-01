@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Reading Practice — 2 Passages"
-date: 2025-08-15
+date: 2023-03-24
 summary: "Luyện đọc hiểu với 2 đoạn văn 250-300 từ — bài tập True/False/Not Given và Matching."
 description: "Luyện đọc hiểu IELTS Phase 1 — 2 passages với câu hỏi T/F/NG và matching."
 tags: ["ielts", "reading", "practice", "review", "week-12"]

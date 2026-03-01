@@ -1,6 +1,6 @@
 ---
 title: "Tuần 13: IELTS Listening — Section 1"
-date: 2025-08-18
+date: 2023-03-27
 summary: "Chiến lược làm bài Listening Section 1 — Form Filling, Numbers, Map Labeling, Multiple Choice, Note Completion + Practice Test."
 tags: ["ielts", "listening", "section-1", "week-13"]
 series: ["Tự Học IELTS 6.0"]

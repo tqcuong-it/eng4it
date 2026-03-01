@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: 🏆 FULL PHASE 1 MILESTONE TEST"
-date: 2025-08-17
+date: 2023-03-26
 summary: "Bài thi tổng hợp Phase 1 — 50 câu hỏi: Grammar (20) + Vocabulary (10) + Reading (10) + Listening (10) với bảng chấm điểm."
 description: "IELTS Phase 1 Milestone Test — 50 câu hỏi tổng hợp grammar, vocabulary, reading, listening với scoring guide."
 tags: ["ielts", "test", "milestone", "review", "week-12"]

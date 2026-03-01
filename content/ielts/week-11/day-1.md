@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: City vs Country + Comparatives & Superlatives Review"
-date: 2025-08-04
+date: 2023-03-13
 summary: "Học 20 từ vựng về thành thị và nông thôn, ôn lại Comparatives & Superlatives, đọc đoạn văn 90 từ."
 description: "IELTS Tuần 11 Ngày 1 — 20 từ vựng City vs Country, ôn ngữ pháp so sánh hơn và so sánh nhất, đoạn đọc 90 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-11"]

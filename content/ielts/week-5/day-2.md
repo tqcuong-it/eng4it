@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Health & Illness + Should / Shouldn't"
-date: 2025-06-24
+date: 2023-01-31
 summary: "Học 20 từ vựng về sức khỏe & bệnh tật, ngữ pháp should/shouldn't để đưa lời khuyên, đọc đoạn văn 70 từ."
 description: "Bài 2 Tuần 5 IELTS — 20 từ vựng sức khỏe, ngữ pháp should/shouldn't, đoạn đọc 70 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-5", "health", "should"]

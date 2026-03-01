@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Intro to IELTS Listening + Form Filling"
-date: 2025-08-18
+date: 2023-03-27
 summary: "Tổng quan IELTS Listening, chiến lược làm dạng Form Filling trong Section 1."
 description: "Giới thiệu IELTS Listening — cấu trúc bài thi, chiến lược Form Filling, từ vựng thường gặp và bài tập thực hành."
 tags: ["ielts", "listening", "form-filling", "week-13"]

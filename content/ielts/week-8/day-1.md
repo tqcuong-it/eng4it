@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Animals & Nature + Passive Voice (Past)"
-date: 2025-07-14
+date: 2023-02-20
 summary: "Học 20 từ vựng về động vật & thiên nhiên, ngữ pháp Passive Voice quá khứ (was/were + V3), đọc đoạn văn 80 từ."
 description: "Bài IELTS tuần 8 ngày 1 — từ vựng động vật thiên nhiên, câu bị động quá khứ, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-8", "nature"]

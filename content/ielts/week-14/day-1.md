@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Monologue Listening Skills"
-date: 2025-08-25
+date: 2023-04-03
 summary: "Kỹ thuật nghe monologue (độc thoại) — nền tảng cho IELTS Listening Section 2."
 description: "Chiến lược nghe monologue trong IELTS Listening Section 2 — kỹ thuật tập trung, dự đoán và ghi chú."
 tags: ["ielts", "listening", "monologue", "section-2", "week-14"]

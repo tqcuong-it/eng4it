@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Short Answer Questions"
-date: 2025-08-29
+date: 2023-04-07
 summary: "Chiến lược làm dạng Short Answer — trả lời ngắn gọn trong IELTS Listening."
 description: "Kỹ thuật làm câu hỏi Short Answer trong IELTS Listening Section 2 với bài tập thực hành."
 tags: ["ielts", "listening", "short-answer", "section-2", "week-14"]

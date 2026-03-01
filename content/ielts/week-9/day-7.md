@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Mini Test — Tuần 9"
-date: 2025-07-27
+date: 2023-03-05
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp tuần 9: Used to, Past Perfect, Too/Enough, Quantifiers, Compound Sentences + Mini Test."
 description: "IELTS Tuần 9 Ngày 7 — Ôn tập tổng hợp và Mini Test cuối tuần."
 tags: ["ielts", "review", "test", "week-9"]

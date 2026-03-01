@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Money & Economy + Reported Speech (Commands)"
-date: 2025-08-09
+date: 2023-03-18
 summary: "Học 20 từ vựng về tiền tệ và kinh tế, ngữ pháp Reported Speech cho mệnh lệnh (told me to...), đọc đoạn văn 88 từ."
 description: "IELTS Tuần 11 Ngày 6 — 20 từ vựng Money & Economy, Reported Speech commands, đoạn đọc 88 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-11"]

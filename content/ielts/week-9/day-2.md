@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Travel & Tourism + Past Perfect (Giới thiệu)"
-date: 2025-07-22
+date: 2023-02-28
 summary: "Học 20 từ vựng về du lịch, làm quen với thì Past Perfect (had + V3) để kể chuyện quá khứ."
 description: "IELTS Tuần 9 Ngày 2 — Từ vựng Travel & Tourism, ngữ pháp Past Perfect intro, đoạn đọc 85 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-9"]

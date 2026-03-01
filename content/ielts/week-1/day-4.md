@@ -1,7 +1,7 @@
 ---
 title: "Ngày 4: Food & Drink + Ôn tập giữa tuần"
 
-date: 2025-05-29
+date: 2023-01-05
 summary: "Học 20 từ vựng về đồ ăn & thức uống, ôn tập Present Simple vs Present Continuous, mini test giữa tuần."
 description: "Bài 4 — 20 từ vựng đồ ăn, mạo từ a/an/the, ôn tập giữa tuần."
 tags: ["ielts", "vocabulary", "grammar", "week-1"]

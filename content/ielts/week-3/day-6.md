@@ -1,7 +1,7 @@
 ---
 title: "Ngày 6: Historical Events + Time Expressions"
 
-date: 2025-06-14
+date: 2023-01-21
 summary: "Học 20 từ vựng sự kiện lịch sử, các cụm từ chỉ thời gian quá khứ (ago, last, yesterday, in 2020), đọc đoạn văn 80 từ."
 description: "Bài IELTS Tuần 3 Ngày 6 — 20 từ vựng historical events, time expressions cho Past Simple, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-3"]

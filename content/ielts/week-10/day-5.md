@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Online Learning + Wish + Past Simple"
-date: 2025-08-01
+date: 2023-03-10
 summary: "Học 20 từ vựng về học trực tuyến, nắm vững cấu trúc Wish + Past Simple, đọc đoạn văn 80 từ."
 description: "Tuần 10 Ngày 5 — 20 từ vựng học trực tuyến, ngữ pháp Wish + Past Simple, đoạn đọc 80 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-10"]

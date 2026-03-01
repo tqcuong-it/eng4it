@@ -1,6 +1,6 @@
 ---
 title: "Ngày 5: Art & Music + Quantifiers"
-date: 2025-07-25
+date: 2023-03-03
 summary: "Học 20 từ vựng về nghệ thuật và âm nhạc, nắm vững Quantifiers (some/any/much/many/a lot of)."
 description: "IELTS Tuần 9 Ngày 5 — Từ vựng Art & Music, ngữ pháp Quantifiers, đoạn đọc 88 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-9"]

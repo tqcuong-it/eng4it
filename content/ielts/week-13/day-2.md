@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Numbers, Dates, Spelling — Listening Practice"
-date: 2025-08-19
+date: 2023-03-28
 summary: "Luyện nghe số, ngày tháng, đánh vần chính xác — kỹ năng nền tảng cho IELTS Listening."
 description: "Chiến lược nghe numbers, dates, spelling trong IELTS Listening Section 1 với bài tập thực hành."
 tags: ["ielts", "listening", "numbers", "spelling", "week-13"]

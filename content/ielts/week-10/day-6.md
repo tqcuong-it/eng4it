@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Academic Vocabulary + Complex Sentences"
-date: 2025-08-02
+date: 2023-03-11
 summary: "Học 20 từ vựng học thuật, nắm vững câu phức với although, while, unless, even though, đọc đoạn văn 90 từ."
 description: "Tuần 10 Ngày 6 — 20 từ vựng học thuật, ngữ pháp Complex Sentences, đoạn đọc 90 từ."
 tags: ["ielts", "vocabulary", "grammar", "week-10"]

@@ -1,6 +1,6 @@
 ---
 title: "Ngày 7: Review & Error Analysis"
-date: 2025-08-24
+date: 2023-04-02
 summary: "Ôn tập tổng hợp tuần 13 — phân tích lỗi sai, củng cố chiến lược Section 1."
 description: "Ôn tập và phân tích lỗi tuần 13 IELTS Listening Section 1 — tổng hợp chiến lược và từ vựng."
 tags: ["ielts", "listening", "review", "week-13"]

@@ -1,6 +1,6 @@
 ---
 title: "Tuần 5: Sức Khỏe & Cơ Thể"
-date: 2025-06-23
+date: 2023-01-30
 summary: "Tuần 5 — học từ vựng về cơ thể, sức khỏe, bệnh tật, cảm xúc và thuốc men. Ngữ pháp: câu mệnh lệnh, should, can, have to, must, tính từ -ed/-ing."
 tags: ["ielts", "week-5", "health", "body"]
 series: ["Tự Học IELTS 6.0"]

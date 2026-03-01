@@ -1,6 +1,6 @@
 ---
 title: "Tuần 3: Quá Khứ & Trải Nghiệm"
-date: 2025-06-09
+date: 2023-01-16
 summary: "Học kể chuyện quá khứ — grammar: Past Simple (regular & irregular), Past Continuous, time expressions."
 tags: ["ielts", "week-3", "beginner"]
 series: ["Tự Học IELTS 6.0"]
