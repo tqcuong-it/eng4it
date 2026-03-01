@@ -1,0 +1,5 @@
+{{- $word := .Get "w" -}}
+{{- $ipa := .Get "ipa" | default "" -}}
+{{- $vn := .Get "vn" | default "" -}}
+{{- $type := .Get "t" | default "" -}}
+<span class="vocab-word" data-word="{{ $word }}" data-ipa="{{ $ipa }}" data-vn="{{ $vn }}" data-type="{{ $type }}" tabindex="0" role="button" aria-label="Từ vựng: {{ $word }}">{{ $word }}</span>

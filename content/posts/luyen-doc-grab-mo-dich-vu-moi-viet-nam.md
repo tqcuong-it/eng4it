@@ -1,0 +1,76 @@
+---
+title: "Grab mở dịch vụ mới ở Việt Nam"
+date: "2023-04-05"
+slug: "luyen-doc-grab-mo-dich-vu-moi-viet-nam"
+description: "Luyện đọc tiếng Anh IT qua bài báo về Grab ra mắt dịch vụ mới tại Việt Nam. Từ vựng startup, cấp độ Starter."
+categories: ["Reading Practice"]
+tags: ["starter", "startup"]
+ShowToc: true
+TocOpen: true
+draft: false
+---
+
+> 📖 **Cấp độ:** Starter
+> ⏱️ **Thời gian đọc:** ~2 phút
+> 📰 **Chủ đề:** Ride-hailing / Super App
+
+## 📰 Bài đọc (English)
+
+Grab has **launched** a new **service** in Vietnam. The new service lets users send **packages** to other cities. It is called GrabExpress Plus. Users can **track** their packages on the app. Grab says the **delivery** takes one to two days. The price is cheaper than other services. Grab is already popular in Vietnam for rides and food **delivery**. The company wants to become a **super app** for everything.
+
+## 📚 Từ vựng chính
+
+| English | IPA | Tiếng Việt | Loại từ |
+|---------|-----|------------|---------|
+| **launched** | /lɔːntʃt/ | ra mắt | verb |
+| **service** | /ˈsɜːr.vɪs/ | dịch vụ | noun |
+| **packages** | /ˈpæk.ɪ.dʒɪz/ | bưu kiện, gói hàng | noun |
+| **track** | /træk/ | theo dõi | verb |
+| **delivery** | /dɪˈlɪv.ər.i/ | giao hàng | noun |
+| **super app** | /ˈsuː.pər æp/ | siêu ứng dụng | noun |
+
+## 🇻🇳 Bản dịch tiếng Việt
+
+Grab đã ra mắt một dịch vụ mới tại Việt Nam. Dịch vụ mới cho phép người dùng gửi bưu kiện đến các thành phố khác. Nó có tên là GrabExpress Plus. Người dùng có thể theo dõi bưu kiện trên ứng dụng. Grab cho biết giao hàng mất từ một đến hai ngày. Giá rẻ hơn so với các dịch vụ khác. Grab đã phổ biến tại Việt Nam với dịch vụ xe và giao đồ ăn. Công ty muốn trở thành siêu ứng dụng cho mọi thứ.
+
+## 📝 Phân tích ngữ pháp
+
+### Câu 1: "The new service lets users send packages to other cities."
+- **Cấu trúc:** S + lets + O + V(bare) + O + to + N
+- **Ngữ pháp:** "let + someone + do something" — cho phép ai làm gì (không có "to")
+- **Ví dụ tương tự:** The app lets you order food to your home.
+
+### Câu 2: "The price is cheaper than other services."
+- **Cấu trúc:** S + is + comparative adj + than + N
+- **Ngữ pháp:** So sánh hơn — "cheaper than" = rẻ hơn so với
+- **Ví dụ tương tự:** This plan is faster than the free version.
+
+### Câu 3: "The company wants to become a super app for everything."
+- **Cấu trúc:** S + wants + to V + O + for + N
+- **Ngữ pháp:** "want to + V" diễn tả mong muốn; "for everything" chỉ phạm vi
+- **Ví dụ tương tự:** Google wants to become the best search engine for everyone.
+
+## ✏️ Bài tập
+
+### Comprehension (Đọc hiểu)
+1. What is the name of Grab's new service?
+2. How long does delivery take?
+3. What does Grab want to become?
+
+### Vocabulary (Từ vựng)
+Điền từ thích hợp:
+1. Users can ___ their packages on the app.
+2. Grab has launched a new ___ in Vietnam.
+3. The ___ takes one to two days.
+
+{{< spoiler "✅ Đáp án" >}}
+**Comprehension:**
+1. GrabExpress Plus.
+2. One to two days.
+3. A super app for everything.
+
+**Vocabulary:**
+1. **track** — theo dõi
+2. **service** — dịch vụ
+3. **delivery** — giao hàng
+{{< /spoiler >}}

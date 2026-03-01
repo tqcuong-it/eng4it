@@ -673,3 +673,175 @@ main.main {
     font-size: 1.5em;
   }
 }
+
+/* ============================================
+   VOCAB HIGHLIGHT — Click to show meaning + IPA + Audio
+   ============================================ */
+.vocab-word {
+    background: linear-gradient(120deg, rgba(27, 112, 184, 0.1) 0%, rgba(27, 112, 184, 0.15) 100%);
+    border-bottom: 2px dashed rgba(27, 112, 184, 0.5);
+    padding: 1px 4px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-weight: 500;
+    color: inherit;
+    position: relative;
+}
+.vocab-word:hover {
+    background: linear-gradient(120deg, rgba(27, 112, 184, 0.2) 0%, rgba(27, 112, 184, 0.25) 100%);
+    border-bottom-color: rgba(27, 112, 184, 0.8);
+}
+.vocab-word:focus-visible {
+    outline: 2px solid #1b70b8;
+    outline-offset: 2px;
+}
+
+/* Dark mode */
+.dark .vocab-word {
+    background: linear-gradient(120deg, rgba(82, 156, 202, 0.15) 0%, rgba(82, 156, 202, 0.2) 100%);
+    border-bottom-color: rgba(82, 156, 202, 0.5);
+}
+.dark .vocab-word:hover {
+    background: linear-gradient(120deg, rgba(82, 156, 202, 0.25) 0%, rgba(82, 156, 202, 0.3) 100%);
+}
+
+/* Popup */
+.vocab-popup {
+    position: fixed;
+    z-index: 9999;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15), 0 2px 8px rgba(0, 0, 0, 0.08);
+    padding: 16px 20px;
+    min-width: 260px;
+    max-width: 360px;
+    animation: vocabPopIn 0.2s ease;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+@keyframes vocabPopIn {
+    from { opacity: 0; transform: translateY(8px) scale(0.96); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.vocab-popup::before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: 24px;
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-left: 1px solid #e0e0e0;
+    border-top: 1px solid #e0e0e0;
+    transform: rotate(45deg);
+}
+.vocab-popup.above::before {
+    top: auto;
+    bottom: -6px;
+    border-left: none;
+    border-top: none;
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+/* Popup content */
+.vocab-popup-word {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1b70b8;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.vocab-popup-ipa {
+    font-size: 14px;
+    color: #888;
+    font-weight: 400;
+    font-style: italic;
+}
+.vocab-popup-type {
+    font-size: 11px;
+    color: #fff;
+    background: #1b70b8;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 6px;
+}
+.vocab-popup-meaning {
+    font-size: 16px;
+    font-weight: 600;
+    color: #37352F;
+    margin: 8px 0 4px;
+    line-height: 1.4;
+}
+.vocab-popup-divider {
+    height: 1px;
+    background: #eee;
+    margin: 10px 0;
+}
+.vocab-popup-speak {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #f0f7ff;
+    border: 1px solid #d0e3f7;
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: #1b70b8;
+    transition: all 0.15s;
+    font-family: inherit;
+}
+.vocab-popup-speak:hover {
+    background: #dceefb;
+    border-color: #1b70b8;
+}
+.vocab-popup-speak:active {
+    transform: scale(0.97);
+}
+.vocab-popup-close {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: #999;
+    cursor: pointer;
+    padding: 4px;
+    line-height: 1;
+}
+.vocab-popup-close:hover {
+    color: #333;
+}
+
+/* Dark mode popup */
+.dark .vocab-popup {
+    background: #2a2a2a;
+    border-color: #444;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+.dark .vocab-popup::before {
+    background: #2a2a2a;
+    border-color: #444;
+}
+.dark .vocab-popup-word { color: #529CCA; }
+.dark .vocab-popup-meaning { color: #E3E2E0; }
+.dark .vocab-popup-speak {
+    background: rgba(82, 156, 202, 0.15);
+    border-color: rgba(82, 156, 202, 0.3);
+    color: #529CCA;
+}
+.dark .vocab-popup-speak:hover {
+    background: rgba(82, 156, 202, 0.25);
+}
+.dark .vocab-popup-close { color: #888; }
+.dark .vocab-popup-close:hover { color: #ddd; }
+.dark .vocab-popup-divider { background: #444; }
+.dark .vocab-popup-type { background: #529CCA; }
