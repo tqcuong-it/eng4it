@@ -429,3 +429,18 @@ details[open] > *:not(summary) {
 }
 
 /* Remove old day-entry and week-section styles if not needed */
+
+/* Fix ordered list numbers cut off on mobile */
+.post-content ol {
+  padding-left: 2.2em;
+}
+
+.post-content ol li {
+  padding-left: 0.3em;
+}
+
+@media (max-width: 768px) {
+  .post-content ol {
+    padding-left: 2.5em;
+  }
+}
