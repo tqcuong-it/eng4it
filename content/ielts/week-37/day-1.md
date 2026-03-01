@@ -299,11 +299,11 @@ What opinion do the students give about each of the following modules?
 | 32 | logic |
 | 33 | confusion |
 | 34 | meditation |
-| 35 | stone |
+| 35 | rocks |
 | 36 | coins |
 | 37 | tree |
 | 38 | breathing |
-| 39 | paper |
+| 39 | wood |
 | 40 | anxiety |
 
 {{< /spoiler >}}
