@@ -39,9 +39,9 @@ Hôm nay bạn sẽ làm **Full Listening Test 1** — mô phỏng thi thật 10
 
 ---
 
-🔊 **Full Listening Test — Cambridge IELTS 15, Test 1:**
+🔊 **Full Listening Test — Cambridge IELTS 14, Test 2:**
 
-{{< youtube jYka6Sjz-og >}}
+{{< youtube h80qns2xltg >}}
 
 ## 🎧 Full Listening Test 1
 
