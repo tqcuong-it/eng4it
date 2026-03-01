@@ -1,6 +1,4 @@
-<!-- Google AdSense — thay YOUR_PUB_ID bằng ca-pub-xxx từ AdSense -->
-{{ if not .Site.IsServer }}
-{{ with .Site.Params.adsenseId }}
+<!-- Google AdSense -->
+{{ with site.Params.adsenseId }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
-{{ end }}
 {{ end }}

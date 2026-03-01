@@ -1,6 +1,5 @@
 <!-- Auto in-article ad — insert in single.html after content -->
-{{ with .Site.Params.adsenseId }}
-{{ if not $.Site.IsServer }}
+{{ with site.Params.adsenseId }}
 <div class="adsbygoogle-container" style="margin: 2em 0; text-align: center;">
   <ins class="adsbygoogle"
        style="display:block; text-align:center;"
@@ -10,5 +9,4 @@
        data-ad-slot="{{ with $.Site.Params.adsenseArticleSlot }}{{ . }}{{ end }}"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
-{{ end }}
 {{ end }}
