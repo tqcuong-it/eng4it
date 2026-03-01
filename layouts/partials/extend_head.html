@@ -2,3 +2,46 @@
 {{ with site.Params.adsenseId }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
 {{ end }}
+
+<!-- Structured Data for Google -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Eng4IT — Tiếng Anh cho Dân IT",
+  "url": "https://eng4it.com/",
+  "description": "Học tiếng Anh thực tế dành riêng cho Developer, BrSE, PM. Email chuyên nghiệp, meeting tự tin, IELTS cho dân tech.",
+  "inLanguage": "vi",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://eng4it.com/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify }}{{ end }},
+  "url": {{ .Permalink | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Cuong TQ",
+    "url": "https://cuongtq.it/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eng4IT",
+    "url": "https://eng4it.com/"
+  },
+  "inLanguage": "vi",
+  "mainEntityOfPage": {{ .Permalink | jsonify }}
+}
+</script>
+{{ end }}

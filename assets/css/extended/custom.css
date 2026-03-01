@@ -444,3 +444,25 @@ details[open] > *:not(summary) {
     padding-left: 2.5em;
   }
 }
+
+/* Fix social icons size on homepage */
+.home-info .social-icons a svg {
+  width: 24px;
+  height: 24px;
+}
+.home-info .social-icons {
+  margin-top: 8px;
+}
+.home-info .social-icons a {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px;
+}
+
+/* Noscript fallback for CTA buttons */
+.cta-btn::before {
+  content: "";
+}
+.cta-primary::before {
+  content: "→ ";
+}
