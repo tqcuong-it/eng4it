@@ -199,7 +199,7 @@ Khi muốn kể lại câu hỏi của người khác, ta dùng **Reported Quest
 ---
 
 
-## 🎯 Checklist Day 5
+## 🎯 Tổng kết Day 5
 
 - [ ] Học 20 từ vựng Social Issues
 - [ ] Hiểu Reported Speech cho câu hỏi (asked if/whether)

@@ -198,7 +198,7 @@ Nghe bài này và cố hiểu ý chính:
 ---
 
 
-## 🎯 Checklist Day 1
+## 🎯 Tổng kết Day 1
 
 - [ ] Học 20 từ vựng Education System
 - [ ] Nắm cấu trúc should / ought to

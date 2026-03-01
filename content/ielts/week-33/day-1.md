@@ -188,7 +188,7 @@ Write NO MORE THAN TWO WORDS AND/OR A NUMBER.
 
 ---
 
-## 📝 Đáp án
+## ✅ Đáp án
 
 {{< spoiler "Xem đáp án" >}}
 

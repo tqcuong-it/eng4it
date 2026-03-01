@@ -205,7 +205,7 @@ Dùng từ gợi ý để viết câu hoàn chỉnh:
 ---
 
 
-## 🎯 Checklist Day 1
+## 🎯 Tổng kết Day 1
 
 - [ ] Học 20 từ vựng City vs Country
 - [ ] Ôn lại Comparatives & Superlatives

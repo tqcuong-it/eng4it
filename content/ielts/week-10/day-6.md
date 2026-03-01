@@ -203,7 +203,7 @@ Nối hai câu thành một câu phức:
 ---
 
 
-## 🎯 Checklist Day 6
+## 🎯 Tổng kết Day 6
 
 - [ ] Học 20 từ vựng Academic Vocabulary
 - [ ] Nắm cấu trúc although, while, unless, even though

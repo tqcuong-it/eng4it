@@ -186,7 +186,7 @@ Hôm nay chúng ta học về **tội phạm và pháp luật** — chủ đề 
 ---
 
 
-## 🎯 Checklist Day 3
+## 🎯 Tổng kết Day 3
 
 - [ ] Học 20 từ vựng Crime & Law
 - [ ] Hiểu Non-defining Relative Clauses (, who..., , which...)

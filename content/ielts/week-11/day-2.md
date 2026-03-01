@@ -191,7 +191,7 @@ Hôm nay chúng ta học về **nhà ở** — từ thuê nhà đến mua nhà, 
 ---
 
 
-## 🎯 Checklist Day 2
+## 🎯 Tổng kết Day 2
 
 - [ ] Học 20 từ vựng Housing & Accommodation
 - [ ] Hiểu Defining Relative Clauses (who/which/that/where/whose)

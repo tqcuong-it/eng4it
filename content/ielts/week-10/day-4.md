@@ -194,7 +194,7 @@ Viết câu Third Conditional cho các tình huống sau:
 ---
 
 
-## 🎯 Checklist Day 4
+## 🎯 Tổng kết Day 4
 
 - [ ] Học 20 từ vựng Exams & Tests
 - [ ] Nắm cấu trúc Third Conditional

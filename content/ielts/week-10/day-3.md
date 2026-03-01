@@ -193,7 +193,7 @@ Viết câu dùng **can, could, be able to**:
 ---
 
 
-## 🎯 Checklist Day 3
+## 🎯 Tổng kết Day 3
 
 - [ ] Học 20 từ vựng Learning Methods
 - [ ] Nắm cấu trúc can / could / be able to

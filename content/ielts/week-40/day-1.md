@@ -306,12 +306,12 @@ draft: false
 | 9 | censorship | i) kiểm duyệt |
 | 10 | subsidy | j) trợ cấp |
 
-<details>
-<summary>🔑 Đáp án</summary>
+
+{{< spoiler "🔑 Đáp án" >}}
 
 1-b, 2-c, 3-d, 4-e, 5-a, 6-g, 7-f, 8-h, 9-i, 10-j
 
-</details>
+{{< /spoiler >}}
 
 ### Điền từ vào chỗ trống (10 câu)
 

@@ -165,8 +165,8 @@ draft: false
 
 ## 🔑 Đáp án
 
-<details>
-<summary>Nhấn để xem đáp án</summary>
+
+{{< spoiler "Nhấn để xem đáp án" >}}
 
 ### Phần A: Reading
 
@@ -206,7 +206,7 @@ draft: false
 **Câu 20 — Gợi ý trả lời:**
 > *"That's an interesting question. I believe social media has both advantages and disadvantages, but overall I think the benefits outweigh the drawbacks. On the positive side, it allows people to stay connected with friends and family regardless of distance. It's also a powerful tool for sharing information and raising awareness about important issues. However, I do acknowledge that excessive use can lead to problems such as addiction and cyberbullying. So I think the key is using it responsibly."*
 
-</details>
+{{< /spoiler >}}
 
 ---
 

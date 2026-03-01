@@ -218,7 +218,7 @@ C. Neurogenesis
 
 ---
 
-## 📝 Đáp án
+## ✅ Đáp án
 
 {{< spoiler "Xem đáp án" >}}
 

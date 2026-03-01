@@ -192,7 +192,7 @@ Chọn **must** hoặc **have to** (cả hai đúng trong nhiều trường hợ
 ---
 
 
-## 🎯 Checklist Day 2
+## 🎯 Tổng kết Day 2
 
 - [ ] Học 20 từ vựng University Life
 - [ ] Nắm cấu trúc must / have to / mustn't / don't have to

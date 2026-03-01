@@ -195,7 +195,7 @@ Hôm nay chúng ta học về **chính phủ và chính trị** — kiến thứ
 ---
 
 
-## 🎯 Checklist Day 4
+## 🎯 Tổng kết Day 4
 
 - [ ] Học 20 từ vựng Government & Politics
 - [ ] Ôn lại Passive Voice ở tất cả các thì

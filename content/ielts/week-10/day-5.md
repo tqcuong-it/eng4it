@@ -191,7 +191,7 @@ Viết câu **wish** cho các tình huống sau:
 ---
 
 
-## 🎯 Checklist Day 5
+## 🎯 Tổng kết Day 5
 
 - [ ] Học 20 từ vựng Online Learning
 - [ ] Nắm cấu trúc Wish + Past Simple

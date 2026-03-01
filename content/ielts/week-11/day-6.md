@@ -199,7 +199,7 @@ Khi kể lại lời yêu cầu, mệnh lệnh, hoặc khuyên bảo của ai đ
 ---
 
 
-## 🎯 Checklist Day 6
+## 🎯 Tổng kết Day 6
 
 - [ ] Học 20 từ vựng Money & Economy
 - [ ] Hiểu Reported Speech cho mệnh lệnh (told me to...)

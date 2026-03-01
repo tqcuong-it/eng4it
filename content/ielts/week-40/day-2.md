@@ -148,8 +148,8 @@ Ngữ pháp IELTS không cần quá phức tạp — chỉ cần **chính xác**
 19. Most of people prefer living in cities.
 20. Despite of the rain, we went to school.
 
-<details>
-<summary>🔑 Đáp án</summary>
+
+{{< spoiler "🔑 Đáp án" >}}
 
 1. *...important for **developing** a country.* (gerund sau preposition)
 2. *...should **provide** more funding.* (bare infinitive sau modal)
@@ -172,7 +172,7 @@ Ngữ pháp IELTS không cần quá phức tạp — chỉ cần **chính xác**
 19. *Most **Ø** people prefer...* (bỏ "of" — most + noun trực tiếp)
 20. ***Despite** the rain...* (bỏ "of" — despite không có "of")
 
-</details>
+{{< /spoiler >}}
 
 ---
 
