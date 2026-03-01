@@ -80,51 +80,54 @@ Bài giảng thường có cấu trúc rõ ràng:
 
 ---
 
-## 🎧 Luyện tập — Cambridge IELTS 16, Test 1 — Section 4
+## 🎧 Luyện tập — Cambridge IELTS 14, Test 1 — Section 4
 
-Bấm play, tua đến Section 4 (Stoicism) và làm bài bên dưới:
+Bấm play, tua đến Section 4 (Marine Renewable Energy) và làm bài:
 
-{{< youtube uTl1GrC_MK0 >}}
+{{< youtube R18LH4MTwpk >}}
 
 > ⏱️ Section 4 bắt đầu khoảng phút 20. Nghe **1 lần duy nhất**, ghi chú nhanh!
 
 ---
 
-### Section 4: Stoicism (Câu 31-40)
+### Section 4: Marine Renewable Energy (Câu 31-40)
 
 *Complete the notes below. Write ONE WORD ONLY for each answer.*
 
-**Stoicism**
+**Introduction**
 
-Stoicism is still relevant today because of its 31 __________ appeal.
+- More energy required because of growth in population and 31 __________
+- What's needed: renewable energy sources + methods that won't create pollution
 
-**Ancient Stoics**
+**Wave energy**
 
-- Stoicism was founded over 2,000 years ago in Greece.
-- The Stoics' ideas are surprisingly well known, despite not being intended for 32 __________
+- Advantage: waves provide a 32 __________ source of renewable energy
+- Electricity can be generated using offshore or onshore systems
 
-**Stoic principles**
+**Problems:**
 
-- Happiness could be achieved by leading a virtuous life.
-- Controlling emotions was essential.
-- Epictetus said that external events cannot be controlled but the 33 __________ people make in response can be controlled.
-- A Stoic is someone who has a different view on experiences which others would consider as 34 __________
+- waves can move in any 33 __________
+- movement of sand, etc. on the 34 __________ of the ocean may be affected
 
-**The influence of Stoicism**
+**Tidal energy**
 
-- George Washington organised a 35 __________ about Cato to motivate his men.
-- The French artist Delacroix was a Stoic.
-- Adam Smith's ideas on 36 __________ were influenced by Stoicism.
-- Some of today's political leaders are inspired by the Stoics.
-- **Cognitive Behaviour Therapy (CBT):**
-  - the treatment for 37 __________ is based on ideas from Stoicism
-  - people learn to base their thinking on 38 __________
-- In business, people benefit from Stoicism by identifying obstacles as 39 __________
+- Tides are more 35 __________ than waves
 
-**Relevance of Stoicism**
+**Planned tidal lagoon in Wales:**
 
-- It requires a lot of 40 __________ but Stoicism can help people to lead a good life.
-- It teaches people that having a strong character is more important than anything else.
+- will be created in a 36 __________ at Swansea
+- breakwater (dam) containing 16 turbines
+- stored water is released through 37 __________, driving turbines in reverse
+
+**Advantages:**
+
+- not dependent on weather
+- no 38 __________ is required to make it work
+- likely to create a number of 39 __________
+
+**Problem:**
+
+- may harm fish and birds, e.g. by affecting 40 __________ and building up silt
 
 ---
 
@@ -134,16 +137,16 @@ Stoicism is still relevant today because of its 31 __________ appeal.
 
 | Câu | Đáp án |
 |-----|--------|
-| 31 | practical |
-| 32 | publication |
-| 33 | choices |
-| 34 | negative |
-| 35 | play |
-| 36 | capitalism |
-| 37 | depression |
-| 38 | logic |
-| 39 | opportunity |
-| 40 | practice |
+| 31 | industry |
+| 32 | constant |
+| 33 | direction |
+| 34 | floor |
+| 35 | predictable |
+| 36 | bay |
+| 37 | gates |
+| 38 | fuel |
+| 39 | jobs |
+| 40 | migration |
 
 {{< /spoiler >}}
 

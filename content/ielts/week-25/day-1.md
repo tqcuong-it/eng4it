@@ -55,82 +55,86 @@ draft: false
 
 ---
 
-## 🎧 Luyện tập — Cambridge IELTS 16, Test 1
+## 🎧 Luyện tập — Cambridge IELTS 15, Test 1
 
 Bấm play và làm bài Section 1 + 2 bên dưới:
 
-{{< youtube uTl1GrC_MK0 >}}
+{{< youtube jYka6Sjz-og >}}
 
 > ⏱️ Bấm giờ: 5 phút cho Section 1, 5 phút cho Section 2. Nghe **1 lần duy nhất!**
 
 ---
 
-### Section 1: Children's Engineering Workshops (Câu 1-10)
+### Section 1: Bankside Recruitment Agency (Câu 1-10)
 
 *Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.*
 
-**Tiny Engineers (ages 4-5) — Activities:**
+- Address of agency: 497 Eastside, Docklands
+- Name of agent: Becky 1 __________
+- Phone number: 07866 510333
+- Best to call her in the 2 __________
 
-- Create a cover for an 1 __________ so they can drop it from a height without breaking it
-- Take part in a competition to build the tallest 2 __________
-- Make a 3 __________ powered by a balloon
+**Typical jobs:**
 
-**Junior Engineers (ages 6-8) — Activities:**
+- Clerical and admin roles, mainly in the finance industry
+- Must have good 3 __________ skills
+- Jobs are usually for at least one 4 __________
+- Pay is usually 5 £ __________ per hour
 
-- Build model cars, trucks and 4 __________ and learn how to program them so they can move
-- Take part in a competition to build the longest 5 __________ using card and wood
-- Create a short 6 __________ with special software
-- Build, 7 __________ and program a humanoid robot
+**Registration process:**
 
-**Details:**
+- Wear a 6 __________ to the interview
+- Must bring your 7 __________ to the interview
+- They will ask questions about each applicant's 8 __________
 
-- Cost for a five-week block: £50
-- Held on 8 __________ from 10 am to 11 am
-- Location: Building 10A, 9 __________ Industrial Estate, Grasford
-- Plenty of 10 __________ is available
+**Advantages of using an agency:**
+
+- The 9 __________ you receive at interview will benefit you
+- Will get access to vacancies which are not advertised
+- Less 10 __________ is involved in applying for jobs
 
 ---
 
-### Section 2: Stevenson's Site (Câu 11-20)
+### Section 2: Matthews Island Holidays (Câu 11-20)
 
 **Câu 11-14: Choose the correct letter, A, B or C.**
 
-11\. Stevenson's was founded in
+11\. According to the speaker, the company
 
-- A) 1923
-- B) 1924
-- C) 1926
+- A) has been in business for longer than most of its competitors.
+- B) arranges holidays to more destinations than its competitors.
+- C) has more customers than its competitors.
 
-12\. Originally, Stevenson's manufactured goods for
+12\. Where can customers meet the tour manager before travelling?
 
-- A) the healthcare industry
-- B) the automotive industry
-- C) the machine tools industry
+- A) Liverpool
+- B) Heysham
+- C) Luton
 
-13\. What does the speaker say about the company premises?
+13\. How many lunches are included in the price?
 
-- A) The company has recently moved.
-- B) The company has no plans to move.
-- C) The company is going to move shortly.
+- A) three
+- B) four
+- C) five
 
-14\. The programme for the work experience group includes
+14\. Customers have to pay extra for
 
-- A) time to do research.
-- B) meetings with a teacher.
-- C) talks by staff.
+- A) guaranteeing themselves a larger room.
+- B) booking at short notice.
+- C) transferring to another date.
 
-**Câu 15-20: Label the map — Plan of Stevenson's site**
+**Câu 15-20: Complete the timetable.**
 
-*Write the correct letter, A-J.*
+*Write ONE WORD AND/OR A NUMBER for each answer.*
 
-| # | Location | Answer |
-|---|---|---|
-| 15 | coffee room | __________ |
-| 16 | warehouse | __________ |
-| 17 | staff canteen | __________ |
-| 18 | meeting room | __________ |
-| 19 | human resources | __________ |
-| 20 | boardroom | __________ |
+| # | Câu hỏi | Đáp án |
+|---|---------|--------|
+| 15 | __________ | |
+| 16 | __________ | |
+| 17 | __________ | |
+| 18 | __________ | |
+| 19 | __________ | |
+| 20 | __________ | |
 
 ---
 
@@ -138,35 +142,35 @@ Bấm play và làm bài Section 1 + 2 bên dưới:
 
 {{< spoiler "Bấm để xem đáp án" >}}
 
-### Section 1: Children's Engineering Workshops
+### Section 1: Bankside Recruitment Agency
 
 | Câu | Đáp án |
 |-----|--------|
-| 1 | egg |
-| 2 | tower |
-| 3 | car |
-| 4 | animals |
-| 5 | bridge |
-| 6 | movie / film |
-| 7 | decorate |
-| 8 | Wednesdays |
-| 9 | Fradstone |
-| 10 | parking |
+| 1 | JAMIESON |
+| 2 | afternoon |
+| 3 | communication |
+| 4 | week |
+| 5 | 10 |
+| 6 | suit |
+| 7 | passport |
+| 8 | personality |
+| 9 | feedback |
+| 10 | time |
 
-### Section 2: Stevenson's Site
+### Section 2: Matthews Island Holidays
 
 | Câu | Đáp án |
 |-----|--------|
-| 11 | C |
-| 12 | A |
-| 13 | B |
+| 11 | A |
+| 12 | B |
+| 13 | A |
 | 14 | C |
-| 15 | H |
-| 16 | C |
-| 17 | G |
-| 18 | B |
-| 19 | I |
-| 20 | A |
+| 15 | river |
+| 16 | 1422 |
+| 17 | top |
+| 18 | pass |
+| 19 | steam |
+| 20 | capital |
 
 {{< /spoiler >}}
 

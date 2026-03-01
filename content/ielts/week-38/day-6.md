@@ -26,23 +26,23 @@ Làm 10 câu — tập trung vào dạng bạn HAY SAI NHẤT.
 
 ### Dạng 1: Note Completion (5 câu)
 
-🔊 **Luyện Note Completion — Cambridge IELTS 16, Test 1:**
+🔊 **Luyện Note Completion — Cambridge IELTS 15, Test 1 — Section 4:**
 
-{{< youtube uTl1GrC_MK0 >}}
+{{< youtube jYka6Sjz-og >}}
 
-*Nghe Section 4 (Stoicism) và điền note completion bên dưới:*
+*Tua đến Section 4 (The Eucalyptus Tree in Australia) và điền:*
 
-Stoicism is still relevant today because of its 1 __________ appeal.
+The eucalyptus provides 1 __________ and food for a wide range of species.
 
-The Stoics' ideas are surprisingly well known, despite not being intended for 2 __________
+Its leaves provide 2 __________ which is used to make a disinfectant.
 
-Epictetus said that the 3 __________ people make in response can be controlled.
+'Mundulla Yellows' — lime used for making 3 __________ was absorbed by trees.
 
-George Washington organised a 4 __________ about Cato to motivate his men.
+Bell-miner birds are attracted because 4 __________ feed on eucalyptus leaves.
 
-The treatment for 5 __________ is based on ideas from Stoicism.
+High-frequency bushfires result in the growth of 5 __________.
 
-**Đáp án:** 1) practical, 2) publication, 3) choices, 4) play, 5) depression
+**Đáp án:** 1) shelter, 2) oil, 3) roads, 4) insects, 5) grass
 
 
 > ⚠️ **Hướng dẫn:** Làm bài Note Completion trong video trước. Sau đó thử bài tập bên dưới (tự đọc hoặc nhờ đọc hộ).

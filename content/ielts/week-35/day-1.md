@@ -41,18 +41,20 @@ Làm **10 câu hỏi** — mỗi dạng 2 câu:
 
 **Dạng 1: Form/Note Completion (2 câu)**
 
-🔊 **Nghe Cambridge IELTS 16, Test 1 — Section 1:**
+🔊 **Nghe Cambridge IELTS 14, Test 1 — Section 1:**
 
-{{< youtube uTl1GrC_MK0 >}}
+{{< youtube R18LH4MTwpk >}}
 
-*Nghe Section 1 (Children's Engineering Workshops) và điền đáp án:*
-1. Create a cover for an __________ so they can drop it from a height.
-2. Competition to build the tallest __________.
-3. Make a __________ powered by a balloon.
-4. Build model cars, trucks and __________.
-5. Competition to build the longest __________ using card and wood.
+*Nghe Section 1 (Crime Report Form) và điền đáp án:*
+**Crime Report Form — Louise Taylor:**
 
-**Đáp án Section 1:** 1) egg, 2) tower, 3) car, 4) animals, 5) bridge
+1. Nationality: __________
+2. Reason for visit: business (to buy antique __________)
+3. Current address: __________ Apartments (No 15)
+4. Items stolen: wallet containing approximately £ __________
+5. Also stolen: a __________
+
+**Đáp án Section 1:** 1) Canadian, 2) furniture, 3) Park, 4) 250, 5) phone
 
 
 > ⚠️ **Hướng dẫn:** Làm bài nghe trong video (Cambridge 16, Section 1) để đánh giá trình độ. Sau đó thử bài diagnostic bên dưới.
