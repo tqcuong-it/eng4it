@@ -76,10 +76,6 @@ Nối mỗi địa điểm với hoạt động phù hợp:
 
 ### Bài tập 1: Matching Practice
 
-👉 [British Council — Listening: Matching](https://learnenglish.britishcouncil.org/skills/listening/b1-listening)
-
-👉 [IELTS Liz — Matching Questions](https://ieltsliz.com/ielts-listening-matching-questions/)
-
 ### Bài tập 2: Matching Exercise
 
 Nghe đoạn mô tả sau (đọc to hoặc nhờ người đọc) và nối:

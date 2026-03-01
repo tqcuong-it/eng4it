@@ -14,8 +14,6 @@ draft: false
 ---
 > 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
 
-
-
 ## 🌅 Buổi sáng (15-20 phút) — Ôn tập từ vựng
 
 ### 📝 Tổng hợp 6 chủ đề tuần 10
@@ -58,7 +56,6 @@ Chọn từ phù hợp: *graduate, flexible, feedback, participate, resource*
 5. The library is a great ______ for students.
 
 ---
-
 
 ## 🌙 Buổi tối (40-60 phút) — Mini Test
 
@@ -162,7 +159,6 @@ Viết câu hoàn chỉnh:
 
 ---
 
-
 ### ✅ ĐÁP ÁN MINI TEST
 
 #### Phần 1: Từ vựng
@@ -244,15 +240,11 @@ Viết câu hoàn chỉnh:
 
 ---
 
-
 ## 🎧 Listening: Nghe BBC (5 phút)
-
-👉 [BBC Learning English - Is education the key?](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/2024-0620)
 
 > 💡 **Mẹo:** Nghe và thử ghi chú lại 5 từ bạn nghe được — kiểm tra xem có từ nào đã học trong tuần không!
 
 ---
-
 
 ## 🎯 Checklist Day 7
 

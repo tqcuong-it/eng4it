@@ -59,7 +59,9 @@ draft: false
 
 **Thời gian: 10 phút** (bấm đồng hồ!)
 
-👉 [British Council — Listening Practice Section 1](https://learnenglish.britishcouncil.org/skills/listening/b1-listening)
+🔊 **Luyện Section 1 — Form Completion:**
+
+{{< youtube UwR4X78Ob6g >}}
 
 **Cách làm:**
 1. Mở bài nghe, đọc câu hỏi trong 30 giây
@@ -86,7 +88,9 @@ Nghe và điền thông tin:
 
 **Thời gian: 10 phút**
 
-👉 [IELTS Liz — Section 2 Practice](https://ieltsliz.com/ielts-listening-section-2/)
+🔊 **Luyện Section 2 — Monologue:**
+
+{{< youtube NXtR9h5HM2w >}}
 
 **Cách làm:**
 1. Đọc câu hỏi trong 30 giây
@@ -139,5 +143,5 @@ Sau khi làm xong, tự chấm điểm:
 ## 🔗 Tài liệu tham khảo
 
 - 📖 [IELTS Liz — Listening Tips](https://ieltsliz.com/ielts-listening-tips/)
-- 🎧 [British Council — Listening Practice](https://learnenglish.britishcouncil.org/skills/listening)
+- 🎧 [Cambridge IELTS 18 Full Listening Test](https://www.youtube.com/watch?v=yNt4oyUM6NI)
 - 📝 [Cambridge Sample Tests](https://www.ielts.org/for-test-takers/sample-test-questions)

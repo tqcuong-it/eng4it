@@ -45,13 +45,14 @@ Trước khi bắt đầu, nhắc lại 4 kỹ thuật quan trọng:
 ### Chọn 1 nguồn (KHÁC bài Test 1 tuần trước):
 
 **Nguồn 1 (Khuyến nghị):**
-👉 [Cambridge IELTS Listening Test 2](https://www.youtube.com/results?search_query=cambridge+ielts+15+listening+test+2)
+🔊 **Full Listening Test 2 — Cambridge IELTS 16:**
+
+{{< youtube LoSAT93oJ5Y >}}
 
 **Nguồn 2:**
 👉 [British Council — Practice Test](https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests/listening)
 
 **Nguồn 3:**
-👉 [IELTS Liz — Practice Test](https://ieltsliz.com/ielts-listening-practice-test/)
 
 ---
 

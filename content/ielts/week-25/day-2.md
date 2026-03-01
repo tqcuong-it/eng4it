@@ -75,8 +75,6 @@ Section 3 thường có **ý kiến thay đổi**:
 
 ## 🎧 Bài tập 1: Matching Opinions
 
-👉 [IELTS Liz — Section 3 Practice](https://ieltsliz.com/ielts-listening-section-3/)
-
 **Hướng dẫn:**
 Nghe cuộc thảo luận giữa 2 sinh viên về bài nghiên cứu. Nối ý kiến với người nói đúng.
 
@@ -92,8 +90,6 @@ Nghe cuộc thảo luận giữa 2 sinh viên về bài nghiên cứu. Nối ý 
 ---
 
 ## 🎧 Bài tập 2: Multiple Choice Section 3
-
-👉 [British Council — Academic Discussion](https://learnenglish.britishcouncil.org/skills/listening/b2-listening)
 
 Nghe và chọn đáp án đúng:
 
@@ -115,8 +111,6 @@ Nghe và chọn đáp án đúng:
 ---
 
 ## 🎧 Bài tập 3: Section 3 Full Practice
-
-👉 [Cambridge IELTS Listening Section 3](https://www.youtube.com/results?search_query=cambridge+ielts+listening+section+3+practice)
 
 **Cách luyện:**
 1. Bấm giờ 10 phút

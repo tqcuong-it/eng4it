@@ -117,11 +117,7 @@ Sau khi chấm, xác định bạn yếu ở dạng nào:
 
 Luyện nghe monologue thêm:
 
-👉 [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) — Có transcript
-
-👉 [TED Talks (5 phút)](https://www.ted.com/talks?duration=0-6) — Monologue thực tế
-
-👉 [British Council Audio Zone](https://learnenglish.britishcouncil.org/general-english/audio-zone) — Nhiều chủ đề
+ — Nhiều chủ đề
 
 **Khi nghe, tập:**
 - Ghi chú nhanh (note-taking)

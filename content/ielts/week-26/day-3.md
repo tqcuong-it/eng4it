@@ -101,8 +101,6 @@ Trong IELTS Listening Section 3 & 4, signpost language là **chìa khóa** để
 
 ## 🎧 Bài tập 1: Nghe và đánh dấu Signpost
 
-👉 [TED Talk — Any short talk (5-10 min)](https://www.ted.com/talks)
-
 **Cách làm:**
 1. Chọn 1 TED Talk ngắn (5-10 phút)
 2. Nghe và **ghi lại tất cả signpost words** bạn nghe được
@@ -129,7 +127,9 @@ Trong IELTS Listening Section 3 & 4, signpost language là **chìa khóa** để
 
 ## 🎧 Bài tập 3: Section 4 với Focus vào Signpost
 
-👉 [Cambridge IELTS Section 4](https://www.youtube.com/results?search_query=cambridge+ielts+listening+section+4)
+🔊 **Video luyện Signpost Language:**
+
+{{< youtube YCYu1GuqRdo >}}
 
 **Cách làm:**
 1. Nghe Section 4 practice

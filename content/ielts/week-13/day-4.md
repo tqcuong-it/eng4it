@@ -69,9 +69,9 @@ IELTS **rất hiếm** khi dùng ĐÚNG từ trong audio cho đáp án. Thay và
 
 ### Bài tập 1: Multiple Choice Practice
 
-👉 [British Council — Multiple choice listening](https://learnenglish.britishcouncil.org/skills/listening/b1-listening/planning-a-trip)
+🔊 **Video luyện Multiple Choice:**
 
-👉 [Cambridge IELTS Listening Practice](https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/)
+{{< youtube 3oQNETB8RdA >}}
 
 ### Bài tập 2: Loại trừ đáp án
 

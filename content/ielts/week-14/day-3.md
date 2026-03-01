@@ -84,7 +84,9 @@ A. Summer only    B. Winter only    C. All year round
 
 ### Bài tập 1: Classification Practice
 
-👉 [IELTS Liz — Classification Questions](https://ieltsliz.com/ielts-listening-classification-questions/)
+🔊 **Video luyện Classification:**
+
+{{< youtube O8DtgEZQv5o >}}
 
 👉 [British Council — Listening Practice](https://learnenglish.britishcouncil.org/skills/listening/b1-listening)
 

@@ -39,21 +39,21 @@ Hôm nay bạn sẽ làm **Full Listening Test 1** — mô phỏng thi thật 10
 
 ---
 
+🔊 **Full Listening Test — Cambridge IELTS 15, Test 1:**
+
+{{< youtube jYka6Sjz-og >}}
+
 ## 🎧 Full Listening Test 1
 
 ### Chọn 1 trong các nguồn sau:
 
 **Nguồn 1 (Khuyến nghị):**
-👉 [Cambridge IELTS Listening Test — YouTube](https://www.youtube.com/results?search_query=cambridge+ielts+listening+test+full+with+answers)
 
 **Nguồn 2:**
-👉 [IELTS Liz — Practice Test](https://ieltsliz.com/ielts-listening-practice-test/)
 
 **Nguồn 3:**
-👉 [British Council — IELTS Practice](https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests/listening)
 
 **Nguồn 4:**
-👉 [IELTS.org — Sample Test](https://www.ielts.org/for-test-takers/sample-test-questions)
 
 ---
 
@@ -170,6 +170,5 @@ Ghi đáp án vào bảng dưới:
 
 ## 🔗 Tài liệu tham khảo
 
-- 📖 [Cambridge IELTS Books](https://www.youtube.com/results?search_query=cambridge+ielts+listening+test)
 - 🎧 [British Council Practice Tests](https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests/listening)
 - 📝 [IELTS.org Sample Tests](https://www.ielts.org/for-test-takers/sample-test-questions)
