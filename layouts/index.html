@@ -18,48 +18,125 @@
 </article>
 {{- end }}
 
-{{- /* IELTS Section */ -}}
+{{- /* IELTS Section — Collapsible by Phase */ -}}
 {{- with .Site.GetPage "/ielts" }}
 <div class="category-section">
   <h2>
-    <a href="{{ .Permalink }}">IELTS</a>
+    <a href="{{ .Permalink }}">📚 IELTS 6.0 — 40 Tuần</a>
   </h2>
 
-  {{- /* List weeks */ -}}
-  {{- range sort .Sections "Weight" }}
-  <div class="week-section">
-    <h3>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <span class="count">({{ len .Pages }} bài)</span>
-    </h3>
-    {{- range sort .Pages "Weight" }}
-    <article class="post-entry day-entry">
-      <header class="entry-header">
-        <h4 class="entry-hint-parent">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h4>
-      </header>
-      <div class="entry-content">
-        <p>{{ .Summary | plainify | truncate 120 }}</p>
-      </div>
-    </article>
-    {{- end }}
-  </div>
-  {{- end }}
+  {{- $sections := sort .Sections "Weight" }}
+
+  {{- /* Phase 1: Week 1-12 */ -}}
+  <details class="phase-group" open>
+    <summary class="phase-title">
+      <span>🌱 Phase 1: Nền Tảng</span>
+      <span class="phase-meta">Tuần 1-12 · 84 bài</span>
+    </summary>
+    <div class="phase-weeks">
+      {{- range $sections }}
+        {{- $w := .Weight }}
+        {{- if and (ge $w 1) (le $w 12) }}
+        <details class="week-group">
+          <summary class="week-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <span class="count">{{ len .Pages }} bài</span>
+          </summary>
+          <div class="week-days">
+            {{- range sort .Pages "Weight" }}
+            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
+            {{- end }}
+          </div>
+        </details>
+        {{- end }}
+      {{- end }}
+    </div>
+  </details>
+
+  {{- /* Phase 2: Week 13-24 */ -}}
+  <details class="phase-group">
+    <summary class="phase-title">
+      <span>📖 Phase 2: Kỹ Năng IELTS</span>
+      <span class="phase-meta">Tuần 13-24 · 84 bài</span>
+    </summary>
+    <div class="phase-weeks">
+      {{- range $sections }}
+        {{- $w := .Weight }}
+        {{- if and (ge $w 13) (le $w 24) }}
+        <details class="week-group">
+          <summary class="week-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <span class="count">{{ len .Pages }} bài</span>
+          </summary>
+          <div class="week-days">
+            {{- range sort .Pages "Weight" }}
+            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
+            {{- end }}
+          </div>
+        </details>
+        {{- end }}
+      {{- end }}
+    </div>
+  </details>
+
+  {{- /* Phase 3: Week 25-36 */ -}}
+  <details class="phase-group">
+    <summary class="phase-title">
+      <span>🎯 Phase 3: Luyện Thi</span>
+      <span class="phase-meta">Tuần 25-36 · 84 bài</span>
+    </summary>
+    <div class="phase-weeks">
+      {{- range $sections }}
+        {{- $w := .Weight }}
+        {{- if and (ge $w 25) (le $w 36) }}
+        <details class="week-group">
+          <summary class="week-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <span class="count">{{ len .Pages }} bài</span>
+          </summary>
+          <div class="week-days">
+            {{- range sort .Pages "Weight" }}
+            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
+            {{- end }}
+          </div>
+        </details>
+        {{- end }}
+      {{- end }}
+    </div>
+  </details>
+
+  {{- /* Phase 4: Week 37-40 */ -}}
+  <details class="phase-group">
+    <summary class="phase-title">
+      <span>🏆 Phase 4: Sprint Cuối</span>
+      <span class="phase-meta">Tuần 37-40 · 28 bài</span>
+    </summary>
+    <div class="phase-weeks">
+      {{- range $sections }}
+        {{- $w := .Weight }}
+        {{- if and (ge $w 37) (le $w 40) }}
+        <details class="week-group">
+          <summary class="week-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <span class="count">{{ len .Pages }} bài</span>
+          </summary>
+          <div class="week-days">
+            {{- range sort .Pages "Weight" }}
+            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
+            {{- end }}
+          </div>
+        </details>
+        {{- end }}
+      {{- end }}
+    </div>
+  </details>
 
   {{- /* Roadmap link */ -}}
-  {{- with .GetPage "roadmap" }}
-  <article class="post-entry day-entry">
-    <header class="entry-header">
-      <h4>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h4>
-    </header>
-    <div class="entry-content">
-      <p>{{ .Summary | plainify | truncate 120 }}</p>
-    </div>
-  </article>
-  {{- end }}
+  <div class="roadmap-link">
+    {{- with .GetPage "roadmap" }}
+    <a href="{{ .Permalink }}" class="cta-btn cta-secondary" style="margin-top: 12px; display: inline-flex;">📋 {{ .Title }}</a>
+    {{- end }}
+  </div>
 </div>
 {{- end }}
 
