@@ -28,13 +28,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (05/03) | Greetings & Basics | Present Simple |
-| Day 2 (06/03) | Numbers & Time | Trạng từ tần suất |
-| Day 3 (07/03) | Family & People | Present Continuous |
-| Day 4 (08/03) | Food & Drink | Ôn tập giữa tuần |
-| Day 5 (09/03) | Places & Directions | Past Simple |
-| Day 6 (10/03) | Daily Activities | Past Continuous |
-| Day 7 (11/03) | Ôn tập + Weekly Test | Tổng ôn 4 thì |
+| Day 1 | Greetings & Basics | Present Simple |
+| Day 2 | Numbers & Time | Trạng từ tần suất |
+| Day 3 | Family & People | Present Continuous |
+| Day 4 | Food & Drink | Ôn tập giữa tuần |
+| Day 5 | Places & Directions | Past Simple |
+| Day 6 | Daily Activities | Past Continuous |
+| Day 7 | Ôn tập + Weekly Test | Tổng ôn 4 thì |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

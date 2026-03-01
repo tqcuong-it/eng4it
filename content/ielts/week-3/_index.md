@@ -27,13 +27,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (19/03) | Past Activities | Past Simple (regular: -ed) |
-| Day 2 (20/03) | Travel Vocabulary | Past Simple (irregular) |
-| Day 3 (21/03) | Hobbies & Sports | Past Simple (negative & question) |
-| Day 4 (22/03) | Life Events | Past Continuous |
-| Day 5 (23/03) | Childhood Memories | Past Simple vs Past Continuous |
-| Day 6 (24/03) | Historical Events | Time Expressions |
-| Day 7 (25/03) | Ôn tập + Mini Test | Tổng ôn tuần 3 |
+| Day 1 | Past Activities | Past Simple (regular: -ed) |
+| Day 2 | Travel Vocabulary | Past Simple (irregular) |
+| Day 3 | Hobbies & Sports | Past Simple (negative & question) |
+| Day 4 | Life Events | Past Continuous |
+| Day 5 | Childhood Memories | Past Simple vs Past Continuous |
+| Day 6 | Historical Events | Time Expressions |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 3 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

@@ -27,13 +27,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (12/03) | Places in Town | There is / There are |
-| Day 2 (13/03) | Directions & Transport | Prepositions of Place |
-| Day 3 (14/03) | Home & Rooms | Prepositions of Time |
-| Day 4 (15/03) | School & Work | Articles (a/an/the) |
-| Day 5 (16/03) | Shopping & Money | How much / How many |
-| Day 6 (17/03) | Countries & Nationalities | Comparatives |
-| Day 7 (18/03) | Ôn tập + Mini Test | Tổng ôn tuần 2 |
+| Day 1 | Places in Town | There is / There are |
+| Day 2 | Directions & Transport | Prepositions of Place |
+| Day 3 | Home & Rooms | Prepositions of Time |
+| Day 4 | School & Work | Articles (a/an/the) |
+| Day 5 | Shopping & Money | How much / How many |
+| Day 6 | Countries & Nationalities | Comparatives |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 2 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

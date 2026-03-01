@@ -28,13 +28,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (09/04) | Jobs & Professions | Present Perfect (giới thiệu) |
-| Day 2 (10/04) | Work Skills | Present Perfect (ever/never) |
-| Day 3 (11/04) | Office Vocabulary | Present Perfect (already/yet) |
-| Day 4 (12/04) | Job Interview | Present Perfect (for/since) |
-| Day 5 (13/04) | Work Routines | Present Perfect vs Past Simple |
-| Day 6 (14/04) | Career Development | Superlatives (the most/the -est) |
-| Day 7 (15/04) | Ôn tập + Mini Test | Tổng ôn tuần 6 |
+| Day 1 | Jobs & Professions | Present Perfect (giới thiệu) |
+| Day 2 | Work Skills | Present Perfect (ever/never) |
+| Day 3 | Office Vocabulary | Present Perfect (already/yet) |
+| Day 4 | Job Interview | Present Perfect (for/since) |
+| Day 5 | Work Routines | Present Perfect vs Past Simple |
+| Day 6 | Career Development | Superlatives (the most/the -est) |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 6 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

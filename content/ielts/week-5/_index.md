@@ -29,13 +29,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (02/04) | Body Parts | Imperative (Stand up! Don't run!) |
-| Day 2 (03/04) | Health & Illness | should / shouldn't |
-| Day 3 (04/04) | At the Doctor | can / can't |
-| Day 4 (05/04) | Healthy Habits | have to / don't have to |
-| Day 5 (06/04) | Emotions & Feelings | Adjectives -ed / -ing |
-| Day 6 (07/04) | Medicine & Treatment | must / mustn't |
-| Day 7 (08/04) | Ôn tập + Mini Test | Tổng ôn tuần 5 |
+| Day 1 | Body Parts | Imperative (Stand up! Don't run!) |
+| Day 2 | Health & Illness | should / shouldn't |
+| Day 3 | At the Doctor | can / can't |
+| Day 4 | Healthy Habits | have to / don't have to |
+| Day 5 | Emotions & Feelings | Adjectives -ed / -ing |
+| Day 6 | Medicine & Treatment | must / mustn't |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 5 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

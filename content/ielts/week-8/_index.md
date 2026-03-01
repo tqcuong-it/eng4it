@@ -30,13 +30,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (23/04) | Animals & Nature | Passive Voice (past) |
-| Day 2 (24/04) | Environment Problems | Zero Conditional |
-| Day 3 (25/04) | Climate & Weather | First Conditional (review) |
-| Day 4 (26/04) | Conservation | Second Conditional |
-| Day 5 (27/04) | Natural Disasters | Modals of Possibility (might/may) |
-| Day 6 (28/04) | Green Living | Gerunds vs Infinitives |
-| Day 7 (29/04) | Ôn tập + Mini Test | Tổng ôn tuần 8 |
+| Day 1 | Animals & Nature | Passive Voice (past) |
+| Day 2 | Environment Problems | Zero Conditional |
+| Day 3 | Climate & Weather | First Conditional (review) |
+| Day 4 | Conservation | Second Conditional |
+| Day 5 | Natural Disasters | Modals of Possibility (might/may) |
+| Day 6 | Green Living | Gerunds vs Infinitives |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 8 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

@@ -29,13 +29,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (16/04) | Communication | Relative Clauses (who) |
-| Day 2 (17/04) | Social Media | Relative Clauses (which/that) |
-| Day 3 (18/04) | Phone Conversations | Reported Speech (giới thiệu) |
-| Day 4 (19/04) | Email & Letters | Reported Speech (statements) |
-| Day 5 (20/04) | News & Media | Passive Voice (giới thiệu) |
-| Day 6 (21/04) | Internet & Technology | Passive Voice (hiện tại) |
-| Day 7 (22/04) | Ôn tập + Mini Test | Tổng ôn tuần 7 |
+| Day 1 | Communication | Relative Clauses (who) |
+| Day 2 | Social Media | Relative Clauses (which/that) |
+| Day 3 | Phone Conversations | Reported Speech (giới thiệu) |
+| Day 4 | Email & Letters | Reported Speech (statements) |
+| Day 5 | News & Media | Passive Voice (giới thiệu) |
+| Day 6 | Internet & Technology | Passive Voice (hiện tại) |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 7 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 

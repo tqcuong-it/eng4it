@@ -14,7 +14,7 @@ weight: 1
 
 ## 🎯 Mục tiêu
 
-**IELTS Academic 6.0** trong **10 tháng** (40 tuần), bắt đầu từ **05/03/2026**.
+**IELTS Academic 6.0** trong **10 tháng** (40 tuần) — học theo tốc độ của bạn.
 
 - ⏰ Mỗi ngày: **1-2 giờ** tự học
 - 👤 Đối tượng: Người Việt muốn tự học IELTS từ đầu

@@ -27,13 +27,13 @@ Sau tuần này, bạn sẽ:
 
 | Ngày | Chủ đề | Grammar |
 |------|--------|---------|
-| Day 1 (26/03) | Plans & Goals | Future Simple (will) |
-| Day 2 (27/03) | Predictions | Going to |
-| Day 3 (28/03) | Schedules | Present Simple for Future |
-| Day 4 (29/03) | Travel Plans | Future Continuous |
-| Day 5 (30/03) | Career Goals | will vs going to |
-| Day 6 (31/03) | Technology & Future | First Conditional |
-| Day 7 (01/04) | Ôn tập + Mini Test | Tổng ôn tuần 4 |
+| Day 1 | Plans & Goals | Future Simple (will) |
+| Day 2 | Predictions | Going to |
+| Day 3 | Schedules | Present Simple for Future |
+| Day 4 | Travel Plans | Future Continuous |
+| Day 5 | Career Goals | will vs going to |
+| Day 6 | Technology & Future | First Conditional |
+| Day 7 | Ôn tập + Mini Test | Tổng ôn tuần 4 |
 
 ## ⏰ Thời gian mỗi ngày: 1-1.5 giờ
 
