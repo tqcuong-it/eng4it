@@ -212,6 +212,6 @@ ShowToc: true
 
 ## 🚀 Bắt đầu ngay!
 
-👉 [**Week 1 — Day 1: Education & Present Simple**](/ielts/week-1/day-1/)
+👉 [**Week 1 — Day 1: Education & Present Simple**](/ielts/week-1/day-1-greetings-basics-present-simple/)
 
 Hành trình 10 tháng bắt đầu từ bước đầu tiên. Mỗi ngày 1-2 giờ, kiên trì là chìa khóa! 💪
