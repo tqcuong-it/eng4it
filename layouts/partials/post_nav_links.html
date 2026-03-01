@@ -1,0 +1,45 @@
+{{- /* Custom prev/next for IELTS learning order (by date ascending) */ -}}
+{{- if eq .Section "ielts" }}
+{{- $pages := where (where site.RegularPages "Section" "ielts") ".Params.weight" "!=" nil }}
+{{- $pages = $pages.ByDate }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« Bài trước</span>
+    <br>
+    <span>{{- .Title -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">Bài tiếp theo »</span>
+    <br>
+    <span>{{- .Title -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
+
+{{- else }}
+{{- /* Non-IELTS posts: default PaperMod behavior */ -}}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« Bài trước</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">Bài tiếp theo »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
+{{- end }}
