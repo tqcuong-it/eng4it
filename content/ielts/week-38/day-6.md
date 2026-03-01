@@ -26,23 +26,23 @@ Làm 10 câu — tập trung vào dạng bạn HAY SAI NHẤT.
 
 ### Dạng 1: Note Completion (5 câu)
 
-🔊 **Luyện Note Completion — Cambridge IELTS 15, Test 1 — Section 4:**
+🔊 **Luyện Note Completion — Cambridge IELTS 18, Test 1 — Section 4:**
 
-{{< youtube jYka6Sjz-og >}}
+{{< youtube yNt4oyUM6NI >}}
 
-*Tua đến Section 4 (The Eucalyptus Tree in Australia) và điền:*
+*Tua đến Section 4 (Elephant Translocation) và điền:*
 
-The eucalyptus provides 1 __________ and food for a wide range of species.
+Overpopulation caused damage to 1 __________ in the park.
 
-Its leaves provide 2 __________ which is used to make a disinfectant.
+A suitable group of elephants from the same 2 __________ was selected.
 
-'Mundulla Yellows' — lime used for making 3 __________ was absorbed by trees.
+Vets used 3 __________ to help guide the elephants into an open plain.
 
-Bell-miner birds are attracted because 4 __________ feed on eucalyptus leaves.
+The process had to be completed quickly to reduce 4 __________.
 
-High-frequency bushfires result in the growth of 5 __________.
+Translocation led to an increase in 5 __________ as a contributor to GDP.
 
-**Đáp án:** 1) shelter, 2) oil, 3) roads, 4) insects, 5) grass
+**Đáp án:** 1) fences, 2) family, 3) helicopters, 4) stress, 5) tourism
 
 
 > ⚠️ **Hướng dẫn:** Làm bài Note Completion trong video trước. Sau đó thử bài tập bên dưới (tự đọc hoặc nhờ đọc hộ).

@@ -38,278 +38,223 @@ Hôm nay bạn làm **2 bài thi liên tiếp** — đúng như thi thật!
 
 ## 🎧 LISTENING — 30 phút (40 câu)
 
-### 🔊 Audio — Cambridge IELTS 17, Test 1
+### 🔊 Audio — Cambridge IELTS 16, Test 1
 
 Bấm play và làm bài theo từng Section bên dưới:
 
-{{< youtube NvaGMFyrw90 >}}
+{{< youtube uTl1GrC_MK0 >}}
 
 ---
 
-### Section 1: Conversation — Buckworth Conservation Group (Câu 1-10)
+### Section 1: Children's Engineering Workshops (Câu 1-10)
 
-**Câu 1-10: Complete the notes below.**
+*Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.*
 
-*Write ONE WORD AND/OR A NUMBER for each answer.*
+**Tiny Engineers (ages 4-5) — Activities:**
 
-### Buckworth Conservation Group
+- Create a cover for an 1 __________ so they can drop it from a height without breaking it
+- Take part in a competition to build the tallest 2 __________
+- Make a 3 __________ powered by a balloon
 
-**Regular activities**
+**Junior Engineers (ages 6-8) — Activities:**
 
-**Beach**
+- Build model cars, trucks and 4 __________ and learn how to program them so they can move
+- Take part in a competition to build the longest 5 __________ using card and wood
+- Create a short 6 __________ with special software
+- Build, 7 __________ and program a humanoid robot
 
-- making sure the beach does not have 1 __________ on it
-- no 2 __________
+**Details:**
 
-**Nature reserve**
-
-- maintaining paths
-- nesting boxes for birds installed
-- next task is taking action to attract 3 __________ to the place
-- identifying types of 4 __________
-- building a new 5 __________
-
-**Forthcoming events**
-
-**Saturday**
-
-- meet at Dunsmore Beach car park
-- walk across the sands and reach the 6 __________
-- take a picnic
-- wear appropriate 7 __________
-
-**Woodwork session**
-
-- suitable for 8 __________ to participate in
-- making 9 __________ out of wood
-- 17th, from 10 a.m. to 3 p.m.
-- cost of session (no camping): 10 £ __________
+- Cost for a five-week block: £50
+- Held on 8 __________ from 10 am to 11 am
+- Location: Building 10A, 9 __________ Industrial Estate, Grasford
+- Plenty of 10 __________ is available
 
 ---
 
-### Section 2: Monologue — Boat Trip Round Tasmania (Câu 11-20)
+### Section 2: Plan of Stevenson's Site (Câu 11-20)
 
 **Câu 11-14: Choose the correct letter, A, B or C.**
 
-11\. What is the maximum number of people who can stand on each side of the boat?
+11\. Stevenson's was founded in
 
-- A) 9
-- B) 15
-- C) 18
+- A) 1923
+- B) 1924
+- C) 1926
 
-12\. What colour are the tour boats?
+12\. Originally, Stevenson's manufactured goods for
 
-- A) dark red
-- B) jet black
-- C) light green
+- A) the healthcare industry
+- B) the automotive industry
+- C) the machine tools industry
 
-13\. Which lunchbox is suitable for someone who doesn't eat meat or fish?
+13\. What does the speaker say about the company premises?
 
-- A) Lunchbox 1
-- B) Lunchbox 2
-- C) Lunchbox 3
+- A) The company has recently moved.
+- B) The company has no plans to move.
+- C) The company is going to move shortly.
 
-14\. What should people do with their litter?
+14\. The programme for the work experience group includes
 
-- A) take it home
-- B) hand it to a member of staff
-- C) put it in the bins provided on the boat
+- A) time to do research.
+- B) meetings with a teacher.
+- C) talks by staff.
 
-**Câu 15-16: Choose TWO letters, A-E.**
+**Câu 15-20: Label the map — Plan of Stevenson's site**
 
-Which TWO features of the lighthouse does Lou mention?
+*Write the correct letter, A-J.*
 
-- A) why it was built
-- B) who built it
-- C) how long it took to build
-- D) who staffed it
-- E) what it was built with
-
-**Câu 17-18: Choose TWO letters, A-E.**
-
-Which TWO types of creature might come close to the boat?
-
-- A) sea eagles
-- B) fur seals
-- C) dolphins
-- D) whales
-- E) penguins
-
-**Câu 19-20: Choose TWO letters, A-E.**
-
-Which TWO points does Lou make about the caves?
-
-- A) Only large tourist boats can visit them
-- B) The entrances to them are often blocked
-- C) It is too dangerous for individuals to go near them
-- D) Someone will explain what is inside them
-- E) They cannot be reached on foot
-
----
-
-### Section 3: Discussion — Work Experience for Veterinary Science Students (Câu 21-30)
-
-**Câu 21-26: Choose the correct letter, A, B or C.**
-
-21\. What problem do both Diana and Tim have when arranging their work experience?
-
-- A) making initial contact with suitable farms
-- B) organizing transport to and from the farm
-- C) finding a placement for the required length of time
-
-22\. Tim was pleased to be able to help
-
-- A) a lamb that had a broken leg
-- B) a sheep that was having difficulty giving birth
-- C) a newly born lamb that was having trouble feeding
-
-23\. Diana says the sheep on her farm
-
-- A) were of various different varieties
-- B) were mainly reared for their meat
-- C) had better quality wool than sheep on the hills
-
-24\. What did the students learn about adding supplements to chicken feed?
-
-- A) These should only be given if specially needed
-- B) It is worth paying extra for the most effective ones
-- C) The amount given at one time should be limited
-
-25\. What happened when Diana was working with dairy cows?
-
-- A) She identified some cows incorrectly
-- B) She accidentally threw some milk away
-- C) She made a mistake when storing milk
-
-26\. What did both farmers mention about vets and farming?
-
-- A) Vets are failing to cope with some aspects of animal health
-- B) There needs to be a fundamental change in the training of vets
-- C) Some jobs could be done by the farmer rather than by a vet
-
-**Câu 27-30: Matching**
-
-What opinion do the students give about each of the following modules?
-
-*Choose FOUR answers from the box.*
-
-| | Opinions |
-|---|---|
-| A | Tim found this easier than expected |
-| B | Tim thought this was not very clearly organized |
-| C | Diana may do some further study on this |
-| D | They both found the reading required for this was difficult |
-| E | Tim was shocked at something he learned on this module |
-| F | They were both surprised how little is known about some aspects of this |
-
-| # | Module | Answer |
+| # | Location | Answer |
 |---|---|---|
-| 27 | Medical terminology | __________ |
-| 28 | Diet and nutrition | __________ |
-| 29 | Animal disease | __________ |
-| 30 | Wildlife medication | __________ |
+| 15 | coffee room | __________ |
+| 16 | warehouse | __________ |
+| 17 | staff canteen | __________ |
+| 18 | meeting room | __________ |
+| 19 | human resources | __________ |
+| 20 | boardroom | __________ |
 
 ---
 
-### Section 4: Lecture — Labyrinths (Câu 31-40)
+### Section 3: Jess and Tom's Art Projects (Câu 21-30)
 
-**Câu 31-40: Complete the notes below.**
+**Câu 21-22: Choose TWO letters, A-E.**
 
-*Write ONE WORD ONLY for each answer.*
+Which TWO parts of the introductory stage do Jess and Tom agree were useful?
 
-### Labyrinths
+- A) the Bird Park visit
+- B) the workshop sessions
+- C) the Natural History Museum visit
+- D) the projects done in previous years
+- E) the handouts with research sources
 
-**Definition**
+**Câu 23-24: Choose TWO letters, A-E.**
 
-- A winding spiral path leading to a central area
+In which TWO ways do both decide to change their proposals?
 
-**Labyrinths compared with mazes**
+- A) by giving a rationale for their action plans
+- B) by being less specific about the outcome
+- C) by adding a video diary presentation
+- D) by providing a timeline and a mind map
+- E) by making their notes more evaluative
 
-- Mazes are a type of 31 __________
-- 32 __________ is needed to navigate through a maze
-- the word "maze" is derived from a word meaning a feeling of 33 __________
-- Labyrinths represent a journey through life — they have frequently been used in 34 __________ and prayer
+**Câu 25-30: Matching — Personal meanings of pictures**
 
-**Early examples of the labyrinth spiral**
+*Choose SIX answers from the box.*
 
-- Ancient carvings on 35 __________ have been found across many cultures
-- The Pima, a Native American tribe, wove the symbol on baskets
-- Ancient Greeks used the symbol on 36 __________
+| | Personal meanings |
+|---|---|
+| A | a childhood memory |
+| B | hope for the future |
+| C | fast movement |
+| D | a potential threat |
+| E | the power of colour |
+| F | the continuity of life |
+| G | protection of nature |
+| H | a confused attitude to nature |
 
-**Walking labyrinths**
-
-- The largest surviving example of a turf labyrinth once had a big 37 __________ at its centre
-
-**Labyrinths nowadays**
-
-- Believed to have a beneficial impact on mental and physical health, e.g. walking a maze can reduce a person's 38 __________ rate
-- Used in medical and health and fitness settings and also prisons
-- Popular with patients, visitors and staff in hospitals:
-  - patients who can't walk use 'finger labyrinths' made from 39 __________
-  - research has shown that Alzheimer's sufferers experience less 40 __________
+| # | Picture | Answer |
+|---|---|---|
+| 25 | Falcon (Landseer) | __________ |
+| 26 | Fish hawk (Audubon) | __________ |
+| 27 | Kingfisher (van Gogh) | __________ |
+| 28 | Portrait of William Wells | __________ |
+| 29 | Vairumati (Gauguin) | __________ |
+| 30 | Portrait of Giovanni de Medici | __________ |
 
 ---
 
-## ✅ Đáp án Listening — Cambridge IELTS 17, Test 1
+### Section 4: Stoicism (Câu 31-40)
+
+*Complete the notes below. Write ONE WORD ONLY for each answer.*
+
+Stoicism is still relevant today because of its 31 __________ appeal.
+
+**Ancient Stoics:**
+
+- Founded over 2,000 years ago in Greece
+- Ideas are surprisingly well known, despite not being intended for 32 __________
+
+**Stoic principles:**
+
+- Happiness could be achieved by leading a virtuous life
+- Epictetus: external events cannot be controlled but the 33 __________ people make in response can be controlled
+- A Stoic has a different view on experiences others consider as 34 __________
+
+**The influence of Stoicism:**
+
+- George Washington organised a 35 __________ about Cato to motivate his men
+- Adam Smith's ideas on 36 __________ were influenced by Stoicism
+- CBT: treatment for 37 __________ is based on ideas from Stoicism
+- People learn to base their thinking on 38 __________
+- In business, obstacles are identified as 39 __________
+
+**Relevance:**
+
+- Requires a lot of 40 __________ but can help people lead a good life
+
+---
+
+## ✅ Đáp án Listening — Cambridge IELTS 16, Test 1
 
 {{< spoiler "Bấm để xem đáp án" >}}
 
-### Section 1: Buckworth Conservation Group
+### Section 1: Children's Engineering Workshops
 
 | Câu | Đáp án |
 |-----|--------|
-| 1 | litter |
-| 2 | dogs |
-| 3 | insects |
-| 4 | butterflies |
-| 5 | wall |
-| 6 | island |
-| 7 | boots |
-| 8 | beginners |
-| 9 | spoons |
-| 10 | 35 |
+| 1 | egg |
+| 2 | tower |
+| 3 | car |
+| 4 | animals |
+| 5 | bridge |
+| 6 | movie / film |
+| 7 | decorate |
+| 8 | Wednesdays |
+| 9 | Fradstone |
+| 10 | parking |
 
-### Section 2: Boat Trip Round Tasmania
+### Section 2: Stevenson's Site
 
 | Câu | Đáp án |
 |-----|--------|
-| 11 | A |
-| 12 | C |
+| 11 | C |
+| 12 | A |
 | 13 | B |
-| 14 | B |
-| 15 & 16 | A, D |
-| 17 & 18 | B, C |
-| 19 & 20 | D, E |
+| 14 | C |
+| 15 | H |
+| 16 | C |
+| 17 | G |
+| 18 | B |
+| 19 | I |
+| 20 | A |
 
-### Section 3: Veterinary Science Students
+### Section 3: Art Projects
 
 | Câu | Đáp án |
 |-----|--------|
-| 21 | A |
-| 22 | B |
-| 23 | B |
-| 24 | A |
-| 25 | C |
+| 21 & 22 | C, E |
+| 23 & 24 | B, E |
+| 25 | D |
 | 26 | C |
 | 27 | A |
-| 28 | E |
+| 28 | H |
 | 29 | F |
-| 30 | C |
+| 30 | G |
 
-### Section 4: Labyrinths
+### Section 4: Stoicism
 
 | Câu | Đáp án |
 |-----|--------|
-| 31 | puzzle |
-| 32 | logic |
-| 33 | confusion |
-| 34 | meditation |
-| 35 | stone |
-| 36 | coins |
-| 37 | tree |
-| 38 | breathing |
-| 39 | paper |
-| 40 | anxiety |
+| 31 | practical |
+| 32 | publication |
+| 33 | choices |
+| 34 | negative |
+| 35 | play |
+| 36 | capitalism |
+| 37 | depression |
+| 38 | logic |
+| 39 | opportunity |
+| 40 | practice |
 
 {{< /spoiler >}}
 
@@ -345,10 +290,9 @@ What opinion do the students give about each of the following modules?
 
 > ⏱️ Bấm đồng hồ **60 phút** trước khi bắt đầu!
 
-Phần Reading, hãy sử dụng đề thi từ sách **Cambridge IELTS 17, Test 1** hoặc làm online tại:
+Phần Reading, hãy sử dụng đề thi từ sách **Cambridge IELTS 16, Test 1** hoặc làm online tại:
 
-- 👉 [Cambridge IELTS 17 Reading Test 1 — IELTS Online Tests](https://ieltsonlinetests.com/ielts-exam-library#cambridge-17)
-- 👉 [Cambridge IELTS 17 Reading Practice — IELTS Xpress](https://www.ieltsxpress.com/cambridge-ielts-17-reading-test-1/)
+- 👉 [Cambridge IELTS 16 Reading — IELTS Xpress](https://www.ieltsxpress.com/cambridge-ielts-16-academic-reading-1-answers/)
 
 ---
 
@@ -359,4 +303,4 @@ Phần Reading, hãy sử dụng đề thi từ sách **Cambridge IELTS 17, Test
 | Listening | ___/40 | |
 | Reading | ___/40 | |
 
-> 💡 **Tip:** So sánh với Mock Test 1-3 trước đó. Bạn có tiến bộ không? Section nào vẫn yếu? Ghi lại để tập trung ôn!
+> 💡 **Tip:** So sánh với Mock Test 1-3 trước đó. Bạn có tiến bộ không? Section nào vẫn yếu?

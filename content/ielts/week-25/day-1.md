@@ -55,86 +55,83 @@ draft: false
 
 ---
 
-## 🎧 Luyện tập — Cambridge IELTS 15, Test 1
+## 🎧 Luyện tập — Cambridge IELTS 14, Test 1
 
 Bấm play và làm bài Section 1 + 2 bên dưới:
 
-{{< youtube jYka6Sjz-og >}}
+{{< youtube R18LH4MTwpk >}}
 
 > ⏱️ Bấm giờ: 5 phút cho Section 1, 5 phút cho Section 2. Nghe **1 lần duy nhất!**
 
 ---
 
-### Section 1: Bankside Recruitment Agency (Câu 1-10)
+### Section 1: Crime Report Form (Câu 1-10)
 
-*Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.*
+*Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.*
 
-- Address of agency: 497 Eastside, Docklands
-- Name of agent: Becky 1 __________
-- Phone number: 07866 510333
-- Best to call her in the 2 __________
+**Personal information — Louise Taylor:**
 
-**Typical jobs:**
+- Nationality: 1 __________
+- Occupation: interior designer
+- Reason for visit: business (to buy antique 2 __________)
+- Current address: 3 __________ Apartments (No 15)
 
-- Clerical and admin roles, mainly in the finance industry
-- Must have good 3 __________ skills
-- Jobs are usually for at least one 4 __________
-- Pay is usually 5 £ __________ per hour
+**Details of theft:**
 
-**Registration process:**
+- Items stolen: wallet containing approximately 4 £ __________
+- Also stolen: a 5 __________
+- Date of theft: 6 __________
 
-- Wear a 6 __________ to the interview
-- Must bring your 7 __________ to the interview
-- They will ask questions about each applicant's 8 __________
+**Possible time and place of theft:**
 
-**Advantages of using an agency:**
+- Location: outside the 7 __________ at about 4 pm
+- Details of suspect: some boys asked for the 8 __________ then ran off
+- One had a T-shirt with a picture of a tiger, about 12, slim build with 9 __________ hair
 
-- The 9 __________ you receive at interview will benefit you
-- Will get access to vacancies which are not advertised
-- Less 10 __________ is involved in applying for jobs
+**Crime reference number:** 10 __________
 
 ---
 
-### Section 2: Matthews Island Holidays (Câu 11-20)
+### Section 2: Induction Talk for New Apprentices (Câu 11-20)
 
-**Câu 11-14: Choose the correct letter, A, B or C.**
+**Câu 11-12: Choose TWO letters, A-E.**
 
-11\. According to the speaker, the company
+Which TWO pieces of advice for the first week does the manager give?
 
-- A) has been in business for longer than most of its competitors.
-- B) arranges holidays to more destinations than its competitors.
-- C) has more customers than its competitors.
+- A) get to know colleagues
+- B) learn from any mistakes
+- C) ask lots of questions
+- D) react positively to feedback
+- E) enjoy new challenges
 
-12\. Where can customers meet the tour manager before travelling?
+**Câu 13-14: Choose TWO letters, A-E.**
 
-- A) Liverpool
-- B) Heysham
-- C) Luton
+Which TWO things does the manager say mentors can help with?
 
-13\. How many lunches are included in the price?
+- A) confidence-building
+- B) making career plans
+- C) completing difficult tasks
+- D) making a weekly timetable
+- E) reviewing progress
 
-- A) three
-- B) four
-- C) five
+**Câu 15-20: Company policy for apprentices**
 
-14\. Customers have to pay extra for
+*Write the correct letter, A, B or C.*
 
-- A) guaranteeing themselves a larger room.
-- B) booking at short notice.
-- C) transferring to another date.
+| | Policy | A = Encouraged | B = Some restrictions | C = Against the rules |
+|---|---|---|---|---|
+| A | It is encouraged. | | | |
+| B | There are some restrictions. | | | |
+| C | It is against the rules. | | | |
 
-**Câu 15-20: Complete the timetable.**
-
-*Write ONE WORD AND/OR A NUMBER for each answer.*
-
-| # | Câu hỏi | Đáp án |
-|---|---------|--------|
-| 15 | __________ | |
-| 16 | __________ | |
-| 17 | __________ | |
-| 18 | __________ | |
-| 19 | __________ | |
-| 20 | __________ | |
+| # | Aspect | Answer |
+|---|--------|--------|
+| 15 | Using the internet | __________ |
+| 16 | Flexible working | __________ |
+| 17 | Booking holidays | __________ |
+| 18 | Working overtime | __________ |
+| 19 | Wearing trainers | __________ |
+| 20 | Bringing food to work | __________ |
 
 ---
 
@@ -142,35 +139,33 @@ Bấm play và làm bài Section 1 + 2 bên dưới:
 
 {{< spoiler "Bấm để xem đáp án" >}}
 
-### Section 1: Bankside Recruitment Agency
+### Section 1: Crime Report Form
 
 | Câu | Đáp án |
 |-----|--------|
-| 1 | JAMIESON |
-| 2 | afternoon |
-| 3 | communication |
-| 4 | week |
-| 5 | 10 |
-| 6 | suit |
-| 7 | passport |
-| 8 | personality |
-| 9 | feedback |
-| 10 | time |
+| 1 | Canadian |
+| 2 | furniture |
+| 3 | Park |
+| 4 | 250 |
+| 5 | phone |
+| 6 | 10(th) September |
+| 7 | museum |
+| 8 | time |
+| 9 | blond(e) |
+| 10 | 87954 82361 |
 
-### Section 2: Matthews Island Holidays
+### Section 2: Induction for Apprentices
 
 | Câu | Đáp án |
 |-----|--------|
-| 11 | A |
-| 12 | B |
-| 13 | A |
-| 14 | C |
-| 15 | river |
-| 16 | 1422 |
-| 17 | top |
-| 18 | pass |
-| 19 | steam |
-| 20 | capital |
+| 11 & 12 | A, C |
+| 13 & 14 | B, E |
+| 15 | B |
+| 16 | B |
+| 17 | C |
+| 18 | A |
+| 19 | A |
+| 20 | A |
 
 {{< /spoiler >}}
 

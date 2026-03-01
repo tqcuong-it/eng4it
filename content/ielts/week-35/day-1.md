@@ -41,20 +41,20 @@ Làm **10 câu hỏi** — mỗi dạng 2 câu:
 
 **Dạng 1: Form/Note Completion (2 câu)**
 
-🔊 **Nghe Cambridge IELTS 14, Test 1 — Section 1:**
+🔊 **Nghe Cambridge IELTS 15, Test 1 — Section 1:**
 
-{{< youtube R18LH4MTwpk >}}
+{{< youtube jYka6Sjz-og >}}
 
-*Nghe Section 1 (Crime Report Form) và điền đáp án:*
-**Crime Report Form — Louise Taylor:**
+*Nghe Section 1 (Bankside Recruitment Agency) và điền đáp án:*
+**Bankside Recruitment Agency:**
 
-1. Nationality: __________
-2. Reason for visit: business (to buy antique __________)
-3. Current address: __________ Apartments (No 15)
-4. Items stolen: wallet containing approximately £ __________
-5. Also stolen: a __________
+1. Name of agent: Becky __________
+2. Best to call her in the __________
+3. Must have good __________ skills
+4. Wear a __________ to the interview
+5. Must bring your __________ to the interview
 
-**Đáp án Section 1:** 1) Canadian, 2) furniture, 3) Park, 4) 250, 5) phone
+**Đáp án Section 1:** 1) JAMIESON, 2) afternoon, 3) communication, 4) suit, 5) passport
 
 
 > ⚠️ **Hướng dẫn:** Làm bài nghe trong video (Cambridge 16, Section 1) để đánh giá trình độ. Sau đó thử bài diagnostic bên dưới.

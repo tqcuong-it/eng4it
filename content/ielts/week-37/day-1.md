@@ -18,298 +18,307 @@ draft: false
 
 Hôm nay bạn sẽ làm **bài thi Listening hoàn chỉnh** — 4 sections, 40 câu hỏi, đúng format IELTS.
 
-### ⚠️ Quy tắc thi thử
+---|-----------|--------|
+| Listening | 30 phút + 10 phút chép đáp án | 40 câu |
+| Reading | 60 phút | 40 câu |
+| **Tổng** | **~100 phút** | **80 câu** |
 
-- ⏱️ **Thời gian:** 30 phút nghe + 10 phút chép đáp án
-- 🔇 Tắt điện thoại, không làm gián đoạn
+### ⚠️ Quy tắc
+
+- 🔇 Không làm gián đoạn — tắt điện thoại
 - 📝 Dùng answer sheet (giấy hoặc in ra)
-- 🎧 Dùng tai nghe chất lượng tốt
-- ❌ KHÔNG tua lại — nghe 1 lần duy nhất
-
-### 🔊 Audio — Cambridge IELTS 18, Test 1
-
-Bấm play và làm bài theo từng Section bên dưới:
-
-{{< youtube yNt4oyUM6NI >}}
+- 🎧 Dùng tai nghe cho phần Listening
+- ⏱️ Bấm đồng hồ cho từng phần
+- ❌ KHÔNG tua lại audio — nghe 1 lần duy nhất
 
 ---
 
-## Section 1: Conversation — Transport Survey (Câu 1-10)
+### 🔊 Audio — Cambridge IELTS 17, Test 1
+
+Bấm play và làm bài theo từng Section bên dưới:
+
+{{< youtube NvaGMFyrw90 >}}
+
+---
+
+### Section 1: Conversation — Buckworth Conservation Group (Câu 1-10)
 
 **Câu 1-10: Complete the notes below.**
 
 *Write ONE WORD AND/OR A NUMBER for each answer.*
 
-### Transport Survey
+### Buckworth Conservation Group
 
-Name: Sadie Jones
+**Regular activities**
 
-Year of birth: 1991
+**Beach**
 
-Postcode: 1 __________
+- making sure the beach does not have 1 __________ on it
+- no 2 __________
 
-**Travelling by bus**
+**Nature reserve**
 
-Date of bus journey: 2 __________
+- maintaining paths
+- nesting boxes for birds installed
+- next task is taking action to attract 3 __________ to the place
+- identifying types of 4 __________
+- building a new 5 __________
 
-Reason for trip: shopping and visit to the 3 __________
+**Forthcoming events**
 
-Travelled by bus because cost of 4 __________ too high
+**Saturday**
 
-Got on bus at 5 __________ Street
+- meet at Dunsmore Beach car park
+- walk across the sands and reach the 6 __________
+- take a picnic
+- wear appropriate 7 __________
 
-Complaints about bus service:
+**Woodwork session**
 
-- bus today was 6 __________
-- frequency of buses in the 7 __________
-
-**Travelling by car**
-
-Goes to the 8 __________ by car
-
-**Travelling by bicycle**
-
-Dislikes travelling by bike in the city centre because of the 9 __________
-
-Doesn't own a bike because of a lack of 10 __________
-
----
-
-## Section 2: Monologue — Becoming a Volunteer for ACE (Câu 11-20)
-
-**Câu 11-13: Choose the correct letter, A, B or C.**
-
-11\. Why does the speaker apologise about the seats?
-
-- A) They are too small.
-- B) There are not enough of them.
-- C) Some of them are very close together.
-
-12\. What does the speaker say about the age of volunteers?
-
-- A) The age of volunteers is less important than other factors.
-- B) Young volunteers are less reliable than older ones.
-- C) Most volunteers are about 60 years old.
-
-13\. What does the speaker say about training?
-
-- A) It is continuous.
-- B) It is conducted by a manager.
-- C) It takes place online.
-
-**Câu 14-15: Choose TWO letters, A-E.**
-
-Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?
-
-- A) their financial situation
-- B) their level of commitment
-- C) their work experience
-- D) their ambition
-- E) their availability
-
-**Câu 16-20: Matching**
-
-What does the speaker suggest would be helpful for each of the following areas of voluntary work?
-
-*Choose FIVE answers from the box.*
-
-| | Helpful things volunteers might offer |
-|---|---|
-| A | experience on stage |
-| B | original, new ideas |
-| C | parenting skills |
-| D | an understanding of food and diet |
-| E | retail experience |
-| F | a good memory |
-| G | a good level of fitness |
-
-| # | Area of voluntary work | Answer |
-|---|---|---|
-| 16 | Fundraising | __________ |
-| 17 | Litter collection | __________ |
-| 18 | 'Playmates' | __________ |
-| 19 | Story club | __________ |
-| 20 | First aid | __________ |
+- suitable for 8 __________ to participate in
+- making 9 __________ out of wood
+- 17th, from 10 a.m. to 3 p.m.
+- cost of session (no camping): 10 £ __________
 
 ---
 
-## Section 3: Discussion — Talk on Jobs in Fashion Design (Câu 21-30)
+### Section 2: Monologue — Boat Trip Round Tasmania (Câu 11-20)
+
+**Câu 11-14: Choose the correct letter, A, B or C.**
+
+11\. What is the maximum number of people who can stand on each side of the boat?
+
+- A) 9
+- B) 15
+- C) 18
+
+12\. What colour are the tour boats?
+
+- A) dark red
+- B) jet black
+- C) light green
+
+13\. Which lunchbox is suitable for someone who doesn't eat meat or fish?
+
+- A) Lunchbox 1
+- B) Lunchbox 2
+- C) Lunchbox 3
+
+14\. What should people do with their litter?
+
+- A) take it home
+- B) hand it to a member of staff
+- C) put it in the bins provided on the boat
+
+**Câu 15-16: Choose TWO letters, A-E.**
+
+Which TWO features of the lighthouse does Lou mention?
+
+- A) why it was built
+- B) who built it
+- C) how long it took to build
+- D) who staffed it
+- E) what it was built with
+
+**Câu 17-18: Choose TWO letters, A-E.**
+
+Which TWO types of creature might come close to the boat?
+
+- A) sea eagles
+- B) fur seals
+- C) dolphins
+- D) whales
+- E) penguins
+
+**Câu 19-20: Choose TWO letters, A-E.**
+
+Which TWO points does Lou make about the caves?
+
+- A) Only large tourist boats can visit them
+- B) The entrances to them are often blocked
+- C) It is too dangerous for individuals to go near them
+- D) Someone will explain what is inside them
+- E) They cannot be reached on foot
+
+---
+
+### Section 3: Discussion — Work Experience for Veterinary Science Students (Câu 21-30)
 
 **Câu 21-26: Choose the correct letter, A, B or C.**
 
-21\. What problem did Chantal have at the start of the talk?
+21\. What problem do both Diana and Tim have when arranging their work experience?
 
-- A) Her view of the speaker was blocked.
-- B) She was unable to find an empty seat.
-- C) The students next to her were talking.
+- A) making initial contact with suitable farms
+- B) organizing transport to and from the farm
+- C) finding a placement for the required length of time
 
-22\. What were Hugo and Chantal surprised to hear about the job market?
+22\. Tim was pleased to be able to help
 
-- A) It has become more competitive than it used to be.
-- B) There is more variety in it than they had realised.
-- C) Some areas of it are more exciting than others.
+- A) a lamb that had a broken leg
+- B) a sheep that was having difficulty giving birth
+- C) a newly born lamb that was having trouble feeding
 
-23\. Hugo and Chantal agree that the speaker's message was
+23\. Diana says the sheep on her farm
 
-- A) unfair to them at times.
-- B) hard for them to follow.
-- C) critical of the industry.
+- A) were of various different varieties
+- B) were mainly reared for their meat
+- C) had better quality wool than sheep on the hills
 
-24\. What do Hugo and Chantal criticise about their school careers advice?
+24\. What did the students learn about adding supplements to chicken feed?
 
-- A) when they received the advice
-- B) how much advice was given
-- C) who gave the advice
+- A) These should only be given if specially needed
+- B) It is worth paying extra for the most effective ones
+- C) The amount given at one time should be limited
 
-25\. When discussing their future, Hugo and Chantal disagree on
+25\. What happened when Diana was working with dairy cows?
 
-- A) which is the best career in fashion.
-- B) when to choose a career in fashion.
-- C) why they would like a career in fashion.
+- A) She identified some cows incorrectly
+- B) She accidentally threw some milk away
+- C) She made a mistake when storing milk
 
-26\. How does Hugo feel about being an unpaid assistant?
+26\. What did both farmers mention about vets and farming?
 
-- A) He is realistic about the practice.
-- B) He feels the practice is dishonest.
-- C) He thinks others want to change the practice.
+- A) Vets are failing to cope with some aspects of animal health
+- B) There needs to be a fundamental change in the training of vets
+- C) Some jobs could be done by the farmer rather than by a vet
 
-**Câu 27-28: Choose TWO letters, A-E.**
+**Câu 27-30: Matching**
 
-Which TWO mistakes did the speaker admit she made in her first job?
+What opinion do the students give about each of the following modules?
 
-- A) being dishonest to her employer
-- B) paying too much attention to how she looked
-- C) expecting to become well known
-- D) trying to earn a lot of money
-- E) openly disliking her client
+*Choose FOUR answers from the box.*
 
-**Câu 29-30: Choose TWO letters, A-E.**
+| | Opinions |
+|---|---|
+| A | Tim found this easier than expected |
+| B | Tim thought this was not very clearly organized |
+| C | Diana may do some further study on this |
+| D | They both found the reading required for this was difficult |
+| E | Tim was shocked at something he learned on this module |
+| F | They were both surprised how little is known about some aspects of this |
 
-Which TWO pieces of retail information do Hugo and Chantal agree would be useful?
-
-- A) the reasons people return fashion items
-- B) how much time people have to shop for clothes
-- C) fashion designs people want but can't find
-- D) the best time of year for fashion buying
-- E) the most popular fashion sizes
+| # | Module | Answer |
+|---|---|---|
+| 27 | Medical terminology | __________ |
+| 28 | Diet and nutrition | __________ |
+| 29 | Animal disease | __________ |
+| 30 | Wildlife medication | __________ |
 
 ---
 
-## Section 4: Lecture — Elephant Translocation (Câu 31-40)
+### Section 4: Lecture — Labyrinths (Câu 31-40)
 
 **Câu 31-40: Complete the notes below.**
 
 *Write ONE WORD ONLY for each answer.*
 
-### Elephant Translocation
+### Labyrinths
 
-**Reasons for overpopulation at Majete National Park**
+**Definition**
 
-- strict enforcement of anti-poaching laws
-- successful breeding
+- A winding spiral path leading to a central area
 
-**Problems caused by elephant overpopulation**
+**Labyrinths compared with mazes**
 
-- greater competition, causing hunger for elephants
-- damage to 31 __________ in the park
+- Mazes are a type of 31 __________
+- 32 __________ is needed to navigate through a maze
+- the word "maze" is derived from a word meaning a feeling of 33 __________
+- Labyrinths represent a journey through life — they have frequently been used in 34 __________ and prayer
 
-**The translocation process**
+**Early examples of the labyrinth spiral**
 
-- a suitable group of elephants from the same 32 __________ was selected
-- vets and park staff made use of 33 __________ to help guide the elephants into an open plain
-- elephants were immobilised with tranquilisers:
-  - this process had to be completed quickly to reduce 34 __________
-  - elephants had to be turned on their 35 __________ to avoid damage to their lungs
-  - elephants' 36 __________ had to be monitored constantly
-  - tracking devices were fitted to the matriarchs
-  - data including the size of their tusks and 37 __________ was taken
-- elephants were taken by truck to their new reserve
+- Ancient carvings on 35 __________ have been found across many cultures
+- The Pima, a Native American tribe, wove the symbol on baskets
+- Ancient Greeks used the symbol on 36 __________
 
-**Advantages of translocation at Nkhotakota Wildlife Park**
+**Walking labyrinths**
 
-- 38 __________ opportunities
-- a reduction in the number of poachers and 39 __________
-- an example of conservation that other parks can follow
-- an increase in 40 __________ as a contributor to GDP
+- The largest surviving example of a turf labyrinth once had a big 37 __________ at its centre
+
+**Labyrinths nowadays**
+
+- Believed to have a beneficial impact on mental and physical health, e.g. walking a maze can reduce a person's 38 __________ rate
+- Used in medical and health and fitness settings and also prisons
+- Popular with patients, visitors and staff in hospitals:
+  - patients who can't walk use 'finger labyrinths' made from 39 __________
+  - research has shown that Alzheimer's sufferers experience less 40 __________
 
 ---
 
-## ✅ Đáp án — Cambridge IELTS 18, Listening Test 1
+## ✅ Đáp án Listening — Cambridge IELTS 17, Test 1
 
 {{< spoiler "Bấm để xem đáp án" >}}
 
-### Section 1: Transport Survey
+### Section 1: Buckworth Conservation Group
 
 | Câu | Đáp án |
 |-----|--------|
-| 1 | DW30 7YZ |
-| 2 | 24(th) April |
-| 3 | dentist |
-| 4 | parking |
-| 5 | Claxby |
-| 6 | late |
-| 7 | evening |
-| 8 | supermarket |
-| 9 | pollution |
-| 10 | storage |
+| 1 | litter |
+| 2 | dogs |
+| 3 | insects |
+| 4 | butterflies |
+| 5 | wall |
+| 6 | island |
+| 7 | boots |
+| 8 | beginners |
+| 9 | spoons |
+| 10 | 35 |
 
-### Section 2: Becoming a Volunteer for ACE
+### Section 2: Boat Trip Round Tasmania
 
 | Câu | Đáp án |
 |-----|--------|
-| 11 | C |
-| 12 | A |
-| 13 | A |
-| 14 & 15 | B, E |
-| 16 | B |
-| 17 | G |
-| 18 | D |
-| 19 | A |
-| 20 | F |
+| 11 | A |
+| 12 | C |
+| 13 | B |
+| 14 | B |
+| 15 & 16 | A, D |
+| 17 & 18 | B, C |
+| 19 & 20 | D, E |
 
-### Section 3: Talk on Jobs in Fashion Design
+### Section 3: Veterinary Science Students
 
 | Câu | Đáp án |
 |-----|--------|
 | 21 | A |
 | 22 | B |
-| 23 | A |
-| 24 | C |
-| 25 | B |
-| 26 | A |
-| 27 & 28 | B, E |
-| 29 & 30 | A, C |
+| 23 | B |
+| 24 | A |
+| 25 | C |
+| 26 | C |
+| 27 | A |
+| 28 | E |
+| 29 | F |
+| 30 | C |
 
-### Section 4: Elephant Translocation
+### Section 4: Labyrinths
 
 | Câu | Đáp án |
 |-----|--------|
-| 31 | fences |
-| 32 | family |
-| 33 | helicopters |
-| 34 | stress |
-| 35 | sides |
-| 36 | breathing |
-| 37 | feet |
-| 38 | employment |
-| 39 | weapons |
-| 40 | tourism |
+| 31 | puzzle |
+| 32 | logic |
+| 33 | confusion |
+| 34 | meditation |
+| 35 | stone |
+| 36 | coins |
+| 37 | tree |
+| 38 | breathing |
+| 39 | paper |
+| 40 | anxiety |
 
 {{< /spoiler >}}
 
 ---
 
-## 📊 Bảng chấm điểm
+## 📊 Bảng chấm điểm Listening
 
-| Section | Đúng / Tổng | Band tương đương |
-|---------|-------------|-----------------|
-| Section 1 | ___/10 | |
-| Section 2 | ___/10 | |
-| Section 3 | ___/10 | |
-| Section 4 | ___/10 | |
-| **Tổng** | **___/40** | |
-
-**Quy đổi band điểm (tham khảo):**
+| Section | Đúng / Tổng |
+|---------|-------------|
+| Section 1 | ___/10 |
+| Section 2 | ___/10 |
+| Section 3 | ___/10 |
+| Section 4 | ___/10 |
+| **Tổng** | **___/40** |
 
 | Số câu đúng | Band |
 |-------------|------|
@@ -323,4 +332,7 @@ Which TWO pieces of retail information do Hugo and Chantal agree would be useful
 | 18-22 | 5.5 |
 | 16-17 | 5.0 |
 
-> 🎯 **Mục tiêu Band 6.0:** Cần đúng ít nhất **23/40 câu**. Nếu chưa đạt, hãy xem lại đáp án và nghe lại các section bị sai!
+> 🎯 **Mục tiêu Band 6.0:** Cần đúng ít nhất **23/40 câu**.
+
+---
+
