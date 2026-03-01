@@ -87,6 +87,9 @@ taxonomies:
   category: categories
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     codeFences: true
     guessSyntax: true
