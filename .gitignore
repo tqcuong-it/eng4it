@@ -1,0 +1,7 @@
+public/
+resources/
+.hugo_build.lock
+.wrangler/
+.cf_token
+node_modules/
+.env

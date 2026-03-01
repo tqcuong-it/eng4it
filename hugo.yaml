@@ -1,0 +1,94 @@
+baseURL: "https://eng4it.com/"
+languageCode: "vi"
+defaultContentLanguage: "vi"
+defaultContentLanguageInSubdir: false
+title: "Eng4IT — Tiếng Anh cho Dân IT"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 10
+
+params:
+  env: production
+  title: "Eng4IT"
+  description: "Học tiếng Anh chuyên ngành IT — Dành cho Developer, BrSE, PM tại Nhật và Việt Nam"
+  keywords: ["tiếng anh IT", "english for developer", "tiếng anh lập trình", "IELTS IT", "BrSE english"]
+  author: "Cuong TQ"
+  
+  images:
+    - "/og-default.png"
+  DateFormat: "02/01/2006"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  
+  homeInfoParams:
+    Title: "Tiếng Anh cho Dân IT"
+    Content: >
+      Học tiếng Anh thực tế dành riêng cho Developer, BrSE, PM.
+      Email chuyên nghiệp, meeting tự tin, đọc docs nhanh, IELTS cho dân tech.
+  
+  ShowAllPagesInArchive: true
+  
+  socialIcons:
+    - name: email
+      url: "mailto:contact@cuongtq.it"
+    - name: github
+      url: "https://github.com/tqcuongit"
+
+  assets:
+    favicon: "/favicon.svg"
+
+  analytics:
+    google:
+      SiteVerificationTag: ""
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - name: "IELTS"
+      url: /ielts/
+      weight: 1
+    - name: "Bài viết"
+      url: /posts/
+      weight: 2
+    - name: "Chủ đề"
+      url: /tags/
+      weight: 3
+    - name: "Tìm kiếm"
+      url: /search/
+      weight: 4
+    - name: "Về tác giả"
+      url: /about/
+      weight: 5
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  tag: tags
+  series: series
+  category: categories
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: github

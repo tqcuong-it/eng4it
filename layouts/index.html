@@ -1,0 +1,90 @@
+{{- define "main" }}
+
+{{- if .Site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+  <header class="entry-header">
+    <h1>{{ .Site.Params.homeInfoParams.Title | markdownify }}</h1>
+  </header>
+  <div class="entry-content">
+    <p>{{ .Site.Params.homeInfoParams.Content | markdownify }}</p>
+  </div>
+  <footer class="entry-footer">
+    {{- partial "social_icons.html" .Site.Params -}}
+  </footer>
+</article>
+{{- end }}
+
+{{- /* IELTS Section */ -}}
+{{- with .Site.GetPage "/ielts" }}
+<div class="category-section">
+  <h2>
+    <a href="{{ .Permalink }}">IELTS</a>
+  </h2>
+
+  {{- /* List weeks */ -}}
+  {{- range sort .Sections "Weight" }}
+  <div class="week-section">
+    <h3>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <span class="count">({{ len .Pages }} bài)</span>
+    </h3>
+    {{- range sort .Pages "Weight" }}
+    <article class="post-entry day-entry">
+      <header class="entry-header">
+        <h4 class="entry-hint-parent">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h4>
+      </header>
+      <div class="entry-content">
+        <p>{{ .Summary | plainify | truncate 120 }}</p>
+      </div>
+    </article>
+    {{- end }}
+  </div>
+  {{- end }}
+
+  {{- /* Roadmap link */ -}}
+  {{- with .GetPage "roadmap" }}
+  <article class="post-entry day-entry">
+    <header class="entry-header">
+      <h4>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h4>
+    </header>
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | truncate 120 }}</p>
+    </div>
+  </article>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- /* All categories dynamically — skip ielts to avoid duplicate */ -}}
+{{- range $name, $taxonomy := .Site.Taxonomies.categories }}
+{{- if ne $name "ielts" }}
+<div class="category-section">
+  <h2>
+    <a href="{{ printf "/categories/%s/" $name | absURL }}">{{ $taxonomy.Page.Title | default (humanize $name) }}</a>
+    <span class="count">({{ len $taxonomy.Pages }} bài)</span>
+  </h2>
+  {{- range $taxonomy.Pages }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h3 class="entry-hint-parent">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h3>
+    </header>
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | truncate 200 }}</p>
+    </div>
+    <footer class="entry-footer">
+      <span title='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "January 2, 2006" }}</span>&nbsp;·&nbsp;
+      <span>{{ .ReadingTime }} min</span>
+    </footer>
+  </article>
+  {{- end }}
+</div>
+{{- end }}
+{{- end }}
+
+{{- end }}{{/* end main */}}
