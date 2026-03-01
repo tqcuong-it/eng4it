@@ -2,7 +2,7 @@
 title: "Tuần 4: Tương Lai & Kế Hoạch"
 date: 2023-01-23
 summary: "Học nói về tương lai, dự định, lịch trình — grammar: will, going to, Present Simple for Future, First Conditional."
-tags: ["ielts", "week-4", "beginner"]
+tags: ["ielts", "beginner"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

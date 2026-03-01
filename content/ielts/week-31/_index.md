@@ -2,7 +2,7 @@
 title: "Tuần 31: Speaking Intensive (1)"
 date: 2023-07-31
 summary: "Luyện chuyên sâu Speaking Part 1-2-3 — Deep Practice từng Part, Pronunciation Drills, Fluency Training + Full Mock Test đầu tiên."
-tags: ["ielts", "speaking", "intensive", "mock-test", "week-31"]
+tags: ["ielts", "speaking", "intensive", "mock-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

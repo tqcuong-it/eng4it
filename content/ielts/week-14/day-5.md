@@ -4,7 +4,7 @@ slug: "day-5-short-answer-questions"
 date: 2023-04-07
 summary: "Chiến lược làm dạng Short Answer — trả lời ngắn gọn trong IELTS Listening."
 description: "Kỹ thuật làm câu hỏi Short Answer trong IELTS Listening Section 2 với bài tập thực hành."
-tags: ["ielts", "listening", "short-answer", "section-2", "week-14"]
+tags: ["ielts", "listening", "section-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

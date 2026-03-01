@@ -4,7 +4,7 @@ slug: "day-7-score-tracking-band-6-checklist-review"
 date: 2023-07-30
 summary: "Tổng kết điểm số 2 tuần Writing Intensive — theo dõi tiến bộ và kiểm tra Band 6 Checklist."
 description: "Đánh giá tổng thể kỹ năng Writing sau 2 tuần luyện tập chuyên sâu — Score Tracking và Band 6 Readiness Checklist."
-tags: ["ielts", "writing", "score-tracking", "band-6", "week-30"]
+tags: ["ielts", "writing", "score-tracking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

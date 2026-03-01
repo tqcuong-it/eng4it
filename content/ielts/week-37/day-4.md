@@ -4,7 +4,7 @@ slug: "day-4-full-mock-speaking-3-parts"
 date: 2023-09-14
 summary: "Làm bài thi thử Speaking đầy đủ 3 parts — ghi âm lại và tự đánh giá."
 description: "Full Mock Speaking Test với Part 1 (interview), Part 2 (cue card), Part 3 (discussion). Luyện nói trong điều kiện thi thật."
-tags: ["ielts", "mock-test", "speaking", "practice", "week-37"]
+tags: ["ielts", "mock-test", "speaking", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

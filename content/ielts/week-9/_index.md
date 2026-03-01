@@ -2,7 +2,7 @@
 title: "Tuần 9: Văn Hóa & Du Lịch"
 date: 2023-02-27
 summary: "Khám phá thế giới qua tiếng Anh — học từ vựng về lễ hội, du lịch, ẩm thực, nghệ thuật và di sản văn hóa. Nắm vững Used to, Past Perfect, Too/Enough, Quantifiers và Compound Sentences."
-tags: ["ielts", "week-9", "culture", "travel"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

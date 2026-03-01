@@ -4,7 +4,7 @@ slug: "day-7-score-tracking-confidence-building-tips"
 date: 2023-08-13
 summary: "Tổng kết 2 tuần Speaking Intensive — tracking tiến bộ qua 3 Mock Tests, xây dựng sự tự tin và chiến lược duy trì cho giai đoạn tiếp theo."
 description: "IELTS Speaking progress tracking, confidence building strategies, overcoming speaking anxiety, maintenance plan."
-tags: ["ielts", "speaking", "score-tracking", "confidence", "week-32"]
+tags: ["ielts", "speaking", "score-tracking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-7-final-weakness-assessment"
 date: 2023-09-03
 summary: "Đánh giá cuối cùng sau tuần Weakness Focus — tổng kết tiến bộ và chuẩn bị Milestone Test."
 description: "Assessment cuối tuần 35, đánh giá toàn diện tiến bộ và lập chiến lược cho Phase 3 Milestone Test."
-tags: ["ielts", "assessment", "review", "preparation", "week-35"]
+tags: ["ielts", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

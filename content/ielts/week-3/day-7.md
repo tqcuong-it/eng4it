@@ -4,7 +4,7 @@ slug: "day-7-review-mini-test-tuan-3"
 date: 2023-01-22
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp Tuần 3: Past Simple, Past Continuous, Time Expressions. Mini Test 30 câu."
 description: "Bài IELTS Tuần 3 Ngày 7 — Ôn tập và kiểm tra: Past Simple, Past Continuous, 120 từ vựng tuần 3."
-tags: ["ielts", "vocabulary", "grammar", "week-3", "review"]
+tags: ["ielts", "vocabulary", "grammar", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

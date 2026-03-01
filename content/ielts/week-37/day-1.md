@@ -4,7 +4,7 @@ slug: "day-1-full-mock-listening-40-cau-hoi"
 date: 2023-09-11
 summary: "Làm bài thi thử Listening đầy đủ 40 câu hỏi trong 30 phút — đúng format IELTS thật."
 description: "Full Mock Listening Test với 4 sections, 40 câu hỏi đúng chuẩn IELTS. Luyện kỹ năng nghe trong điều kiện thi thật."
-tags: ["ielts", "mock-test", "listening", "practice", "week-37"]
+tags: ["ielts", "mock-test", "listening", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

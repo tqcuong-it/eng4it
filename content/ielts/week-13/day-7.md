@@ -4,7 +4,7 @@ slug: "day-7-review-error-analysis"
 date: 2023-04-02
 summary: "Ôn tập tổng hợp tuần 13 — phân tích lỗi sai, củng cố chiến lược Section 1."
 description: "Ôn tập và phân tích lỗi tuần 13 IELTS Listening Section 1 — tổng hợp chiến lược và từ vựng."
-tags: ["ielts", "listening", "review", "week-13"]
+tags: ["ielts", "listening", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

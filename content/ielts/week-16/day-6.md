@@ -4,7 +4,7 @@ slug: "day-6-practice-test-passage-2-mixed-question-types"
 date: 2023-04-22
 summary: "Bài thi thử Reading Passage 2 (~500 từ) với các dạng câu hỏi hỗn hợp: Summary Completion, Multiple Choice, Matching Information, Y/N/NG."
 description: "Practice Test Reading Passage 2 với bài đọc về The Psychology of Colour, kết hợp 4 dạng câu hỏi, đáp án chi tiết và phân tích."
-tags: ["ielts", "reading", "practice-test", "week-16"]
+tags: ["ielts", "reading", "practice-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-5-describing-an-object-useful-phrases-model-answer-practice"
 date: 2023-06-02
 summary: "Chiến lược mô tả đồ vật trong IELTS Speaking Part 2 — từ vựng, model answer và bài tập thực hành."
 description: "Hướng dẫn mô tả object trong IELTS Speaking Part 2 với useful phrases, model answer band 6.0+ và practice tasks."
-tags: ["ielts", "speaking", "part-2", "describe-object", "week-22"]
+tags: ["ielts", "speaking", "part-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

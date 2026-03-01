@@ -4,7 +4,7 @@ slug: "day-2-topic-vocabulary-education-society"
 date: 2023-08-08
 summary: "Từ vựng Speaking chủ đề Giáo dục & Xã hội — collocations, sample answers, useful phrases và bài tập luyện nói."
 description: "IELTS Speaking vocabulary for Education & Society topics: collocations, model answers, advanced phrases, speaking practice."
-tags: ["ielts", "speaking", "vocabulary", "education", "society", "week-32"]
+tags: ["ielts", "speaking", "vocabulary"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

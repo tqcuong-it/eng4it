@@ -4,7 +4,7 @@ slug: "day-6-pronunciation-practice-word-stress-sentence-stress"
 date: 2023-05-27
 summary: "Luyện phát âm cho IELTS Speaking — trọng âm từ, trọng âm câu, ngữ điệu và kỹ thuật thực hành."
 description: "Kỹ thuật phát âm IELTS Speaking — word stress, sentence stress, intonation patterns và bài tập luyện tập."
-tags: ["ielts", "speaking", "pronunciation", "word-stress", "intonation", "week-21"]
+tags: ["ielts", "speaking", "pronunciation"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

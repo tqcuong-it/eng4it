@@ -4,7 +4,7 @@ slug: "day-3-comparing-contrasting-speaking"
 date: 2023-06-07
 summary: "Kỹ năng so sánh và đối chiếu trong Speaking Part 3 — whereas, on the other hand, while."
 description: "Học các cụm từ so sánh và đối chiếu để trả lời câu hỏi IELTS Speaking Part 3 một cách mạch lạc."
-tags: ["ielts", "speaking", "comparing", "contrasting", "week-23"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

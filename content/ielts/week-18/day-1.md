@@ -4,7 +4,7 @@ slug: "day-1-tables-data-description-cau-truc-tu-vung"
 date: 2023-05-01
 summary: "Cách viết bài mô tả Table trong IELTS Writing Task 1, cấu trúc và từ vựng chuyên dụng."
 description: "Chiến lược phân tích Table, cách chọn dữ liệu nổi bật, cấu trúc bài viết và bài tập thực hành."
-tags: ["ielts", "writing", "task-1", "table", "week-18"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

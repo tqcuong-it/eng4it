@@ -4,7 +4,7 @@ slug: "day-4-sentence-completion-listening"
 date: 2023-04-06
 summary: "Chiến lược làm dạng Sentence Completion — hoàn thành câu khi nghe."
 description: "Kỹ thuật làm câu hỏi Sentence Completion trong IELTS Listening Section 2 với bài tập thực hành."
-tags: ["ielts", "listening", "sentence-completion", "section-2", "week-14"]
+tags: ["ielts", "listening", "section-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

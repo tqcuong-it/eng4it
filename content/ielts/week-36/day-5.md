@@ -4,7 +4,7 @@ slug: "day-5-study-plan-for-final-sprint-ke-hoach-phase-4"
 date: 2023-09-08
 summary: "Lập kế hoạch học tập chi tiết cho Phase 4 — Final Sprint, ưu tiên kỹ năng yếu nhất."
 description: "Xây dựng study plan cá nhân hóa cho Phase 4 dựa trên gap analysis, ưu tiên kỹ năng yếu và quick wins."
-tags: ["ielts", "study-plan", "phase-4", "strategy", "phase-3", "week-36"]
+tags: ["ielts", "phase-4", "strategy", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

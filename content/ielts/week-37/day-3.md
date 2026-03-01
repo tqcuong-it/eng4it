@@ -4,7 +4,7 @@ slug: "day-3-full-mock-writing-task-1-task-2"
 date: 2023-09-13
 summary: "Làm bài thi thử Writing đầy đủ — Task 1 (báo cáo) + Task 2 (essay) trong 60 phút."
 description: "Full Mock Writing Test với Task 1 mô tả biểu đồ và Task 2 viết essay, đúng chuẩn thời gian IELTS."
-tags: ["ielts", "mock-test", "writing", "practice", "week-37"]
+tags: ["ielts", "mock-test", "writing", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

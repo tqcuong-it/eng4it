@@ -4,7 +4,7 @@ slug: "day-2-weakness-1-intensive-practice"
 date: 2023-08-29
 summary: "Luyện tập chuyên sâu điểm yếu số 1 — bài tập targeted với hướng dẫn chi tiết."
 description: "Intensive practice cho điểm yếu #1, với bài tập đa dạng cho từng loại vấn đề phổ biến trong IELTS."
-tags: ["ielts", "weakness", "intensive", "practice", "week-35"]
+tags: ["ielts", "weakness", "intensive", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

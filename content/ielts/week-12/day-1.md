@@ -4,7 +4,7 @@ slug: "day-1-grammar-review-all-tenses"
 date: 2023-03-20
 summary: "Ôn tập toàn bộ 6 thì: Present Simple, Present Continuous, Past Simple, Past Continuous, Future Simple, Present Perfect — bảng tóm tắt + 15 bài tập tổng hợp."
 description: "Ôn tập 6 thì tiếng Anh Phase 1 — bảng tổng hợp công thức, cách dùng và 15 bài tập mixed tenses."
-tags: ["ielts", "grammar", "tenses", "review", "week-12"]
+tags: ["ielts", "grammar", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

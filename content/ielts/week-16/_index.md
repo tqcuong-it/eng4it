@@ -2,7 +2,7 @@
 title: "Tuần 16: IELTS Reading — Question Types"
 date: 2023-04-17
 summary: "Chiến lược làm các dạng câu hỏi Reading còn lại — Summary Completion, Sentence Completion, Multiple Choice, Matching Information, Diagram/Flow Chart + Practice Test."
-tags: ["ielts", "reading", "question-types", "week-16"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-5-mock-test-3-writing-speaking"
 date: 2023-09-22
 summary: "Full Mock Test 3 phần 2: Writing (Task 1 + 2) + Speaking (3 Parts) — bài thi thử cuối cùng!"
 description: "Hoàn thành Mock Test 3 — bài thi thử cuối cùng trước kỳ thi. Viết và nói hết sức mình!"
-tags: ["ielts", "mock-test-3", "writing", "speaking", "week-38"]
+tags: ["ielts", "mock-test-3", "writing", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

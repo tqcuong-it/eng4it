@@ -4,7 +4,7 @@ slug: "day-6-exam-day-guide-huong-dan-ngay-thi"
 date: 2023-10-02
 summary: "Hướng dẫn chi tiết NGÀY THI IELTS — morning routine, timing strategy, mindset tips và cách tận dụng thời gian nghỉ."
 description: "Exam Day Guide đầy đủ: từ buổi sáng đến khi nộp bài, chiến lược thời gian cho từng section và mẹo giữ bình tĩnh."
-tags: ["ielts", "exam-day", "strategy", "grand-finale", "week-40"]
+tags: ["ielts", "strategy", "grand-finale"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

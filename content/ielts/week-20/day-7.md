@@ -4,7 +4,7 @@ slug: "day-7-review-self-assessment"
 date: 2023-05-21
 summary: "Ôn tập tổng hợp kỹ năng Writing Task 2 — rubric chấm điểm chi tiết và kế hoạch cải thiện."
 description: "Ôn tập tuần 20 — tổng hợp kỹ năng viết Introduction, Body, Conclusion, Linking Words, Vocabulary + Self-Assessment rubric."
-tags: ["ielts", "writing", "task-2", "review", "self-assessment", "week-20"]
+tags: ["ielts", "writing", "task-2", "review", "self-assessment"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

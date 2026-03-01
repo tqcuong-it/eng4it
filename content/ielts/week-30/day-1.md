@@ -4,7 +4,7 @@ slug: "day-1-grammar-accuracy-for-writing"
 date: 2023-07-24
 summary: "Nhận diện và sửa lỗi ngữ pháp thường gặp trong IELTS Writing — từ Band 5 lên Band 6+."
 description: "Tổng hợp lỗi ngữ pháp phổ biến nhất trong IELTS Writing và cách sửa, với bài tập thực hành."
-tags: ["ielts", "writing", "grammar", "accuracy", "week-30"]
+tags: ["ielts", "writing", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

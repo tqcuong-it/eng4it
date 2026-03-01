@@ -4,7 +4,7 @@ slug: "day-3-phone-conversations-reported-speech-gioi-thieu"
 date: 2023-02-15
 summary: "Học 20 từ vựng gọi điện, làm quen câu tường thuật (She said that...), đọc đoạn văn 70 từ."
 description: "IELTS Tuần 7 Ngày 3 — 20 từ vựng Phone Conversations, ngữ pháp Reported Speech intro, đoạn đọc 70 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-7", "reported-speech"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

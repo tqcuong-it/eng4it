@@ -2,7 +2,7 @@
 title: "Tuần 37: Mock Tests (1) — Thi thử lần đầu"
 date: 2023-09-11
 summary: "Full Mock Test đầu tiên — luyện từng kỹ năng riêng biệt, phân tích điểm, sửa lỗi và chuẩn bị tinh thần."
-tags: ["ielts", "mock-test", "practice", "phase-4", "week-37"]
+tags: ["ielts", "mock-test", "practice", "phase-4"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

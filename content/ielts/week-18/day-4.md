@@ -4,7 +4,7 @@ slug: "day-4-comparing-contrasting-data-cum-tu-lien-ket"
 date: 2023-05-04
 summary: "Kỹ năng so sánh và đối chiếu dữ liệu trong IELTS Writing Task 1 với cụm từ liên kết nâng cao."
 description: "Từ vựng và cấu trúc câu so sánh, đối chiếu, tương đồng, khác biệt cho mọi dạng Task 1."
-tags: ["ielts", "writing", "task-1", "comparing", "week-18"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-3-weakness-2-intensive-practice"
 date: 2023-08-30
 summary: "Luyện tập chuyên sâu điểm yếu số 2 — vocabulary, grammar, và các kỹ năng cụ thể."
 description: "Intensive practice cho điểm yếu #2, với bài tập nâng cao cho vocabulary, grammar, paraphrasing và pronunciation."
-tags: ["ielts", "weakness", "intensive", "practice", "week-35"]
+tags: ["ielts", "weakness", "intensive", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

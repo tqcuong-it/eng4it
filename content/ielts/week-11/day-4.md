@@ -4,7 +4,7 @@ slug: "day-4-government-politics-passive-voice-review"
 date: 2023-03-16
 summary: "Học 20 từ vựng về chính phủ và chính trị, ôn lại Passive Voice ở tất cả các thì, đọc đoạn văn 85 từ."
 description: "IELTS Tuần 11 Ngày 4 — 20 từ vựng Government & Politics, Passive Voice all tenses, đoạn đọc 85 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-11"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

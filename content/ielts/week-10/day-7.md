@@ -4,7 +4,7 @@ slug: "day-7-review-mini-test-tuan-10"
 date: 2023-03-12
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp tuần 10, làm Mini Test tổng hợp."
 description: "Tuần 10 Ngày 7 — Ôn tập 120 từ vựng giáo dục, tổng ôn 6 điểm ngữ pháp, Mini Test."
-tags: ["ielts", "vocabulary", "grammar", "week-10", "review"]
+tags: ["ielts", "vocabulary", "grammar", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "Tuần 7: Giao Tiếp & Xã Hội"
 date: 2023-02-13
 summary: "Tuần giao tiếp xã hội — học từ vựng về truyền thông, mạng xã hội, điện thoại, email, tin tức, công nghệ. Ngữ pháp: Relative Clauses, Reported Speech, Passive Voice."
-tags: ["ielts", "week-7", "communication", "social"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

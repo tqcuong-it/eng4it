@@ -4,7 +4,7 @@ slug: "day-1-mixed-question-types-practice"
 date: 2023-07-10
 summary: "Luyện tập mixed question types — T/F/NG + Matching + Multiple Choice trong cùng 1 passage IELTS Reading."
 description: "Chiến lược xử lý nhiều dạng câu hỏi trong 1 passage — cách phân bổ thời gian và thứ tự làm bài hiệu quả."
-tags: ["ielts", "reading", "mixed-questions", "week-28"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

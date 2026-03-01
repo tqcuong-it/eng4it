@@ -4,7 +4,7 @@ slug: "day-6-writing-practice-2-bai-task-1-hoan-chinh"
 date: 2023-04-29
 summary: "Thực hành viết 2 bài IELTS Writing Task 1 hoàn chỉnh (150 từ) với bài mẫu và chấm điểm."
 description: "Luyện viết 2 bài Task 1 — Line Graph và Bar Chart, kèm bài mẫu Band 6+ và hướng dẫn tự chấm điểm."
-tags: ["ielts", "writing", "task-1", "practice", "week-17"]
+tags: ["ielts", "writing", "task-1", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

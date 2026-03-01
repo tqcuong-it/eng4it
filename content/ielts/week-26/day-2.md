@@ -4,7 +4,7 @@ slug: "day-2-distractor-recognition-nhan-dien-dap-an-bay"
 date: 2023-06-27
 summary: "Học cách nhận diện distractor trong IELTS Listening — khi đáp án thay đổi giữa cuộc hội thoại."
 description: "IELTS Listening Distractor Recognition — cách đáp án bẫy hoạt động, signal words báo hiệu thay đổi, và bài tập thực hành."
-tags: ["ielts", "listening", "distractor", "traps", "week-26"]
+tags: ["ielts", "listening"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

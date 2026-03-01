@@ -4,7 +4,7 @@ slug: "day-5-art-music-quantifiers"
 date: 2023-03-03
 summary: "Học 20 từ vựng về nghệ thuật và âm nhạc, nắm vững Quantifiers (some/any/much/many/a lot of)."
 description: "IELTS Tuần 9 Ngày 5 — Từ vựng Art & Music, ngữ pháp Quantifiers, đoạn đọc 88 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-9"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "Tuần 29: Writing Intensive (1) — Luyện Viết Có Giờ"
 date: 2023-07-17
 summary: "Luyện viết IELTS có tính giờ — Task 1 (Line Graph, Bar Chart, Pie Chart, Table, Process, Map) và Task 2 (Opinion + Discussion Essay) + Full Test."
-tags: ["ielts", "writing", "timed-practice", "week-29"]
+tags: ["ielts", "writing", "timed-practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

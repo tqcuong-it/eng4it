@@ -4,7 +4,7 @@ slug: "day-3-signpost-language-tu-chuyen-tiep-trong-bai-giang"
 date: 2023-06-28
 summary: "Học signpost language — các từ/cụm từ chuyển tiếp giúp theo dõi cấu trúc bài giảng trong Section 3 & 4."
 description: "IELTS Listening Signpost Language — transition words, discourse markers trong bài giảng, cách dự đoán nội dung tiếp theo."
-tags: ["ielts", "listening", "signpost-language", "transitions", "week-26"]
+tags: ["ielts", "listening"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

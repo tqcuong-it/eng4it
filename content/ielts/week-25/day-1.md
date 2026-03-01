@@ -4,7 +4,7 @@ slug: "day-1-section-1-2-review-on-chien-luoc-luyen-co-gio"
 date: 2023-06-19
 summary: "Ôn tập hệ thống chiến lược Section 1 & 2, luyện tập có bấm giờ để chuẩn bị cho Full Test."
 description: "Tổng hợp chiến lược IELTS Listening Section 1 & 2 — form filling, map labeling, multiple choice, matching + luyện tập timed practice."
-tags: ["ielts", "listening", "section-1", "section-2", "review", "week-25"]
+tags: ["ielts", "listening", "section-1", "section-2", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

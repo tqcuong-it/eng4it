@@ -4,7 +4,7 @@ slug: "day-2-paraphrasing-skills-recognizing-synonyms"
 date: 2023-07-11
 summary: "Kỹ năng paraphrasing cho IELTS Reading — nhận diện synonyms và cách đổi cấu trúc câu giữa câu hỏi và passage."
 description: "Paraphrasing skills — cách IELTS đổi từ và cấu trúc câu trong câu hỏi so với passage, kèm bài tập thực hành."
-tags: ["ielts", "reading", "paraphrasing", "synonyms", "week-28"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

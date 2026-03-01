@@ -4,7 +4,7 @@ slug: "day-6-practice-test-section-1-full-simulation"
 date: 2023-04-01
 summary: "Mô phỏng thi thật — làm bài Practice Test Section 1 hoàn chỉnh với 10 câu hỏi."
 description: "Bài thi thử IELTS Listening Section 1 hoàn chỉnh — mô phỏng thi thật với đáp án và phân tích chi tiết."
-tags: ["ielts", "listening", "practice-test", "section-1", "week-13"]
+tags: ["ielts", "listening", "practice-test", "section-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

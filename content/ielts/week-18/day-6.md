@@ -4,7 +4,7 @@ slug: "day-6-timed-writing-practice-2-bai-task-1-trong-20-phut"
 date: 2023-05-06
 summary: "Luyện viết 2 bài IELTS Writing Task 1 trong điều kiện thi thật — 20 phút mỗi bài."
 description: "Thực hành viết Task 1 có giới hạn thời gian, kèm bài mẫu Band 6+ và hướng dẫn phân tích lỗi."
-tags: ["ielts", "writing", "task-1", "timed-practice", "week-18"]
+tags: ["ielts", "writing", "task-1", "timed-practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-3-grammar-review-passive-voice-reported-speech-relative"
 date: 2023-03-22
 summary: "Ôn tập Câu bị động, Câu tường thuật và Mệnh đề quan hệ — bảng tóm tắt công thức + 15 bài tập tổng hợp."
 description: "Ôn tập passive voice, reported speech, relative clauses Phase 1 — tổng hợp và 15 bài tập."
-tags: ["ielts", "grammar", "passive", "reported-speech", "relative-clauses", "review", "week-12"]
+tags: ["ielts", "grammar", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

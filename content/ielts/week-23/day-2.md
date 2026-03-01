@@ -4,7 +4,7 @@ slug: "day-2-giving-reasons-examples"
 date: 2023-06-06
 summary: "Cách đưa lý do và ví dụ thuyết phục trong Speaking Part 3 — because, for instance, such as."
 description: "Học các cụm từ nối để giải thích lý do và cho ví dụ trong IELTS Speaking Part 3."
-tags: ["ielts", "speaking", "reasons", "examples", "week-23"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

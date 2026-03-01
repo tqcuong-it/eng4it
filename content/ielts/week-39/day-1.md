@@ -4,7 +4,7 @@ slug: "day-1-last-minute-listening-tips-quick-practice"
 date: 2023-09-25
 summary: "Tips cuối cùng cho Listening — chiến lược làm bài, cách tránh bẫy và luyện nhanh 10 câu."
 description: "Tổng hợp tất cả tips quan trọng nhất cho IELTS Listening và bài luyện nhanh 10 câu để giữ phong độ."
-tags: ["ielts", "listening", "tips", "final-prep", "week-39"]
+tags: ["ielts", "listening", "tips", "final-prep"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

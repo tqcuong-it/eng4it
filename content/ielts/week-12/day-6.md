@@ -4,7 +4,7 @@ slug: "day-6-listening-practice-bbc-ted-exercises"
 date: 2023-03-25
 summary: "Luyện nghe với BBC Learning English và TED Talks — bài tập guided listening, note-taking và gap-fill."
 description: "Luyện nghe IELTS Phase 1 — BBC và TED Talks với bài tập note-taking và gap-fill."
-tags: ["ielts", "listening", "practice", "review", "week-12"]
+tags: ["ielts", "listening", "practice", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-3-task-1-timed-practice-process-map"
 date: 2023-07-19
 summary: "Luyện viết Task 1 có tính giờ: Process Diagram và Map, mỗi bài 20 phút."
 description: "Thực hành viết IELTS Task 1 dạng Process và Map — 20 phút mỗi bài, với bài mẫu và hướng dẫn chi tiết."
-tags: ["ielts", "writing", "task-1", "process", "map", "week-29"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-7-rest-light-review"
 date: 2023-08-20
 summary: "Nghỉ ngơi và ôn tập nhẹ — tổng kết tuần 33, chuẩn bị cho mock test tiếp theo."
 description: "Ngày nghỉ ngơi với ôn tập nhẹ nhàng, flashcard từ vựng và chuẩn bị tinh thần cho tuần tiếp theo."
-tags: ["ielts", "review", "rest", "phase-3", "week-33"]
+tags: ["ielts", "review", "rest", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

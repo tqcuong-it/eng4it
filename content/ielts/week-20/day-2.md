@@ -4,7 +4,7 @@ slug: "day-2-body-paragraph-structure"
 date: 2023-05-16
 summary: "Cấu trúc đoạn thân bài — Topic Sentence, Supporting Ideas, Examples và cách phát triển ý."
 description: "Hướng dẫn viết Body Paragraph cho IELTS Writing Task 2 — cấu trúc PEEL, cách phát triển ý và bài tập thực hành."
-tags: ["ielts", "writing", "body-paragraph", "structure", "week-20"]
+tags: ["ielts", "writing"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

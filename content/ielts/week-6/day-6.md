@@ -4,7 +4,7 @@ slug: "day-6-career-development-superlatives-the-most-the-est"
 date: 2023-02-11
 summary: "Học 20 từ vựng phát triển sự nghiệp, cấu trúc so sánh nhất (Superlatives), đọc đoạn văn 85 từ."
 description: "Bài IELTS Tuần 6 Ngày 6 — 20 từ vựng sự nghiệp, Superlatives the most/the -est, đoạn đọc 85 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-6", "career"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

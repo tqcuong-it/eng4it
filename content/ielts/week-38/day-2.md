@@ -4,7 +4,7 @@ slug: "day-2-mock-test-2-writing-speaking"
 date: 2023-09-19
 summary: "Full Mock Test 2 phần 2: Writing (Task 1 + 2) + Speaking (3 Parts) — hoàn thành Mock Test 2."
 description: "Hoàn thành Mock Test 2 với Writing và Speaking. Viết essay + nói đầy đủ 3 parts trong điều kiện thi thật."
-tags: ["ielts", "mock-test-2", "writing", "speaking", "week-38"]
+tags: ["ielts", "mock-test-2", "writing", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

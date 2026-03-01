@@ -259,3 +259,54 @@ details[open] > *:not(summary) {
     min-width: 60px;
   }
 }
+
+/* === Hero CTA Buttons === */
+.hero-cta {
+  display: flex;
+  gap: 12px;
+  margin: 20px 0 16px;
+  flex-wrap: wrap;
+}
+
+.cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.cta-primary {
+  background: var(--primary);
+  color: white;
+}
+
+.cta-primary:hover {
+  opacity: 0.9;
+  box-shadow: 0 4px 12px rgba(27, 112, 184, 0.3);
+}
+
+.cta-secondary {
+  background: var(--code-bg);
+  color: var(--primary);
+  border: 1px solid var(--border);
+}
+
+.cta-secondary:hover {
+  border-color: var(--primary);
+}
+
+@media (max-width: 640px) {
+  .hero-cta {
+    flex-direction: column;
+  }
+  .cta-btn {
+    text-align: center;
+    justify-content: center;
+  }
+}

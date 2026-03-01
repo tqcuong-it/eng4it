@@ -2,7 +2,7 @@
 title: "Tuần 21: IELTS Speaking — Part 1"
 date: 2023-05-22
 summary: "Tổng quan IELTS Speaking, chiến lược trả lời Part 1 — Topics thường gặp, Model Answers, Fluency & Pronunciation Tips + Mock Practice."
-tags: ["ielts", "speaking", "part-1", "week-21"]
+tags: ["ielts", "speaking", "part-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

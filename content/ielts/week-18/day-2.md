@@ -4,7 +4,7 @@ slug: "day-2-process-diagrams-ngon-ngu-trinh-tu-bai-mau"
 date: 2023-05-02
 summary: "Cách viết bài mô tả Process Diagram, ngôn ngữ trình tự và bài mẫu Band 6+."
 description: "Chiến lược mô tả quy trình — sequencing language, câu bị động, cấu trúc bài viết và bài tập thực hành."
-tags: ["ielts", "writing", "task-1", "process", "week-18"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

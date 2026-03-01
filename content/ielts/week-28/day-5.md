@@ -4,7 +4,7 @@ slug: "day-5-full-reading-test-2-3-passages-40-questions"
 date: 2023-07-14
 summary: "Làm bài thi Reading hoàn chỉnh lần 2 — 3 passages, 40 câu hỏi, 60 phút để rèn tốc độ và chiến lược."
 description: "Full IELTS Reading Practice Test 2 với 3 passages theo độ khó tăng dần — luyện quản lý thời gian và áp dụng tất cả chiến lược đã học."
-tags: ["ielts", "reading", "full-test", "practice", "week-28"]
+tags: ["ielts", "reading", "full-test", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

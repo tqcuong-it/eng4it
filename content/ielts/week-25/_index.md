@@ -2,7 +2,7 @@
 title: "Tuần 25: Listening Intensive (1)"
 date: 2023-06-19
 summary: "Ôn tập chiến lược Listening Section 1-4, luyện nghe tốc độ cao, ghi chú Cornell, làm Full Test 1 và phân tích lỗi sai."
-tags: ["ielts", "listening", "intensive", "practice-test", "week-25"]
+tags: ["ielts", "listening", "intensive", "practice-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-1-intro-to-ielts-listening-form-filling"
 date: 2023-03-27
 summary: "Tổng quan IELTS Listening, chiến lược làm dạng Form Filling trong Section 1."
 description: "Giới thiệu IELTS Listening — cấu trúc bài thi, chiến lược Form Filling, từ vựng thường gặp và bài tập thực hành."
-tags: ["ielts", "listening", "form-filling", "week-13"]
+tags: ["ielts", "listening"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

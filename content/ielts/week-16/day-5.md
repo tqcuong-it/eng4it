@@ -4,7 +4,7 @@ slug: "day-5-diagram-flow-chart-completion-strategy-practice"
 date: 2023-04-21
 summary: "Chiến lược làm dạng Diagram và Flow Chart Completion — đọc sơ đồ, xác định thông tin và điền từ."
 description: "Hướng dẫn dạng Diagram/Flow Chart Completion trong IELTS Reading — cách đọc sơ đồ quy trình, chiến lược và bài tập thực hành."
-tags: ["ielts", "reading", "diagram-completion", "flow-chart", "week-16"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-7-review-error-analysis-on-tap-tuan-18"
 date: 2023-05-07
 summary: "Ôn tập kiến thức Writing Task 1 nâng cao, phân tích lỗi sai và lập kế hoạch cải thiện."
 description: "Tổng ôn Task 1 Advanced — Table, Process, Map, so sánh dữ liệu, cohesion & coherence, phân tích lỗi và checklist Band 6."
-tags: ["ielts", "writing", "task-1", "review", "error-analysis", "week-18"]
+tags: ["ielts", "writing", "task-1", "review", "error-analysis"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -3,7 +3,7 @@ title: "Mẫu Câu Tiếng Anh Trong Công Việc Thường Ngày Của Develope
 date: 2026-03-01
 summary: "Tổng hợp những mẫu câu tiếng Anh chuyên nghiệp mà developer nào cũng cần — từ báo bug, xin review code, update tiến độ đến xin gia hạn deadline."
 description: "Tổng hợp mẫu câu tiếng Anh trong công việc hàng ngày dành cho lập trình viên — copy & paste được luôn!"
-tags: ["email", "workplace", "beginner", "daily-use"]
+tags: ["beginner"]
 series: ["English at Work"]
 categories: ["workplace-english"]
 ShowToc: true

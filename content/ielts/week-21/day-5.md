@@ -4,7 +4,7 @@ slug: "day-5-fluency-coherence-tips-fillers-linking-mo-rong-cau-tra-loi"
 date: 2023-05-26
 summary: "Kỹ thuật nói trôi chảy và mạch lạc — cách dùng fillers, linking words, và mở rộng câu trả lời Part 1."
 description: "Chiến lược cải thiện Fluency & Coherence cho IELTS Speaking — fillers tự nhiên, linking words, kỹ thuật extending answers."
-tags: ["ielts", "speaking", "fluency", "coherence", "fillers", "linking-words", "week-21"]
+tags: ["ielts", "speaking", "fluency", "coherence"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

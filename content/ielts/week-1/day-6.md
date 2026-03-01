@@ -4,7 +4,7 @@ slug: "day-6-daily-activities-past-continuous"
 date: 2023-01-07
 summary: "Học 20 từ vựng về hoạt động hàng ngày, làm quen thì Quá khứ tiếp diễn (Past Continuous)."
 description: "Bài 6 — 20 từ vựng hoạt động, can/can't, đoạn đọc về sở thích."
-tags: ["ielts", "vocabulary", "grammar", "week-1"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

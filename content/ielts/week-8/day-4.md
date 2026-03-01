@@ -4,7 +4,7 @@ slug: "day-4-conservation-second-conditional"
 date: 2023-02-23
 summary: "Học 20 từ vựng về bảo tồn thiên nhiên, ngữ pháp Second Conditional (If + past, would + V), đọc đoạn văn 85 từ."
 description: "Bài IELTS tuần 8 ngày 4 — từ vựng bảo tồn, Second Conditional, đoạn đọc 85 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-8", "conservation"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

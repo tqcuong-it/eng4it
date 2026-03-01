@@ -2,7 +2,7 @@
 title: "Tuần 22: IELTS Speaking — Part 2"
 date: 2023-05-29
 summary: "Chiến lược IELTS Speaking Part 2 — Cue Card, mô tả People/Places/Events/Objects, quản lý thời gian + Mock Practice."
-tags: ["ielts", "speaking", "part-2", "week-22"]
+tags: ["ielts", "speaking", "part-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

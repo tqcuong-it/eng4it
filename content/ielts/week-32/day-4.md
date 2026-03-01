@@ -4,7 +4,7 @@ slug: "day-4-complex-grammar-for-speaking-conditionals-passive-relative"
 date: 2023-08-10
 summary: "Ngữ pháp nâng cao cho Speaking — conditionals (if clauses), passive voice, relative clauses để tăng Grammatical Range & Accuracy."
 description: "IELTS Speaking grammar: conditionals, passive voice, relative clauses với ví dụ ứng dụng trong Part 1-2-3."
-tags: ["ielts", "speaking", "grammar", "conditionals", "passive", "relative-clauses", "week-32"]
+tags: ["ielts", "speaking", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

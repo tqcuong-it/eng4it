@@ -2,7 +2,7 @@
 title: "Tuần 32: Speaking Intensive (2)"
 date: 2023-08-07
 summary: "Mở rộng từ vựng theo chủ đề, ngữ pháp phức tạp cho Speaking, thêm 2 Full Mock Tests + Score Tracking và Confidence Building."
-tags: ["ielts", "speaking", "intensive", "vocabulary", "mock-test", "week-32"]
+tags: ["ielts", "speaking", "intensive", "vocabulary", "mock-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

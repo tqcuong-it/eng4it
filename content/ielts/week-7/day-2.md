@@ -4,7 +4,7 @@ slug: "day-2-social-media-relative-clauses-which-that"
 date: 2023-02-14
 summary: "Học 20 từ vựng mạng xã hội, mệnh đề quan hệ với 'which/that', đọc đoạn văn 75 từ về social media."
 description: "IELTS Tuần 7 Ngày 2 — 20 từ vựng Social Media, ngữ pháp Relative Clauses (which/that), đoạn đọc 75 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-7", "relative-clauses"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

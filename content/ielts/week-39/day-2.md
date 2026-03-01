@@ -4,7 +4,7 @@ slug: "day-2-last-minute-reading-tips-quick-practice"
 date: 2023-09-26
 summary: "Tips cuối cùng cho Reading — quản lý thời gian, chiến lược từng dạng câu hỏi và luyện nhanh."
 description: "Tổng hợp chiến lược Reading quan trọng nhất: time management, scanning, skimming và cách xử lý từng dạng bài."
-tags: ["ielts", "reading", "tips", "final-prep", "week-39"]
+tags: ["ielts", "reading", "tips", "final-prep"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

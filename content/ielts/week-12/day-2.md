@@ -4,7 +4,7 @@ slug: "day-2-grammar-review-modals-conditionals"
 date: 2023-03-21
 summary: "Ôn tập Modal Verbs (can, should, must, will, may) và 4 loại câu điều kiện (Zero, First, Second, Third) — bảng tóm tắt + 15 bài tập."
 description: "Ôn tập modals và conditionals Phase 1 — tổng hợp công thức và 15 bài tập mixed."
-tags: ["ielts", "grammar", "modals", "conditionals", "review", "week-12"]
+tags: ["ielts", "grammar", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

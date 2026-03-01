@@ -4,7 +4,7 @@ slug: "day-3-multiple-choice-reading-strategy-practice"
 date: 2023-04-19
 summary: "Chiến lược làm dạng Multiple Choice trong IELTS Reading — kỹ thuật loại trừ và phân tích đáp án."
 description: "Hướng dẫn dạng Multiple Choice Reading — các loại MC, chiến lược loại trừ, cách tránh bẫy và bài tập thực hành."
-tags: ["ielts", "reading", "multiple-choice", "week-16"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

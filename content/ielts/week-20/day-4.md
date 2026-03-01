@@ -4,7 +4,7 @@ slug: "day-4-linking-words-cohesion"
 date: 2023-05-18
 summary: "Linking words và kỹ năng tạo sự mạch lạc — firstly, moreover, however, in conclusion và cách dùng tự nhiên."
 description: "Hướng dẫn sử dụng linking words trong IELTS Writing Task 2 — phân loại, cách dùng đúng, lỗi thường gặp và bài tập thực hành."
-tags: ["ielts", "writing", "linking-words", "cohesion", "week-20"]
+tags: ["ielts", "writing"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

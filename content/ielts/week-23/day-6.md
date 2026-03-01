@@ -4,7 +4,7 @@ slug: "day-6-full-speaking-practice-parts-1-3"
 date: 2023-06-10
 summary: "Mô phỏng bài thi Speaking đầy đủ 3 Parts — luyện tập từ đầu đến cuối."
 description: "Bài luyện tập Speaking mô phỏng hoàn chỉnh IELTS Speaking Test với cả 3 Parts và hướng dẫn tự chấm điểm."
-tags: ["ielts", "speaking", "practice", "simulation", "week-23"]
+tags: ["ielts", "speaking", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

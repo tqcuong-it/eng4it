@@ -4,7 +4,7 @@ slug: "day-4-last-minute-speaking-tips-fluency-drills"
 date: 2023-09-28
 summary: "Tips cuối cùng cho Speaking — cách tạo ấn tượng tốt, fluency drills và common topics."
 description: "Tổng hợp chiến lược Speaking: Part 1-2-3 tips, cách tránh im lặng, filler phrases và luyện fluency."
-tags: ["ielts", "speaking", "tips", "fluency", "final-prep", "week-39"]
+tags: ["ielts", "speaking", "tips", "fluency", "final-prep"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

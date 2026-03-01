@@ -4,7 +4,7 @@ slug: "day-7-review-error-analysis"
 date: 2023-04-16
 summary: "Ôn tập tuần 15 — phân tích lỗi sai, tổng hợp chiến lược Reading và tự đánh giá tiến độ."
 description: "Review toàn bộ chiến lược IELTS Reading tuần 15, phân tích lỗi sai phổ biến, checklist kỹ năng và kế hoạch cải thiện."
-tags: ["ielts", "reading", "review", "week-15"]
+tags: ["ielts", "reading", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

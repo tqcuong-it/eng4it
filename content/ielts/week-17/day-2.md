@@ -4,7 +4,7 @@ slug: "day-2-describing-trends-tu-vung-mo-ta-xu-huong"
 date: 2023-04-25
 summary: "Từ vựng mô tả xu hướng tăng, giảm, dao động, ổn định cho IELTS Writing Task 1."
 description: "Học từ vựng chuyên dụng mô tả trends — increase, decrease, fluctuate, remain stable và cách kết hợp với trạng từ chỉ mức độ."
-tags: ["ielts", "writing", "task-1", "trends", "week-17"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

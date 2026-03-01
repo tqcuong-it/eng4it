@@ -4,7 +4,7 @@ slug: "day-3-comprehensive-score-analysis-so-sanh-tat-ca-mock-tests"
 date: 2023-09-06
 summary: "Phân tích tổng hợp điểm số từ Mock Test 1-4, vẽ biểu đồ xu hướng và đánh giá tiến bộ."
 description: "So sánh chi tiết kết quả 4 mock tests, phân tích xu hướng theo từng kỹ năng và xác định pattern cải thiện."
-tags: ["ielts", "analysis", "score", "trend", "phase-3", "week-36"]
+tags: ["ielts", "analysis", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

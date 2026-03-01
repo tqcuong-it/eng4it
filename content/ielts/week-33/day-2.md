@@ -4,7 +4,7 @@ slug: "day-2-full-mock-test-reading"
 date: 2023-08-15
 summary: "Bài thi Reading mô phỏng đầy đủ — 40 câu hỏi, 3 Passages, 60 phút bấm giờ."
 description: "Mock test IELTS Reading hoàn chỉnh với 3 bài đọc và 40 câu hỏi đa dạng."
-tags: ["ielts", "reading", "mock-test", "phase-3", "week-33"]
+tags: ["ielts", "reading", "mock-test", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-5-mixed-skills-practice-focus-areas"
 date: 2023-09-01
 summary: "Luyện tập tổng hợp kết hợp cả 3 điểm yếu đã luyện — bài tập mixed skills thực tế."
 description: "Practice session kết hợp các kỹ năng focus từ Day 2-4, mô phỏng tình huống thi thật."
-tags: ["ielts", "mixed-practice", "skills", "review", "week-35"]
+tags: ["ielts", "skills", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

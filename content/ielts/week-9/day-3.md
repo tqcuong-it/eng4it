@@ -4,7 +4,7 @@ slug: "day-3-cultural-differences-past-perfect-ung-dung"
 date: 2023-03-01
 summary: "Học 20 từ vựng về khác biệt văn hóa, thực hành Past Perfect trong câu phức với after, before, when, because."
 description: "IELTS Tuần 9 Ngày 3 — Từ vựng Cultural Differences, ngữ pháp Past Perfect ứng dụng, đoạn đọc 90 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-9"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

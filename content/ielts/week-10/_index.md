@@ -2,7 +2,7 @@
 title: "Tuần 10: Giáo Dục"
 date: 2023-03-06
 summary: "Học từ vựng về hệ thống giáo dục, đại học, phương pháp học, thi cử, học trực tuyến — grammar: Modals, Third Conditional, Wish, Complex Sentences."
-tags: ["ielts", "week-10", "pre-intermediate"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

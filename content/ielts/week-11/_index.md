@@ -2,7 +2,7 @@
 title: "Tuần 11: Xã Hội & Cuộc Sống"
 date: 2023-03-13
 summary: "Học từ vựng về thành thị/nông thôn, nhà ở, tội phạm, chính trị, vấn đề xã hội, kinh tế — grammar: Comparatives & Superlatives, Relative Clauses, Passive Voice, Reported Speech."
-tags: ["ielts", "week-11", "pre-intermediate"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

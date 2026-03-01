@@ -2,7 +2,7 @@
 title: "Tuần 34: Mixed Practice Tests (2)"
 date: 2023-08-21
 summary: "2 bài thi mô phỏng đầy đủ liên tiếp — so sánh điểm số, luyện quản lý thời gian và theo dõi tiến bộ."
-tags: ["ielts", "mock-test", "practice", "phase-3", "week-34"]
+tags: ["ielts", "mock-test", "practice", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

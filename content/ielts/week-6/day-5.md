@@ -4,7 +4,7 @@ slug: "day-5-work-routines-present-perfect-vs-past-simple"
 date: 2023-02-10
 summary: "Học 20 từ vựng về thói quen công việc, phân biệt Present Perfect và Past Simple, đọc đoạn văn 80 từ."
 description: "Bài IELTS Tuần 6 Ngày 5 — 20 từ vựng thói quen công sở, so sánh Present Perfect vs Past Simple, đoạn đọc 80 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-6", "routines"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

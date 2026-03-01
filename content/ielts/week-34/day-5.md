@@ -4,7 +4,7 @@ slug: "day-5-mock-test-2-writing-speaking"
 date: 2023-08-25
 summary: "Hoàn thành Mock Test 2 — Writing Task 1 + 2 và Speaking Parts 1-3 với đề hoàn toàn mới."
 description: "Mock test IELTS Writing và Speaking lần 2, tập trung áp dụng bài học từ phân tích lỗi."
-tags: ["ielts", "writing", "speaking", "mock-test-2", "week-34"]
+tags: ["ielts", "writing", "speaking", "mock-test-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

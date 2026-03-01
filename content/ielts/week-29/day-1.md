@@ -4,7 +4,7 @@ slug: "day-1-task-1-timed-practice-line-graph-bar-chart"
 date: 2023-07-17
 summary: "Luyện viết Task 1 có tính giờ: Line Graph và Bar Chart, mỗi bài 20 phút."
 description: "Thực hành viết IELTS Task 1 trong điều kiện thi thật với Line Graph và Bar Chart — 20 phút mỗi bài."
-tags: ["ielts", "writing", "task-1", "timed-practice", "week-29"]
+tags: ["ielts", "writing", "task-1", "timed-practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

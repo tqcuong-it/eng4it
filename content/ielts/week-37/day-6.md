@@ -4,7 +4,7 @@ slug: "day-6-weak-skill-practice-luyen-ky-nang-yeu"
 date: 2023-09-16
 summary: "Tập trung luyện tập kỹ năng yếu nhất từ Mock Test 1 — bài tập chuyên sâu theo từng vấn đề."
 description: "Intensive practice cho kỹ năng yếu nhất được xác định từ Day 5. Bài tập theo từng loại lỗi cụ thể."
-tags: ["ielts", "practice", "weakness", "improvement", "week-37"]
+tags: ["ielts", "practice", "weakness", "improvement"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

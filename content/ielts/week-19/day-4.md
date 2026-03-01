@@ -4,7 +4,7 @@ slug: "day-4-problem-solution-essays"
 date: 2023-05-11
 summary: "Cấu trúc, bài mẫu và luyện tập viết Problem/Solution Essay — nêu vấn đề và đề xuất giải pháp."
 description: "Hướng dẫn viết Problem/Solution Essay — cấu trúc, bài mẫu Band 6+, cụm từ hữu ích và bài tập thực hành."
-tags: ["ielts", "writing", "task-2", "problem-solution", "week-19"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "Tuần 19: IELTS Writing Task 2 — Intro"
 date: 2023-05-08
 summary: "Tổng quan Writing Task 2 — Các dạng bài essay, cách chấm điểm, chiến lược viết 250 từ trong 40 phút + Luyện tập từng dạng."
-tags: ["ielts", "writing", "task-2", "essay", "week-19"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

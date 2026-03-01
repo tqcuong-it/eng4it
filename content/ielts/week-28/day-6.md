@@ -4,7 +4,7 @@ slug: "day-6-full-reading-test-3-3-passages-40-questions"
 date: 2023-07-15
 summary: "Bài thi Reading hoàn chỉnh lần 3 — tiếp tục rèn tốc độ, độ chính xác và chiến lược làm bài."
 description: "Full IELTS Reading Practice Test 3 — luyện tập với 3 passages mới, áp dụng tất cả kỹ năng đã học từ Tuần 15 đến nay."
-tags: ["ielts", "reading", "full-test", "practice", "week-28"]
+tags: ["ielts", "reading", "full-test", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

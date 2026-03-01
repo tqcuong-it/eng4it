@@ -4,7 +4,7 @@ slug: "day-4-full-mock-test-speaking"
 date: 2023-08-17
 summary: "Bài thi Speaking mô phỏng — Parts 1-3 với câu hỏi mẫu và bài trả lời tham khảo."
 description: "Mock test IELTS Speaking hoàn chỉnh với 3 Parts, kèm model answers và tiêu chí chấm điểm."
-tags: ["ielts", "speaking", "mock-test", "phase-3", "week-33"]
+tags: ["ielts", "speaking", "mock-test", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

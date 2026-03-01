@@ -4,7 +4,7 @@ slug: "day-7-after-the-exam-chao-mung-tot-nghiep"
 date: 2023-10-02
 summary: "XIN CHÚC MỪNG! 🎉 Bạn đã hoàn thành 40 tuần học IELTS! Hướng dẫn kiểm tra kết quả, ăn mừng và con đường tiếp theo."
 description: "Sau kỳ thi IELTS: cách kiểm tra kết quả, ăn mừng thành tựu 40 tuần, và nguồn tài liệu học tiếp."
-tags: ["ielts", "graduation", "celebration", "grand-finale", "week-40"]
+tags: ["ielts", "celebration", "grand-finale"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

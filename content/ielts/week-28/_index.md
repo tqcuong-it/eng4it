@@ -2,7 +2,7 @@
 title: "Tuần 28: Reading Intensive (2)"
 date: 2023-07-10
 summary: "Luyện đọc chuyên sâu IELTS (tiếp) — Mixed Question Types, Paraphrasing, Inference, AWL 51-100 + 2 Full Tests."
-tags: ["ielts", "reading", "intensive", "week-28"]
+tags: ["ielts", "reading", "intensive"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

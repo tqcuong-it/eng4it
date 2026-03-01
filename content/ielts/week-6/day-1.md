@@ -4,7 +4,7 @@ slug: "day-1-jobs-professions-present-perfect-gioi-thieu"
 date: 2023-02-06
 summary: "Học 20 từ vựng nghề nghiệp, làm quen thì Hiện tại hoàn thành (Present Perfect: have/has + V3), đọc đoạn văn 70 từ về công việc."
 description: "Bài IELTS Tuần 6 Ngày 1 — 20 từ vựng nghề nghiệp, ngữ pháp Present Perfect cơ bản, đoạn đọc 70 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-6", "jobs"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

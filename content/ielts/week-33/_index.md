@@ -2,7 +2,7 @@
 title: "Tuần 33: Mixed Practice Tests (1)"
 date: 2023-08-14
 summary: "Luyện thi mô phỏng đầy đủ 4 kỹ năng — Listening, Reading, Writing, Speaking + Phân tích lỗi và ôn tập điểm yếu."
-tags: ["ielts", "mock-test", "practice", "phase-3", "week-33"]
+tags: ["ielts", "mock-test", "practice", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

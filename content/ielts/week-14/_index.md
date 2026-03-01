@@ -2,7 +2,7 @@
 title: "Tuần 14: IELTS Listening — Section 2"
 date: 2023-04-03
 summary: "Chiến lược làm bài Listening Section 2 — Monologue, Matching, Classification, Sentence Completion, Short Answer + Practice Test."
-tags: ["ielts", "listening", "section-2", "week-14"]
+tags: ["ielts", "listening", "section-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

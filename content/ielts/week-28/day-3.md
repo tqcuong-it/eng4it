@@ -4,7 +4,7 @@ slug: "day-3-inference-questions-reading-between-the-lines"
 date: 2023-07-12
 summary: "Luyện kỹ năng suy luận — trả lời các câu hỏi inference trong IELTS Reading bằng cách đọc 'giữa các dòng'."
 description: "Chiến lược xử lý inference questions — cách nhận diện thông tin ngầm, phân biệt với thông tin trực tiếp và tránh over-inference."
-tags: ["ielts", "reading", "inference", "week-28"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

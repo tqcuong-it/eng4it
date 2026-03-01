@@ -4,7 +4,7 @@ slug: "day-6-full-speaking-mock-3-parts-1-3-scoring"
 date: 2023-08-12
 summary: "Bài thi Speaking thử thứ 3 — đề khó hơn, chủ đề trừu tượng, chấm điểm chi tiết và so sánh tiến bộ qua 3 bài Mock."
 description: "IELTS Full Speaking Mock Test 3: challenging topics, Parts 1-3, detailed scoring, progress comparison across 3 mock tests."
-tags: ["ielts", "speaking", "mock-test", "scoring", "week-32"]
+tags: ["ielts", "speaking", "mock-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

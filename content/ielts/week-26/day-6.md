@@ -4,7 +4,7 @@ slug: "day-6-full-listening-test-3-40-cau-hoi-mo-phong-thi-that"
 date: 2023-07-01
 summary: "Làm Full Listening Test 3 — bài test cuối cùng trong chuỗi Listening Intensive, đánh giá tổng hợp năng lực."
 description: "IELTS Full Listening Practice Test 3 — 40 câu hỏi, 4 sections, 30 phút, đánh giá tổng hợp sau 2 tuần Listening Intensive."
-tags: ["ielts", "listening", "full-test", "practice-test", "week-26"]
+tags: ["ielts", "listening", "full-test", "practice-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

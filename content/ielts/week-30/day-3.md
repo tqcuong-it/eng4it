@@ -4,7 +4,7 @@ slug: "day-3-task-achievement-tra-loi-dung-va-du"
 date: 2023-07-26
 summary: "Cải thiện tiêu chí Task Achievement/Response — trả lời đúng câu hỏi, đưa ví dụ phù hợp, viết đủ ý."
 description: "Chiến lược đạt Band 6+ cho Task Achievement: phân tích đề đúng, overview chất lượng, ví dụ relevant."
-tags: ["ielts", "writing", "task-achievement", "week-30"]
+tags: ["ielts", "writing"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

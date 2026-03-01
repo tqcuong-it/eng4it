@@ -4,7 +4,7 @@ slug: "day-4-email-letters-reported-speech-statements"
 date: 2023-02-16
 summary: "Học 20 từ vựng email & thư, Reported Speech với told/asked, đọc đoạn văn 75 từ."
 description: "IELTS Tuần 7 Ngày 4 — 20 từ vựng Email & Letters, Reported Speech (told), đoạn đọc 75 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-7", "reported-speech"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-4-target-score-gap-analysis-khoang-cach-den-band-6-0"
 date: 2023-09-07
 summary: "Phân tích chi tiết khoảng cách đến Band 6.0 cho từng kỹ năng và xác định hành động cụ thể."
 description: "Gap analysis từng kỹ năng IELTS, so sánh với Band 6.0 descriptors và lập action plan cụ thể."
-tags: ["ielts", "gap-analysis", "band-6", "target", "phase-3", "week-36"]
+tags: ["ielts", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

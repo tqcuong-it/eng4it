@@ -4,7 +4,7 @@ slug: "day-2-mock-test-1-writing-speaking"
 date: 2023-08-22
 summary: "Hoàn thành Mock Test 1 — Writing (60 phút) và Speaking (14 phút) với đề mới."
 description: "Mock test IELTS Writing Task 1 + 2 và Speaking Parts 1-3, kèm bài mẫu và tiêu chí chấm."
-tags: ["ielts", "writing", "speaking", "mock-test", "week-34"]
+tags: ["ielts", "writing", "speaking", "mock-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

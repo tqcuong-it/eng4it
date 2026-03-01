@@ -4,7 +4,7 @@ slug: "day-5-childhood-memories-past-simple-vs-past-continuous"
 date: 2023-01-20
 summary: "Học 20 từ vựng kỷ niệm tuổi thơ, phân biệt Past Simple và Past Continuous, đọc đoạn văn 80 từ."
 description: "Bài IELTS Tuần 3 Ngày 5 — 20 từ vựng childhood memories, ngữ pháp Past Simple vs Past Continuous, đoạn đọc 80 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-3"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

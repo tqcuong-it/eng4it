@@ -4,7 +4,7 @@ slug: "day-4-academic-vocabulary-building-awl-top-51-100"
 date: 2023-07-13
 summary: "Mở rộng vốn từ học thuật với 50 từ tiếp theo trong Academic Word List (AWL) — nền tảng cho IELTS Reading band 6.0+."
 description: "Học và luyện tập AWL từ 51-100 với ngữ cảnh thực tế, word families và bài tập áp dụng trong IELTS Reading."
-tags: ["ielts", "vocabulary", "awl", "academic", "week-28"]
+tags: ["ielts", "vocabulary", "academic"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

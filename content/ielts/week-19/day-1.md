@@ -4,7 +4,7 @@ slug: "day-1-understanding-task-2-tong-quan-bai-thi"
 date: 2023-05-08
 summary: "Tổng quan IELTS Writing Task 2 — các dạng essay, tiêu chí chấm điểm, quản lý thời gian 40 phút."
 description: "Giới thiệu IELTS Writing Task 2 — cấu trúc, 4 dạng essay chính, Band Descriptors và chiến lược quản lý thời gian."
-tags: ["ielts", "writing", "task-2", "overview", "week-19"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

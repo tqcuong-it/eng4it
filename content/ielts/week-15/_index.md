@@ -2,7 +2,7 @@
 title: "Tuần 15: IELTS Reading — Passage Types"
 date: 2023-04-10
 summary: "Chiến lược đọc hiểu IELTS Academic Reading — Skimming, Scanning, True/False/Not Given, Yes/No/Not Given, Matching Headings + Practice Test."
-tags: ["ielts", "reading", "passage-types", "week-15"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

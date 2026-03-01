@@ -4,7 +4,7 @@ slug: "day-4-mini-mock-test-20-cau-hon-hop-30-phut"
 date: 2023-10-02
 summary: "Bài kiểm tra nhanh 20 câu hỗn hợp Listening, Reading, Writing, Speaking — kiểm tra phong độ lần cuối!"
 description: "Mini mock test 30 phút với 20 câu bao gồm cả 4 kỹ năng IELTS để tự tin trước ngày thi."
-tags: ["ielts", "mock-test", "practice", "grand-finale", "week-40"]
+tags: ["ielts", "mock-test", "practice", "grand-finale"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

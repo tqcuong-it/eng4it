@@ -4,7 +4,7 @@ slug: "day-5-error-analysis-phan-tich-loi-4-ky-nang"
 date: 2023-08-18
 summary: "Phân tích chi tiết lỗi sai từ mock test Listening, Reading, Writing, Speaking — xác định điểm yếu cần cải thiện."
 description: "Hướng dẫn phân tích lỗi toàn diện cả 4 kỹ năng IELTS, xác định pattern lỗi và lập kế hoạch cải thiện."
-tags: ["ielts", "error-analysis", "review", "phase-3", "week-33"]
+tags: ["ielts", "error-analysis", "review", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

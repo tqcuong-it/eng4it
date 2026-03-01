@@ -4,7 +4,7 @@ slug: "day-4-coherence-cohesion-to-chuc-doan-van"
 date: 2023-07-27
 summary: "Cải thiện Coherence & Cohesion — tổ chức đoạn văn logic, dùng linking words tự nhiên, referencing hiệu quả."
 description: "Chiến lược đạt Band 6+ cho Coherence & Cohesion: paragraph organization, cohesive devices, referencing."
-tags: ["ielts", "writing", "coherence", "cohesion", "week-30"]
+tags: ["ielts", "writing", "coherence"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

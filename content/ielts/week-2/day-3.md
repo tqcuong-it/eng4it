@@ -4,7 +4,7 @@ slug: "day-3-home-rooms-prepositions-of-time"
 date: 2023-01-11
 summary: "Học 20 từ vựng về nhà cửa & phòng ốc, làm quen giới từ chỉ thời gian (in/on/at), đọc đoạn văn mô tả ngôi nhà 75 từ."
 description: "Bài 10 IELTS cho người mới — 20 từ vựng nhà cửa, giới từ chỉ thời gian in/on/at, đoạn đọc 75 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-2"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

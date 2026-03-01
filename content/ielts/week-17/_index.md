@@ -2,7 +2,7 @@
 title: "Tuần 17: IELTS Writing Task 1 — Intro"
 date: 2023-04-24
 summary: "Tổng quan Writing Task 1 — Scoring criteria, mô tả xu hướng, Line Graph, Bar Chart, Pie Chart + Thực hành viết bài hoàn chỉnh."
-tags: ["ielts", "writing", "task-1", "week-17"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

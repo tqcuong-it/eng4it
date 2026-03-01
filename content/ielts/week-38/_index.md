@@ -2,7 +2,7 @@
 title: "Tuần 38: Mock Tests (2) — Luyện thi marathon"
 date: 2023-09-18
 summary: "2 Full Mock Tests liên tiếp — phân tích xu hướng điểm, kiểm tra điểm yếu cuối cùng và xây dựng sự tự tin."
-tags: ["ielts", "mock-test", "intensive", "phase-4", "week-38"]
+tags: ["ielts", "mock-test", "intensive", "phase-4"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

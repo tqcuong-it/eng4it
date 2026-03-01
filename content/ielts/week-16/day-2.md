@@ -4,7 +4,7 @@ slug: "day-2-sentence-completion-tips-practice"
 date: 2023-04-18
 summary: "Chiến lược làm dạng Sentence Completion trong IELTS Reading — hoàn thành câu bằng từ trong passage."
 description: "Hướng dẫn dạng Sentence Completion — phân biệt với Summary Completion, chiến lược tìm đáp án và bài tập thực hành."
-tags: ["ielts", "reading", "sentence-completion", "week-16"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

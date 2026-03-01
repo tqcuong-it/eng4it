@@ -4,7 +4,7 @@ slug: "day-4-food-drink-on-tap-giua-tuan"
 date: 2023-01-05
 summary: "Học 20 từ vựng về đồ ăn & thức uống, ôn tập Present Simple vs Present Continuous, mini test giữa tuần."
 description: "Bài 4 — 20 từ vựng đồ ăn, mạo từ a/an/the, ôn tập giữa tuần."
-tags: ["ielts", "vocabulary", "grammar", "week-1"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

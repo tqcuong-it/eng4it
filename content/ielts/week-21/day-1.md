@@ -4,7 +4,7 @@ slug: "day-1-gioi-thieu-ielts-speaking-format-tieu-chi-timing"
 date: 2023-05-22
 summary: "Tổng quan bài thi IELTS Speaking — cấu trúc 3 phần, 4 tiêu chí chấm điểm, thời gian và chiến lược tổng quát."
 description: "Tìm hiểu format IELTS Speaking gồm 3 parts, 4 scoring criteria (Fluency, Lexical Resource, Grammar, Pronunciation), timing và tips cơ bản."
-tags: ["ielts", "speaking", "format", "scoring-criteria", "week-21"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

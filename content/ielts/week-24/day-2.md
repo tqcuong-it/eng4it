@@ -4,7 +4,7 @@ slug: "day-2-reading-full-test"
 date: 2023-06-13
 summary: "Bài thi Reading mô phỏng đầy đủ — 40 câu hỏi, 3 passages, bấm giờ 60 phút."
 description: "Mô phỏng bài thi IELTS Academic Reading hoàn chỉnh với 3 passages, chiến lược phân bổ thời gian và tự chấm điểm."
-tags: ["ielts", "reading", "full-test", "milestone", "week-24"]
+tags: ["ielts", "reading", "full-test", "milestone"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

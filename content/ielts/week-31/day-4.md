@@ -4,7 +4,7 @@ slug: "day-4-pronunciation-drills-word-stress-intonation-connected-speech"
 date: 2023-08-03
 summary: "Rèn phát âm chuyên sâu cho Speaking — word stress patterns, intonation rules, connected speech techniques với bài tập drill."
 description: "IELTS Speaking pronunciation: word stress, sentence stress, intonation patterns, connected speech, linking, reduction và elision."
-tags: ["ielts", "speaking", "pronunciation", "intonation", "connected-speech", "week-31"]
+tags: ["ielts", "speaking", "pronunciation"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-2-university-life-modals-of-obligation"
 date: 2023-03-07
 summary: "Học 20 từ vựng về đời sống đại học, nắm vững Modals of Obligation (must/have to), đọc đoạn văn 85 từ."
 description: "Tuần 10 Ngày 2 — 20 từ vựng đại học, ngữ pháp must/have to, đoạn đọc 85 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-10"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

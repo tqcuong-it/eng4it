@@ -4,7 +4,7 @@ slug: "day-1-mock-test-2-listening-reading"
 date: 2023-09-18
 summary: "Full Mock Test 2 phần 1: Listening (40Q) + Reading (40Q) — thi liên tục như ngày thi thật."
 description: "Mock Test 2 bắt đầu với Listening và Reading. Luyện thi liên tục 2 kỹ năng trong điều kiện giống thi thật."
-tags: ["ielts", "mock-test-2", "listening", "reading", "week-38"]
+tags: ["ielts", "mock-test-2", "listening", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

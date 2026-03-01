@@ -4,7 +4,7 @@ slug: "day-1-diagnostic-xac-dinh-top-3-diem-yeu"
 date: 2023-08-28
 summary: "Bài test chẩn đoán để xác định chính xác 3 điểm yếu lớn nhất cần cải thiện trước Milestone."
 description: "Diagnostic exercises cho 4 kỹ năng IELTS, phân tích chi tiết để xác định Top 3 điểm yếu cần tập trung."
-tags: ["ielts", "diagnostic", "weakness", "assessment", "week-35"]
+tags: ["ielts", "weakness"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

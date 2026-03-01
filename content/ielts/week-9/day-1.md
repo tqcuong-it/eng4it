@@ -4,7 +4,7 @@ slug: "day-1-festivals-celebrations-used-to"
 date: 2023-02-27
 summary: "Học 20 từ vựng về lễ hội và ngày kỷ niệm, nắm vững cấu trúc Used to để nói về thói quen trong quá khứ."
 description: "IELTS Tuần 9 Ngày 1 — Từ vựng Festivals & Celebrations, ngữ pháp Used to, đoạn đọc 80 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-9"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

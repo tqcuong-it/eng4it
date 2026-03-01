@@ -4,7 +4,7 @@ slug: "day-6-full-speaking-mock-1-parts-1-3-14-phut"
 date: 2023-08-05
 summary: "Bài thi Speaking thử hoàn chỉnh đầu tiên — Part 1 (4-5 phút), Part 2 (3-4 phút), Part 3 (4-5 phút) với model answers và chấm điểm."
 description: "IELTS Full Speaking Mock Test 1: complete Parts 1-3, timing guide, model answers, scoring criteria và self-assessment checklist."
-tags: ["ielts", "speaking", "mock-test", "full-test", "week-31"]
+tags: ["ielts", "speaking", "mock-test", "full-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

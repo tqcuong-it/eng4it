@@ -4,7 +4,7 @@ slug: "day-1-intro-to-ielts-academic-reading"
 date: 2023-04-10
 summary: "Tổng quan IELTS Academic Reading — cấu trúc bài thi, thời gian, cách tính điểm và chiến lược tổng quát."
 description: "Giới thiệu IELTS Academic Reading — format 3 passages, 40 câu hỏi trong 60 phút, band score và chiến lược phân bổ thời gian."
-tags: ["ielts", "reading", "introduction", "week-15"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

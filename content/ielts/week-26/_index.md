@@ -2,7 +2,7 @@
 title: "Tuần 26: Listening Intensive (2)"
 date: 2023-06-26
 summary: "Luyện bẫy chính tả & số, nhận diện distractor, ngôn ngữ chuyển tiếp, accent training, làm Full Test 2-3 và theo dõi điểm."
-tags: ["ielts", "listening", "intensive", "practice-test", "week-26"]
+tags: ["ielts", "listening", "intensive", "practice-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

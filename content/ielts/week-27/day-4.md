@@ -4,7 +4,7 @@ slug: "day-4-speed-reading-timed-drills-paragraph-mapping"
 date: 2023-07-06
 summary: "Luyện đọc nhanh IELTS Reading — timed reading drills, paragraph mapping, kỹ thuật skimming nâng cao."
 description: "Speed reading cho IELTS — kỹ thuật đọc nhanh, paragraph mapping, timed drills để hoàn thành 3 passages trong 60 phút."
-tags: ["ielts", "reading", "speed-reading", "paragraph-mapping", "week-27"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

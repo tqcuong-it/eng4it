@@ -4,7 +4,7 @@ slug: "day-6-medicine-treatment-must-mustn-t"
 date: 2023-02-04
 summary: "Học 20 từ vựng về thuốc & điều trị, ngữ pháp must/mustn't, đọc đoạn văn 80 từ."
 description: "Bài 6 Tuần 5 IELTS — 20 từ vựng thuốc men, ngữ pháp must/mustn't, đoạn đọc 80 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-5", "medicine", "must"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

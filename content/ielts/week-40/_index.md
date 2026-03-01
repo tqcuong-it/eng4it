@@ -2,7 +2,7 @@
 title: "Tuần 40: THE GRAND FINALE 🎓🏆 — Tốt nghiệp!"
 date: 2023-10-02
 summary: "Tuần cuối cùng! Ôn tổng từ vựng, ngữ pháp, chiến lược, mini mock, chuẩn bị thi và CHÀO MỪNG TỐT NGHIỆP! 🎉"
-tags: ["ielts", "grand-finale", "graduation", "phase-4", "week-40"]
+tags: ["ielts", "grand-finale", "phase-4"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

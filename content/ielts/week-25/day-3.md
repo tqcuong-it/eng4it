@@ -4,7 +4,7 @@ slug: "day-3-section-4-skills-bai-giang-ghi-chu-nhanh"
 date: 2023-06-21
 summary: "Chiến lược Section 4 — nghe bài giảng/độc thoại dài, kỹ thuật note-taking và dự đoán đáp án."
 description: "Kỹ năng IELTS Listening Section 4 — nghe bài giảng học thuật, note completion, summary completion và chiến lược ghi chú hiệu quả."
-tags: ["ielts", "listening", "section-4", "lecture", "note-taking", "week-25"]
+tags: ["ielts", "listening"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

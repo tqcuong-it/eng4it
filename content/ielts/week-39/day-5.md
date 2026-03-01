@@ -4,7 +4,7 @@ slug: "day-5-exam-day-logistics-moi-thu-can-biet"
 date: 2023-09-29
 summary: "Hướng dẫn đầy đủ về ngày thi IELTS — cần mang gì, quy định, timeline và mẹo thực tế."
 description: "Tất tần tật về ngày thi IELTS: giấy tờ cần thiết, quy định phòng thi, timeline chi tiết và lưu ý quan trọng."
-tags: ["ielts", "exam-day", "logistics", "preparation", "week-39"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

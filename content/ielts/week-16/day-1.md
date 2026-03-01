@@ -4,7 +4,7 @@ slug: "day-1-summary-completion-strategy-practice"
 date: 2023-04-17
 summary: "Chiến lược làm dạng Summary Completion — cách điền từ vào bài tóm tắt từ passage."
 description: "Hướng dẫn chi tiết dạng Summary Completion trong IELTS Reading — 2 loại (chọn từ bài vs chọn từ danh sách), chiến lược và bài tập thực hành."
-tags: ["ielts", "reading", "summary-completion", "week-16"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

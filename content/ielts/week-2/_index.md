@@ -2,7 +2,7 @@
 title: "Tuần 2: Nơi Chốn & Di Chuyển"
 date: 2023-01-09
 summary: "Học từ vựng về địa điểm, giao thông, nhà cửa — grammar: There is/are, Prepositions, Articles, Comparatives."
-tags: ["ielts", "week-2", "beginner"]
+tags: ["ielts", "beginner"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

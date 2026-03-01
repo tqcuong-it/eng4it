@@ -4,7 +4,7 @@ slug: "day-3-maps-changes-over-time-ngon-ngu-so-sanh-thay-doi"
 date: 2023-05-03
 summary: "Cách viết bài mô tả Map trong IELTS Writing Task 1, ngôn ngữ mô tả thay đổi theo thời gian."
 description: "Chiến lược phân tích Map, từ vựng chỉ vị trí và thay đổi, cấu trúc bài viết và bài mẫu Band 6+."
-tags: ["ielts", "writing", "task-1", "map", "week-18"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

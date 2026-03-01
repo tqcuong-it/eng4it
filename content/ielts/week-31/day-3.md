@@ -4,7 +4,7 @@ slug: "day-3-part-3-deep-practice-mo-rong-cau-tra-loi-dua-vi-du"
 date: 2023-08-02
 summary: "Luyện chuyên sâu Part 3 — kỹ thuật mở rộng câu trả lời, đưa ví dụ cụ thể, so sánh và phản biện cho điểm Speaking cao."
 description: "IELTS Speaking Part 3 strategies: extending answers, giving examples, comparing, expressing opinions với model answers chi tiết."
-tags: ["ielts", "speaking", "part-3", "extending-answers", "week-31"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

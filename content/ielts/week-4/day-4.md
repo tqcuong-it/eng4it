@@ -4,7 +4,7 @@ slug: "day-4-travel-plans-future-continuous"
 date: 2023-01-26
 summary: "Học 20 từ vựng về du lịch, ngữ pháp Future Continuous (will be + V-ing), đọc đoạn văn về kế hoạch du lịch."
 description: "Bài IELTS Tuần 4 Ngày 4 — 20 từ vựng Travel Plans, ngữ pháp Future Continuous, đoạn đọc 80 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-4"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

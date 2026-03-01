@@ -4,7 +4,7 @@ slug: "day-3-final-strategy-review-cheat-sheet-4-ky-nang"
 date: 2023-10-02
 summary: "Tổng hợp chiến lược làm bài cho cả 4 kỹ năng IELTS — 1 trang cho mỗi skill!"
 description: "Cheat sheet chiến lược IELTS hoàn chỉnh: Listening, Reading, Writing, Speaking — tất cả trong 1 bài."
-tags: ["ielts", "strategy", "cheat-sheet", "grand-finale", "week-40"]
+tags: ["ielts", "strategy", "grand-finale"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-5-online-learning-wish-past-simple"
 date: 2023-03-10
 summary: "Học 20 từ vựng về học trực tuyến, nắm vững cấu trúc Wish + Past Simple, đọc đoạn văn 80 từ."
 description: "Tuần 10 Ngày 5 — 20 từ vựng học trực tuyến, ngữ pháp Wish + Past Simple, đoạn đọc 80 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-10"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

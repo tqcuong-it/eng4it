@@ -4,7 +4,7 @@ slug: "day-2-travel-tourism-past-perfect-gioi-thieu"
 date: 2023-02-28
 summary: "Học 20 từ vựng về du lịch, làm quen với thì Past Perfect (had + V3) để kể chuyện quá khứ."
 description: "IELTS Tuần 9 Ngày 2 — Từ vựng Travel & Tourism, ngữ pháp Past Perfect intro, đoạn đọc 85 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-9"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

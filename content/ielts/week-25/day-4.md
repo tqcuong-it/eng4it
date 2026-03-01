@@ -4,7 +4,7 @@ slug: "day-4-speed-listening-nghe-toc-do-1-25x-du-doan-tu-khoa"
 date: 2023-06-22
 summary: "Luyện nghe ở tốc độ 1.25x để tăng phản xạ, kỹ thuật dự đoán từ khóa và keyword prediction."
 description: "Speed Listening training — luyện nghe IELTS ở tốc độ cao 1.25x, keyword prediction, phản xạ nghe nhanh và chiến lược bắt kịp tốc độ."
-tags: ["ielts", "listening", "speed-listening", "keyword-prediction", "week-25"]
+tags: ["ielts", "listening"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

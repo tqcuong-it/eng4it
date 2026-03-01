@@ -4,7 +4,7 @@ slug: "day-1-passage-1-strategy-factual-texts"
 date: 2023-07-03
 summary: "Chiến lược làm Passage 1 IELTS Reading — bài đọc dễ nhất, factual texts, quản lý thời gian 15-17 phút."
 description: "Chiến lược chuyên sâu cho IELTS Reading Passage 1 — cách đọc factual texts nhanh, tìm đáp án hiệu quả trong 15-17 phút."
-tags: ["ielts", "reading", "passage-1", "strategy", "week-27"]
+tags: ["ielts", "reading", "strategy"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

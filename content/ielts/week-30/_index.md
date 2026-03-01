@@ -2,7 +2,7 @@
 title: "Tuần 30: Writing Intensive (2) — Nâng Band & Full Test"
 date: 2023-07-24
 summary: "Cải thiện từng tiêu chí chấm điểm Writing (Grammar, Vocabulary, Task Achievement, Coherence) + 2 Full Test + Band 6 Checklist."
-tags: ["ielts", "writing", "band-descriptors", "full-test", "week-30"]
+tags: ["ielts", "writing", "full-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

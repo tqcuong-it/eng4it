@@ -4,7 +4,7 @@ slug: "day-5-pie-charts-ngon-ngu-ti-le-bai-mau"
 date: 2023-04-28
 summary: "Cách viết bài mô tả Pie Chart, ngôn ngữ tỉ lệ phần trăm và bài mẫu Band 6+."
 description: "Chiến lược phân tích Pie Chart, từ vựng mô tả tỉ lệ, proportion, cấu trúc bài viết và bài tập thực hành."
-tags: ["ielts", "writing", "task-1", "pie-chart", "week-17"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

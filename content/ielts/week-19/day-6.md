@@ -4,7 +4,7 @@ slug: "day-6-essay-planning-outlining"
 date: 2023-05-13
 summary: "Kỹ năng lập dàn ý — từ brainstorm đến outline đến viết essay hoàn chỉnh trong 40 phút."
 description: "Hướng dẫn quy trình lập dàn ý essay — brainstorming, outlining, và viết essay có chiến lược."
-tags: ["ielts", "writing", "task-2", "planning", "outlining", "week-19"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-1-places-in-town-there-is-there-are"
 date: 2023-01-09
 summary: "Học 20 từ vựng về địa điểm trong thành phố, làm quen cấu trúc There is/There are, đọc đoạn văn mô tả thành phố 70 từ."
 description: "Bài 8 IELTS cho người mới — 20 từ vựng địa điểm, ngữ pháp There is/There are, đoạn đọc 70 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-2"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

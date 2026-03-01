@@ -4,7 +4,7 @@ slug: "day-4-vocabulary-review-1-500-words-checkpoint"
 date: 2023-03-23
 summary: "Kiểm tra từ vựng Phase 1 — danh sách từ theo chủ đề 11 tuần + 20 bài tập fill-the-blank."
 description: "Ôn tập 1,500 từ vựng Phase 1 IELTS — phân loại theo tuần + 20 bài tập điền từ."
-tags: ["ielts", "vocabulary", "review", "week-12"]
+tags: ["ielts", "vocabulary", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "Tuần 23: IELTS Speaking — Part 3"
 date: 2023-06-05
 summary: "Kỹ năng trả lời Speaking Part 3 — Discussion, Opinion, So sánh, Dự đoán + Luyện tập mô phỏng toàn bộ 3 Parts."
-tags: ["ielts", "speaking", "part-3", "week-23"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

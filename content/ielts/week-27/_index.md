@@ -2,7 +2,7 @@
 title: "Tuần 27: Reading Intensive (1)"
 date: 2023-07-03
 summary: "Luyện đọc chuyên sâu IELTS — Chiến lược cho từng Passage, Speed Reading, Academic Vocabulary + Full Reading Test 1."
-tags: ["ielts", "reading", "intensive", "week-27"]
+tags: ["ielts", "reading", "intensive"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

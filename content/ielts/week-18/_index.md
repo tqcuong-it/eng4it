@@ -2,7 +2,7 @@
 title: "Tuần 18: IELTS Writing Task 1 — Advanced"
 date: 2023-05-01
 summary: "Nâng cao Task 1 — Table, Process Diagram, Map, kỹ năng so sánh dữ liệu, cohesion & coherence + Timed Writing Practice."
-tags: ["ielts", "writing", "task-1", "advanced", "week-18"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

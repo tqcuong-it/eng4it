@@ -4,7 +4,7 @@ slug: "day-1-introduction-writing"
 date: 2023-05-15
 summary: "Kỹ năng viết Introduction — paraphrase đề bài, thesis statement và các mẫu mở bài cho từng dạng essay."
 description: "Hướng dẫn viết Introduction cho IELTS Writing Task 2 — kỹ thuật paraphrase, thesis statement, và ví dụ cho 4 dạng essay."
-tags: ["ielts", "writing", "introduction", "paraphrase", "week-20"]
+tags: ["ielts", "writing"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

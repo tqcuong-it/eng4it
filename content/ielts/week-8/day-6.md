@@ -4,7 +4,7 @@ slug: "day-6-green-living-gerunds-vs-infinitives"
 date: 2023-02-25
 summary: "Học 20 từ vựng về lối sống xanh, ngữ pháp Gerunds vs Infinitives (enjoy + V-ing, want + to V), đọc đoạn văn 90 từ."
 description: "Bài IELTS tuần 8 ngày 6 — từ vựng lối sống xanh, Gerunds vs Infinitives, đoạn đọc 90 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-8", "green-living"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

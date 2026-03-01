@@ -4,7 +4,7 @@ slug: "day-3-line-graphs-cau-truc-bai-viet-bai-mau"
 date: 2023-04-26
 summary: "Cách viết bài mô tả Line Graph cho IELTS Writing Task 1 với bài mẫu và luyện tập."
 description: "Chiến lược phân tích Line Graph, cấu trúc bài viết 4 đoạn, bài mẫu Band 6+ và bài tập thực hành."
-tags: ["ielts", "writing", "task-1", "line-graph", "week-17"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

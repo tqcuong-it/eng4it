@@ -3,7 +3,7 @@ title: "Lộ Trình Tự Học IELTS Academic 6.0 — 10 Tháng"
 date: 2023-01-01
 summary: "Lộ trình tự học IELTS Academic 6.0 (40 tuần) — dành cho người mới bắt đầu. Mỗi ngày 1-2 giờ."
 description: "Lộ trình chi tiết tự học IELTS Academic 6.0 (40 tuần) — phù hợp người bận rộn, mỗi ngày 1-2 giờ."
-tags: ["IELTS", "lộ trình", "tự học", "band 6.0"]
+tags: []
 series: ["IELTS"]
 categories: ["IELTS"]
 ShowToc: true

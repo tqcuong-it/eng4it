@@ -4,7 +4,7 @@ slug: "day-7-review-error-analysis"
 date: 2023-04-23
 summary: "Ôn tập tuần 16 — tổng hợp tất cả dạng câu hỏi Reading, phân tích lỗi sai và kế hoạch luyện tập tiếp theo."
 description: "Review toàn bộ dạng câu hỏi IELTS Reading đã học trong tuần 15-16, checklist kỹ năng và tài liệu luyện tập."
-tags: ["ielts", "reading", "review", "week-16"]
+tags: ["ielts", "reading", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

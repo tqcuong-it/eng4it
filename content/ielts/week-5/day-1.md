@@ -4,7 +4,7 @@ slug: "day-1-body-parts-imperative-cau-menh-lenh"
 date: 2023-01-30
 summary: "Học 20 từ vựng về các bộ phận cơ thể, làm quen với câu mệnh lệnh (Stand up! Don't run!), đọc đoạn văn 65 từ."
 description: "Bài 1 Tuần 5 IELTS — 20 từ vựng bộ phận cơ thể, ngữ pháp Imperative, đoạn đọc 65 từ."
-tags: ["ielts", "vocabulary", "grammar", "week-5", "body", "imperative"]
+tags: ["ielts", "vocabulary", "grammar"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

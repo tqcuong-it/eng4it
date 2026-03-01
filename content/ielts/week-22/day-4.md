@@ -4,7 +4,7 @@ slug: "day-4-describing-an-event-experience-useful-phrases-model-answer"
 date: 2023-06-01
 summary: "Chiến lược mô tả sự kiện/trải nghiệm trong IELTS Speaking Part 2 — từ vựng, model answer và bài tập."
 description: "Hướng dẫn mô tả event/experience trong IELTS Speaking Part 2 với useful phrases, model answer và practice tasks."
-tags: ["ielts", "speaking", "part-2", "describe-event", "experience", "week-22"]
+tags: ["ielts", "speaking", "part-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-7-mock-part-1-practice-10-questions-model-answers"
 date: 2023-05-28
 summary: "Mô phỏng bài thi IELTS Speaking Part 1 với 10 câu hỏi, model answers chi tiết và hướng dẫn tự thu âm đánh giá."
 description: "Mock test IELTS Speaking Part 1 — 10 câu hỏi thực tế, model answers band 6.0+, checklist tự đánh giá và tips tự thu âm."
-tags: ["ielts", "speaking", "part-1", "mock-test", "practice", "week-21"]
+tags: ["ielts", "speaking", "part-1", "mock-test", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-3-discussion-essays-both-views"
 date: 2023-05-10
 summary: "Cấu trúc, bài mẫu và luyện tập viết Discussion Essay — thảo luận 2 quan điểm và đưa ý kiến cá nhân."
 description: "Hướng dẫn viết Discussion Essay — cấu trúc Discuss Both Views, bài mẫu Band 6+, cụm từ hữu ích và bài tập thực hành."
-tags: ["ielts", "writing", "task-2", "discussion-essay", "week-19"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-4-matching-information-strategy-practice"
 date: 2023-04-20
 summary: "Chiến lược làm dạng Matching Information — ghép thông tin với đoạn văn chính xác trong passage."
 description: "Hướng dẫn dạng Matching Information trong IELTS Reading — cách scan nhiều đoạn, chiến lược và bài tập thực hành."
-tags: ["ielts", "reading", "matching-information", "week-16"]
+tags: ["ielts", "reading"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

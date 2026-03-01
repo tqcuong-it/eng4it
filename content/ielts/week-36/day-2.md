@@ -4,7 +4,7 @@ slug: "day-2-full-mock-test-4-writing-task-1-2-speaking-parts-1-3"
 date: 2023-09-05
 summary: "Hoàn thành Mock Test 4 với Writing Task 1 & 2 và Speaking 3 phần — mô phỏng đúng format IELTS."
 description: "Mock Test 4 phần Writing và Speaking đầy đủ, bao gồm Task 1, Task 2 và Speaking Parts 1-3."
-tags: ["ielts", "mock-test", "writing", "speaking", "phase-3", "week-36"]
+tags: ["ielts", "mock-test", "writing", "speaking", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

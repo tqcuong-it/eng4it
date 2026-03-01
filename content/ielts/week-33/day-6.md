@@ -4,7 +4,7 @@ slug: "day-6-targeted-weakness-practice"
 date: 2023-08-19
 summary: "Luyện tập có mục tiêu — tập trung vào các điểm yếu đã xác định từ Error Analysis."
 description: "Bài tập chuyên sâu cho từng loại điểm yếu phổ biến trong IELTS: Listening, Reading, Writing, Speaking."
-tags: ["ielts", "practice", "weakness", "targeted", "week-33"]
+tags: ["ielts", "practice", "weakness"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

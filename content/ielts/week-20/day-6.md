@@ -4,7 +4,7 @@ slug: "day-6-timed-essay-practice"
 date: 2023-05-20
 summary: "Luyện viết 2 bài essay hoàn chỉnh trong thời gian chuẩn — 250 từ, 40 phút mỗi bài."
 description: "Thực hành viết essay IELTS Task 2 có bấm giờ — 2 đề bài khác dạng, hướng dẫn và bài mẫu tham khảo."
-tags: ["ielts", "writing", "task-2", "practice", "timed", "week-20"]
+tags: ["ielts", "writing", "task-2", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true
