@@ -28,6 +28,9 @@ Hôm nay bạn sẽ làm **bài thi Listening hoàn chỉnh** — 4 sections, 40
 
 ---
 
+> 🔊 **Nguồn Audio:** Sử dụng audio từ [British Council IELTS Practice](https://www.britishcouncil.org/exam/ielts/prepare/free-practice-tests/listening) hoặc [IDP IELTS Practice](https://ielts.idp.com/prepare/article/free-ielts-practice-tests). Mở audio trước khi bắt đầu làm bài.
+
+
 ## Section 1: Conversation (10 câu)
 *Chủ đề: Đặt phòng khách sạn*
 
