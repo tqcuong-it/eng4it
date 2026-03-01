@@ -43,9 +43,9 @@ Làm **10 câu hỏi** — mỗi dạng 2 câu:
 
 🔊 **Nghe audio rồi điền đáp án:**
 
-<audio controls>
-  <source src="/audio/week-35/diagnostic.mp3" type="audio/mpeg">
-</audio>
+{{< youtube uTl1GrC_MK0 >}}
+
+*Dùng Section 1 của video trên để làm bài diagnostic bên dưới:*
 
 Nghe đoạn hội thoại và điền:
 1. The appointment is on __________ at 2:30 PM.

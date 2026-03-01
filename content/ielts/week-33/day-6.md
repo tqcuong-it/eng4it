@@ -24,13 +24,11 @@ Dựa trên phân tích lỗi từ Day 5, chọn **2-3 bài tập** phù hợp n
 
 ### Drill 1: Dictation Practice (Nếu sai chính tả)
 
-🔊 **Nghe audio và viết lại chính xác từng câu:**
+🔊 **Luyện Dictation — Nghe và viết lại chính xác:**
 
-<audio controls>
-  <source src="/audio/week-33/dictation.mp3" type="audio/mpeg">
-</audio>
+{{< youtube KUDc0Qn2HwI >}}
 
-Viết lại **chính xác** từng câu:
+Nghe từng câu trong video và viết lại **chính xác**:
 
 1. "The conference will be held on the **twenty-third** of November at the **Grand** Hotel."
 2. "Students must submit their **assignments** by **Wednesday** afternoon at the latest."
