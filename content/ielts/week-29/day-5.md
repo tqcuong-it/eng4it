@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Task 2 Timed Practice — Discussion Essay"
+slug: "task-2-timed-practice-discussion-essay"
 date: 2023-07-21
 summary: "Luyện viết Task 2 Discussion Essay có tính giờ — 40 phút, ≥250 từ."
 description: "Thực hành viết IELTS Task 2 dạng Discussion (Discuss both views) trong 40 phút với bài mẫu Band 6.5."

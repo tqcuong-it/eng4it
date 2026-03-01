@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Speculating & Predicting"
+slug: "speculating-predicting"
 date: 2023-06-08
 summary: "Kỹ năng suy đoán và dự đoán trong Speaking Part 3 — might, could, it's likely that."
 description: "Học cách sử dụng modal verbs và cụm từ dự đoán để trả lời câu hỏi về tương lai trong IELTS Speaking."

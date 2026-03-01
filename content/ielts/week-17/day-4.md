@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Bar Charts — Ngôn ngữ so sánh & Bài mẫu"
+slug: "bar-charts-ngon-ngu-so-sanh-bai-mau"
 date: 2023-04-27
 summary: "Cách viết bài mô tả Bar Chart, ngôn ngữ so sánh và bài mẫu Band 6+."
 description: "Chiến lược phân tích Bar Chart, từ vựng so sánh, cấu trúc bài viết và bài tập thực hành."

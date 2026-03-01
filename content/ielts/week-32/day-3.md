@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Topic Vocabulary — Health & Culture"
+slug: "topic-vocabulary-health-culture"
 date: 2023-08-09
 summary: "Từ vựng Speaking chủ đề Sức khỏe & Văn hóa — collocations, sample answers, pronunciation tips và bài tập ứng dụng."
 description: "IELTS Speaking vocabulary for Health & Culture topics: collocations, model answers, useful phrases, speaking practice."

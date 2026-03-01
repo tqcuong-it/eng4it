@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Fluency Training — Paraphrasing, Self-Correction & Filler Reduction"
+slug: "fluency-training-paraphrasing-self-correction-filler"
 date: 2023-08-04
 summary: "Tăng sự trôi chảy khi nói — kỹ thuật paraphrasing, tự sửa lỗi tự nhiên, giảm filler words và tăng tốc độ phản xạ."
 description: "IELTS Speaking fluency training: paraphrasing techniques, natural self-correction, filler reduction strategies, speed drills."

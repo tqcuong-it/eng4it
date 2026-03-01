@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Full Writing Test 3 — Task 1 + Task 2 (60 phút)"
+slug: "full-writing-test-3-task-1-task-2-60-phut"
 date: 2023-07-29
 summary: "Bài thi Writing đầy đủ thứ 3: Task 1 Pie Chart + Task 2 Discussion Essay, 60 phút."
 description: "Full test cuối cùng trong phase Writing Intensive — kiểm tra toàn bộ kỹ năng viết đã luyện."

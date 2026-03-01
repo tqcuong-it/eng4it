@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Learning Methods + Modals of Ability"
+slug: "learning-methods-modals-of-ability"
 date: 2023-03-08
 summary: "Học 20 từ vựng về phương pháp học tập, nắm vững Modals of Ability (can/could/be able to), đọc đoạn văn 80 từ."
 description: "Tuần 10 Ngày 3 — 20 từ vựng phương pháp học, ngữ pháp can/could/be able to, đoạn đọc 80 từ."

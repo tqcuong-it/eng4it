@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Full Mock — Speaking (3 Parts)"
+slug: "full-mock-speaking-3-parts"
 date: 2023-09-14
 summary: "Làm bài thi thử Speaking đầy đủ 3 parts — ghi âm lại và tự đánh giá."
 description: "Full Mock Speaking Test với Part 1 (interview), Part 2 (cue card), Part 3 (discussion). Luyện nói trong điều kiện thi thật."

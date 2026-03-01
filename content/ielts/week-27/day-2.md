@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Passage 2 Strategy — Opinion-Based Texts"
+slug: "passage-2-strategy-opinion-based-texts"
 date: 2023-07-04
 summary: "Chiến lược làm Passage 2 IELTS Reading — bài đọc trung bình, opinion-based texts với nhiều quan điểm và lập luận."
 description: "Chiến lược chuyên sâu cho IELTS Reading Passage 2 — cách xử lý opinion-based texts, phân biệt quan điểm tác giả, trong 20 phút."

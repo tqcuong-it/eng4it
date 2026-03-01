@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Speaking Mock Test"
+slug: "speaking-mock-test"
 date: 2023-06-15
 summary: "Bài thi Speaking mô phỏng đầy đủ 3 Parts với câu trả lời mẫu và rubric tự chấm."
 description: "Mô phỏng bài thi IELTS Speaking hoàn chỉnh — Part 1, Part 2 (Cue Card), Part 3 + Model Answers và hướng dẫn tự đánh giá."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Full Mock Test 4 — Listening + Reading (80 câu)"
+slug: "full-mock-test-4-listening-reading-80-cau"
 date: 2023-09-04
 summary: "Mock Test 4 phần Listening (40 câu) và Reading (40 câu) — bài thi mô phỏng hoàn chỉnh trước Milestone."
 description: "Full mock test 4 với 40 câu Listening và 40 câu Reading, mô phỏng đúng format thi IELTS thật."

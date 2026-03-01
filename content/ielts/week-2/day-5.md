@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Shopping & Money + How much/How many"
+slug: "shopping-money-how-much-how-many"
 date: 2023-01-13
 summary: "Học 20 từ vựng về mua sắm & tiền bạc, làm quen cấu trúc How much/How many, đọc đoạn văn về đi mua sắm 80 từ."
 description: "Bài 12 IELTS cho người mới — 20 từ vựng mua sắm, ngữ pháp How much/How many, đoạn đọc 80 từ."

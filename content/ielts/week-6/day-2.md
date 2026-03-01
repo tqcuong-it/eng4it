@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Work Skills + Present Perfect (ever/never)"
+slug: "work-skills-present-perfect-ever-never"
 date: 2023-02-07
 summary: "Học 20 từ vựng kỹ năng làm việc, Present Perfect với ever/never để hỏi về kinh nghiệm, đọc đoạn văn 75 từ."
 description: "Bài IELTS Tuần 6 Ngày 2 — 20 từ vựng kỹ năng, Present Perfect ever/never, đoạn đọc 75 từ."

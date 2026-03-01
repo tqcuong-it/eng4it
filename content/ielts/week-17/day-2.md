@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Describing Trends — Từ vựng mô tả xu hướng"
+slug: "describing-trends-tu-vung-mo-ta-xu-huong"
 date: 2023-04-25
 summary: "Từ vựng mô tả xu hướng tăng, giảm, dao động, ổn định cho IELTS Writing Task 1."
 description: "Học từ vựng chuyên dụng mô tả trends — increase, decrease, fluctuate, remain stable và cách kết hợp với trạng từ chỉ mức độ."

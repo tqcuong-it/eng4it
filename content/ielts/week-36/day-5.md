@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Study Plan for Final Sprint — Kế hoạch Phase 4"
+slug: "study-plan-for-final-sprint-ke-hoach-phase-4"
 date: 2023-09-08
 summary: "Lập kế hoạch học tập chi tiết cho Phase 4 — Final Sprint, ưu tiên kỹ năng yếu nhất."
 description: "Xây dựng study plan cá nhân hóa cho Phase 4 dựa trên gap analysis, ưu tiên kỹ năng yếu và quick wins."

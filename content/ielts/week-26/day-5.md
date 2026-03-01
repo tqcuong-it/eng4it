@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Full Listening Test 2 — 40 Câu Hỏi Mô Phỏng Thi Thật"
+slug: "full-listening-test-2-40-cau-hoi-mo-phong-thi-that"
 date: 2023-06-30
 summary: "Làm Full Listening Test 2 với 40 câu hỏi, áp dụng kỹ thuật đã học tuần này: spelling, distractor, signpost, accent."
 description: "IELTS Full Listening Practice Test 2 — 40 câu hỏi, 4 sections, 30 phút, áp dụng chiến lược spelling traps, distractor recognition, signpost language."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Discussion Essays (Both Views)"
+slug: "discussion-essays-both-views"
 date: 2023-05-10
 summary: "Cấu trúc, bài mẫu và luyện tập viết Discussion Essay — thảo luận 2 quan điểm và đưa ý kiến cá nhân."
 description: "Hướng dẫn viết Discussion Essay — cấu trúc Discuss Both Views, bài mẫu Band 6+, cụm từ hữu ích và bài tập thực hành."

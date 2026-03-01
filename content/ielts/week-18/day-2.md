@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Process Diagrams — Ngôn ngữ trình tự & Bài mẫu"
+slug: "process-diagrams-ngon-ngu-trinh-tu-bai-mau"
 date: 2023-05-02
 summary: "Cách viết bài mô tả Process Diagram, ngôn ngữ trình tự và bài mẫu Band 6+."
 description: "Chiến lược mô tả quy trình — sequencing language, câu bị động, cấu trúc bài viết và bài tập thực hành."

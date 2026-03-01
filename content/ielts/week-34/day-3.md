@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Error Analysis + Score Comparison"
+slug: "error-analysis-score-comparison"
 date: 2023-08-23
 summary: "Phân tích lỗi chi tiết Mock Test 1 và so sánh điểm số với tuần 33."
 description: "So sánh kết quả mock test giữa tuần 33 và 34, xác định xu hướng tiến bộ và điểm cần cải thiện."

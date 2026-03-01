@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Maps & Changes Over Time — Ngôn ngữ so sánh thay đổi"
+slug: "maps-changes-over-time-ngon-ngu-so-sanh-thay-doi"
 date: 2023-05-03
 summary: "Cách viết bài mô tả Map trong IELTS Writing Task 1, ngôn ngữ mô tả thay đổi theo thời gian."
 description: "Chiến lược phân tích Map, từ vựng chỉ vị trí và thay đổi, cấu trúc bài viết và bài mẫu Band 6+."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Academic Vocabulary for Writing"
+slug: "academic-vocabulary-for-writing"
 date: 2023-05-19
 summary: "Từ vựng học thuật cho Writing Task 2 — thay thế từ cơ bản bằng từ formal, collocations và paraphrase."
 description: "Hướng dẫn sử dụng Academic Vocabulary trong IELTS Writing — từ thay thế formal, collocations phổ biến và bài tập thực hành."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Advantages/Disadvantages Essays"
+slug: "advantages-disadvantages-essays"
 date: 2023-05-12
 summary: "Cấu trúc, bài mẫu và luyện tập viết Advantages/Disadvantages Essay — so sánh lợi ích và hạn chế."
 description: "Hướng dẫn viết Advantages/Disadvantages Essay — cấu trúc, bài mẫu Band 6+, cụm từ hữu ích và bài tập thực hành."

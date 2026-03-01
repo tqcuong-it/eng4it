@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Task Achievement — Trả lời đúng và đủ"
+slug: "task-achievement-tra-loi-dung-va-du"
 date: 2023-07-26
 summary: "Cải thiện tiêu chí Task Achievement/Response — trả lời đúng câu hỏi, đưa ví dụ phù hợp, viết đủ ý."
 description: "Chiến lược đạt Band 6+ cho Task Achievement: phân tích đề đúng, overview chất lượng, ví dụ relevant."

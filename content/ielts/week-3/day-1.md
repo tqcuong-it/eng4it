@@ -1,6 +1,6 @@
 ---
 title: "Ngày 1: Past Activities + Past Simple (Regular verbs)"
-
+slug: "past-activities-past-simple-regular-verbs"
 date: 2023-01-16
 summary: "Học 20 từ vựng hoạt động trong quá khứ, làm quen thì Quá khứ đơn với động từ có quy tắc (-ed), đọc đoạn văn 70 từ."
 description: "Bài IELTS Tuần 3 Ngày 1 — 20 từ vựng hoạt động quá khứ, ngữ pháp Past Simple (regular verbs), đoạn đọc 70 từ."

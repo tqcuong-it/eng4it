@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Full Mock — Reading (40 câu hỏi)"
+slug: "full-mock-reading-40-cau-hoi"
 date: 2023-09-12
 summary: "Làm bài thi thử Reading đầy đủ 40 câu hỏi trong 60 phút — 3 passages đúng format IELTS Academic."
 description: "Full Mock Reading Test với 3 passages, 40 câu hỏi IELTS Academic. Luyện đọc hiểu dưới áp lực thời gian thật."

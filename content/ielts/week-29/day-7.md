@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Self-Scoring + Error Analysis"
+slug: "self-scoring-error-analysis"
 date: 2023-07-23
 summary: "Tự chấm điểm bài viết theo Band Descriptors chính thức + Phân tích lỗi sai thường gặp."
 description: "Học cách tự đánh giá bài viết IELTS theo 4 tiêu chí Band Descriptors, nhận diện và sửa lỗi phổ biến."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Final Vocabulary Refresh — Top 200 từ IELTS must-know"
+slug: "final-vocabulary-refresh-top-200-tu-ielts-must-know"
 date: 2023-10-02
 summary: "Ôn tổng 200 từ vựng quan trọng nhất cho IELTS, phân loại theo chủ đề — lần cuối trước khi thi!"
 description: "Danh sách 200 từ vựng IELTS thiết yếu, chia theo 10 chủ đề phổ biến nhất trong đề thi."

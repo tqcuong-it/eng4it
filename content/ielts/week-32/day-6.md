@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Full Speaking Mock 3 — Parts 1-3 + Scoring"
+slug: "full-speaking-mock-3-parts-1-3-scoring"
 date: 2023-08-12
 summary: "Bài thi Speaking thử thứ 3 — đề khó hơn, chủ đề trừu tượng, chấm điểm chi tiết và so sánh tiến bộ qua 3 bài Mock."
 description: "IELTS Full Speaking Mock Test 3: challenging topics, Parts 1-3, detailed scoring, progress comparison across 3 mock tests."

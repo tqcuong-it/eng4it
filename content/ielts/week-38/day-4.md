@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Mock Test 3 — Listening + Reading"
+slug: "mock-test-3-listening-reading"
 date: 2023-09-21
 summary: "Full Mock Test 3 phần 1: Listening (40Q) + Reading (40Q) — bài thi thử cuối cùng bắt đầu!"
 description: "Mock Test 3 với Listening và Reading. Đề mới, áp dụng tất cả bài học từ MT1 và MT2."

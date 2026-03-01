@@ -1,6 +1,6 @@
 ---
 title: "Ngày 6: Daily Activities + Past Continuous"
-
+slug: "daily-activities-past-continuous"
 date: 2023-01-07
 summary: "Học 20 từ vựng về hoạt động hàng ngày, làm quen thì Quá khứ tiếp diễn (Past Continuous)."
 description: "Bài 6 — 20 từ vựng hoạt động, can/can't, đoạn đọc về sở thích."

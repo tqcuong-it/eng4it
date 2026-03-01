@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Note Completion — Strategy & Practice"
+slug: "note-completion-strategy-practice"
 date: 2023-03-31
 summary: "Chiến lược làm dạng Note Completion — điền thông tin vào ghi chú khi nghe."
 description: "Kỹ thuật làm bài Note Completion trong IELTS Listening Section 1 với bài tập thực hành."

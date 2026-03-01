@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Weakness #2 — Intensive Practice"
+slug: "weakness-2-intensive-practice"
 date: 2023-08-30
 summary: "Luyện tập chuyên sâu điểm yếu số 2 — vocabulary, grammar, và các kỹ năng cụ thể."
 description: "Intensive practice cho điểm yếu #2, với bài tập nâng cao cho vocabulary, grammar, paraphrasing và pronunciation."

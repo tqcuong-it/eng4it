@@ -1,6 +1,6 @@
 ---
 title: "Ngày 2: Numbers & Time + Trạng từ tần suất"
-
+slug: "numbers-time-trang-tu-tan-suat"
 date: 2023-01-03
 summary: "Học 20 từ vựng về số đếm & thời gian, nắm vững trạng từ tần suất (always, usually, sometimes, rarely, never)."
 description: "Bài 2 — 20 từ vựng số đếm và thời gian, trạng từ tần suất always/usually/sometimes."

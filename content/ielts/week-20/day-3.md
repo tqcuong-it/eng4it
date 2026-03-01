@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Conclusion Writing"
+slug: "conclusion-writing"
 date: 2023-05-17
 summary: "Kỹ năng viết Conclusion — tóm tắt, khẳng định quan điểm và để lại ấn tượng cuối cùng."
 description: "Hướng dẫn viết Conclusion cho IELTS Writing Task 2 — cấu trúc, mẫu câu, lỗi thường gặp và bài tập thực hành."

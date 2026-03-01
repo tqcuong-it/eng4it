@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Last-minute Listening Tips + Quick Practice"
+slug: "last-minute-listening-tips-quick-practice"
 date: 2023-09-25
 summary: "Tips cuối cùng cho Listening — chiến lược làm bài, cách tránh bẫy và luyện nhanh 10 câu."
 description: "Tổng hợp tất cả tips quan trọng nhất cho IELTS Listening và bài luyện nhanh 10 câu để giữ phong độ."

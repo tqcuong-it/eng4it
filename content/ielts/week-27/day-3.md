@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Passage 3 Strategy — Abstract/Academic Texts"
+slug: "passage-3-strategy-abstract-academic-texts"
 date: 2023-07-05
 summary: "Chiến lược làm Passage 3 IELTS Reading — bài đọc khó nhất, abstract/academic, cần kỹ năng suy luận cao."
 description: "Chiến lược chuyên sâu cho IELTS Reading Passage 3 — cách đọc academic texts phức tạp, xử lý câu hỏi khó trong 20-22 phút."

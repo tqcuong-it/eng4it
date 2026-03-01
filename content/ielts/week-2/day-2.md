@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Directions & Transport + Prepositions of Place"
+slug: "directions-transport-prepositions-of-place"
 date: 2023-01-10
 summary: "Học 20 từ vựng về chỉ đường & phương tiện, làm quen giới từ chỉ nơi chốn (in/on/at/between/next to), đọc đoạn văn chỉ đường 75 từ."
 description: "Bài 9 IELTS cho người mới — 20 từ vựng chỉ đường & phương tiện, giới từ chỉ nơi chốn, đoạn đọc 75 từ."

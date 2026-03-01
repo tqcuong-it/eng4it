@@ -1,5 +1,6 @@
 ---
 title: "Ngày 4: Mock Test 2 — Listening + Reading"
+slug: "mock-test-2-listening-reading"
 date: 2023-08-24
 summary: "Mock Test 2 — Listening và Reading với bài test hoàn toàn mới, áp dụng bài học từ Error Analysis."
 description: "Bài thi mô phỏng IELTS thứ 2 — Listening và Reading, tập trung cải thiện điểm yếu đã xác định."

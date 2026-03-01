@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Section 1 & 2 Review — Ôn Chiến Lược + Luyện Có Giờ"
+slug: "section-1-2-review-on-chien-luoc-luyen-co-gio"
 date: 2023-06-19
 summary: "Ôn tập hệ thống chiến lược Section 1 & 2, luyện tập có bấm giờ để chuẩn bị cho Full Test."
 description: "Tổng hợp chiến lược IELTS Listening Section 1 & 2 — form filling, map labeling, multiple choice, matching + luyện tập timed practice."

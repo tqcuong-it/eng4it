@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Part 1 Topics — Hobbies, Food, Weather"
+slug: "part-1-topics-hobbies-food-weather"
 date: 2023-05-24
 summary: "Luyện Speaking Part 1 với 3 chủ đề: Hobbies, Food, Weather — Sample Q&A và Model Answers chi tiết."
 description: "IELTS Speaking Part 1 — câu hỏi mẫu và model answers cho chủ đề Hobbies, Food, Weather với phân tích chi tiết."

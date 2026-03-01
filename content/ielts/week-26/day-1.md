@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Spelling & Number Traps — Bẫy Chính Tả & Số Thường Gặp"
+slug: "spelling-number-traps-bay-chinh-ta-so-thuong-gap"
 date: 2023-06-26
 summary: "Nhận diện và tránh các bẫy chính tả, số, ngày tháng thường gặp trong IELTS Listening."
 description: "IELTS Listening Spelling & Number Traps — lỗi chính tả phổ biến, bẫy số, confusing letters, và bài tập luyện dictation."

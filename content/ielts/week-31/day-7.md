@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Self-Recording Review + Error Analysis"
+slug: "self-recording-review-error-analysis"
 date: 2023-08-06
 summary: "Nghe lại tất cả bản thu trong tuần — phân tích lỗi có hệ thống, lập kế hoạch cải thiện cho tuần tiếp theo."
 description: "IELTS Speaking self-review: error analysis framework, common mistakes, improvement tracking, targeted practice plan."

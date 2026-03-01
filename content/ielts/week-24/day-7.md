@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: FULL PHASE 2 TEST 🏆"
+slug: "full-phase-2-test"
 date: 2023-06-18
 summary: "Bài kiểm tra tổng hợp Phase 2 — đánh giá toàn diện 4 kỹ năng + ăn mừng thành tích!"
 description: "Bài thi IELTS mô phỏng đầy đủ kết thúc Phase 2, tổng kết hành trình 24 tuần và chuẩn bị cho Phase 3."

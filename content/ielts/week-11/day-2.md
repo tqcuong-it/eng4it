@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Housing & Accommodation + Defining Relative Clauses"
+slug: "housing-accommodation-defining-relative-clauses"
 date: 2023-03-14
 summary: "Học 20 từ vựng về nhà ở và chỗ ở, ngữ pháp Defining Relative Clauses (who/which/that), đọc đoạn văn 90 từ."
 description: "IELTS Tuần 11 Ngày 2 — 20 từ vựng Housing & Accommodation, mệnh đề quan hệ xác định, đoạn đọc 90 từ."

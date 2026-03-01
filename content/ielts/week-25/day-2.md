@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Section 3 Skills — Thảo Luận Học Thuật, Nhiều Người Nói"
+slug: "section-3-skills-thao-luan-hoc-thuat-nhieu-nguoi-noi"
 date: 2023-06-20
 summary: "Chiến lược làm Section 3 — nghe thảo luận học thuật với nhiều người nói, matching opinions, multiple choice."
 description: "Kỹ năng IELTS Listening Section 3 — nhận diện người nói, theo dõi ý kiến, chiến lược matching và multiple choice trong ngữ cảnh học thuật."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 2: Weakness #1 — Intensive Practice"
+slug: "weakness-1-intensive-practice"
 date: 2023-08-29
 summary: "Luyện tập chuyên sâu điểm yếu số 1 — bài tập targeted với hướng dẫn chi tiết."
 description: "Intensive practice cho điểm yếu #1, với bài tập đa dạng cho từng loại vấn đề phổ biến trong IELTS."

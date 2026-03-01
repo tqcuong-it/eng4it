@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Academic Vocabulary Building — AWL Top 50"
+slug: "academic-vocabulary-building-awl-top-50"
 date: 2023-07-07
 summary: "Học 50 từ vựng Academic Word List (AWL) quan trọng nhất cho IELTS Reading — từ xuất hiện nhiều nhất trong bài thi."
 description: "Academic Word List top 50 — từ vựng học thuật cần thiết cho IELTS Reading band 6.0+, kèm ví dụ và bài tập."

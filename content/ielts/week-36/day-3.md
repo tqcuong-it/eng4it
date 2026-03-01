@@ -1,5 +1,6 @@
 ---
 title: "Ngày 3: Comprehensive Score Analysis — So sánh tất cả Mock Tests"
+slug: "comprehensive-score-analysis-so-sanh-tat-ca-mock-tests"
 date: 2023-09-06
 summary: "Phân tích tổng hợp điểm số từ Mock Test 1-4, vẽ biểu đồ xu hướng và đánh giá tiến bộ."
 description: "So sánh chi tiết kết quả 4 mock tests, phân tích xu hướng theo từng kỹ năng và xác định pattern cải thiện."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Listening Full Test"
+slug: "listening-full-test"
 date: 2023-06-12
 summary: "Bài thi Listening mô phỏng đầy đủ — 40 câu hỏi, 4 Sections, bấm giờ 30 phút."
 description: "Mô phỏng bài thi IELTS Listening hoàn chỉnh với 4 Sections, hướng dẫn chi tiết cách làm bài và tự chấm điểm."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Full Speaking Practice (Parts 1-3)"
+slug: "full-speaking-practice-parts-1-3"
 date: 2023-06-10
 summary: "Mô phỏng bài thi Speaking đầy đủ 3 Parts — luyện tập từ đầu đến cuối."
 description: "Bài luyện tập Speaking mô phỏng hoàn chỉnh IELTS Speaking Test với cả 3 Parts và hướng dẫn tự chấm điểm."

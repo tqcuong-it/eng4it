@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Tables & Data Description — Cấu trúc & Từ vựng"
+slug: "tables-data-description-cau-truc-tu-vung"
 date: 2023-05-01
 summary: "Cách viết bài mô tả Table trong IELTS Writing Task 1, cấu trúc và từ vựng chuyên dụng."
 description: "Chiến lược phân tích Table, cách chọn dữ liệu nổi bật, cấu trúc bài viết và bài tập thực hành."

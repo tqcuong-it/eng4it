@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Score Tracking + Weakness Review — Theo Dõi Điểm & Ôn Điểm Yếu"
+slug: "score-tracking-weakness-review-theo-doi-diem-on-diem-yeu"
 date: 2023-07-02
 summary: "Tổng kết 2 tuần Listening Intensive — theo dõi điểm 3 bài test, xác định điểm yếu và lập kế hoạch tiếp theo."
 description: "IELTS Listening Score Tracking — phân tích kết quả 3 Full Tests, biểu đồ tiến bộ, xác định weakness và action plan cho giai đoạn tiếp theo."

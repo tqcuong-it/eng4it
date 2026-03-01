@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Full Mock Test 3 — Đo lường cải thiện"
+slug: "full-mock-test-3-do-luong-cai-thien"
 date: 2023-09-02
 summary: "Bài thi mô phỏng đầy đủ lần 3 — đo lường cải thiện sau tuần Weakness Focus."
 description: "Mock test IELTS hoàn chỉnh để đánh giá hiệu quả luyện tập điểm yếu, so sánh với W33-W34."

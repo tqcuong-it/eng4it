@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Full Writing Test 2 — Task 1 + Task 2 (60 phút)"
+slug: "full-writing-test-2-task-1-task-2-60-phut"
 date: 2023-07-28
 summary: "Bài thi Writing đầy đủ thứ 2: Task 1 Line Graph + Task 2 Problem-Solution Essay, 60 phút."
 description: "Mô phỏng bài thi IELTS Writing thật lần 2 — áp dụng các kỹ năng Grammar, Vocabulary, Task Achievement, Coherence đã học."

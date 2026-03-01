@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Practice Test Section 2"
+slug: "practice-test-section-2"
 date: 2023-04-08
 summary: "Mô phỏng thi thật — làm bài Practice Test Section 2 hoàn chỉnh."
 description: "Bài thi thử IELTS Listening Section 2 hoàn chỉnh — mô phỏng thi thật với phân tích chi tiết."

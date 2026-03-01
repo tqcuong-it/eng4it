@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Review & Mini Test — Tuần 10"
+slug: "review-mini-test-tuan-10"
 date: 2023-03-12
 summary: "Ôn tập toàn bộ từ vựng và ngữ pháp tuần 10, làm Mini Test tổng hợp."
 description: "Tuần 10 Ngày 7 — Ôn tập 120 từ vựng giáo dục, tổng ôn 6 điểm ngữ pháp, Mini Test."

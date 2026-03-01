@@ -1,5 +1,6 @@
 ---
 title: "Ngày 1: Summary Completion — Strategy & Practice"
+slug: "summary-completion-strategy-practice"
 date: 2023-04-17
 summary: "Chiến lược làm dạng Summary Completion — cách điền từ vào bài tóm tắt từ passage."
 description: "Hướng dẫn chi tiết dạng Summary Completion trong IELTS Reading — 2 loại (chọn từ bài vs chọn từ danh sách), chiến lược và bài tập thực hành."

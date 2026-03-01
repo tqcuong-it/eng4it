@@ -1,5 +1,6 @@
 ---
 title: "Ngày 6: Study Plan Adjustment"
+slug: "study-plan-adjustment"
 date: 2023-06-17
 summary: "Điều chỉnh kế hoạch học tập cho Phase 3 — tập trung vào điểm yếu và tối ưu thời gian."
 description: "Hướng dẫn lập kế hoạch học IELTS Phase 3 dựa trên kết quả Milestone Test, phân bổ thời gian và chiến lược cải thiện."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 5: Mixed Skills Practice — Focus Areas"
+slug: "mixed-skills-practice-focus-areas"
 date: 2023-09-01
 summary: "Luyện tập tổng hợp kết hợp cả 3 điểm yếu đã luyện — bài tập mixed skills thực tế."
 description: "Practice session kết hợp các kỹ năng focus từ Day 2-4, mô phỏng tình huống thi thật."

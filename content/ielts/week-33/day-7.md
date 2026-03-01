@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Rest + Light Review"
+slug: "rest-light-review"
 date: 2023-08-20
 summary: "Nghỉ ngơi và ôn tập nhẹ — tổng kết tuần 33, chuẩn bị cho mock test tiếp theo."
 description: "Ngày nghỉ ngơi với ôn tập nhẹ nhàng, flashcard từ vựng và chuẩn bị tinh thần cho tuần tiếp theo."

@@ -1,5 +1,6 @@
 ---
 title: "Ngày 7: Score Tracking + Band 6 Checklist Review"
+slug: "score-tracking-band-6-checklist-review"
 date: 2023-07-30
 summary: "Tổng kết điểm số 2 tuần Writing Intensive — theo dõi tiến bộ và kiểm tra Band 6 Checklist."
 description: "Đánh giá tổng thể kỹ năng Writing sau 2 tuần luyện tập chuyên sâu — Score Tracking và Band 6 Readiness Checklist."
