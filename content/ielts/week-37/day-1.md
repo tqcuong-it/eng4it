@@ -34,174 +34,293 @@ Bấm play và làm bài theo từng Section bên dưới:
 
 ---
 
+## Section 1: Conversation — Transport Survey (Câu 1-10)
 
-## Section 1: Conversation (10 câu)
-*Chủ đề: Đặt phòng khách sạn*
+**Câu 1-10: Complete the notes below.**
 
-**Câu 1-5: Form Completion**
+*Write ONE WORD AND/OR A NUMBER for each answer.*
 
-Nghe cuộc hội thoại và điền thông tin:
+### Transport Survey
 
-| Thông tin | Đáp án |
-|-----------|--------|
-| 1. Guest name: | __________ |
-| 2. Check-in date: | __________ |
-| 3. Number of nights: | __________ |
-| 4. Room type: | __________ |
-| 5. Special request: | __________ |
+Name: Sadie Jones
 
-**Câu 6-10: Multiple Choice**
+Year of birth: 1991
 
-6. The hotel is located near:
-   - A) the train station
-   - B) the airport
-   - C) the city center
+Postcode: 1 __________
 
-7. Breakfast is served from:
-   - A) 6:00 to 9:00
-   - B) 7:00 to 10:00
-   - C) 6:30 to 9:30
+**Travelling by bus**
 
-8. The swimming pool closes at:
-   - A) 8 PM
-   - B) 9 PM
-   - C) 10 PM
+Date of bus journey: 2 __________
 
-9. Wi-Fi password can be found:
-   - A) at the reception desk
-   - B) in the room key folder
-   - C) on the hotel website
+Reason for trip: shopping and visit to the 3 __________
 
-10. The guest asks about:
-    - A) parking availability
-    - B) laundry service
-    - C) restaurant recommendations
+Travelled by bus because cost of 4 __________ too high
+
+Got on bus at 5 __________ Street
+
+Complaints about bus service:
+
+- bus today was 6 __________
+- frequency of buses in the 7 __________
+
+**Travelling by car**
+
+Goes to the 8 __________ by car
+
+**Travelling by bicycle**
+
+Dislikes travelling by bike in the city centre because of the 9 __________
+
+Doesn't own a bike because of a lack of 10 __________
 
 ---
 
-## Section 2: Monologue (10 câu)
-*Chủ đề: Hướng dẫn tham quan bảo tàng*
+## Section 2: Monologue — Becoming a Volunteer for ACE (Câu 11-20)
 
-**Câu 11-15: Map/Plan Labelling**
+**Câu 11-13: Choose the correct letter, A, B or C.**
 
-Nghe và ghi tên địa điểm trên sơ đồ:
+11\. Why does the speaker apologise about the seats?
 
-| Vị trí | Tên |
-|--------|-----|
-| 11. Entrance hall → bên trái: | __________ |
-| 12. Tầng 1 → phòng lớn: | __________ |
-| 13. Tầng 2 → cuối hành lang: | __________ |
-| 14. Sân sau: | __________ |
-| 15. Cạnh gift shop: | __________ |
+- A) They are too small.
+- B) There are not enough of them.
+- C) Some of them are very close together.
 
-**Câu 16-20: Sentence Completion**
+12\. What does the speaker say about the age of volunteers?
 
-16. The museum was founded in __________.
-17. The most popular exhibit is about __________.
-18. Guided tours last approximately __________ minutes.
-19. The café offers free __________ with every meal.
-20. Visitors should avoid using __________ in the gallery.
+- A) The age of volunteers is less important than other factors.
+- B) Young volunteers are less reliable than older ones.
+- C) Most volunteers are about 60 years old.
 
----
+13\. What does the speaker say about training?
 
-## Section 3: Discussion (10 câu)
-*Chủ đề: Hai sinh viên thảo luận về bài nghiên cứu*
+- A) It is continuous.
+- B) It is conducted by a manager.
+- C) It takes place online.
 
-**Câu 21-25: Matching**
+**Câu 14-15: Choose TWO letters, A-E.**
 
-Nối người nói với ý kiến:
-- A) Sarah
-- B) Tom
-- C) Both Sarah and Tom
+Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?
 
-| Câu | Ý kiến | Người |
-|-----|--------|-------|
-| 21. The research topic is too broad | | __________ |
-| 22. More data collection is needed | | __________ |
-| 23. The deadline should be extended | | __________ |
-| 24. Online surveys are effective | | __________ |
-| 25. The professor's feedback was helpful | | __________ |
+- A) their financial situation
+- B) their level of commitment
+- C) their work experience
+- D) their ambition
+- E) their availability
 
-**Câu 26-30: Multiple Choice**
+**Câu 16-20: Matching**
 
-26. The main purpose of their research is to:
-    - A) compare teaching methods
-    - B) analyze student performance
-    - C) evaluate course materials
+What does the speaker suggest would be helpful for each of the following areas of voluntary work?
 
-27. They decided to focus on:
-    - A) university students only
-    - B) high school and university students
-    - C) all age groups
+*Choose FIVE answers from the box.*
 
-28. The biggest challenge they face is:
-    - A) time management
-    - B) finding participants
-    - C) analyzing data
+| | Helpful things volunteers might offer |
+|---|---|
+| A | experience on stage |
+| B | original, new ideas |
+| C | parenting skills |
+| D | an understanding of food and diet |
+| E | retail experience |
+| F | a good memory |
+| G | a good level of fitness |
 
-29. Sarah suggests using:
-    - A) interviews
-    - B) questionnaires
-    - C) observation
-
-30. They plan to submit the paper by:
-    - A) next Monday
-    - B) the end of the month
-    - C) next semester
+| # | Area of voluntary work | Answer |
+|---|---|---|
+| 16 | Fundraising | __________ |
+| 17 | Litter collection | __________ |
+| 18 | 'Playmates' | __________ |
+| 19 | Story club | __________ |
+| 20 | First aid | __________ |
 
 ---
 
-## Section 4: Lecture (10 câu)
-*Chủ đề: Bài giảng về biến đổi khí hậu và nông nghiệp*
+## Section 3: Discussion — Talk on Jobs in Fashion Design (Câu 21-30)
 
-**Câu 31-35: Note Completion**
+**Câu 21-26: Choose the correct letter, A, B or C.**
 
-Climate Change and Agriculture:
-- Global temperatures have risen by __________ (31) degrees in the last century
-- Crop yields could decrease by __________ (32) percent by 2050
-- The most affected region is __________ (33)
-- Farmers are now using __________ (34) irrigation systems
-- New drought-resistant varieties take __________ (35) years to develop
+21\. What problem did Chantal have at the start of the talk?
 
-**Câu 36-40: Summary Completion**
+- A) Her view of the speaker was blocked.
+- B) She was unable to find an empty seat.
+- C) The students next to her were talking.
 
-Chọn từ trong danh sách: *rainfall, technology, subsidies, training, cooperation, organic, traditional*
+22\. What were Hugo and Chantal surprised to hear about the job market?
 
-The government has introduced several measures to help farmers. First, they provide financial __________ (36) to purchase modern equipment. Second, __________ (37) programs teach farmers about new techniques. The focus has shifted from __________ (38) farming to more sustainable methods. International __________ (39) is also essential, as climate change affects all countries. However, the most important factor remains access to affordable __________ (40).
+- A) It has become more competitive than it used to be.
+- B) There is more variety in it than they had realised.
+- C) Some areas of it are more exciting than others.
+
+23\. Hugo and Chantal agree that the speaker's message was
+
+- A) unfair to them at times.
+- B) hard for them to follow.
+- C) critical of the industry.
+
+24\. What do Hugo and Chantal criticise about their school careers advice?
+
+- A) when they received the advice
+- B) how much advice was given
+- C) who gave the advice
+
+25\. When discussing their future, Hugo and Chantal disagree on
+
+- A) which is the best career in fashion.
+- B) when to choose a career in fashion.
+- C) why they would like a career in fashion.
+
+26\. How does Hugo feel about being an unpaid assistant?
+
+- A) He is realistic about the practice.
+- B) He feels the practice is dishonest.
+- C) He thinks others want to change the practice.
+
+**Câu 27-28: Choose TWO letters, A-E.**
+
+Which TWO mistakes did the speaker admit she made in her first job?
+
+- A) being dishonest to her employer
+- B) paying too much attention to how she looked
+- C) expecting to become well known
+- D) trying to earn a lot of money
+- E) openly disliking her client
+
+**Câu 29-30: Choose TWO letters, A-E.**
+
+Which TWO pieces of retail information do Hugo and Chantal agree would be useful?
+
+- A) the reasons people return fashion items
+- B) how much time people have to shop for clothes
+- C) fashion designs people want but can't find
+- D) the best time of year for fashion buying
+- E) the most popular fashion sizes
 
 ---
 
-## ✅ Sau khi làm bài
+## Section 4: Lecture — Elephant Translocation (Câu 31-40)
 
-### Cách chấm điểm
+**Câu 31-40: Complete the notes below.**
 
-| Số câu đúng | Band Score |
-|-------------|-----------|
+*Write ONE WORD ONLY for each answer.*
+
+### Elephant Translocation
+
+**Reasons for overpopulation at Majete National Park**
+
+- strict enforcement of anti-poaching laws
+- successful breeding
+
+**Problems caused by elephant overpopulation**
+
+- greater competition, causing hunger for elephants
+- damage to 31 __________ in the park
+
+**The translocation process**
+
+- a suitable group of elephants from the same 32 __________ was selected
+- vets and park staff made use of 33 __________ to help guide the elephants into an open plain
+- elephants were immobilised with tranquilisers:
+  - this process had to be completed quickly to reduce 34 __________
+  - elephants had to be turned on their 35 __________ to avoid damage to their lungs
+  - elephants' 36 __________ had to be monitored constantly
+  - tracking devices were fitted to the matriarchs
+  - data including the size of their tusks and 37 __________ was taken
+- elephants were taken by truck to their new reserve
+
+**Advantages of translocation at Nkhotakota Wildlife Park**
+
+- 38 __________ opportunities
+- a reduction in the number of poachers and 39 __________
+- an example of conservation that other parks can follow
+- an increase in 40 __________ as a contributor to GDP
+
+---
+
+## ✅ Đáp án — Cambridge IELTS 18, Listening Test 1
+
+{{< spoiler "Bấm để xem đáp án" >}}
+
+### Section 1: Transport Survey
+
+| Câu | Đáp án |
+|-----|--------|
+| 1 | DW30 7YZ |
+| 2 | 24(th) April |
+| 3 | dentist |
+| 4 | parking |
+| 5 | Claxby |
+| 6 | late |
+| 7 | evening |
+| 8 | supermarket |
+| 9 | pollution |
+| 10 | storage |
+
+### Section 2: Becoming a Volunteer for ACE
+
+| Câu | Đáp án |
+|-----|--------|
+| 11 | C |
+| 12 | A |
+| 13 | A |
+| 14 & 15 | B, E |
+| 16 | B |
+| 17 | G |
+| 18 | D |
+| 19 | A |
+| 20 | F |
+
+### Section 3: Talk on Jobs in Fashion Design
+
+| Câu | Đáp án |
+|-----|--------|
+| 21 | A |
+| 22 | B |
+| 23 | A |
+| 24 | C |
+| 25 | B |
+| 26 | A |
+| 27 & 28 | B, E |
+| 29 & 30 | A, C |
+
+### Section 4: Elephant Translocation
+
+| Câu | Đáp án |
+|-----|--------|
+| 31 | fences |
+| 32 | family |
+| 33 | helicopters |
+| 34 | stress |
+| 35 | sides |
+| 36 | breathing |
+| 37 | feet |
+| 38 | employment |
+| 39 | weapons |
+| 40 | tourism |
+
+{{< /spoiler >}}
+
+---
+
+## 📊 Bảng chấm điểm
+
+| Section | Đúng / Tổng | Band tương đương |
+|---------|-------------|-----------------|
+| Section 1 | ___/10 | |
+| Section 2 | ___/10 | |
+| Section 3 | ___/10 | |
+| Section 4 | ___/10 | |
+| **Tổng** | **___/40** | |
+
+**Quy đổi band điểm (tham khảo):**
+
+| Số câu đúng | Band |
+|-------------|------|
 | 39-40 | 9.0 |
 | 37-38 | 8.5 |
 | 35-36 | 8.0 |
-| 33-34 | 7.5 |
-| 30-32 | 7.0 |
-| 27-29 | 6.5 |
-| 23-26 | 6.0 |
-| 20-22 | 5.5 |
-| 16-19 | 5.0 |
+| 32-34 | 7.5 |
+| 30-31 | 7.0 |
+| 26-29 | 6.5 |
+| 23-25 | 6.0 |
+| 18-22 | 5.5 |
+| 16-17 | 5.0 |
 
-### Ghi lại kết quả
-
-```
-Section 1: ___/10
-Section 2: ___/10
-Section 3: ___/10
-Section 4: ___/10
-TỔNG: ___/40
-Band ước tính: ___
-```
-
-### Phân tích nhanh
-
-- Section nào được điểm **thấp nhất**?
-- Dạng câu hỏi nào bạn sai **nhiều nhất**?
-- Bạn có bị **mất tập trung** ở đoạn nào không?
-
-> 💡 **Mẹo:** Ghi chú lại những từ bạn nghe không rõ — ngày mai sẽ tiếp tục với Reading!
+> 🎯 **Mục tiêu Band 6.0:** Cần đúng ít nhất **23/40 câu**. Nếu chưa đạt, hãy xem lại đáp án và nghe lại các section bị sai!
