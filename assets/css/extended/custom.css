@@ -1,5 +1,5 @@
 /* Fonts: Be Vietnam Pro (Vietnamese optimized) + Source Sans 3 (body fallback) */
-@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+/* Font loaded via <link preconnect> in extend_head.html for performance */
 
 html {
     scroll-behavior: smooth;
