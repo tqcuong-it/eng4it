@@ -74,5 +74,6 @@ Vì vậy mình tạo **Eng4IT** — chia sẻ kinh nghiệm thực tế về ti
 - 🌐 **Portfolio:** [cuongtq.it](https://cuongtq.it)
 - 📧 **Email:** contact@cuongtq.it
 - 💻 **GitHub:** [github.com/tqcuong-it](https://github.com/tqcuong-it)
+- 💼 **LinkedIn:** [linkedin.com/in/cuongtq-it](https://www.linkedin.com/in/cuongtq-it)
 
 > 💬 *Nếu bạn thấy blog hữu ích, hãy chia sẻ cho đồng nghiệp nhé! Mình viết blog này với mong muốn giúp cộng đồng developer Việt Nam tự tin hơn khi sử dụng tiếng Anh trong công việc.*

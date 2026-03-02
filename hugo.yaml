@@ -41,6 +41,8 @@ params:
       url: "mailto:contact@cuongtq.it"
     - name: github
       url: "https://github.com/tqcuong-it"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/cuongtq-it"
 
   assets:
     favicon: "/favicon.svg"

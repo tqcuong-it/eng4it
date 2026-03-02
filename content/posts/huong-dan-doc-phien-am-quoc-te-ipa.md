@@ -179,18 +179,33 @@ Ký hiệu **ˈ** (dấu phẩy trên) đặt **trước** âm tiết được n
 
 Đọc to các từ sau chỉ dựa vào phiên âm IPA:
 
-| # | Phiên âm | Bạn đọc là... | Đáp án |
-|---|---|---|---|
-| 1 | /kæt/ | ? | cat |
-| 2 | /dɒɡ/ | ? | dog |
-| 3 | /ˈwɜːrkər/ | ? | worker |
-| 4 | /kəmˈpjuːtər/ | ? | computer |
-| 5 | /ˈsɒftwɛər/ | ? | software |
-| 6 | /θɪŋk/ | ? | think |
-| 7 | /ðɪs/ | ? | this |
-| 8 | /ˈmænɪdʒər/ | ? | manager |
-| 9 | /ɪˈmeɪl/ | ? | email |
-| 10 | /ˌɪntərˈnæʃənəl/ | ? | international |
+| # | Phiên âm | Bạn đọc là... |
+|---|---|---|
+| 1 | /kæt/ | ? |
+| 2 | /dɒɡ/ | ? |
+| 3 | /ˈwɜːrkər/ | ? |
+| 4 | /kəmˈpjuːtər/ | ? |
+| 5 | /ˈsɒftwɛər/ | ? |
+| 6 | /θɪŋk/ | ? |
+| 7 | /ðɪs/ | ? |
+| 8 | /ˈmænɪdʒər/ | ? |
+| 9 | /ɪˈmeɪl/ | ? |
+| 10 | /ˌɪntərˈnæʃənəl/ | ? |
+
+{{< spoiler "✅ Đáp án BT1" >}}
+| # | Phiên âm | Đáp án |
+|---|---|---|
+| 1 | /kæt/ | **cat** |
+| 2 | /dɒɡ/ | **dog** |
+| 3 | /ˈwɜːrkər/ | **worker** |
+| 4 | /kəmˈpjuːtər/ | **computer** |
+| 5 | /ˈsɒftwɛər/ | **software** |
+| 6 | /θɪŋk/ | **think** |
+| 7 | /ðɪs/ | **this** |
+| 8 | /ˈmænɪdʒər/ | **manager** |
+| 9 | /ɪˈmeɪl/ | **email** |
+| 10 | /ˌɪntərˈnæʃənəl/ | **international** |
+{{< /spoiler >}}
 
 ### BT2: Phân biệt nguyên âm
 
@@ -216,8 +231,11 @@ Nghe và phân biệt các cặp từ sau (đọc to cả hai):
 | technology | /tɛkˈnɒlədʒi/ | ? |
 | education | /ˌɛdjʊˈkeɪʃən/ | ? |
 
-### ✅ Đáp án BT3
+{{< spoiler "✅ Đáp án BT2" >}}
+Các cặp từ khác nhau ở **độ dài nguyên âm** và **vị trí lưỡi**. Hãy đọc to cả hai từ và cảm nhận sự khác biệt. Nếu bạn phát âm giống nhau → cần luyện thêm!
+{{< /spoiler >}}
 
+{{< spoiler "✅ Đáp án BT3" >}}
 | Từ | Nhấn | Giải thích |
 |---|---|---|
 | computer | **pu** (âm tiết 2) | Dấu ˈ trước "pjuː" |
@@ -225,6 +243,7 @@ Nghe và phân biệt các cặp từ sau (đọc to cả hai):
 | important | **por** (âm tiết 2) | Dấu ˈ trước "pɔːr" |
 | technology | **no** (âm tiết 2) | Dấu ˈ trước "nɒl" |
 | education | **ca** (âm tiết 3) | Dấu ˈ trước "keɪ", dấu ˌ trước "ɛd" (nhấn phụ) |
+{{< /spoiler >}}
 
 ---
 
