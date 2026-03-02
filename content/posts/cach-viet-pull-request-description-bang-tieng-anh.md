@@ -4,7 +4,7 @@ slug: "cach-viet-pull-request-description-bang-tieng-anh"
 date: 2023-03-11
 summary: "Hướng dẫn viết Pull Request Description tiếng Anh chuẩn — title convention, body template, reviewer notes và 15+ mẫu câu copy-paste."
 description: "Học cách viết Pull Request Description bằng tiếng Anh cho developer. Bao gồm title convention, body template (what/why/how), reviewer notes, mẫu câu thực tế và bài tập thực hành."
-tags: ["workplace-english", "git"]
+tags: ["workplace-english"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

@@ -4,7 +4,7 @@ slug: "cach-viet-slack-teams-message-chuyen-nghiep-bang-tieng-anh"
 date: 2023-03-08
 summary: "Hướng dẫn viết Slack/Teams message bằng tiếng Anh — request, update, question, urgent message và emoji etiquette."
 description: "Học cách viết Slack và Teams message chuyên nghiệp bằng tiếng Anh cho developer. Bao gồm template request, update, question, urgent và emoji etiquette."
-tags: ["workplace-english", "communication"]
+tags: ["workplace-english"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true
