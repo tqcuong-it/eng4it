@@ -13,7 +13,7 @@ params:
   adsenseId: "ca-pub-4584704267487925"
   adsenseArticleSlot: "9497669616"
   title: "Eng4IT"
-  description: "Học tiếng Anh chuyên ngành IT — Dành cho Developer, BrSE, PM tại Nhật và Việt Nam"
+  description: "Học tiếng Anh chuyên ngành IT — Dành cho dân IT tại Nhật và Việt Nam"
   keywords: ["tiếng anh IT", "english for developer", "tiếng anh lập trình", "IELTS IT", "BrSE english"]
   author: "Cuong TQ"
   
@@ -32,7 +32,7 @@ params:
   homeInfoParams:
     Title: "Eng4IT"
     Content: >
-      Học tiếng Anh thực tế dành riêng cho Developer, BrSE, PM.
+      Học tiếng Anh thực tế dành riêng cho dân IT.
       Email chuyên nghiệp, meeting tự tin, đọc docs nhanh, IELTS cho dân tech.
   
   ShowAllPagesInArchive: true

@@ -25,118 +25,25 @@
     <a href="{{ .Permalink }}">📚 IELTS 6.0 — 40 Tuần</a>
   </h2>
 
-  {{- $sections := sort .Sections "Weight" }}
-
-  {{- /* Phase 1: Week 1-12 */ -}}
-  <details class="phase-group">
-    <summary class="phase-title">
-      <span>🌱 Phase 1: Nền Tảng</span>
-      <span class="phase-meta">Tuần 1-12 · 84 bài</span>
-    </summary>
-    <div class="phase-weeks">
-      {{- range $sections }}
-        {{- $w := .Weight }}
-        {{- if and (ge $w 1) (le $w 12) }}
-        <details class="week-group">
-          <summary class="week-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="count">{{ len .Pages }} bài</span>
-          </summary>
-          <div class="week-days">
-            {{- range sort .Pages "Weight" }}
-            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
-            {{- end }}
-          </div>
-        </details>
-        {{- end }}
-      {{- end }}
-    </div>
-  </details>
-
-  {{- /* Phase 2: Week 13-24 */ -}}
-  <details class="phase-group">
-    <summary class="phase-title">
-      <span>📖 Phase 2: Kỹ Năng IELTS</span>
-      <span class="phase-meta">Tuần 13-24 · 84 bài</span>
-    </summary>
-    <div class="phase-weeks">
-      {{- range $sections }}
-        {{- $w := .Weight }}
-        {{- if and (ge $w 13) (le $w 24) }}
-        <details class="week-group">
-          <summary class="week-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="count">{{ len .Pages }} bài</span>
-          </summary>
-          <div class="week-days">
-            {{- range sort .Pages "Weight" }}
-            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
-            {{- end }}
-          </div>
-        </details>
-        {{- end }}
-      {{- end }}
-    </div>
-  </details>
-
-  {{- /* Phase 3: Week 25-36 */ -}}
-  <details class="phase-group">
-    <summary class="phase-title">
-      <span>🎯 Phase 3: Luyện Thi</span>
-      <span class="phase-meta">Tuần 25-36 · 84 bài</span>
-    </summary>
-    <div class="phase-weeks">
-      {{- range $sections }}
-        {{- $w := .Weight }}
-        {{- if and (ge $w 25) (le $w 36) }}
-        <details class="week-group">
-          <summary class="week-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="count">{{ len .Pages }} bài</span>
-          </summary>
-          <div class="week-days">
-            {{- range sort .Pages "Weight" }}
-            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
-            {{- end }}
-          </div>
-        </details>
-        {{- end }}
-      {{- end }}
-    </div>
-  </details>
-
-  {{- /* Phase 4: Week 37-40 */ -}}
-  <details class="phase-group">
-    <summary class="phase-title">
-      <span>🏆 Phase 4: Sprint Cuối</span>
-      <span class="phase-meta">Tuần 37-40 · 28 bài</span>
-    </summary>
-    <div class="phase-weeks">
-      {{- range $sections }}
-        {{- $w := .Weight }}
-        {{- if and (ge $w 37) (le $w 40) }}
-        <details class="week-group">
-          <summary class="week-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="count">{{ len .Pages }} bài</span>
-          </summary>
-          <div class="week-days">
-            {{- range sort .Pages "Weight" }}
-            <a href="{{ .Permalink }}" class="day-link">{{ .Title }}</a>
-            {{- end }}
-          </div>
-        </details>
-        {{- end }}
-      {{- end }}
-    </div>
-  </details>
-
-  {{- /* Roadmap link */ -}}
-  <div class="roadmap-link">
-    {{- with .GetPage "roadmap" }}
-    <a href="{{ .Permalink }}" class="cta-btn cta-secondary" style="margin-top: 12px; display: inline-flex;">📋 {{ .Title }}</a>
+  <div class="post-cards-grid" style="grid-template-columns:1fr">
+    {{- $phases := slice
+      (dict "url" "ielts-phase-1/" "icon" "🌱" "name" "Phase 1: Nền Tảng" "desc" "Tuần 1-12 · 84 bài · Xây dựng nền tảng vững chắc")
+      (dict "url" "ielts-phase-2/" "icon" "📖" "name" "Phase 2: Kỹ Năng IELTS" "desc" "Tuần 13-24 · 84 bài · Luyện 4 kỹ năng chuyên sâu")
+      (dict "url" "ielts-phase-3/" "icon" "🎯" "name" "Phase 3: Luyện Thi" "desc" "Tuần 25-36 · 84 bài · Làm đề thi thực tế")
+      (dict "url" "ielts-phase-4/" "icon" "🏆" "name" "Phase 4: Sprint Cuối" "desc" "Tuần 37-40 · 28 bài · Tổng ôn trước khi thi")
+    }}
+    {{- range $phases }}
+    <a href="{{ $.Permalink }}{{ .url }}" class="post-card">
+      <div class="post-card-body">
+        <h3>{{ .icon }} {{ .name }}</h3>
+        <p>{{ .desc }}</p>
+      </div>
+    </a>
     {{- end }}
   </div>
+  {{- with .GetPage "roadmap" }}
+  <p style="text-align:center;margin-top:.5rem"><a href="{{ .Permalink }}">→ 📋 {{ .Title }}</a></p>
+  {{- end }}
 </div>
 {{- end }}
 
@@ -148,28 +55,29 @@
     <a href="/reading/">Luyện Đọc Tiếng Anh IT</a>
     <span class="count">({{ len $readingPosts }} bài)</span>
   </h2>
-  <div class="level-summary-grid">
-    {{- $levelData := slice
-      (dict "tag" "starter" "name" "Starter" "icon" "🟢" "color" "#22c55e")
-      (dict "tag" "elementary" "name" "Elementary" "icon" "🟡" "color" "#eab308")
-      (dict "tag" "pre-intermediate" "name" "Pre-Intermediate" "icon" "🔵" "color" "#3b82f6")
-      (dict "tag" "intermediate" "name" "Intermediate" "icon" "🟠" "color" "#f97316")
-      (dict "tag" "upper-intermediate" "name" "Upper-Intermediate" "icon" "🟣" "color" "#a855f7")
-      (dict "tag" "advanced" "name" "Advanced" "icon" "🔴" "color" "#ef4444")
-      (dict "tag" "master" "name" "Master" "icon" "⚫" "color" "#374151")
-    }}
+  {{- $levelData := slice
+    (dict "tag" "starter" "name" "Starter" "icon" "🟢")
+    (dict "tag" "elementary" "name" "Elementary" "icon" "🟡")
+    (dict "tag" "pre-intermediate" "name" "Pre-Intermediate" "icon" "🔵")
+    (dict "tag" "intermediate" "name" "Intermediate" "icon" "🟠")
+    (dict "tag" "upper-intermediate" "name" "Upper-Intermediate" "icon" "🟣")
+    (dict "tag" "advanced" "name" "Advanced" "icon" "🔴")
+    (dict "tag" "master" "name" "Master" "icon" "⚫")
+  }}
+  <div class="post-cards-grid" style="grid-template-columns:1fr">
     {{- range $levelData }}
       {{- $posts := where $readingPosts "Params.tags" "intersect" (slice .tag) }}
-      <a href="/reading/#{{ .tag }}" class="level-summary-card" style="--lc: {{ .color }}">
-        <span class="ls-icon">{{ .icon }}</span>
-        <span class="ls-name">{{ .name }}</span>
-        <span class="ls-count">{{ len $posts }}</span>
+      {{- if $posts }}
+      <a href="/reading/#{{ .tag }}" class="post-card">
+        <div class="post-card-body">
+          <h3>{{ .icon }} {{ .name }}</h3>
+          <p>{{ len $posts }} bài luyện đọc</p>
+        </div>
       </a>
+      {{- end }}
     {{- end }}
   </div>
-  <div style="text-align: center; margin-top: 1rem;">
-    <a href="/reading/" class="cta-btn cta-secondary">Xem tất cả bài luyện đọc</a>
-  </div>
+  <p style="text-align:center;margin-top:.5rem"><a href="/reading/">→ Xem tất cả bài luyện đọc</a></p>
 </div>
 {{- end }}
 
@@ -198,9 +106,7 @@
     {{- end }}
   </div>
   {{- if gt (len $taxonomy.Pages) 12 }}
-  <div style="text-align: center; margin-top: 1rem;">
-    <a href="{{ printf "/categories/%s/" $name | absURL }}" class="cta-btn cta-secondary">Xem tất cả {{ len $taxonomy.Pages }} bài</a>
-  </div>
+  <p style="text-align:center;margin-top:1rem"><a href="{{ printf "/categories/%s/" $name | absURL }}">→ Xem tất cả {{ len $taxonomy.Pages }} bài</a></p>
   {{- end }}
 </div>
 {{- end }}

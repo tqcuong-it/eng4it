@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "hugo-extended": "^0.157.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.69.0"
   }
 }
