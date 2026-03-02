@@ -1,0 +1,44 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description | markdownify }}</div>
+  {{- end }}
+</header>
+{{- end }}
+
+<div class="post-cards-grid">
+  {{- range .Paginator.Pages }}
+  <a href="{{ .Permalink }}" class="post-card">
+    <div class="post-card-body">
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Description | default (.Summary | plainify) | truncate 120 }}</p>
+    </div>
+    <div class="post-card-footer">
+      <span class="post-card-time">{{ .ReadingTime }} min</span>
+      {{- range first 2 .Params.tags }}
+      <span class="post-card-tag">{{ . }}</span>
+      {{- end }}
+    </div>
+  </a>
+  {{- end }}
+</div>
+
+{{- if gt .Paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination" role="navigation">
+    {{- if .Paginator.HasPrev }}
+    <a class="prev" href="{{ .Paginator.Prev.URL }}">« Trước</a>
+    {{- end }}
+    <span>Trang {{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
+    {{- if .Paginator.HasNext }}
+    <a class="next" href="{{ .Paginator.Next.URL }}">Tiếp »</a>
+    {{- end }}
+  </nav>
+</footer>
+{{- end }}
+
+{{- end }}

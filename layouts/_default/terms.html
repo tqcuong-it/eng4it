@@ -1,0 +1,19 @@
+{{- define "main" }}
+
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+</header>
+
+<div class="terms-tags">
+  {{- $type := .Type }}
+  {{- range $key, $value := .Data.Terms.Alphabetical }}
+  {{- $count := len $value.Pages }}
+  <a href="{{ printf "/%s/%s/" $type $value.Name | absURL }}" class="term-chip" style="--size: {{ if gt $count 20 }}large{{ else if gt $count 5 }}medium{{ else }}small{{ end }}">
+    {{ $value.Name | humanize }}
+    <span class="term-count">{{ $count }}</span>
+  </a>
+  {{- end }}
+</div>
+
+{{- end }}

@@ -1091,3 +1091,155 @@ main.main {
 @media (max-width: 480px) {
     .level-summary-grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ============================================
+   POST CARDS — Modern card layout for listings
+   ============================================ */
+
+.post-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.post-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.1rem 1.25rem;
+    background: var(--entry);
+    text-decoration: none;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    min-height: 140px;
+}
+
+.post-card:hover {
+    border-color: var(--primary);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+}
+
+html[data-theme='dark'] .post-card:hover {
+    box-shadow: 0 4px 16px rgba(255, 255, 255, 0.04);
+}
+
+.post-card-body h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--content);
+    margin: 0 0 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.post-card-body p {
+    font-size: 0.83rem;
+    color: var(--secondary);
+    line-height: 1.5;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.post-card-footer {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+}
+
+.post-card-time {
+    font-size: 0.75rem;
+    color: var(--secondary);
+}
+
+.post-card-tag {
+    font-size: 0.7rem;
+    background: var(--code-bg);
+    color: var(--secondary);
+    padding: 2px 8px;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
+
+@media (max-width: 600px) {
+    .post-cards-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Tags/Terms page — chip style */
+.terms-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 1.5rem 0;
+}
+
+.term-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    background: var(--entry);
+    color: var(--content);
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-weight: 500;
+    transition: all 0.15s;
+    text-transform: capitalize;
+}
+
+.term-chip:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+    background: var(--code-bg);
+}
+
+.term-count {
+    font-size: 0.72rem;
+    font-weight: 600;
+    background: var(--code-bg);
+    color: var(--secondary);
+    padding: 2px 7px;
+    border-radius: 10px;
+    min-width: 20px;
+    text-align: center;
+}
+
+/* Pagination */
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0;
+    font-size: 0.9rem;
+}
+
+.pagination a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.pagination a:hover {
+    text-decoration: underline;
+}
+
+.pagination span {
+    color: var(--secondary);
+}

@@ -181,21 +181,26 @@
     <a href="{{ printf "/categories/%s/" $name | absURL }}">{{ $taxonomy.Page.Title | default (humanize $name) }}</a>
     <span class="count">({{ len $taxonomy.Pages }} bài)</span>
   </h2>
-  {{- range $taxonomy.Pages }}
-  <article class="post-entry">
-    <header class="entry-header">
-      <h3 class="entry-hint-parent">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h3>
-    </header>
-    <div class="entry-content">
-      <p>{{ .Summary | plainify | truncate 200 }}</p>
-    </div>
-    <footer class="entry-footer">
-      <span title='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "January 2, 2006" }}</span>&nbsp;·&nbsp;
-      <span>{{ .ReadingTime }} min</span>
-    </footer>
-  </article>
+  <div class="post-cards-grid">
+    {{- range first 12 $taxonomy.Pages }}
+    <a href="{{ .Permalink }}" class="post-card">
+      <div class="post-card-body">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Description | default (.Summary | plainify) | truncate 100 }}</p>
+      </div>
+      <div class="post-card-footer">
+        <span class="post-card-time">{{ .ReadingTime }} min</span>
+        {{- range first 2 .Params.tags }}
+        <span class="post-card-tag">{{ . }}</span>
+        {{- end }}
+      </div>
+    </a>
+    {{- end }}
+  </div>
+  {{- if gt (len $taxonomy.Pages) 12 }}
+  <div style="text-align: center; margin-top: 1rem;">
+    <a href="{{ printf "/categories/%s/" $name | absURL }}" class="cta-btn cta-secondary">Xem tất cả {{ len $taxonomy.Pages }} bài</a>
+  </div>
   {{- end }}
 </div>
 {{- end }}
