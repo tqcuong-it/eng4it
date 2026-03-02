@@ -11,6 +11,10 @@ _build:
   publishResources: true
 ---
 
+<div style="text-align:center; margin-bottom:1.5rem;">
+  <img src="/author.jpg" alt="Cuong TQ — Tác giả Eng4IT" width="160" height="190" style="border-radius:50%; border:3px solid var(--primary); object-fit:cover; width:160px; height:160px;" loading="lazy">
+</div>
+
 ## Xin chào! 👋
 
 Mình là **Cuong TQ** — Software Engineer / Bridge SE / Project Manager với hơn **10 năm kinh nghiệm** trong ngành IT.
