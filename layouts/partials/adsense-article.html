@@ -1,12 +1,13 @@
-<!-- Auto in-article ad — insert in single.html after content -->
+<!-- Auto in-article ad — collapses when no fill -->
 {{ with site.Params.adsenseId }}
-<div class="adsbygoogle-container" style="margin: 2em 0; text-align: center;">
+<div class="adsbygoogle-container" style="margin: 2em 0; text-align: center; min-height: 0; overflow: hidden;">
   <ins class="adsbygoogle"
        style="display:block; text-align:center;"
        data-ad-layout="in-article"
        data-ad-format="fluid"
        data-ad-client="{{ . }}"
-       data-ad-slot="{{ with $.Site.Params.adsenseArticleSlot }}{{ . }}{{ end }}"></ins>
+       data-ad-slot="{{ with $.Site.Params.adsenseArticleSlot }}{{ . }}{{ end }}"
+       data-adsbygoogle-status=""></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 {{ end }}

@@ -1,80 +1,51 @@
 {{- define "main" }}
 
-<article class="reading-landing">
-  <header class="reading-hero">
-    <h1>Luyện Đọc Tiếng Anh IT</h1>
-    <p class="reading-subtitle">200 bài đọc song ngữ Anh-Việt, từ cơ bản đến nâng cao. Mỗi bài có từ vựng, ngữ pháp, và bài tập thực hành.</p>
-  </header>
+<header class="page-header">
+  <h1>Luyện Đọc Tiếng Anh IT</h1>
+  <p>200 bài đọc song ngữ Anh-Việt, từ cơ bản đến nâng cao.</p>
+</header>
 
-  {{- $allPosts := where .Site.RegularPages "Params.categories" "intersect" (slice "Reading Practice") }}
+{{- $allPosts := where .Site.RegularPages "Params.categories" "intersect" (slice "Reading Practice") }}
 
-  {{- /* Level definitions */ -}}
-  {{- $levels := slice
-    (dict "tag" "starter" "name" "Starter" "icon" "🟢" "desc" "60-100 từ · Câu đơn · Từ vựng cơ bản" "color" "#22c55e")
-    (dict "tag" "elementary" "name" "Elementary" "icon" "🟡" "desc" "100-150 từ · Câu ghép · Thì HTHT + Bị động" "color" "#eab308")
-    (dict "tag" "pre-intermediate" "name" "Pre-Intermediate" "icon" "🔵" "desc" "150-200 từ · Mệnh đề quan hệ · Câu điều kiện" "color" "#3b82f6")
-    (dict "tag" "intermediate" "name" "Intermediate" "icon" "🟠" "desc" "200-300 từ · Câu phức · Reported Speech" "color" "#f97316")
-    (dict "tag" "upper-intermediate" "name" "Upper-Intermediate" "icon" "🟣" "desc" "300-400 từ · Idiomatic · Complex Passive" "color" "#a855f7")
-    (dict "tag" "advanced" "name" "Advanced" "icon" "🔴" "desc" "400-500 từ · Academic Style · Subjunctive" "color" "#ef4444")
-    (dict "tag" "master" "name" "Master" "icon" "⚫" "desc" "500+ từ · Authentic Journalism · Full Analysis" "color" "#374151")
-  }}
+{{- $levels := slice
+  (dict "tag" "starter" "name" "Starter" "icon" "🟢")
+  (dict "tag" "elementary" "name" "Elementary" "icon" "🟡")
+  (dict "tag" "pre-intermediate" "name" "Pre-Intermediate" "icon" "🔵")
+  (dict "tag" "intermediate" "name" "Intermediate" "icon" "🟠")
+  (dict "tag" "upper-intermediate" "name" "Upper-Intermediate" "icon" "🟣")
+  (dict "tag" "advanced" "name" "Advanced" "icon" "🔴")
+  (dict "tag" "master" "name" "Master" "icon" "⚫")
+}}
 
-  <div class="level-grid">
-    {{- range $levels }}
-      {{- $tag := .tag }}
-      {{- $posts := where $allPosts "Params.tags" "intersect" (slice $tag) }}
-      {{- $count := len $posts }}
-
-      <details class="level-section" {{ if eq $tag "starter" }}open{{ end }}>
-        <summary class="level-header" style="--level-color: {{ .color }}">
-          <div class="level-info">
-            <span class="level-icon">{{ .icon }}</span>
-            <div>
-              <h2 class="level-name">{{ .name }}</h2>
-              <p class="level-desc">{{ .desc }}</p>
-            </div>
-          </div>
-          <span class="level-count">{{ $count }} bài</span>
-        </summary>
-
-        <div class="level-posts">
-          {{- range sort $posts "Date" }}
-          <a href="{{ .Permalink }}" class="reading-card">
-            <h3>{{ .Title }}</h3>
-            <p>{{ .Description | truncate 120 }}</p>
-            <div class="reading-card-meta">
-              <span>{{ .ReadingTime }} min</span>
-              {{- range .Params.tags }}
-                {{- if not (eq . $tag) }}
-                <span class="topic-tag">{{ . }}</span>
-                {{- end }}
-              {{- end }}
-            </div>
-          </a>
+{{- range $levels }}
+  {{- $tag := .tag }}
+  {{- $posts := where $allPosts "Params.tags" "intersect" (slice $tag) }}
+  {{- if $posts }}
+  <div class="category-section">
+    <h2>{{ .icon }} {{ .name }} <span class="count">({{ len $posts }} bài)</span></h2>
+    <div class="post-cards-grid">
+      {{- range first 6 (sort $posts "Date") }}
+      <a href="{{ .Permalink }}" class="post-card">
+        <div class="post-card-body">
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Description | default (.Summary | plainify) | truncate 100 }}</p>
+        </div>
+        <div class="post-card-footer">
+          <span class="post-card-time">{{ .ReadingTime }} min</span>
+          {{- range first 2 .Params.tags }}
+            {{- if not (eq . $tag) }}
+            <span class="post-card-tag">{{ . }}</span>
+            {{- end }}
           {{- end }}
         </div>
-      </details>
+      </a>
+      {{- end }}
+    </div>
+    {{- if gt (len $posts) 6 }}
+    <p style="text-align:center;margin-top:1rem"><a href="/tags/{{ $tag }}/">→ Xem tất cả {{ len $posts }} bài</a></p>
     {{- end }}
   </div>
-
-  <div class="reading-stats">
-    <div class="stat-item">
-      <span class="stat-number">200</span>
-      <span class="stat-label">Bài đọc</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">7</span>
-      <span class="stat-label">Cấp độ</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">2,400+</span>
-      <span class="stat-label">Từ vựng</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">1,200+</span>
-      <span class="stat-label">Bài tập</span>
-    </div>
-  </div>
-</article>
+  {{- end }}
+{{- end }}
 
 {{- end }}

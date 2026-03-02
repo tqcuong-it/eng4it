@@ -2,7 +2,7 @@ baseURL: "https://eng4it.com/"
 languageCode: "vi"
 defaultContentLanguage: "vi"
 defaultContentLanguageInSubdir: false
-title: "Eng4IT — Tiếng Anh cho Dân IT"
+title: "Eng4IT"
 theme: "PaperMod"
 
 pagination:
@@ -78,7 +78,7 @@ menu:
     - name: "Tìm kiếm"
       url: /search/
       weight: 5
-    - name: "Về tác giả"
+    - name: "Tác giả"
       url: /about/
       weight: 6
   footer:
