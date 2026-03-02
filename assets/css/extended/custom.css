@@ -5,14 +5,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Logo text style */
-.logo a {
-    font-family: 'Be Vietnam Pro', system-ui, sans-serif;
-    font-weight: 800;
-    font-size: 1.4rem;
-    letter-spacing: -0.5px;
-    color: var(--primary);
-}
+
 
 /* === Notion-inspired Warm Palette — WCAG AA compliant === */
 :root {

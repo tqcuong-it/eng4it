@@ -42,12 +42,6 @@ params:
     - name: github
       url: "https://github.com/tqcuong-it"
 
-  label:
-    text: ""
-    text: "e4it"
-    iconSVG: ""
-    iconHeight: 30
-
   assets:
     favicon: "/favicon.svg"
 
