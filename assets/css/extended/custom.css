@@ -846,61 +846,7 @@ main.main {
 .dark .vocab-popup-divider { background: #444; }
 .dark .vocab-popup-type { background: #529CCA; }
 
-/* Dictionary lookup popup (double-click any word) */
-.dict-loading {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    color: var(--secondary);
-    font-size: 0.9rem;
-    padding: 4px 0;
-}
-.dict-spinner {
-    width: 16px;
-    height: 16px;
-    border: 2px solid var(--border);
-    border-top-color: var(--primary);
-    border-radius: 50%;
-    animation: spin 0.6s linear infinite;
-}
-@keyframes spin { to { transform: rotate(360deg); } }
 
-.dict-definition {
-    font-size: 0.88rem;
-    color: var(--content);
-    line-height: 1.5;
-    margin: 6px 0 2px;
-}
-.dict-example {
-    font-size: 0.82rem;
-    color: var(--secondary);
-    font-style: italic;
-    margin: 2px 0 8px;
-    padding-left: 10px;
-    border-left: 2px solid var(--border);
-}
-.dict-not-found {
-    font-size: 0.88rem;
-    color: var(--secondary);
-    font-style: italic;
-    margin: 8px 0;
-}
-.dict-popup .vocab-popup-type {
-    margin-top: 8px;
-}
-
-/* Hint text for users */
-.post-content::after {
-    content: '💡 Double-click bất kỳ từ tiếng Anh nào để tra nghĩa';
-    display: block;
-    text-align: center;
-    font-size: 0.8rem;
-    color: var(--secondary);
-    margin-top: 2rem;
-    padding: 8px;
-    border-top: 1px dashed var(--border);
-    opacity: 0.7;
-}
 
 /* ============================================
    READING PRACTICE LANDING PAGE
