@@ -5,7 +5,90 @@ html {
     scroll-behavior: smooth;
 }
 
+/* Logo text style */
+.logo a {
+    font-family: 'Be Vietnam Pro', system-ui, sans-serif;
+    font-weight: 800;
+    font-size: 1.4rem;
+    letter-spacing: -0.5px;
+    color: var(--primary);
+}
 
+/* ============================================
+   MOBILE: Reduce padding on landing/list pages
+   (NOT post-content — those stay at max-width 750px)
+   ============================================ */
+@media (max-width: 768px) {
+    .main {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .reading-landing {
+        padding: 0 4px;
+    }
+
+    .reading-hero {
+        padding: 1rem 0 0.75rem;
+    }
+
+    .reading-hero h1 {
+        font-size: 1.35rem;
+        margin-bottom: 0.3rem;
+    }
+
+    .reading-subtitle {
+        font-size: 0.9rem;
+    }
+
+    .level-section {
+        border-radius: 10px;
+    }
+
+    .level-header {
+        padding: 0.65rem 0.75rem;
+    }
+
+    .reading-card {
+        padding: 0.65rem 0.75rem;
+    }
+
+    .category-section {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .level-summary-grid {
+        gap: 0.5rem;
+    }
+
+    .level-summary-card {
+        padding: 0.5rem 0.7rem;
+    }
+
+    .post-cards-grid {
+        gap: 0.75rem;
+    }
+
+    .post-card {
+        padding: 0.85rem 1rem;
+        min-height: 120px;
+    }
+
+    .reading-stats {
+        gap: 1rem;
+        padding: 1.25rem 0;
+        margin-top: 1rem;
+    }
+
+    .hero-cta {
+        margin-top: 0.75rem;
+    }
+
+    .first-entry {
+        padding: 1rem 0;
+    }
+}
 
 /* === Notion-inspired Warm Palette — WCAG AA compliant === */
 :root {
