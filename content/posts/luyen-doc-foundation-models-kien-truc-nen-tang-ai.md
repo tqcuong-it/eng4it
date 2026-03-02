@@ -1,5 +1,5 @@
 ---
-title: "Bài 175: Foundation Models — Từ GPT đến Gemini, kiến trúc nền tảng AI"
+title: "Foundation Models — Từ GPT đến Gemini, kiến trúc nền tảng AI"
 date: "2023-08-31"
 slug: "luyen-doc-foundation-models-kien-truc-nen-tang-ai"
 description: "Bài luyện đọc cấp độ Advanced về foundation models, kiến trúc transformer và cuộc đua AI từ GPT đến Gemini."

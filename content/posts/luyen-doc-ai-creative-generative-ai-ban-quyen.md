@@ -1,5 +1,5 @@
 ---
-title: "Bài 178: Generative AI in creative industries — AI sáng tạo nội dung và tranh cãi bản quyền"
+title: "Generative AI in creative industries — AI sáng tạo nội dung và"
 date: 2023-09-03
 slug: "luyen-doc-ai-creative-generative-ai-ban-quyen"
 description: "Luyện đọc tiếng Anh IT chủ đề Generative AI trong ngành sáng tạo, tranh cãi bản quyền và tác động đến nghệ sĩ, nhà sáng tạo nội dung"

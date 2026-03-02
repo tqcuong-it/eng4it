@@ -1,5 +1,5 @@
 ---
-title: "Thập kỷ tiếp theo của điện toán — từ AI đến lượng tử đến máy tính sinh học"
+title: "Thập kỷ tiếp theo của điện toán — từ AI đến lượng tử đến máy"
 date: "2023-09-25"
 slug: "luyen-doc-computing-future-thap-ky-tiep-theo-dien-toan"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích tương lai điện toán: AI, quantum, biological computing. Từ vựng computing, cấp độ Master."

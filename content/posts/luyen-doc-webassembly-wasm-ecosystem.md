@@ -1,5 +1,5 @@
 ---
-title: "Bài 168: The state of WebAssembly — từ browser đến server-side (WASM ecosystem)"
+title: "The state of WebAssembly — từ browser đến server-side (WASM"
 date: "2023-08-24"
 slug: "luyen-doc-webassembly-wasm-ecosystem"
 description: "Luyện đọc tiếng Anh IT về WebAssembly - từ công nghệ trình duyệt đến server-side, WASI và tương lai WASM ecosystem"

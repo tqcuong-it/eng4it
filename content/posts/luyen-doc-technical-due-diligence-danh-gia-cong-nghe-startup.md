@@ -1,5 +1,5 @@
 ---
-title: "Bài 166: Technical Due Diligence — Đánh giá công nghệ trước khi mua startup"
+title: "Technical Due Diligence — Đánh giá công nghệ trước khi mua"
 date: "2023-08-22"
 slug: "luyen-doc-technical-due-diligence-danh-gia-cong-nghe-startup"
 description: "Quy trình technical due diligence khi M&A startup — đánh giá codebase, kiến trúc, nợ kỹ thuật qua bài đọc song ngữ Advanced."

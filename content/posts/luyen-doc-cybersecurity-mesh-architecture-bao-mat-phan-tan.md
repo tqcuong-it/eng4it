@@ -1,5 +1,5 @@
 ---
-title: "Bài 182: Cybersecurity Mesh Architecture — Bảo mật phân tán thời Cloud"
+title: "Cybersecurity Mesh Architecture — Bảo mật phân tán thời Cloud"
 date: 2023-09-07
 slug: "luyen-doc-cybersecurity-mesh-architecture-bao-mat-phan-tan"
 description: "Tìm hiểu về Cybersecurity Mesh Architecture (CSMA) — mô hình bảo mật phân tán giúp bảo vệ tài sản số trong môi trường cloud đa nền tảng."

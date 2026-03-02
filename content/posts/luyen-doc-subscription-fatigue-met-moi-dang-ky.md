@@ -1,5 +1,5 @@
 ---
-title: "Subscription fatigue — người dùng mệt mỏi vì quá nhiều gói đăng ký"
+title: "Subscription fatigue — người dùng mệt mỏi vì quá nhiều gói"
 date: "2023-07-09"
 slug: "luyen-doc-subscription-fatigue-met-moi-dang-ky"
 description: "Luyện đọc tiếng Anh IT qua bài báo về hiện tượng subscription fatigue khi người dùng mệt mỏi với quá nhiều dịch vụ đăng ký. Cấp độ Intermediate."

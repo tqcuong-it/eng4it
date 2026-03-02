@@ -1,5 +1,5 @@
 ---
-title: "Bài 185: Technical Writing in Tech — Tại sao Documentation quan trọng"
+title: "Technical Writing in Tech — Tại sao Documentation quan trọng"
 date: 2023-09-10
 slug: "luyen-doc-technical-writing-documentation-quan-trong"
 description: "Tìm hiểu tầm quan trọng của technical writing và documentation trong ngành công nghệ — kỹ năng bị đánh giá thấp nhưng tạo ra giá trị khổng lồ."

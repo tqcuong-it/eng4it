@@ -1,5 +1,5 @@
 ---
-title: "Chi phí môi trường của đời sống số — trung tâm dữ liệu, crypto và streaming"
+title: "Chi phí môi trường của đời sống số — trung tâm dữ liệu, crypto"
 date: "2023-09-23"
 slug: "luyen-doc-digital-carbon-footprint-chi-phi-moi-truong"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích tác động môi trường của hạ tầng số. Từ vựng green tech, cấp độ Master."

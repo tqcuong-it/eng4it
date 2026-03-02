@@ -1,5 +1,5 @@
 ---
-title: "Bài 173: The Economics of Cloud Computing — Chi phí ẩn và tối ưu hóa"
+title: "The Economics of Cloud Computing — Chi phí ẩn và tối ưu hóa"
 date: "2023-08-29"
 slug: "luyen-doc-economics-cloud-computing-chi-phi-toi-uu"
 description: "Bài luyện đọc cấp độ Advanced về kinh tế cloud computing, các chi phí ẩn và chiến lược tối ưu hóa chi phí đám mây."

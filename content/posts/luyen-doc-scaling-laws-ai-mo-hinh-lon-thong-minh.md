@@ -1,5 +1,5 @@
 ---
-title: "Bài 165: Scaling Laws in AI — Tại sao mô hình lớn hơn lại thông minh hơn"
+title: "Scaling Laws in AI — Tại sao mô hình lớn hơn lại thông minh hơn"
 date: "2023-08-21"
 slug: "luyen-doc-scaling-laws-ai-mo-hinh-lon-thong-minh"
 description: "Khám phá scaling laws trong AI — tại sao tăng kích thước mô hình và dữ liệu lại cải thiện hiệu suất LLM, qua bài đọc song ngữ Advanced."

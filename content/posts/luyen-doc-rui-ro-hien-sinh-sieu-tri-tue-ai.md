@@ -1,5 +1,5 @@
 ---
-title: "Bài 171: Existential Risk of Superintelligence — Rủi ro hiện sinh từ siêu trí tuệ"
+title: "Existential Risk of Superintelligence — Rủi ro hiện sinh từ"
 date: "2023-08-27"
 slug: "luyen-doc-rui-ro-hien-sinh-sieu-tri-tue-ai"
 description: "Bài luyện đọc cấp độ Advanced về rủi ro hiện sinh từ siêu trí tuệ nhân tạo, các cuộc tranh luận về AI alignment và tương lai nhân loại."

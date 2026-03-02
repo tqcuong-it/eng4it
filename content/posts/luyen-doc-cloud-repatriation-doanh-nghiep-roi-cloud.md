@@ -1,5 +1,5 @@
 ---
-title: "Bài 145: Cloud Repatriation — Doanh nghiệp rời cloud về on-premise"
+title: "Cloud Repatriation — Doanh nghiệp rời cloud về on-premise"
 date: "2023-08-01"
 slug: "luyen-doc-cloud-repatriation-doanh-nghiep-roi-cloud"
 description: "Luyện đọc tiếng Anh IT chủ đề cloud repatriation — xu hướng doanh nghiệp chuyển workload từ cloud về hạ tầng on-premise."

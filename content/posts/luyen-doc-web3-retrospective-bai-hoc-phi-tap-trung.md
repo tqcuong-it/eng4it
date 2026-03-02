@@ -1,5 +1,5 @@
 ---
-title: "Từ Web2 đến Web3 rồi quay lại — bài học từ thí nghiệm phi tập trung"
+title: "Từ Web2 đến Web3 rồi quay lại — bài học từ thí nghiệm phi tập"
 date: "2023-09-21"
 slug: "luyen-doc-web3-retrospective-bai-hoc-phi-tap-trung"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích hành trình Web3 và bài học phi tập trung hóa. Từ vựng blockchain, cấp độ Master."

@@ -1,5 +1,5 @@
 ---
-title: "Bài 188: The intersection of AI and climate change — opportunities and risks"
+title: "The intersection of AI and climate change — opportunities and"
 date: 2023-09-13
 slug: "luyen-doc-ai-climate-change-opportunities-risks"
 description: "Luyện đọc tiếng Anh IT chủ đề AI và biến đổi khí hậu — cơ hội và rủi ro. Cấp độ Master với từ vựng chuyên sâu."

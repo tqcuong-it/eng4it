@@ -10,7 +10,7 @@
   </div>
   <div class="hero-cta">
     <a href="/ielts/" class="cta-btn cta-primary">Bắt đầu IELTS 6.0</a>
-    <a href="/ielts/roadmap/" class="cta-btn cta-secondary">Xem lộ trình 40 tuần</a>
+    <a href="/reading/" class="cta-btn cta-secondary">200 bài luyện đọc</a>
   </div>
   <footer class="entry-footer">
     {{- partial "social_icons.html" .Site.Params -}}
@@ -140,9 +140,42 @@
 </div>
 {{- end }}
 
-{{- /* All categories dynamically — skip ielts to avoid duplicate */ -}}
+{{- /* Reading Practice Section — Level summary */ -}}
+{{- $readingPosts := where .Site.RegularPages "Params.categories" "intersect" (slice "Reading Practice") }}
+{{- if $readingPosts }}
+<div class="category-section">
+  <h2>
+    <a href="/reading/">Luyện Đọc Tiếng Anh IT</a>
+    <span class="count">({{ len $readingPosts }} bài)</span>
+  </h2>
+  <div class="level-summary-grid">
+    {{- $levelData := slice
+      (dict "tag" "starter" "name" "Starter" "icon" "🟢" "color" "#22c55e")
+      (dict "tag" "elementary" "name" "Elementary" "icon" "🟡" "color" "#eab308")
+      (dict "tag" "pre-intermediate" "name" "Pre-Intermediate" "icon" "🔵" "color" "#3b82f6")
+      (dict "tag" "intermediate" "name" "Intermediate" "icon" "🟠" "color" "#f97316")
+      (dict "tag" "upper-intermediate" "name" "Upper-Intermediate" "icon" "🟣" "color" "#a855f7")
+      (dict "tag" "advanced" "name" "Advanced" "icon" "🔴" "color" "#ef4444")
+      (dict "tag" "master" "name" "Master" "icon" "⚫" "color" "#374151")
+    }}
+    {{- range $levelData }}
+      {{- $posts := where $readingPosts "Params.tags" "intersect" (slice .tag) }}
+      <a href="/reading/#{{ .tag }}" class="level-summary-card" style="--lc: {{ .color }}">
+        <span class="ls-icon">{{ .icon }}</span>
+        <span class="ls-name">{{ .name }}</span>
+        <span class="ls-count">{{ len $posts }}</span>
+      </a>
+    {{- end }}
+  </div>
+  <div style="text-align: center; margin-top: 1rem;">
+    <a href="/reading/" class="cta-btn cta-secondary">Xem tất cả bài luyện đọc</a>
+  </div>
+</div>
+{{- end }}
+
+{{- /* All categories dynamically — skip ielts and reading practice to avoid duplicate */ -}}
 {{- range $name, $taxonomy := .Site.Taxonomies.categories }}
-{{- if ne $name "ielts" }}
+{{- if and (ne $name "ielts") (ne $name "reading practice") }}
 <div class="category-section">
   <h2>
     <a href="{{ printf "/categories/%s/" $name | absURL }}">{{ $taxonomy.Page.Title | default (humanize $name) }}</a>

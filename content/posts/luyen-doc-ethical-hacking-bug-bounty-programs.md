@@ -1,5 +1,5 @@
 ---
-title: "Bài 174: Ethical Hacking và Bug Bounty Programs — Hacker mũ trắng kiếm triệu đô"
+title: "Ethical Hacking và Bug Bounty Programs — Hacker mũ trắng kiếm"
 date: "2023-08-30"
 slug: "luyen-doc-ethical-hacking-bug-bounty-programs"
 description: "Bài luyện đọc cấp độ Advanced về ethical hacking, bug bounty programs và cách hacker mũ trắng kiếm hàng triệu đô từ việc tìm lỗ hổng bảo mật."

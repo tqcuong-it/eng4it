@@ -1,5 +1,5 @@
 ---
-title: "Bài 162: Semiconductor Geopolitics — Chip trở thành vũ khí địa chính trị"
+title: "Semiconductor Geopolitics — Chip trở thành vũ khí địa chính trị"
 date: "2023-08-18"
 slug: "luyen-doc-semiconductor-geopolitics-chip-dia-chinh-tri"
 description: "Phân tích cuộc chiến bán dẫn toàn cầu — chip trở thành công cụ địa chính trị giữa Mỹ, Trung Quốc và Đài Loan qua bài đọc song ngữ Advanced."

@@ -1,5 +1,5 @@
 ---
-title: "Bài 181: Retrieval-Augmented Generation (RAG) — Giải pháp cho AI Hallucination"
+title: "Retrieval-Augmented Generation (RAG) — Giải pháp cho AI"
 date: 2023-09-06
 slug: "luyen-doc-rag-giai-phap-ai-hallucination"
 description: "Tìm hiểu về Retrieval-Augmented Generation (RAG) — kiến trúc giúp giảm thiểu hiện tượng AI hallucination bằng cách kết hợp truy xuất dữ liệu thực."

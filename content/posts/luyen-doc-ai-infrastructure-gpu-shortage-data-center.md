@@ -1,5 +1,5 @@
 ---
-title: "Bài 170: The rise of AI infrastructure — GPU shortage và cuộc đua data center"
+title: "The rise of AI infrastructure — GPU shortage và cuộc đua data"
 date: "2023-08-26"
 slug: "luyen-doc-ai-infrastructure-gpu-shortage-data-center"
 description: "Luyện đọc tiếng Anh IT về cuộc đua hạ tầng AI - thiếu hụt GPU, xây dựng data center và bùng nổ đầu tư AI infrastructure"

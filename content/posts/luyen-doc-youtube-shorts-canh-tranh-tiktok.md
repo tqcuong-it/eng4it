@@ -1,5 +1,5 @@
 ---
-title: "YouTube Shorts cạnh tranh TikTok — Video ngắn đang thay đổi mạng xã hội"
+title: "YouTube Shorts cạnh tranh TikTok — Video ngắn đang thay đổi"
 date: "2023-03-20"
 slug: "luyen-doc-youtube-shorts-canh-tranh-tiktok"
 description: "Luyện đọc tiếng Anh IT: YouTube Shorts cạnh tranh TikTok trong cuộc chiến video ngắn. Từ vựng và ngữ pháp cơ bản cho người mới."

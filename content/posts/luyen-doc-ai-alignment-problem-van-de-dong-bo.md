@@ -1,5 +1,5 @@
 ---
-title: "Bài 161: The Alignment Problem — Làm sao để AI tuân theo ý muốn con người"
+title: "The Alignment Problem — Làm sao để AI tuân theo ý muốn con người"
 date: "2023-08-17"
 slug: "luyen-doc-ai-alignment-problem-van-de-dong-bo"
 description: "Tìm hiểu về bài toán alignment trong AI — thách thức đảm bảo trí tuệ nhân tạo hành động đúng ý muốn con người, qua bài đọc song ngữ cấp độ Advanced."

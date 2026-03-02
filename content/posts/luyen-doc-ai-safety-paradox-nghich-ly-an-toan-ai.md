@@ -1,5 +1,5 @@
 ---
-title: "Nghịch lý nghiên cứu an toàn AI — làm AI an toàn hơn có thể khiến nó nguy hiểm hơn"
+title: "Nghịch lý nghiên cứu an toàn AI — làm AI an toàn hơn có thể"
 date: "2023-09-16"
 slug: "luyen-doc-ai-safety-paradox-nghich-ly-an-toan-ai"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích nghịch lý nghiên cứu an toàn AI. Từ vựng AI safety, cấp độ Master."

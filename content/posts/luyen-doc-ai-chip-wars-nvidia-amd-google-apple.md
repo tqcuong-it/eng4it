@@ -1,5 +1,5 @@
 ---
-title: "Bài 184: AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine"
+title: "AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine"
 date: 2023-09-09
 slug: "luyen-doc-ai-chip-wars-nvidia-amd-google-apple"
 description: "Cuộc chiến chip AI giữa NVIDIA, AMD, Google TPU và Apple Neural Engine — ai sẽ thống trị thị trường AI accelerator?"

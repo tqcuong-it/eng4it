@@ -1,5 +1,5 @@
 ---
-title: "Cuộc chiến nhân tài AI toàn cầu — giành giật bộ não quý hiếm nhất thế giới"
+title: "Cuộc chiến nhân tài AI toàn cầu — giành giật bộ não quý hiếm"
 date: "2023-09-20"
 slug: "luyen-doc-ai-talent-war-cuoc-chien-nhan-tai-ai"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích cuộc cạnh tranh toàn cầu thu hút nhân tài AI. Từ vựng HR/AI, cấp độ Master."

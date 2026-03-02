@@ -1,5 +1,5 @@
 ---
-title: "Bài 154: Tech Debt Crisis — Khi Nợ Kỹ Thuật Trở Nên Không Kiểm Soát"
+title: "Tech Debt Crisis — Khi Nợ Kỹ Thuật Trở Nên Không Kiểm Soát"
 date: "2023-08-10"
 slug: "luyen-doc-tech-debt-crisis-no-ky-thuat-mat-kiem-soat"
 description: "Luyện đọc tiếng Anh IT bài 154: Nợ kỹ thuật đang trở thành khủng hoảng âm thầm tại nhiều công ty, gây chậm trễ và rủi ro bảo mật nghiêm trọng."

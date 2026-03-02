@@ -1,5 +1,5 @@
 ---
-title: "Bài 190: The future of work in an AI-augmented world — economic transformation ahead"
+title: "The future of work in an AI-augmented world — economic"
 date: 2023-09-15
 slug: "luyen-doc-ai-future-of-work-economic-transformation"
 description: "Luyện đọc tiếng Anh IT chủ đề tương lai công việc trong thế giới AI — chuyển đổi kinh tế phía trước. Cấp độ Master."

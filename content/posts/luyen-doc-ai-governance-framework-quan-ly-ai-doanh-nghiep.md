@@ -1,5 +1,5 @@
 ---
-title: "Bài 167: AI Governance Framework — Xây dựng quy trình quản lý AI trong doanh nghiệp"
+title: "AI Governance Framework — Xây dựng quy trình quản lý AI trong"
 date: "2023-08-23"
 slug: "luyen-doc-ai-governance-framework-quan-ly-ai-doanh-nghiep"
 description: "Cách doanh nghiệp xây dựng framework quản lý AI — chính sách, đạo đức, rủi ro và trách nhiệm giải trình qua bài đọc song ngữ Advanced."

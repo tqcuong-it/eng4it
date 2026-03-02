@@ -1,5 +1,5 @@
 ---
-title: "Bài 163: The Future of Programming — Liệu AI có thay thế developer?"
+title: "The Future of Programming — Liệu AI có thay thế developer?"
 date: "2023-08-19"
 slug: "luyen-doc-future-of-programming-ai-thay-the-developer"
 description: "AI coding assistants đang thay đổi ngành lập trình — liệu developer có bị thay thế? Bài đọc song ngữ cấp độ Advanced phân tích xu hướng AI vs programmers."

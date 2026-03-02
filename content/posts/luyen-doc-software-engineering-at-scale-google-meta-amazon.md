@@ -1,5 +1,5 @@
 ---
-title: "Bài 187: Software Engineering at Scale — Lessons from Google, Meta, and Amazon"
+title: "Software Engineering at Scale — Lessons from Google, Meta, and"
 date: 2023-09-12
 slug: "luyen-doc-software-engineering-at-scale-google-meta-amazon"
 description: "Bài học kỹ thuật phần mềm quy mô lớn từ Google, Meta và Amazon — cách các big tech quản lý hàng tỷ dòng code và hàng nghìn kỹ sư."

@@ -1,5 +1,5 @@
 ---
-title: "Bài 169: Privacy-enhancing technologies — federated learning, differential privacy, homomorphic encryption"
+title: "Privacy-enhancing technologies — federated learning,"
 date: "2023-08-25"
 slug: "luyen-doc-privacy-enhancing-technologies-pets"
 description: "Luyện đọc tiếng Anh IT về các công nghệ bảo vệ quyền riêng tư - federated learning, differential privacy và homomorphic encryption"
