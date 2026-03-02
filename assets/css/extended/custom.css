@@ -5,20 +5,13 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Logo: hide text when SVG logo is shown */
+/* Logo text style */
 .logo a {
-    display: inline-flex;
-    align-items: center;
-    gap: 0;
-}
-.logo a svg + * {
-    /* Hide the text label that follows SVG logo — screen readers still see aria-label */
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-    clip: rect(0,0,0,0);
-    white-space: nowrap;
+    font-family: 'Be Vietnam Pro', system-ui, sans-serif;
+    font-weight: 800;
+    font-size: 1.4rem;
+    letter-spacing: -0.5px;
+    color: var(--primary);
 }
 
 /* === Notion-inspired Warm Palette — WCAG AA compliant === */
