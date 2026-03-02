@@ -4,9 +4,9 @@
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap"></noscript>
 
-<!-- Google AdSense -->
-{{ with site.Params.adsenseId }}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+<!-- Google AdSense — only on content pages (not homepage) for performance -->
+{{ if and (not .IsHome) site.Params.adsenseId }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseId }}" crossorigin="anonymous"></script>
 {{ end }}
 
 <!-- Critical inline CSS for Google crawler rendering -->
