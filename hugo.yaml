@@ -11,6 +11,7 @@ pagination:
 params:
   env: production
   adsenseId: "ca-pub-4584704267487925"
+  adsenseArticleSlot: "9497669616"
   title: "Eng4IT"
   description: "Học tiếng Anh chuyên ngành IT — Dành cho Developer, BrSE, PM tại Nhật và Việt Nam"
   keywords: ["tiếng anh IT", "english for developer", "tiếng anh lập trình", "IELTS IT", "BrSE english"]
