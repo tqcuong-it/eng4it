@@ -2,7 +2,7 @@
 title: "Tuần 35: Weakness Focus — Tập trung điểm yếu"
 date: 2023-08-28
 summary: "Xác định và luyện tập chuyên sâu Top 3 điểm yếu — bài test chẩn đoán, intensive practice và mock test đo lường."
-tags: ["ielts", "weakness", "intensive", "phase-3"]
+tags: ["ielts", "review", "intensive", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

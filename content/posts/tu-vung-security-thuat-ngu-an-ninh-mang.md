@@ -4,7 +4,7 @@ date: 2023-02-07
 slug: "tu-vung-security-thuat-ngu-an-ninh-mang"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Security — từ encryption, JWT, OAuth đến XSS, SQL injection và penetration testing. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["security", "backend"]
+tags: ["cybersecurity", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

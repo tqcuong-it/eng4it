@@ -2,7 +2,7 @@
 title: "Tuần 36: Phase 3 Milestone 🏆 — Đánh giá tổng kết giai đoạn 3"
 date: 2023-09-04
 summary: "Mock Test 4 hoàn chỉnh, phân tích xu hướng điểm, đánh giá khoảng cách Band 6.0 và MILESTONE TEST 🏆 kết thúc Phase 3!"
-tags: ["ielts", "milestone", "phase-3", "mock-test", "celebration"]
+tags: ["ielts", "milestone", "phase-3", "mock-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

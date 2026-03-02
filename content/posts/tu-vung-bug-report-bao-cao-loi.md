@@ -4,7 +4,7 @@ date: 2023-02-24
 slug: "tu-vung-bug-report-bao-cao-loi"
 description: "Học 15 thuật ngữ tiếng Anh về Bug Report — từ reproduce, severity, priority đến root cause, stack trace và hotfix. Viết bug report chuẩn chỉnh bằng tiếng Anh."
 categories: ["IT English"]
-tags: ["testing", "workplace-english"]
+tags: ["devops", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -4,7 +4,7 @@ date: 2023-02-03
 slug: "tu-vung-linux-terminal-thuat-ngu-dong-lenh"
 description: "Học 15 thuật ngữ Linux và Terminal quan trọng: shell, pipe, permission, process, daemon, cron, grep, SSH và nhiều hơn nữa."
 categories: ["IT English"]
-tags: ["linux", "devops"]
+tags: ["devops"]
 ShowToc: true
 TocOpen: true
 draft: false

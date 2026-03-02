@@ -4,7 +4,7 @@ slug: "day-1-topic-vocabulary-environment-technology"
 date: 2023-08-07
 summary: "Từ vựng Speaking chủ đề Môi trường & Công nghệ — collocations, sample answers, pronunciation tips và bài tập ứng dụng."
 description: "IELTS Speaking vocabulary for Environment & Technology topics: collocations, model answers, useful phrases, pronunciation guide."
-tags: ["ielts", "speaking", "vocabulary", "environment"]
+tags: ["ielts", "speaking", "vocabulary"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

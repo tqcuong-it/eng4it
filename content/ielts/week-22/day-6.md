@@ -4,7 +4,7 @@ slug: "day-6-time-management-chien-luoc-1-phut-chuan-bi-2-phut-noi"
 date: 2023-06-03
 summary: "Kỹ thuật quản lý thời gian cho IELTS Speaking Part 2 — tối ưu 1 phút prep và duy trì 2 phút talk."
 description: "Chiến lược time management cho IELTS Speaking Part 2 — 1 minute preparation technique và 2 minute speaking practice."
-tags: ["ielts", "speaking", "part-2", "time-management"]
+tags: ["ielts", "speaking", "strategy"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

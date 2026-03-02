@@ -2,7 +2,7 @@
 title: "Tuần 20: IELTS Writing Task 2 — Skills"
 date: 2023-05-15
 summary: "Nâng cao kỹ năng viết Task 2 — Introduction, Body, Conclusion, Linking Words, Academic Vocabulary + Timed Practice."
-tags: ["ielts", "writing", "task-2", "skills"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

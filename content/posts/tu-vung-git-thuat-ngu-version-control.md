@@ -4,7 +4,7 @@ date: 2023-01-31
 slug: "tu-vung-git-thuat-ngu-version-control"
 description: "Nắm vững 15 thuật ngữ Git quan trọng: repository, commit, branch, merge, rebase, cherry-pick, pull request và hơn thế nữa."
 categories: ["IT English"]
-tags: ["git", "devops"]
+tags: ["devops"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -4,7 +4,7 @@ slug: "day-7-self-recording-review-error-analysis"
 date: 2023-08-06
 summary: "Nghe lại tất cả bản thu trong tuần — phân tích lỗi có hệ thống, lập kế hoạch cải thiện cho tuần tiếp theo."
 description: "IELTS Speaking self-review: error analysis framework, common mistakes, improvement tracking, targeted practice plan."
-tags: ["ielts", "speaking", "error-analysis"]
+tags: ["ielts", "speaking", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

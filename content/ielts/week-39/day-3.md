@@ -4,7 +4,7 @@ slug: "day-3-last-minute-writing-tips-templates-review"
 date: 2023-09-27
 summary: "Tips cuối cùng cho Writing — ôn lại templates Task 1 + Task 2, checklist tránh lỗi phổ biến."
 description: "Tổng hợp templates Writing, từ vựng quan trọng, cấu trúc câu nâng cao và checklist tránh lỗi cho ngày thi."
-tags: ["ielts", "writing", "tips", "final-prep"]
+tags: ["ielts", "writing", "tips", "practice-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

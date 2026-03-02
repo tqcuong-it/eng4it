@@ -4,7 +4,7 @@ slug: "day-5-cohesion-coherence-linking-words-cho-task-1"
 date: 2023-05-05
 summary: "Hệ thống linking words và kỹ năng tạo cohesion & coherence cho IELTS Writing Task 1."
 description: "Tổng hợp linking words, reference words, cách chia đoạn và tạo mạch văn trôi chảy cho Task 1."
-tags: ["ielts", "writing", "task-1", "coherence"]
+tags: ["ielts", "writing", "task-1"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

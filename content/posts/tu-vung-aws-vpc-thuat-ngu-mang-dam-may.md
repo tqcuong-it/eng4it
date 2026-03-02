@@ -4,7 +4,7 @@ date: 2023-01-19
 slug: "tu-vung-aws-vpc-thuat-ngu-mang-dam-may"
 description: "Học 13 thuật ngữ tiếng Anh quan trọng về AWS VPC — từ subnet, route table đến NAT gateway. Kèm ví dụ thực tế và bài tập cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["aws", "networking", "cloud-computing"]
+tags: ["aws", "cloud-computing"]
 ShowToc: true
 TocOpen: true
 draft: false

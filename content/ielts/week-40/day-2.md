@@ -4,7 +4,7 @@ slug: "day-2-final-grammar-refresh-checklist-loi-thuong-gap"
 date: 2023-10-02
 summary: "Tổng hợp 20 lỗi ngữ pháp phổ biến nhất trong IELTS và bài tập sửa lỗi nhanh."
 description: "Checklist lỗi ngữ pháp IELTS thường gặp với giải thích chi tiết và bài tập quick fix."
-tags: ["ielts", "grammar", "grand-finale"]
+tags: ["ielts", "grammar", "milestone"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

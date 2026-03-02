@@ -4,7 +4,7 @@ slug: "day-2-part-1-topics-home-work-study"
 date: 2023-05-23
 summary: "Luyện Speaking Part 1 với 3 chủ đề phổ biến: Home, Work, Study — Sample Q&A và Model Answers chi tiết."
 description: "Chiến lược trả lời IELTS Speaking Part 1 cho chủ đề Home, Work, Study với câu hỏi mẫu, model answers và phân tích."
-tags: ["ielts", "speaking", "part-1"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

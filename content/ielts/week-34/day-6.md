@@ -4,7 +4,7 @@ slug: "day-6-time-management-training"
 date: 2023-08-26
 summary: "Luyện kỹ năng quản lý thời gian — chiến lược phân bổ thời gian cho từng phần thi IELTS."
 description: "Hướng dẫn chi tiết cách quản lý thời gian hiệu quả trong phòng thi IELTS, kèm bài tập thực hành."
-tags: ["ielts", "time-management", "strategy", "phase-3"]
+tags: ["ielts", "strategy", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

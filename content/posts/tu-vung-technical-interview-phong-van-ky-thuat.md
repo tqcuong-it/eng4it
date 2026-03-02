@@ -4,7 +4,7 @@ date: 2023-02-22
 slug: "tu-vung-technical-interview-phong-van-ky-thuat"
 description: "Học 12 thuật ngữ tiếng Anh về Technical Interview — từ whiteboard, algorithm, time complexity đến system design và behavioral question. Chuẩn bị phỏng vấn tự tin hơn."
 categories: ["IT English"]
-tags: ["interview", "workplace-english"]
+tags: ["workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -4,7 +4,7 @@ slug: "day-7-mock-part-2-practice-3-cue-cards-model-answers"
 date: 2023-06-04
 summary: "Mô phỏng IELTS Speaking Part 2 với 3 cue cards thực tế, model answers chi tiết và hướng dẫn tự đánh giá."
 description: "Mock test IELTS Speaking Part 2 — 3 cue cards đa dạng (Person, Place, Experience), model answers band 6.0+ và self-assessment."
-tags: ["ielts", "speaking", "part-2", "mock-test", "practice"]
+tags: ["ielts", "speaking", "mock-test", "practice"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

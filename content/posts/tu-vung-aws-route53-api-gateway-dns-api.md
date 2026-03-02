@@ -4,7 +4,7 @@ date: 2023-01-24
 slug: "tu-vung-aws-route53-api-gateway-dns-api"
 description: "Học 13 thuật ngữ tiếng Anh về AWS Route 53 và API Gateway — hosted zone, routing policy, throttling. Cho dev Việt làm DNS & API."
 categories: ["IT English"]
-tags: ["aws", "api", "networking"]
+tags: ["aws"]
 ShowToc: true
 TocOpen: true
 draft: false

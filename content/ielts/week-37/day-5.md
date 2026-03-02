@@ -4,7 +4,7 @@ slug: "day-5-score-analysis-error-correction"
 date: 2023-09-15
 summary: "Phân tích điểm Mock Test 1, xác định lỗi sai và lập kế hoạch cải thiện."
 description: "Tổng hợp kết quả 4 kỹ năng từ Mock Test 1, phân tích lỗi chi tiết và xây dựng chiến lược sửa lỗi."
-tags: ["ielts", "analysis", "mock-test"]
+tags: ["ielts", "mock-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ slug: "day-7-rest-mental-preparation"
 date: 2023-09-17
 summary: "Nghỉ ngơi, ôn nhẹ và chuẩn bị tinh thần cho Mock Test 2 tuần sau."
 description: "Ngày nghỉ ngơi — review nhẹ kết quả, visualization và chuẩn bị mindset cho tuần luyện tiếp theo."
-tags: ["ielts", "rest"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

@@ -4,7 +4,7 @@ date: "2023-04-02"
 slug: "luyen-doc-nasa-chup-anh-sao-hoa"
 description: "Luyện đọc tiếng Anh IT qua bài báo về NASA chụp ảnh mới trên sao Hỏa. Từ vựng space tech, cấp độ Starter."
 categories: ["Reading Practice"]
-tags: ["starter", "space-tech"]
+tags: ["starter"]
 ShowToc: true
 TocOpen: true
 draft: false

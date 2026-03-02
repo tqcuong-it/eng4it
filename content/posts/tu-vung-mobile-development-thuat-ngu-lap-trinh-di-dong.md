@@ -4,7 +4,7 @@ date: 2023-02-15
 slug: "tu-vung-mobile-development-thuat-ngu-lap-trinh-di-dong"
 description: "Học 13 thuật ngữ tiếng Anh về Mobile Development — từ native, hybrid, cross-platform đến push notification, deep link và hot reload. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["frontend", "backend"]
+tags: ["programming", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

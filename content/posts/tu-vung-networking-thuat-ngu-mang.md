@@ -4,7 +4,7 @@ date: 2023-02-04
 slug: "tu-vung-networking-thuat-ngu-mang"
 description: "Học 15 thuật ngữ tiếng Anh quan trọng nhất về Networking — từ TCP, DNS đến load balancer và CDN. Giải thích dễ hiểu kèm ví dụ thực tế cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["networking", "backend", "devops"]
+tags: ["backend", "devops"]
 ShowToc: true
 TocOpen: true
 draft: false

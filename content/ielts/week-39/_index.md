@@ -2,7 +2,7 @@
 title: "Tuần 39: Final Prep — Ôn tập cuối cùng"
 date: 2023-09-25
 summary: "Last-minute tips cho từng kỹ năng, ôn template, logistics ngày thi và nghỉ ngơi chuẩn bị."
-tags: ["ielts", "final-prep", "tips", "phase-4"]
+tags: ["ielts", "practice-test", "tips", "phase-4"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

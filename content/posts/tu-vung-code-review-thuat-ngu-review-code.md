@@ -4,7 +4,7 @@ date: 2023-02-17
 slug: "tu-vung-code-review-thuat-ngu-review-code"
 description: "Học 14 thuật ngữ tiếng Anh về Code Review — từ pull request, approval, LGTM đến merge conflict, squash và revert. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["git", "agile"]
+tags: ["devops", "agile"]
 ShowToc: true
 TocOpen: true
 draft: false

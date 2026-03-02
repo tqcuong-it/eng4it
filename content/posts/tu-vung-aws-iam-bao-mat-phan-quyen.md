@@ -4,7 +4,7 @@ date: 2023-01-20
 slug: "tu-vung-aws-iam-bao-mat-phan-quyen"
 description: "Học 14 thuật ngữ tiếng Anh về AWS IAM — user, role, policy, MFA và hơn thế. Dành cho developer Việt muốn master cloud security."
 categories: ["IT English"]
-tags: ["aws", "security", "cloud-computing"]
+tags: ["aws", "cybersecurity", "cloud-computing"]
 ShowToc: true
 TocOpen: true
 draft: false

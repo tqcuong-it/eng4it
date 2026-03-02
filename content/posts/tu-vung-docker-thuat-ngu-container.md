@@ -4,7 +4,7 @@ date: 2023-01-30
 slug: "tu-vung-docker-thuat-ngu-container"
 description: "Học 14 thuật ngữ Docker quan trọng nhất cho developer: image, container, volume, Dockerfile, multi-stage build và nhiều hơn nữa."
 categories: ["IT English"]
-tags: ["docker", "devops", "cloud-computing"]
+tags: ["devops", "cloud-computing"]
 ShowToc: true
 TocOpen: true
 draft: false

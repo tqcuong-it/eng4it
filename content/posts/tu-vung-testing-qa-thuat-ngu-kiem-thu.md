@@ -4,7 +4,7 @@ date: 2023-02-11
 slug: "tu-vung-testing-qa-thuat-ngu-kiem-thu"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Testing & QA — từ unit test, integration test, mock đến TDD, BDD và test coverage. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["testing"]
+tags: ["devops"]
 ShowToc: true
 TocOpen: true
 draft: false

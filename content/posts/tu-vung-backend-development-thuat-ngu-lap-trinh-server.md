@@ -4,7 +4,7 @@ date: 2023-02-10
 slug: "tu-vung-backend-development-thuat-ngu-lap-trinh-server"
 description: "Học 14 thuật ngữ tiếng Anh về Backend Development — từ API, middleware, ORM đến authentication và dependency injection. Dễ hiểu cho dev Việt."
 categories: ["IT English"]
-tags: ["backend", "api"]
+tags: ["backend"]
 ShowToc: true
 TocOpen: true
 draft: false

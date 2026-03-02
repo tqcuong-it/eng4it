@@ -4,7 +4,7 @@ date: 2023-02-06
 slug: "tu-vung-api-rest-thuat-ngu-giao-tiep-he-thong"
 description: "Học 15 thuật ngữ tiếng Anh quan trọng về API & REST — từ endpoint, request, response đến webhook và GraphQL. Giải thích kèm ví dụ thực tế cho developer."
 categories: ["IT English"]
-tags: ["api", "backend"]
+tags: ["backend"]
 ShowToc: true
 TocOpen: true
 draft: false

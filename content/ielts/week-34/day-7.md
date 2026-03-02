@@ -4,7 +4,7 @@ slug: "day-7-progress-review-score-tracking"
 date: 2023-08-27
 summary: "Tổng kết tiến bộ tuần 34 — biểu đồ điểm số, phân tích xu hướng và chuẩn bị cho Weakness Focus."
 description: "Review toàn diện tiến bộ qua 3 mock tests, vẽ biểu đồ điểm số và lập kế hoạch cho tuần tiếp theo."
-tags: ["ielts", "score-tracking", "phase-3"]
+tags: ["ielts", "review", "phase-3"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

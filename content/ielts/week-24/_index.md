@@ -2,7 +2,7 @@
 title: "Tuần 24: Ôn Tập Phase 2 — MILESTONE TEST 🏆"
 date: 2023-06-12
 summary: "Kiểm tra tổng hợp Phase 2 — Mô phỏng đầy đủ 4 kỹ năng Listening, Reading, Writing, Speaking + Phân tích điểm và lập kế hoạch."
-tags: ["ielts", "milestone", "test"]
+tags: ["ielts", "milestone", "practice-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

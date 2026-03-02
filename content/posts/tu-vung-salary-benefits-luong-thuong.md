@@ -4,7 +4,7 @@ date: 2023-03-01
 slug: "tu-vung-salary-benefits-luong-thuong"
 description: "Học 14 thuật ngữ tiếng Anh về Salary & Benefits — từ compensation, base salary, bonus đến equity, stock option, payroll. Cực kỳ hữu ích khi negotiate offer."
 categories: ["IT English"]
-tags: ["workplace-english", "interview"]
+tags: ["workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

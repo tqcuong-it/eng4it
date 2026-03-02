@@ -4,7 +4,7 @@ slug: "day-7-full-phase-1-milestone-test"
 date: 2023-03-26
 summary: "Bài thi tổng hợp Phase 1 — 50 câu hỏi: Grammar (20) + Vocabulary (10) + Reading (10) + Listening (10) với bảng chấm điểm."
 description: "IELTS Phase 1 Milestone Test — 50 câu hỏi tổng hợp grammar, vocabulary, reading, listening với scoring guide."
-tags: ["ielts", "test", "milestone", "review"]
+tags: ["ielts", "practice-test", "milestone", "review"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

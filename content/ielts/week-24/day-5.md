@@ -4,7 +4,7 @@ slug: "day-5-score-analysis-weakness-identification"
 date: 2023-06-16
 summary: "Phân tích điểm tổng hợp 4 kỹ năng, xác định điểm yếu và lập rubric tự đánh giá."
 description: "Tổng hợp kết quả Listening, Reading, Writing, Speaking — phân tích điểm mạnh/yếu và xây dựng kế hoạch cải thiện."
-tags: ["ielts", "self-assessment", "milestone"]
+tags: ["ielts", "review", "milestone"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

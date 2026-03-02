@@ -4,7 +4,7 @@ date: 2023-02-02
 slug: "tu-vung-kubernetes-thuat-ngu-k8s"
 description: "Học 14 thuật ngữ Kubernetes cần biết: pod, deployment, service, ingress, configmap, helm, kubectl và nhiều hơn nữa."
 categories: ["IT English"]
-tags: ["devops", "docker", "cloud-computing"]
+tags: ["devops", "cloud-computing"]
 ShowToc: true
 TocOpen: true
 draft: false

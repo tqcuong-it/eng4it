@@ -4,7 +4,7 @@ slug: "day-7-rest-day-mental-prep-only"
 date: 2023-10-01
 summary: "Ngày nghỉ hoàn toàn — chỉ chuẩn bị tinh thần, KHÔNG học bài."
 description: "REST DAY trước tuần cuối cùng. Tập trung vào tinh thần, giấc ngủ và sự bình an nội tâm."
-tags: ["ielts", "rest"]
+tags: ["ielts"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

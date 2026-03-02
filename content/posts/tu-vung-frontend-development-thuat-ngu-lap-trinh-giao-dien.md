@@ -4,7 +4,7 @@ date: 2023-02-09
 slug: "tu-vung-frontend-development-thuat-ngu-lap-trinh-giao-dien"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Frontend Development — từ component, state, props đến virtual DOM, hook và hydration. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["frontend"]
+tags: ["programming"]
 ShowToc: true
 TocOpen: true
 draft: false

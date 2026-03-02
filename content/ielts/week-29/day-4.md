@@ -4,7 +4,7 @@ slug: "day-4-task-2-timed-practice-opinion-essay"
 date: 2023-07-20
 summary: "Luyện viết Task 2 Opinion Essay có tính giờ — 40 phút, ≥250 từ."
 description: "Thực hành viết IELTS Task 2 dạng Opinion (Agree/Disagree) trong 40 phút với đề thi, dàn ý và bài mẫu Band 6.5."
-tags: ["ielts", "writing", "task-2", "opinion"]
+tags: ["ielts", "writing", "task-2"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

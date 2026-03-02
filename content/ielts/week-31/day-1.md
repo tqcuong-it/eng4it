@@ -4,7 +4,7 @@ slug: "day-1-part-1-deep-practice-20-chu-de-pho-bien"
 date: 2023-07-31
 summary: "Luyện chuyên sâu Part 1 với 20 chủ đề thường gặp nhất — mỗi chủ đề có sample questions, model answers 2-3 câu và useful phrases."
 description: "IELTS Speaking Part 1 deep practice: 20 common topics với model answers, useful phrases, pronunciation tips và hướng dẫn tự luyện."
-tags: ["ielts", "speaking", "part-1"]
+tags: ["ielts", "speaking"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

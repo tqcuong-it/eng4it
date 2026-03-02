@@ -4,7 +4,7 @@ slug: "day-1-final-vocabulary-refresh-top-200-tu-ielts-must-know"
 date: 2023-10-02
 summary: "Ôn tổng 200 từ vựng quan trọng nhất cho IELTS, phân loại theo chủ đề — lần cuối trước khi thi!"
 description: "Danh sách 200 từ vựng IELTS thiết yếu, chia theo 10 chủ đề phổ biến nhất trong đề thi."
-tags: ["ielts", "vocabulary", "grand-finale"]
+tags: ["ielts", "vocabulary", "milestone"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

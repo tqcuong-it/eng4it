@@ -4,7 +4,7 @@ slug: "day-7-error-analysis-time-management-review"
 date: 2023-07-09
 summary: "Phân tích lỗi sai từ Full Test 1 — xác định điểm yếu, cải thiện quản lý thời gian, lập kế hoạch ôn tập."
 description: "Error analysis cho IELTS Reading — phân loại lỗi, tìm pattern sai, tối ưu time management cho full test."
-tags: ["ielts", "reading", "error-analysis", "time-management"]
+tags: ["ielts", "reading", "review", "strategy"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

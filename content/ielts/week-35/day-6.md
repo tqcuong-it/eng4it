@@ -4,7 +4,7 @@ slug: "day-6-full-mock-test-3-do-luong-cai-thien"
 date: 2023-09-02
 summary: "Bài thi mô phỏng đầy đủ lần 3 — đo lường cải thiện sau tuần Weakness Focus."
 description: "Mock test IELTS hoàn chỉnh để đánh giá hiệu quả luyện tập điểm yếu, so sánh với W33-W34."
-tags: ["ielts", "mock-test-3", "full-test"]
+tags: ["ielts", "mock-test", "full-test"]
 series: ["Tự Học IELTS 6.0"]
 categories: ["IELTS"]
 ShowToc: true

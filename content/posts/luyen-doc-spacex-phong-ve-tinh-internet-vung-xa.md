@@ -4,7 +4,7 @@ date: "2023-06-07"
 slug: "luyen-doc-spacex-phong-ve-tinh-internet-vung-xa"
 description: "Luyện đọc tiếng Anh IT qua bài báo về SpaceX phóng vệ tinh Starlink cung cấp internet cho vùng sâu vùng xa. Từ vựng space-tech, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "space-tech"]
+tags: ["pre-intermediate"]
 ShowToc: true
 TocOpen: true
 draft: false

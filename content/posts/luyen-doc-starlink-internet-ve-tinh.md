@@ -4,7 +4,7 @@ date: "2023-05-08"
 slug: "luyen-doc-starlink-internet-ve-tinh"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Starlink của SpaceX cung cấp internet vệ tinh tốc độ cao cho vùng nông thôn. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "space-tech"]
+tags: ["elementary"]
 ShowToc: true
 TocOpen: true
 draft: false
