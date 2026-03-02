@@ -1,5 +1,5 @@
 ---
-title: "Về tác giả"
+title: "Tác giả"
 date: 2026-03-01
 description: "Fullstack Developer | BrSE | PM — 10+ năm kinh nghiệm IT, 50+ dự án, hiện làm việc tại Nhật Bản"
 ShowReadingTime: false

@@ -11,9 +11,9 @@
 ### 🏢 Workplace English
 - [x] 1. Cách viết Daily Standup Report bằng tiếng Anh
 - [x] 2. 30 câu hỏi & trả lời trong Code Review
-- [ ] 3. Email xin nghỉ phép (Leave Request) — mẫu & từ vựng
-- [ ] 4. Cách viết Pull Request Description chuyên nghiệp
-- [ ] 5. 20 câu nói trong Sprint Planning Meeting
+- [x] 3. Email xin nghỉ phép (Leave Request) — mẫu & từ vựng
+- [x] 4. Cách viết Pull Request Description chuyên nghiệp
+- [x] 5. 20 câu nói trong Sprint Planning Meeting
 - [ ] 6. Cách viết Bug Report bằng tiếng Anh
 - [ ] 7. Email báo cáo tiến độ dự án (Progress Report)
 - [ ] 8. 25 câu dùng trong Daily Scrum/Standup
