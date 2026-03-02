@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" width="180" height="40" role="img" aria-label="Eng4IT — Tiếng Anh cho Dân IT">
+  <title>Eng4IT</title>
+  <desc>Eng4IT — Blog học tiếng Anh dành cho Developer, BrSE, PM</desc>
+  <style>
+    .t{font-family:'Be Vietnam Pro',system-ui,sans-serif;font-weight:800;font-size:28px}
+    .dark{fill:#2D3748}
+    .blue{fill:#1b70b8}
+    .br{font-family:'Fira Code',monospace;font-weight:400;font-size:30px;fill:#1b70b8;opacity:.65}
+    @media(prefers-color-scheme:dark){.dark{fill:#E3E2E0}}
+  </style>
+  <text x="0" y="30" class="br">&lt;</text>
+  <text x="18" y="29" class="t dark">Eng</text>
+  <text x="80" y="29" class="t blue">4IT</text>
+  <text x="134" y="30" class="br">/&gt;</text>
+</svg>

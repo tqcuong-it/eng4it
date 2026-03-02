@@ -29,7 +29,7 @@ params:
   ShowRssButtonInSectionTermList: true
   
   homeInfoParams:
-    Title: "Tiếng Anh cho Dân IT"
+    Title: "Eng4IT — Tiếng Anh cho Dân IT"
     Content: >
       Học tiếng Anh thực tế dành riêng cho Developer, BrSE, PM.
       Email chuyên nghiệp, meeting tự tin, đọc docs nhanh, IELTS cho dân tech.
@@ -41,6 +41,11 @@ params:
       url: "mailto:contact@cuongtq.it"
     - name: github
       url: "https://github.com/tqcuong-it"
+
+  label:
+    text: ""
+    iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 36" width="170" height="36" role="img" aria-label="Eng4IT"><title>Eng4IT — Tiếng Anh cho Dân IT</title><text x="0" y="28" style="font-family:Be Vietnam Pro,system-ui,sans-serif;font-weight:800;font-size:28px;fill:#1b70b8;opacity:.6" font-family="monospace">&lt;</text><text x="16" y="27" style="font-family:Be Vietnam Pro,system-ui,sans-serif;font-weight:800;font-size:26px;fill:var(--content,#2D3748)">Eng</text><text x="74" y="27" style="font-family:Be Vietnam Pro,system-ui,sans-serif;font-weight:800;font-size:26px;fill:#1b70b8">4IT</text><text x="124" y="28" style="font-family:Be Vietnam Pro,system-ui,sans-serif;font-weight:800;font-size:28px;fill:#1b70b8;opacity:.6" font-family="monospace">/&gt;</text></svg>'
+    iconHeight: 36
 
   assets:
     favicon: "/favicon.svg"

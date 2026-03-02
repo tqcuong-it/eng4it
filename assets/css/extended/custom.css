@@ -5,6 +5,22 @@ html {
     scroll-behavior: smooth;
 }
 
+/* Logo: hide text when SVG logo is shown */
+.logo a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
+}
+.logo a svg + * {
+    /* Hide the text label that follows SVG logo — screen readers still see aria-label */
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+}
+
 /* === Notion-inspired Warm Palette — WCAG AA compliant === */
 :root {
     --primary: #1b70b8;
