@@ -5,7 +5,7 @@ date: 2023-03-06
 summary: "Hướng dẫn dẫn meeting bằng tiếng Anh cho developer — mở đầu, agenda, wrap-up, action items với 20+ mẫu câu copy-paste."
 description: "Học cách dẫn meeting bằng tiếng Anh cho developer. Bao gồm mẫu câu mở đầu, trình bày agenda, wrap-up, giao action items và bài tập thực hành."
 tags: ["workplace-english", "meeting"]
-categories: ["workplace-english"]
+categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true
 draft: false
