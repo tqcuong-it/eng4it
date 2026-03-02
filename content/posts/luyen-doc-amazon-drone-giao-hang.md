@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Amazon is testing **drone** delivery in two cities in the United States. The drones can **deliver** small packages to your home in about 30 minutes. The **service** is called Amazon Prime Air.
+Amazon is testing {{< vocab w="drone" ipa="/droʊn/" vn="máy bay không người lái" t="noun" >}} delivery in two cities in the United States. The drones can {{< vocab w="deliver" ipa="/dɪˈlɪv.ər/" vn="giao hàng" t="verb" >}} small packages to your home in about 30 minutes. The {{< vocab w="service" ipa="/ˈsɜːr.vɪs/" vn="dịch vụ" t="noun" >}} is called Amazon Prime Air.
 
-Each drone can carry packages up to 5 pounds. It flies to the **customer's** address and drops the package in the yard. The drone then flies back to the **warehouse** by itself.
+Each drone can carry packages up to 5 pounds. It flies to the **customer's** address and drops the package in the yard. The drone then flies back to the {{< vocab w="warehouse" ipa="/ˈwer.haʊs/" vn="nhà kho" t="noun" >}} by itself.
 
-Amazon says drone delivery is **faster** and better for the environment. But some people are worried about **safety**. The company is working with the government to make rules for drone delivery.
+Amazon says drone delivery is {{< vocab w="faster" ipa="/ˈfæs.tər/" vn="nhanh hơn" t="adjective" >}} and better for the environment. But some people are worried about {{< vocab w="safety" ipa="/ˈseɪf.ti/" vn="an toàn" t="noun" >}}. The company is working with the government to make rules for drone delivery.
 
 ## 📚 Từ vựng chính
 

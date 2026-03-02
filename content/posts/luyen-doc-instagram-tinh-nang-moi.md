@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Instagram added new **features** to its Reels **tool** this week. Users can now make videos up to 3 minutes long. The app also added new **filters** and music **options**. **Creators** can now see how many people **watched** their videos. Instagram says Reels is growing fast. More than 200 million people watch Reels every day. The new features help Instagram **compete** with TikTok. Both apps are very popular for short videos.
+Instagram added new {{< vocab w="features" ipa="/ˈfiː.tʃərz/" vn="tính năng" t="noun" >}} to its Reels {{< vocab w="tool" ipa="/tuːl/" vn="công cụ" t="noun" >}} this week. Users can now make videos up to 3 minutes long. The app also added new {{< vocab w="filters" ipa="/ˈfɪl.tərz/" vn="bộ lọc" t="noun" >}} and music {{< vocab w="options" ipa="/ˈɒp.ʃənz/" vn="tùy chọn" t="noun" >}}. {{< vocab w="Creators" ipa="/kriˈeɪ.tərz/" vn="nhà sáng tạo" t="noun" >}} can now see how many people {{< vocab w="watched" ipa="/wɒtʃt/" vn="đã xem" t="verb" >}} their videos. Instagram says Reels is growing fast. More than 200 million people watch Reels every day. The new features help Instagram {{< vocab w="compete" ipa="/kəmˈpiːt/" vn="cạnh tranh" t="verb" >}} with TikTok. Both apps are very popular for short videos.
 
 ## 📚 Từ vựng chính
 

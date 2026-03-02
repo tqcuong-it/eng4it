@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Netflix has **launched** a cheaper plan with **advertisements**, and it costs only $6.99 per month. The company lost many **subscribers** last year, so it decided to change its **business model**.
+Netflix has {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} a cheaper plan with {{< vocab w="advertisements" ipa="/ədˈvɜː.tɪs.mənts/" vn="quảng cáo" t="noun" >}}, and it costs only $6.99 per month. The company lost many {{< vocab w="subscribers" ipa="/səbˈskraɪ.bərz/" vn="người đăng ký" t="noun" >}} last year, so it decided to change its {{< vocab w="business model" ipa="/ˈbɪz.nɪs ˈmɒd.əl/" vn="mô hình kinh doanh" t="noun" >}}.
 
-The new plan shows ads before and during movies, but each ad is only 15 to 30 seconds. Some **content** is not available on the ad plan because of **licensing** agreements. Netflix has said that the ad-supported plan has already **attracted** five million new users.
+The new plan shows ads before and during movies, but each ad is only 15 to 30 seconds. Some {{< vocab w="content" ipa="/ˈkɒn.tent/" vn="nội dung" t="noun" >}} is not available on the ad plan because of {{< vocab w="licensing" ipa="/ˈlaɪ.sən.sɪŋ/" vn="bản quyền" t="noun" >}} agreements. Netflix has said that the ad-supported plan has already {{< vocab w="attracted" ipa="/əˈtræk.tɪd/" vn="thu hút" t="verb" >}} five million new users.
 
-The **streaming** market has become very **competitive** because Disney+, HBO Max, and Amazon Prime all offer similar services. Netflix has also **cracked down** on password sharing, so users can no longer share accounts with friends for free.
+The {{< vocab w="streaming" ipa="/ˈstriː.mɪŋ/" vn="phát trực tuyến" t="noun" >}} market has become very {{< vocab w="competitive" ipa="/kəmˈpet.ɪ.tɪv/" vn="cạnh tranh" t="adjective" >}} because Disney+, HBO Max, and Amazon Prime all offer similar services. Netflix has also **cracked down** on password sharing, so users can no longer share accounts with friends for free.
 
 ## 📚 Từ vựng chính
 

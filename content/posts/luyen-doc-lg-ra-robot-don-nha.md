@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-LG has **announced** a new home **robot**. The robot can clean your house by itself. It uses **sensors** to move around furniture. The robot can also **mop** the floor. You can **control** it with your phone. LG says the robot is very quiet. It can work for two hours on one **charge**. The robot will be **available** in Korea first, then in other countries.
+LG has {{< vocab w="announced" ipa="/əˈnaʊnst/" vn="công bố" t="verb" >}} a new home {{< vocab w="robot" ipa="/ˈroʊ.bɑːt/" vn="rô-bốt" t="noun" >}}. The robot can clean your house by itself. It uses {{< vocab w="sensors" ipa="/ˈsen.sərz/" vn="cảm biến" t="noun" >}} to move around furniture. The robot can also {{< vocab w="mop" ipa="/mɑːp/" vn="lau (sàn)" t="verb" >}} the floor. You can {{< vocab w="control" ipa="/kənˈtroʊl/" vn="điều khiển" t="verb" >}} it with your phone. LG says the robot is very quiet. It can work for two hours on one {{< vocab w="charge" ipa="/tʃɑːrdʒ/" vn="lần sạc" t="noun" >}}. The robot will be {{< vocab w="available" ipa="/əˈveɪ.lə.bəl/" vn="có sẵn" t="adjective" >}} in Korea first, then in other countries.
 
 ## 📚 Từ vựng chính
 

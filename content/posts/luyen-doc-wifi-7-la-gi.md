@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-WiFi 7 is the newest **version** of WiFi **technology**. It is much **faster** than WiFi 6. WiFi 7 can reach speeds up to 46 Gbps. This means you can **download** a full movie in just a few seconds. WiFi 7 also has lower **latency**, so online games and video calls will work better. The new **standard** uses three **frequency** bands at the same time. The first WiFi 7 routers will be available later this year. They will cost more than current routers at first.
+WiFi 7 is the newest {{< vocab w="version" ipa="/ˈvɜːr.ʒən/" vn="phiên bản" t="noun" >}} of WiFi {{< vocab w="technology" ipa="/tekˈnɒl.ə.dʒi/" vn="công nghệ" t="noun" >}}. It is much {{< vocab w="faster" ipa="/ˈfɑːs.tər/" vn="nhanh hơn" t="adjective" >}} than WiFi 6. WiFi 7 can reach speeds up to 46 Gbps. This means you can {{< vocab w="download" ipa="/ˈdaʊn.loʊd/" vn="tải xuống" t="verb" >}} a full movie in just a few seconds. WiFi 7 also has lower {{< vocab w="latency" ipa="/ˈleɪ.tən.si/" vn="độ trễ" t="noun" >}}, so online games and video calls will work better. The new {{< vocab w="standard" ipa="/ˈstæn.dərd/" vn="tiêu chuẩn" t="noun" >}} uses three {{< vocab w="frequency" ipa="/ˈfriː.kwən.si/" vn="tần số" t="noun" >}} bands at the same time. The first WiFi 7 routers will be available later this year. They will cost more than current routers at first.
 
 ## 📚 Từ vựng chính
 

@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-TikTok has **launched** a new shopping feature called TikTok Shop, and it has quickly become one of the biggest trends in **e-commerce**. Users can now buy products directly inside the app while watching short videos. **Sellers** can create product listings, and **influencers** can promote items through **livestreams**.
+TikTok has {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} a new shopping feature called TikTok Shop, and it has quickly become one of the biggest trends in **e-commerce**. Users can now buy products directly inside the app while watching short videos. {{< vocab w="Sellers" ipa="/ˈsel.ərz/" vn="người bán" t="noun" >}} can create product listings, and {{< vocab w="influencers" ipa="/ˈɪn.flu.ən.sərz/" vn="người có ảnh hưởng" t="noun" >}} can promote items through {{< vocab w="livestreams" ipa="/ˈlaɪv.striːmz/" vn="phát trực tiếp" t="noun" >}}.
 
-TikTok Shop has been **rolled out** in several countries including the US, UK, and Southeast Asia. The company says over 200,000 sellers have **registered** on the platform. In its first year, TikTok Shop has **generated** billions of dollars in sales. Many small businesses have been helped by the feature because they can reach millions of **potential** customers.
+TikTok Shop has been **rolled out** in several countries including the US, UK, and Southeast Asia. The company says over 200,000 sellers have {{< vocab w="registered" ipa="/ˈredʒ.ɪ.stərd/" vn="đăng ký" t="verb" >}} on the platform. In its first year, TikTok Shop has {{< vocab w="generated" ipa="/ˈdʒen.ə.reɪ.tɪd/" vn="tạo ra (doanh thu)" t="verb" >}} billions of dollars in sales. Many small businesses have been helped by the feature because they can reach millions of {{< vocab w="potential" ipa="/pəˈten.ʃəl/" vn="tiềm năng" t="adjective" >}} customers.
 
-However, some **concerns** have been raised about product quality and fake reviews. TikTok has said that a **verification** system has been put in place to protect buyers. The company has also hired more staff to **review** products and remove fake listings.
+However, some **concerns** have been raised about product quality and fake reviews. TikTok has said that a {{< vocab w="verification" ipa="/ˌver.ɪ.fɪˈkeɪ.ʃən/" vn="xác minh" t="noun" >}} system has been put in place to protect buyers. The company has also hired more staff to **review** products and remove fake listings.
 
 ## 📚 Từ vựng chính
 

@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Many schools are now giving **tablets** to students. The tablets help students learn at home and in class. Students can read **textbooks**, watch videos, and do **homework** on them. Teachers can also send **assignments** through the tablet. Some countries give free tablets to poor students. The tablets are not expensive — most cost under $200. Experts say **digital** learning is the future of **education**. However, some parents worry about too much **screen time**.
+Many schools are now giving {{< vocab w="tablets" ipa="/ˈtæb.ləts/" vn="máy tính bảng" t="noun" >}} to students. The tablets help students learn at home and in class. Students can read {{< vocab w="textbooks" ipa="/ˈtekst.bʊks/" vn="sách giáo khoa" t="noun" >}}, watch videos, and do {{< vocab w="homework" ipa="/ˈhoʊm.wɜːrk/" vn="bài tập về nhà" t="noun" >}} on them. Teachers can also send {{< vocab w="assignments" ipa="/əˈsaɪn.mənts/" vn="bài tập, nhiệm vụ" t="noun" >}} through the tablet. Some countries give free tablets to poor students. The tablets are not expensive — most cost under $200. Experts say {{< vocab w="digital" ipa="/ˈdɪdʒ.ɪ.təl/" vn="kỹ thuật số" t="adjective" >}} learning is the future of {{< vocab w="education" ipa="/ˌedʒ.ʊˈkeɪ.ʃən/" vn="giáo dục" t="noun" >}}. However, some parents worry about too much {{< vocab w="screen time" ipa="/skriːn taɪm/" vn="thời gian dùng màn hình" t="noun" >}}.
 
 ## 📚 Từ vựng chính
 

@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-OpenAI has made ChatGPT **free** for everyone. The AI **chatbot** can answer questions, write emails, and help with homework. Millions of people **download** the app every week.
+OpenAI has made ChatGPT {{< vocab w="free" ipa="/friː/" vn="miễn phí" t="adjective" >}} for everyone. The AI {{< vocab w="chatbot" ipa="/ˈtʃæt.bɑːt/" vn="trợ lý trò chuyện tự động" t="noun" >}} can answer questions, write emails, and help with homework. Millions of people {{< vocab w="download" ipa="/ˈdaʊn.loʊd/" vn="tải xuống" t="verb" >}} the app every week.
 
-ChatGPT uses **artificial** intelligence to understand and reply to users. You can type a question and get an answer in seconds. The app is **available** on both iPhone and Android.
+ChatGPT uses {{< vocab w="artificial" ipa="/ˌɑːr.tɪˈfɪʃ.əl/" vn="nhân tạo" t="adjective" >}} intelligence to understand and reply to users. You can type a question and get an answer in seconds. The app is {{< vocab w="available" ipa="/əˈveɪ.lə.bəl/" vn="có sẵn" t="adjective" >}} on both iPhone and Android.
 
-Some teachers worry that students will use it to **cheat**. But many people say it is a useful **tool** for learning. OpenAI plans to add more features soon.
+Some teachers worry that students will use it to {{< vocab w="cheat" ipa="/tʃiːt/" vn="gian lận" t="verb" >}}. But many people say it is a useful {{< vocab w="tool" ipa="/tuːl/" vn="công cụ" t="noun" >}} for learning. OpenAI plans to add more features soon.
 
 ## 📚 Từ vựng chính
 

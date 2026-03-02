@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-A group of **hackers** has attacked a major bank in Europe, and millions of customer accounts have been **compromised**. The bank's **security** system was **breached** last weekend, so personal data has been **exposed**.
+A group of {{< vocab w="hackers" ipa="/ˈhæk.ərz/" vn="tin tặc" t="noun" >}} has attacked a major bank in Europe, and millions of customer accounts have been {{< vocab w="compromised" ipa="/ˈkɒm.prə.maɪzd/" vn="bị xâm phạm" t="verb" >}}. The bank's {{< vocab w="security" ipa="/sɪˈkjʊə.rə.ti/" vn="bảo mật" t="noun" >}} system was {{< vocab w="breached" ipa="/briːtʃt/" vn="bị xâm nhập" t="verb" >}} last weekend, so personal data has been {{< vocab w="exposed" ipa="/ɪkˈspəʊzd/" vn="bị lộ" t="verb" >}}.
 
-The hackers used a **phishing** email to trick an employee, and they got access to the **database**. The bank has **confirmed** that names, emails, and phone numbers have been stolen, but no money has been taken.
+The hackers used a {{< vocab w="phishing" ipa="/ˈfɪʃ.ɪŋ/" vn="lừa đảo qua email" t="noun" >}} email to trick an employee, and they got access to the {{< vocab w="database" ipa="/ˈdeɪ.tə.beɪs/" vn="cơ sở dữ liệu" t="noun" >}}. The bank has {{< vocab w="confirmed" ipa="/kənˈfɜːmd/" vn="xác nhận" t="verb" >}} that names, emails, and phone numbers have been stolen, but no money has been taken.
 
-The bank has hired a cybersecurity team to **investigate** the attack. Customers have been asked to change their **passwords** immediately because the hackers may still have access. Police are working with **experts** to find the attackers.
+The bank has hired a cybersecurity team to {{< vocab w="investigate" ipa="/ɪnˈves.tɪ.ɡeɪt/" vn="điều tra" t="verb" >}} the attack. Customers have been asked to change their {{< vocab w="passwords" ipa="/ˈpɑːs.wɜːdz/" vn="mật khẩu" t="noun" >}} immediately because the hackers may still have access. Police are working with **experts** to find the attackers.
 
 ## 📚 Từ vựng chính
 

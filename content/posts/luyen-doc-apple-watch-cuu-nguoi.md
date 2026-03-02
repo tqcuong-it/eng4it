@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-An Apple Watch has saved a man's life in the United States. The **smartwatch** detected an unusual **heart** rate while the man was sleeping. It sent an **alert** to his phone.
+An Apple Watch has saved a man's life in the United States. The {{< vocab w="smartwatch" ipa="/ˈsmɑːrt.wɑːtʃ/" vn="đồng hồ thông minh" t="noun" >}} detected an unusual {{< vocab w="heart" ipa="/hɑːrt/" vn="tim" t="noun" >}} rate while the man was sleeping. It sent an {{< vocab w="alert" ipa="/əˈlɜːrt/" vn="cảnh báo" t="noun" >}} to his phone.
 
-The man woke up and called the **hospital**. Doctors found that he had a serious heart problem. They said the Apple Watch **warning** helped save his life.
+The man woke up and called the {{< vocab w="hospital" ipa="/ˈhɑː.spɪ.t̬əl/" vn="bệnh viện" t="noun" >}}. Doctors found that he had a serious heart problem. They said the Apple Watch {{< vocab w="warning" ipa="/ˈwɔːr.nɪŋ/" vn="cảnh báo" t="noun" >}} helped save his life.
 
-Apple Watch has many **health** features. It can check your heart rate, blood oxygen, and sleep. Apple says more than 100 people have reported that the watch helped **detect** health problems early.
+Apple Watch has many {{< vocab w="health" ipa="/helθ/" vn="sức khỏe" t="noun" >}} features. It can check your heart rate, blood oxygen, and sleep. Apple says more than 100 people have reported that the watch helped {{< vocab w="detect" ipa="/dɪˈtekt/" vn="phát hiện" t="verb" >}} health problems early.
 
 ## 📚 Từ vựng chính
 

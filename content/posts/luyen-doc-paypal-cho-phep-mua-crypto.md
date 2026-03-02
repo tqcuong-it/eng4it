@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-PayPal now lets users buy and sell **cryptocurrency**. The **feature** is available in the United States. Users can buy Bitcoin, Ethereum, and other **digital** coins. PayPal says the process is simple and **secure**. You just need a PayPal **account** to start. The company wants to make crypto easier for everyone. Many people are happy about this **update**. Experts say this is good for the **crypto market**.
+PayPal now lets users buy and sell {{< vocab w="cryptocurrency" ipa="/ˈkrɪp.toʊˌkɜːr.ən.si/" vn="tiền mã hóa" t="noun" >}}. The {{< vocab w="feature" ipa="/ˈfiː.tʃər/" vn="tính năng" t="noun" >}} is available in the United States. Users can buy Bitcoin, Ethereum, and other {{< vocab w="digital" ipa="/ˈdɪdʒ.ɪ.təl/" vn="kỹ thuật số" t="adjective" >}} coins. PayPal says the process is simple and {{< vocab w="secure" ipa="/sɪˈkjʊr/" vn="an toàn, bảo mật" t="adjective" >}}. You just need a PayPal {{< vocab w="account" ipa="/əˈkaʊnt/" vn="tài khoản" t="noun" >}} to start. The company wants to make crypto easier for everyone. Many people are happy about this {{< vocab w="update" ipa="/ˈʌp.deɪt/" vn="bản cập nhật" t="noun" >}}. Experts say this is good for the {{< vocab w="crypto market" ipa="/ˈkrɪp.toʊ ˈmɑːr.kɪt/" vn="thị trường tiền mã hóa" t="noun" >}}.
 
 ## 📚 Từ vựng chính
 

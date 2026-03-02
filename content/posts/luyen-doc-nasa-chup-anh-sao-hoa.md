@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-NASA's **rover** has taken new photos of **Mars**. The photos show rocks and red **soil**. Scientists are very excited about the images. The rover uses a special **camera** to take clear pictures. NASA says some rocks may contain **water** from long ago. The **mission** started two years ago. The rover has **traveled** more than 10 kilometers on Mars. NASA plans to send more rovers in the future.
+NASA's {{< vocab w="rover" ipa="/ˈroʊ.vər/" vn="xe tự hành" t="noun" >}} has taken new photos of {{< vocab w="Mars" ipa="/mɑːrz/" vn="sao Hỏa" t="noun" >}}. The photos show rocks and red {{< vocab w="soil" ipa="/sɔɪl/" vn="đất" t="noun" >}}. Scientists are very excited about the images. The rover uses a special {{< vocab w="camera" ipa="/ˈkæm.ər.ə/" vn="máy ảnh" t="noun" >}} to take clear pictures. NASA says some rocks may contain {{< vocab w="water" ipa="/ˈwɔː.tər/" vn="nước" t="noun" >}} from long ago. The {{< vocab w="mission" ipa="/ˈmɪʃ.ən/" vn="sứ mệnh, nhiệm vụ" t="noun" >}} started two years ago. The rover has {{< vocab w="traveled" ipa="/ˈtræv.əld/" vn="đã di chuyển" t="verb" >}} more than 10 kilometers on Mars. NASA plans to send more rovers in the future.
 
 ## 📚 Từ vựng chính
 

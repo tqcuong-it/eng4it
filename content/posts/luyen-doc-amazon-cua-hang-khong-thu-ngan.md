@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Amazon has opened a new **cashierless** store in New York, and customers do not need to wait in line to pay. The store uses **sensors**, cameras, and AI to **track** what people pick up, so the system charges their account **automatically**.
+Amazon has opened a new {{< vocab w="cashierless" ipa="/kæˈʃɪə.ləs/" vn="không thu ngân" t="adjective" >}} store in New York, and customers do not need to wait in line to pay. The store uses {{< vocab w="sensors" ipa="/ˈsen.sərz/" vn="cảm biến" t="noun" >}}, cameras, and AI to {{< vocab w="track" ipa="/træk/" vn="theo dõi" t="verb" >}} what people pick up, so the system charges their account {{< vocab w="automatically" ipa="/ˌɔː.təˈmæt.ɪ.kəl.i/" vn="tự động" t="adverb" >}}.
 
-The technology is called "Just Walk Out," and it has been **deployed** in over 40 locations. Shoppers scan the Amazon app when they enter, and they simply walk out when they are done. The **receipt** is sent to their phone.
+The technology is called "Just Walk Out," and it has been {{< vocab w="deployed" ipa="/dɪˈplɔɪd/" vn="triển khai" t="verb" >}} in over 40 locations. Shoppers scan the Amazon app when they enter, and they simply walk out when they are done. The {{< vocab w="receipt" ipa="/rɪˈsiːt/" vn="hóa đơn" t="noun" >}} is sent to their phone.
 
-Some people love the **convenience**, but others are worried about **privacy** because cameras record everything inside the store. Amazon has said that the data is only used for **transactions** and is deleted after 30 days. The company plans to **expand** this technology to grocery stores and airports.
+Some people love the {{< vocab w="convenience" ipa="/kənˈviː.ni.əns/" vn="sự tiện lợi" t="noun" >}}, but others are worried about {{< vocab w="privacy" ipa="/ˈprɪv.ə.si/" vn="quyền riêng tư" t="noun" >}} because cameras record everything inside the store. Amazon has said that the data is only used for {{< vocab w="transactions" ipa="/trænˈzæk.ʃənz/" vn="giao dịch" t="noun" >}} and is deleted after 30 days. The company plans to {{< vocab w="expand" ipa="/ɪkˈspænd/" vn="mở rộng" t="verb" >}} this technology to grocery stores and airports.
 
 ## 📚 Từ vựng chính
 

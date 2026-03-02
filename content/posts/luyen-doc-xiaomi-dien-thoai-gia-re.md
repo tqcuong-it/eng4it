@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Xiaomi has launched a new **budget** smartphone called the Redmi Note 12. The phone costs only $199, but it has many good **features**. It has a large 6.67-inch screen and a 50-megapixel **camera**.
+Xiaomi has launched a new {{< vocab w="budget" ipa="/ˈbʌdʒ.ɪt/" vn="giá rẻ, bình dân" t="adjective" >}} smartphone called the Redmi Note 12. The phone costs only $199, but it has many good **features**. It has a large 6.67-inch screen and a 50-megapixel {{< vocab w="camera" ipa="/ˈkæm.rə/" vn="máy ảnh" t="noun" >}}.
 
-The phone has 128 GB of **storage** and 6 GB of RAM. The **battery** is 5,000 mAh, which can last two days on one charge. Xiaomi says this phone is **perfect** for people who do not want to spend a lot of money.
+The phone has 128 GB of {{< vocab w="storage" ipa="/ˈstɔːr.ɪdʒ/" vn="bộ nhớ lưu trữ" t="noun" >}} and 6 GB of RAM. The {{< vocab w="battery" ipa="/ˈbæt.ər.i/" vn="pin" t="noun" >}} is 5,000 mAh, which can last two days on one charge. Xiaomi says this phone is {{< vocab w="perfect" ipa="/ˈpɜːr.fɪkt/" vn="hoàn hảo" t="adjective" >}} for people who do not want to spend a lot of money.
 
-Xiaomi is now the third biggest smartphone **brand** in the world. The company sells phones in over 100 countries. Many people choose Xiaomi because the phones are cheap but good.
+Xiaomi is now the third biggest smartphone {{< vocab w="brand" ipa="/brænd/" vn="thương hiệu" t="noun" >}} in the world. The company sells phones in over 100 countries. Many people choose Xiaomi because the phones are cheap but good.
 
 ## 📚 Từ vựng chính
 

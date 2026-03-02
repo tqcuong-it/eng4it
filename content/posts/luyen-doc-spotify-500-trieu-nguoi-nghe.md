@@ -16,9 +16,9 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Spotify now has over 500 million **listeners** around the world. The music **streaming** service reached this **milestone** last month. This makes Spotify the biggest music app in the world.
+Spotify now has over 500 million **listeners** around the world. The music {{< vocab w="streaming" ipa="/ˈstriː.mɪŋ/" vn="phát trực tuyến" t="noun" >}} service reached this {{< vocab w="milestone" ipa="/ˈmaɪl.stoʊn/" vn="cột mốc quan trọng" t="noun" >}} last month. This makes Spotify the biggest music app in the world.
 
-About 200 million people pay for Spotify **Premium**. The rest use the free version with **ads**. Spotify is available in 180 **countries** and has over 100 million songs.
+About 200 million people pay for Spotify {{< vocab w="Premium" ipa="/ˈpriː.mi.əm/" vn="cao cấp, trả phí" t="adjective" >}}. The rest use the free version with **ads**. Spotify is available in 180 **countries** and has over 100 million songs.
 
 The company says **podcasts** are also very popular on the platform. More and more people listen to podcasts every day. Spotify plans to add new features for podcast creators this year.
 

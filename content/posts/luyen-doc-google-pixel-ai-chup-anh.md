@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Google has **launched** the new Pixel phone with advanced AI **photography** features, and it has changed the way people take photos. The phone can **remove** unwanted objects from pictures, so users do not need editing software.
+Google has {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} the new Pixel phone with advanced AI {{< vocab w="photography" ipa="/fəˈtɒɡ.rə.fi/" vn="nhiếp ảnh" t="noun" >}} features, and it has changed the way people take photos. The phone can {{< vocab w="remove" ipa="/rɪˈmuːv/" vn="xóa, loại bỏ" t="verb" >}} unwanted objects from pictures, so users do not need editing software.
 
-A new feature called "Magic Eraser" has been **upgraded**, and it can now remove people, shadows, and text from photos **automatically**. Google has also added "Best Take," which **combines** multiple shots to create the perfect group photo. The AI selects the best **expression** for each person.
+A new feature called "Magic Eraser" has been {{< vocab w="upgraded" ipa="/ʌpˈɡreɪ.dɪd/" vn="nâng cấp" t="verb" >}}, and it can now remove people, shadows, and text from photos {{< vocab w="automatically" ipa="/ˌɔː.təˈmæt.ɪ.kəl.i/" vn="tự động" t="adverb" >}}. Google has also added "Best Take," which {{< vocab w="combines" ipa="/kəmˈbaɪnz/" vn="kết hợp" t="verb" >}} multiple shots to create the perfect group photo. The AI selects the best {{< vocab w="expression" ipa="/ɪkˈspreʃ.ən/" vn="biểu cảm" t="noun" >}} for each person.
 
-The Pixel uses Google's custom **Tensor** chip, and it has been **optimized** for AI tasks. The camera hardware is not the best on the market, but the **software** makes photos look **stunning**. Reviewers say the Pixel takes the best photos in its price range because of its AI processing.
+The Pixel uses Google's custom {{< vocab w="Tensor" ipa="/ˈten.sər/" vn="Tensor (chip của Google)" t="noun" >}} chip, and it has been **optimized** for AI tasks. The camera hardware is not the best on the market, but the {{< vocab w="software" ipa="/ˈsɒft.weər/" vn="phần mềm" t="noun" >}} makes photos look {{< vocab w="stunning" ipa="/ˈstʌn.ɪŋ/" vn="tuyệt đẹp" t="adjective" >}}. Reviewers say the Pixel takes the best photos in its price range because of its AI processing.
 
 ## 📚 Từ vựng chính
 

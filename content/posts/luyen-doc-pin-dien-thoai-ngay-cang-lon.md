@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Phone **batteries** are getting bigger every year. Five years ago, most phones had 3,000 mAh batteries. Now, many phones have 5,000 mAh or more. Bigger batteries mean phones can last longer. Some new phones can last two full days on one **charge**. **Fast charging** is also getting better. Some phones can charge from zero to 100% in just 30 minutes. Experts say battery **technology** will keep **improving** in the future.
+Phone {{< vocab w="batteries" ipa="/ˈbæt̬.ər.iz/" vn="pin" t="noun" >}} are getting bigger every year. Five years ago, most phones had 3,000 mAh batteries. Now, many phones have 5,000 mAh or more. Bigger batteries mean phones can last longer. Some new phones can last two full days on one {{< vocab w="charge" ipa="/tʃɑːrdʒ/" vn="lần sạc" t="noun" >}}. {{< vocab w="Fast charging" ipa="/fæst ˈtʃɑːr.dʒɪŋ/" vn="sạc nhanh" t="noun" >}} is also getting better. Some phones can charge from zero to 100% in just 30 minutes. Experts say battery {{< vocab w="technology" ipa="/tekˈnɑː.lə.dʒi/" vn="công nghệ" t="noun" >}} will keep {{< vocab w="improving" ipa="/ɪmˈpruː.vɪŋ/" vn="cải thiện" t="verb" >}} in the future.
 
 ## 📚 Từ vựng chính
 

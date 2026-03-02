@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-**Deepfake** technology has become a growing **threat** on the internet. Deepfakes are fake videos or images that have been **created** using **artificial intelligence**. The AI can copy a person's face and voice, and it can make them say or do things they never actually did.
+{{< vocab w="Deepfake" ipa="/ˈdiːp.feɪk/" vn="video/ảnh giả tạo bằng AI" t="noun" >}} technology has become a growing {{< vocab w="threat" ipa="/θret/" vn="mối đe dọa" t="noun" >}} on the internet. Deepfakes are fake videos or images that have been {{< vocab w="created" ipa="/kriˈeɪ.tɪd/" vn="tạo ra" t="verb" >}} using {{< vocab w="artificial intelligence" ipa="/ˌɑː.tɪˈfɪʃ.əl ɪnˈtel.ɪ.dʒəns/" vn="trí tuệ nhân tạo" t="noun" >}}. The AI can copy a person's face and voice, and it can make them say or do things they never actually did.
 
-Recently, several deepfake videos of famous **politicians** and **celebrities** have been **shared** on social media. Some of these videos have been viewed millions of times before they were **detected** as fake. Experts say the technology has been **improved** so much that it is now very hard to tell what is real and what is not.
+Recently, several deepfake videos of famous {{< vocab w="politicians" ipa="/ˌpɒl.ɪˈtɪʃ.ənz/" vn="chính trị gia" t="noun" >}} and {{< vocab w="celebrities" ipa="/sɪˈleb.rɪ.tiz/" vn="người nổi tiếng" t="noun" >}} have been **shared** on social media. Some of these videos have been viewed millions of times before they were {{< vocab w="detected" ipa="/dɪˈtek.tɪd/" vn="phát hiện" t="verb" >}} as fake. Experts say the technology has been **improved** so much that it is now very hard to tell what is real and what is not.
 
-Governments around the world have been working on new laws to fight deepfakes. Tech companies have also **developed** AI tools that can **detect** fake content. However, the technology is advancing fast, and many people are still **vulnerable** to misinformation.
+Governments around the world have been working on new laws to fight deepfakes. Tech companies have also {{< vocab w="developed" ipa="/dɪˈvel.əpt/" vn="phát triển" t="verb" >}} AI tools that can {{< vocab w="detect" ipa="/dɪˈtekt/" vn="phát hiện" t="verb" >}} fake content. However, the technology is advancing fast, and many people are still {{< vocab w="vulnerable" ipa="/ˈvʌl.nər.ə.bəl/" vn="dễ bị tổn thương" t="adjective" >}} to misinformation.
 
 ## 📚 Từ vựng chính
 

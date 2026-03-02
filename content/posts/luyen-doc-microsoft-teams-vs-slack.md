@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Microsoft Teams and Slack are two popular **workplace** tools. Both apps let teams send **messages** and share files. Teams has more than 300 million users. Slack is popular with **startups** and small companies. Teams works well with other Microsoft products like Word and Excel. Slack has many **integrations** with third-party apps. Some people think Teams is better for big companies. Others prefer Slack because it is **simple** and easy to use.
+Microsoft Teams and Slack are two popular {{< vocab w="workplace" ipa="/ˈwɜːrk.pleɪs/" vn="nơi làm việc" t="noun" >}} tools. Both apps let teams send {{< vocab w="messages" ipa="/ˈmes.ɪ.dʒɪz/" vn="tin nhắn" t="noun" >}} and share files. Teams has more than 300 million users. Slack is popular with {{< vocab w="startups" ipa="/ˈstɑːrt.ʌps/" vn="công ty khởi nghiệp" t="noun" >}} and small companies. Teams works well with other Microsoft products like Word and Excel. Slack has many {{< vocab w="integrations" ipa="/ˌɪn.t̬əˈɡreɪ.ʃənz/" vn="tích hợp" t="noun" >}} with third-party apps. Some people think Teams is better for big companies. Others prefer Slack because it is {{< vocab w="simple" ipa="/ˈsɪm.pəl/" vn="đơn giản" t="adjective" >}} and easy to use.
 
 ## 📚 Từ vựng chính
 

@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Zoom has added a new **AI assistant** to its video call app. The assistant can **summarize** meetings automatically. It also writes meeting **notes** for you. Users do not need to take notes by hand anymore. The AI can also suggest **action items** after a call. Zoom says this **tool** will save time for workers. The feature is free for all **paid** users. Many companies are excited to try it.
+Zoom has added a new {{< vocab w="AI assistant" ipa="/ˌeɪˈaɪ əˈsɪs.tənt/" vn="trợ lý AI" t="noun" >}} to its video call app. The assistant can {{< vocab w="summarize" ipa="/ˈsʌm.ər.aɪz/" vn="tóm tắt" t="verb" >}} meetings automatically. It also writes meeting {{< vocab w="notes" ipa="/noʊts/" vn="ghi chú" t="noun" >}} for you. Users do not need to take notes by hand anymore. The AI can also suggest {{< vocab w="action items" ipa="/ˈæk.ʃən ˈaɪ.təmz/" vn="hạng mục cần làm" t="noun" >}} after a call. Zoom says this {{< vocab w="tool" ipa="/tuːl/" vn="công cụ" t="noun" >}} will save time for workers. The feature is free for all {{< vocab w="paid" ipa="/peɪd/" vn="trả phí" t="adjective" >}} users. Many companies are excited to try it.
 
 ## 📚 Từ vựng chính
 

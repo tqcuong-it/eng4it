@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Python has become the most popular **programming language** in 2024, and it has **overtaken** JavaScript for the first time. The **ranking** is based on a survey of 90,000 **developers** from around the world.
+Python has become the most popular {{< vocab w="programming language" ipa="/ˈprəʊ.ɡræm.ɪŋ ˈlæŋ.ɡwɪdʒ/" vn="ngôn ngữ lập trình" t="noun" >}} in 2024, and it has {{< vocab w="overtaken" ipa="/ˌəʊ.vəˈteɪ.kən/" vn="vượt qua" t="verb" >}} JavaScript for the first time. The {{< vocab w="ranking" ipa="/ˈræŋ.kɪŋ/" vn="bảng xếp hạng" t="noun" >}} is based on a survey of 90,000 {{< vocab w="developers" ipa="/dɪˈvel.ə.pərz/" vn="lập trình viên" t="noun" >}} from around the world.
 
-Python is popular because it is easy to learn, and it is used in AI and **data science**. JavaScript is still the most used language for **web development**, but Python has grown faster. TypeScript has also **risen** to the top five because many companies have **adopted** it.
+Python is popular because it is easy to learn, and it is used in AI and {{< vocab w="data science" ipa="/ˈdeɪ.tə ˈsaɪ.əns/" vn="khoa học dữ liệu" t="noun" >}}. JavaScript is still the most used language for {{< vocab w="web development" ipa="/web dɪˈvel.əp.mənt/" vn="phát triển web" t="noun" >}}, but Python has grown faster. TypeScript has also {{< vocab w="risen" ipa="/ˈrɪz.ən/" vn="tăng lên" t="verb" >}} to the top five because many companies have {{< vocab w="adopted" ipa="/əˈdɒp.tɪd/" vn="áp dụng" t="verb" >}} it.
 
-Rust has been named the "most loved" language for the eighth year, so more developers want to learn it. Go and Kotlin have also **gained** popularity because they are fast and **efficient**. The report shows that the demand for AI skills has **increased** by 50% compared to last year.
+Rust has been named the "most loved" language for the eighth year, so more developers want to learn it. Go and Kotlin have also {{< vocab w="gained" ipa="/ɡeɪnd/" vn="đạt được" t="verb" >}} popularity because they are fast and {{< vocab w="efficient" ipa="/ɪˈfɪʃ.ənt/" vn="hiệu quả" t="adjective" >}}. The report shows that the demand for AI skills has **increased** by 50% compared to last year.
 
 ## 📚 Từ vựng chính
 

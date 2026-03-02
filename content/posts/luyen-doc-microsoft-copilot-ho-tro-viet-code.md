@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Microsoft has **launched** a new AI tool called **Copilot** that helps **developers** write code faster. The tool has been **integrated** into Visual Studio Code, one of the most popular code **editors** in the world. Copilot uses a large **language model** to suggest code as you type.
+Microsoft has **launched** a new AI tool called {{< vocab w="Copilot" ipa="/ˈkoʊ.paɪ.lət/" vn="trợ lý lái phụ (tên sản phẩm)" t="noun" >}} that helps {{< vocab w="developers" ipa="/dɪˈvel.ə.pərz/" vn="lập trình viên" t="noun" >}} write code faster. The tool has been {{< vocab w="integrated" ipa="/ˈɪn.tɪ.ɡreɪ.tɪd/" vn="tích hợp" t="verb" >}} into Visual Studio Code, one of the most popular code {{< vocab w="editors" ipa="/ˈed.ɪ.tərz/" vn="trình soạn thảo" t="noun" >}} in the world. Copilot uses a large {{< vocab w="language model" ipa="/ˈlæŋ.ɡwɪdʒ ˈmɒd.əl/" vn="mô hình ngôn ngữ" t="noun" >}} to suggest code as you type.
 
-Since its release, Copilot has been used by over 1 million developers. Many users have said that it has **reduced** their coding time by up to 40%. The AI can write **functions**, fix bugs, and even explain code in plain English. It supports many **programming languages** including Python, JavaScript, and Java.
+Since its release, Copilot has been used by over 1 million developers. Many users have said that it has {{< vocab w="reduced" ipa="/rɪˈdjuːst/" vn="giảm" t="verb" >}} their coding time by up to 40%. The AI can write {{< vocab w="functions" ipa="/ˈfʌŋk.ʃənz/" vn="hàm (lập trình)" t="noun" >}}, fix bugs, and even explain code in plain English. It supports many {{< vocab w="programming languages" ipa="/ˈproʊ.ɡræm.ɪŋ ˈlæŋ.ɡwɪdʒ.ɪz/" vn="ngôn ngữ lập trình" t="noun" >}} including Python, JavaScript, and Java.
 
-However, some developers have been **concerned** about code quality. Copilot sometimes suggests code that has errors or security problems. Microsoft has **acknowledged** this issue and has been working on improvements. The tool costs $10 per month for individual users, and a free version is available for students.
+However, some developers have been {{< vocab w="concerned" ipa="/kənˈsɜːnd/" vn="lo ngại" t="adjective" >}} about code quality. Copilot sometimes suggests code that has errors or security problems. Microsoft has {{< vocab w="acknowledged" ipa="/əkˈnɒl.ɪdʒd/" vn="thừa nhận" t="verb" >}} this issue and has been working on improvements. The tool costs $10 per month for individual users, and a free version is available for students.
 
 ## 📚 Từ vựng chính
 

@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Elon Musk **bought** Twitter for $44 **billion**. Musk is the CEO of Tesla and SpaceX. He is one of the richest people in the world. After buying Twitter, Musk made many **changes**. He **reduced** the number of **employees** from 7,500 to about 2,000. He also changed the name of the company to X. Many users are not happy with the changes. Some people moved to other **platforms** like Mastodon. Musk says he wants to make Twitter a better **platform** for free speech.
+Elon Musk {{< vocab w="bought" ipa="/bɔːt/" vn="đã mua" t="verb" >}} Twitter for $44 {{< vocab w="billion" ipa="/ˈbɪl.jən/" vn="tỷ" t="noun" >}}. Musk is the CEO of Tesla and SpaceX. He is one of the richest people in the world. After buying Twitter, Musk made many {{< vocab w="changes" ipa="/ˈtʃeɪn.dʒɪz/" vn="thay đổi" t="noun" >}}. He {{< vocab w="reduced" ipa="/rɪˈdjuːst/" vn="giảm" t="verb" >}} the number of {{< vocab w="employees" ipa="/ɪmˈplɔɪ.iːz/" vn="nhân viên" t="noun" >}} from 7,500 to about 2,000. He also changed the name of the company to X. Many users are not happy with the changes. Some people moved to other {{< vocab w="platforms" ipa="/ˈplæt.fɔːrmz/" vn="nền tảng" t="noun" >}} like Mastodon. Musk says he wants to make Twitter a better {{< vocab w="platform" ipa="/ˈplæt.fɔːrm/" vn="nền tảng" t="noun" >}} for free speech.
 
 ## 📚 Từ vựng chính
 

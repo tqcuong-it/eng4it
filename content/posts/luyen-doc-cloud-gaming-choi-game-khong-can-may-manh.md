@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-**Cloud gaming** has become one of the fastest-growing trends in the gaming industry. With this technology, games are **processed** on powerful **servers** in the cloud, and the video is **streamed** to the player's device. This means you do not need an expensive computer or **console** to play high-quality games.
+{{< vocab w="Cloud gaming" ipa="/klaʊd ˈɡeɪ.mɪŋ/" vn="chơi game đám mây" t="noun" >}} has become one of the fastest-growing trends in the gaming industry. With this technology, games are {{< vocab w="processed" ipa="/ˈprɒs.est/" vn="xử lý" t="verb" >}} on powerful {{< vocab w="servers" ipa="/ˈsɜː.vərz/" vn="máy chủ" t="noun" >}} in the cloud, and the video is {{< vocab w="streamed" ipa="/striːmd/" vn="truyền phát" t="verb" >}} to the player's device. This means you do not need an expensive computer or {{< vocab w="console" ipa="/ˈkɒn.soʊl/" vn="máy chơi game" t="noun" >}} to play high-quality games.
 
-Several big companies have **launched** cloud gaming services. Microsoft's Xbox Cloud Gaming and NVIDIA GeForce Now are two popular options. Users only need a good **internet connection** and a **compatible** device such as a phone, tablet, or laptop.
+Several big companies have {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} cloud gaming services. Microsoft's Xbox Cloud Gaming and NVIDIA GeForce Now are two popular options. Users only need a good {{< vocab w="internet connection" ipa="/ˈɪn.tə.net kəˈnek.ʃən/" vn="kết nối internet" t="noun" >}} and a {{< vocab w="compatible" ipa="/kəmˈpæt.ə.bəl/" vn="tương thích" t="adjective" >}} device such as a phone, tablet, or laptop.
 
-However, some problems have been **reported** by players. **Latency** — the delay between pressing a button and seeing the action — is still an issue. Game studios have been working hard to reduce this delay, and the technology has been **improved** significantly over the past year.
+However, some problems have been {{< vocab w="reported" ipa="/rɪˈpɔː.tɪd/" vn="báo cáo" t="verb" >}} by players. {{< vocab w="Latency" ipa="/ˈleɪ.tən.si/" vn="độ trễ" t="noun" >}} — the delay between pressing a button and seeing the action — is still an issue. Game studios have been working hard to reduce this delay, and the technology has been **improved** significantly over the past year.
 
 ## 📚 Từ vựng chính
 

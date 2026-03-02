@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Google has added new **features** to Google Maps. The app now uses AI to show better **routes** for drivers. It can also show you how much gas or **electricity** your trip will use.
+Google has added new **features** to Google Maps. The app now uses AI to show better **routes** for drivers. It can also show you how much gas or {{< vocab w="electricity" ipa="/ɪˌlek.trɪˈsɪs.ə.ti/" vn="điện" t="noun" >}} your trip will use.
 
-The new **update** includes a better search for restaurants and shops nearby. Users can see photos and **reviews** before visiting a place. Google Maps now works in over 220 countries.
+The new {{< vocab w="update" ipa="/ˈʌp.deɪt/" vn="bản cập nhật" t="noun" >}} includes a better search for restaurants and shops nearby. Users can see photos and **reviews** before visiting a place. Google Maps now works in over 220 countries.
 
-Google says the app helps people save time and **money** every day. The new features are free and will **appear** on all phones soon. Over 1 billion people use Google Maps every month.
+Google says the app helps people save time and {{< vocab w="money" ipa="/ˈmʌn.i/" vn="tiền" t="noun" >}} every day. The new features are free and will {{< vocab w="appear" ipa="/əˈpɪr/" vn="xuất hiện" t="verb" >}} on all phones soon. Over 1 billion people use Google Maps every month.
 
 ## 📚 Từ vựng chính
 

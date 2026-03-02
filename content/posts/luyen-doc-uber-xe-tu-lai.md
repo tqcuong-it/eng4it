@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Uber has **announced** a new partnership with an **autonomous** vehicle company to bring self-driving cars to its **ride-hailing** service. The **vehicles** have been **equipped** with cameras, radar, and AI systems that can drive without a human **operator**.
+Uber has {{< vocab w="announced" ipa="/əˈnaʊnst/" vn="công bố" t="verb" >}} a new partnership with an {{< vocab w="autonomous" ipa="/ɔːˈtɒn.ə.məs/" vn="tự hành" t="adjective" >}} vehicle company to bring self-driving cars to its **ride-hailing** service. The {{< vocab w="vehicles" ipa="/ˈviː.ɪ.kəlz/" vn="phương tiện" t="noun" >}} have been {{< vocab w="equipped" ipa="/ɪˈkwɪpt/" vn="được trang bị" t="verb" >}} with cameras, radar, and AI systems that can drive without a human {{< vocab w="operator" ipa="/ˈɒp.ər.eɪ.tər/" vn="người vận hành" t="noun" >}}.
 
-The program has been **launched** in two US cities — Phoenix and Los Angeles. Passengers can now **request** a self-driving Uber through the app, and a safety driver will sit in the front seat during the **trial** period. Uber says over 10,000 trips have been **completed** without any major accidents.
+The program has been {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} in two US cities — Phoenix and Los Angeles. Passengers can now {{< vocab w="request" ipa="/rɪˈkwest/" vn="yêu cầu" t="verb" >}} a self-driving Uber through the app, and a safety driver will sit in the front seat during the {{< vocab w="trial" ipa="/ˈtraɪ.əl/" vn="thử nghiệm" t="noun" >}} period. Uber says over 10,000 trips have been **completed** without any major accidents.
 
-Some people are excited about this technology because it could make rides cheaper and safer. However, others are **concerned** about job losses for drivers. Uber has said that human drivers will still be needed for many years, and the company has promised to help drivers **transition** to new roles.
+Some people are excited about this technology because it could make rides cheaper and safer. However, others are {{< vocab w="concerned" ipa="/kənˈsɜːnd/" vn="lo ngại" t="adjective" >}} about job losses for drivers. Uber has said that human drivers will still be needed for many years, and the company has promised to help drivers **transition** to new roles.
 
 ## 📚 Từ vựng chính
 

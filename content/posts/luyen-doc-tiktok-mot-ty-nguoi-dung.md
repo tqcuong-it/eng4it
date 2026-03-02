@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-TikTok now has one **billion** **users** around the world. The short **video** app is very **popular** with young people. Most users are between 16 and 30 years old. People use TikTok to share funny videos, dance, and learn new things. The app is **available** in over 150 countries. TikTok says users spend about 90 minutes per day on the app. It is now one of the biggest **social media** **platforms** in the world.
+TikTok now has one {{< vocab w="billion" ipa="/ˈbɪl.jən/" vn="tỷ" t="noun" >}} {{< vocab w="users" ipa="/ˈjuː.zərz/" vn="người dùng" t="noun" >}} around the world. The short {{< vocab w="video" ipa="/ˈvɪd.i.oʊ/" vn="video" t="noun" >}} app is very {{< vocab w="popular" ipa="/ˈpɒp.jə.lər/" vn="phổ biến" t="adjective" >}} with young people. Most users are between 16 and 30 years old. People use TikTok to share funny videos, dance, and learn new things. The app is {{< vocab w="available" ipa="/əˈveɪ.lə.bəl/" vn="có sẵn" t="adjective" >}} in over 150 countries. TikTok says users spend about 90 minutes per day on the app. It is now one of the biggest {{< vocab w="social media" ipa="/ˈsoʊ.ʃəl ˈmiː.di.ə/" vn="mạng xã hội" t="noun" >}} {{< vocab w="platforms" ipa="/ˈplæt.fɔːrmz/" vn="nền tảng" t="noun" >}} in the world.
 
 ## 📚 Từ vựng chính
 

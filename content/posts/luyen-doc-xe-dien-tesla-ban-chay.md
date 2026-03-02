@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Tesla **sold** over 1.3 million **electric** cars last year. This makes Tesla the top **electric vehicle** (EV) company in the world. The Model Y was the best-selling EV. Tesla cars use **batteries** instead of gas. You can **charge** a Tesla at home or at a **charging** station. A full charge takes about 30 minutes at a fast station. Tesla also plans to build cheaper cars in the future. Many countries want more people to drive electric cars to help the **environment**.
+Tesla {{< vocab w="sold" ipa="/soʊld/" vn="đã bán" t="verb" >}} over 1.3 million {{< vocab w="electric" ipa="/ɪˈlek.trɪk/" vn="điện" t="adjective" >}} cars last year. This makes Tesla the top {{< vocab w="electric vehicle" ipa="/ɪˈlek.trɪk ˈviː.ɪ.kəl/" vn="xe điện" t="noun" >}} (EV) company in the world. The Model Y was the best-selling EV. Tesla cars use {{< vocab w="batteries" ipa="/ˈbæt.ər.iz/" vn="pin" t="noun" >}} instead of gas. You can {{< vocab w="charge" ipa="/tʃɑːrdʒ/" vn="sạc" t="verb" >}} a Tesla at home or at a {{< vocab w="charging" ipa="/ˈtʃɑːr.dʒɪŋ/" vn="sạc (đang)" t="noun" >}} station. A full charge takes about 30 minutes at a fast station. Tesla also plans to build cheaper cars in the future. Many countries want more people to drive electric cars to help the {{< vocab w="environment" ipa="/ɪnˈvaɪ.rən.mənt/" vn="môi trường" t="noun" >}}.
 
 ## 📚 Từ vựng chính
 

@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-5G **networks** have now reached over 100 countries, and more than two billion people have **access** to 5G. The technology offers much faster speeds, so downloading a movie takes only a few seconds.
+5G {{< vocab w="networks" ipa="/ˈnet.wɜːks/" vn="mạng lưới" t="noun" >}} have now reached over 100 countries, and more than two billion people have **access** to 5G. The technology offers much faster speeds, so downloading a movie takes only a few seconds.
 
-Telecom companies have **invested** billions of dollars to build new **towers** and **infrastructure**. 5G has been **adopted** quickly in Asia, but some rural areas in Europe and Africa still do not have **coverage**. The speed of 5G is up to 100 times faster than 4G, and the **latency** is very low.
+Telecom companies have {{< vocab w="invested" ipa="/ɪnˈves.tɪd/" vn="đầu tư" t="verb" >}} billions of dollars to build new {{< vocab w="towers" ipa="/ˈtaʊ.ərz/" vn="tháp (phát sóng)" t="noun" >}} and {{< vocab w="infrastructure" ipa="/ˈɪn.frə.strʌk.tʃər/" vn="cơ sở hạ tầng" t="noun" >}}. 5G has been **adopted** quickly in Asia, but some rural areas in Europe and Africa still do not have {{< vocab w="coverage" ipa="/ˈkʌv.ər.ɪdʒ/" vn="vùng phủ sóng" t="noun" >}}. The speed of 5G is up to 100 times faster than 4G, and the {{< vocab w="latency" ipa="/ˈleɪ.tən.si/" vn="độ trễ" t="noun" >}} is very low.
 
-5G has also **enabled** new technologies like self-driving cars and **remote** surgery because it can handle real-time data. Smart factories have used 5G to connect thousands of **devices**, so production has become more efficient. Experts say 5G will **transform** many industries in the next five years.
+5G has also {{< vocab w="enabled" ipa="/ɪˈneɪ.bəld/" vn="cho phép, kích hoạt" t="verb" >}} new technologies like self-driving cars and {{< vocab w="remote" ipa="/rɪˈməʊt/" vn="từ xa" t="adjective" >}} surgery because it can handle real-time data. Smart factories have used 5G to connect thousands of **devices**, so production has become more efficient. Experts say 5G will {{< vocab w="transform" ipa="/trænsˈfɔːm/" vn="thay đổi hoàn toàn" t="verb" >}} many industries in the next five years.
 
 ## 📚 Từ vựng chính
 

@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-OpenAI has **released** GPT-5, and it is much smarter than the previous version. The new **model** can understand complex questions, so many companies want to use it. GPT-5 has been **trained** on more data, and it can write code, translate languages, and create images.
+OpenAI has {{< vocab w="released" ipa="/rɪˈliːst/" vn="phát hành" t="verb" >}} GPT-5, and it is much smarter than the previous version. The new {{< vocab w="model" ipa="/ˈmɒd.əl/" vn="mô hình" t="noun" >}} can understand complex questions, so many companies want to use it. GPT-5 has been {{< vocab w="trained" ipa="/treɪnd/" vn="huấn luyện" t="verb" >}} on more data, and it can write code, translate languages, and create images.
 
-The AI industry has **evolved** quickly because of models like GPT-5. Many jobs have been **automated**, but new jobs have also been created. Some **researchers** are worried about safety, so OpenAI has added new **restrictions** to the system.
+The AI industry has {{< vocab w="evolved" ipa="/ɪˈvɒlvd/" vn="tiến hóa, phát triển" t="verb" >}} quickly because of models like GPT-5. Many jobs have been {{< vocab w="automated" ipa="/ˈɔː.tə.meɪ.tɪd/" vn="tự động hóa" t="verb" >}}, but new jobs have also been created. Some {{< vocab w="researchers" ipa="/rɪˈsɜː.tʃərz/" vn="nhà nghiên cứu" t="noun" >}} are worried about safety, so OpenAI has added new {{< vocab w="restrictions" ipa="/rɪˈstrɪk.ʃənz/" vn="hạn chế" t="noun" >}} to the system.
 
-GPT-5 is **available** through an API, and developers can **integrate** it into their apps. The **subscription** costs $30 per month for individual users. OpenAI says this is the most **capable** AI model ever built.
+GPT-5 is **available** through an API, and developers can {{< vocab w="integrate" ipa="/ˈɪn.tɪ.ɡreɪt/" vn="tích hợp" t="verb" >}} it into their apps. The {{< vocab w="subscription" ipa="/səbˈskrɪp.ʃən/" vn="gói đăng ký" t="noun" >}} costs $30 per month for individual users. OpenAI says this is the most {{< vocab w="capable" ipa="/ˈkeɪ.pə.bəl/" vn="có năng lực" t="adjective" >}} AI model ever built.
 
 ## 📚 Từ vựng chính
 

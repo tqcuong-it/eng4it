@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-A Japanese company is testing **delivery** **robots** on the streets of Tokyo. The small robots can carry food and packages to people's homes. They use **sensors** and **cameras** to avoid cars and people. The robots move slowly, about 5 km per hour. Each robot can carry up to 10 kg. The company plans to **launch** the **service** in five more cities next year. Many people think delivery robots will be very **common** in the future.
+A Japanese company is testing {{< vocab w="delivery" ipa="/dɪˈlɪv.ər.i/" vn="giao hàng" t="noun" >}} {{< vocab w="robots" ipa="/ˈroʊ.bɒts/" vn="robot" t="noun" >}} on the streets of Tokyo. The small robots can carry food and packages to people's homes. They use {{< vocab w="sensors" ipa="/ˈsen.sərz/" vn="cảm biến" t="noun" >}} and {{< vocab w="cameras" ipa="/ˈkæm.ər.əz/" vn="camera" t="noun" >}} to avoid cars and people. The robots move slowly, about 5 km per hour. Each robot can carry up to 10 kg. The company plans to {{< vocab w="launch" ipa="/lɔːntʃ/" vn="ra mắt" t="verb" >}} the {{< vocab w="service" ipa="/ˈsɜːr.vɪs/" vn="dịch vụ" t="noun" >}} in five more cities next year. Many people think delivery robots will be very {{< vocab w="common" ipa="/ˈkɒm.ən/" vn="phổ biến" t="adjective" >}} in the future.
 
 ## 📚 Từ vựng chính
 

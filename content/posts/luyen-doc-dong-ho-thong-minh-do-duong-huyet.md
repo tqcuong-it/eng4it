@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-A new **smartwatch** that can **monitor** blood sugar levels has been **developed** by a Korean tech company. The **device** uses a small **sensor** on the back of the watch, and it does not need to break the skin. This technology is called **non-invasive** glucose monitoring.
+A new {{< vocab w="smartwatch" ipa="/ˈsmɑːrt.wɒtʃ/" vn="đồng hồ thông minh" t="noun" >}} that can {{< vocab w="monitor" ipa="/ˈmɒn.ɪ.tər/" vn="theo dõi" t="verb" >}} blood sugar levels has been {{< vocab w="developed" ipa="/dɪˈvel.əpt/" vn="phát triển" t="verb" >}} by a Korean tech company. The {{< vocab w="device" ipa="/dɪˈvaɪs/" vn="thiết bị" t="noun" >}} uses a small {{< vocab w="sensor" ipa="/ˈsen.sər/" vn="cảm biến" t="noun" >}} on the back of the watch, and it does not need to break the skin. This technology is called **non-invasive** glucose monitoring.
 
-The watch has been **tested** on over 1,000 people, and the results have been very **accurate**. Doctors say this could help millions of people with **diabetes** check their blood sugar easily. The device can also track heart rate, sleep, and steps.
+The watch has been {{< vocab w="tested" ipa="/ˈtes.tɪd/" vn="được thử nghiệm" t="verb" >}} on over 1,000 people, and the results have been very {{< vocab w="accurate" ipa="/ˈæk.jə.rət/" vn="chính xác" t="adjective" >}}. Doctors say this could help millions of people with {{< vocab w="diabetes" ipa="/ˌdaɪ.əˈbiː.tiːz/" vn="bệnh tiểu đường" t="noun" >}} check their blood sugar easily. The device can also track heart rate, sleep, and steps.
 
-The company has announced that the smartwatch will be **available** in stores by the end of this year. It is expected to cost around $300. Health experts have praised the product because it makes monitoring much simpler for patients.
+The company has announced that the smartwatch will be {{< vocab w="available" ipa="/əˈveɪ.lə.bəl/" vn="có sẵn, sẵn có" t="adjective" >}} in stores by the end of this year. It is expected to cost around $300. Health experts have praised the product because it makes monitoring much simpler for patients.
 
 ## 📚 Từ vựng chính
 

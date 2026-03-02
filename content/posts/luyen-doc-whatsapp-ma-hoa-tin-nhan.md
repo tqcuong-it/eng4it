@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-WhatsApp has made its messages more **secure**. The app now uses stronger **encryption** for all chats. This means only you and the person you talk to can read the messages. No one else can see them, not even WhatsApp. The company says **privacy** is very important. The **update** also protects photos and videos. Users do not need to do anything — the encryption works **automatically**. Over two billion people use WhatsApp every day.
+WhatsApp has made its messages more {{< vocab w="secure" ipa="/sɪˈkjʊr/" vn="an toàn, bảo mật" t="adjective" >}}. The app now uses stronger {{< vocab w="encryption" ipa="/ɪnˈkrɪp.ʃən/" vn="mã hóa" t="noun" >}} for all chats. This means only you and the person you talk to can read the messages. No one else can see them, not even WhatsApp. The company says {{< vocab w="privacy" ipa="/ˈprɪv.ə.si/" vn="quyền riêng tư" t="noun" >}} is very important. The {{< vocab w="update" ipa="/ˈʌp.deɪt/" vn="bản cập nhật" t="noun" >}} also protects photos and videos. Users do not need to do anything — the encryption works {{< vocab w="automatically" ipa="/ˌɔː.t̬əˈmæt̬.ɪ.kəl.i/" vn="tự động" t="adverb" >}}. Over two billion people use WhatsApp every day.
 
 ## 📚 Từ vựng chính
 

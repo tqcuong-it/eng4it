@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Apple has **unveiled** the Vision Pro, and it is the company's first **mixed reality** headset. The device combines **augmented reality** and **virtual reality**, so users can see both digital content and the real world.
+Apple has {{< vocab w="unveiled" ipa="/ˌʌnˈveɪld/" vn="ra mắt, công bố" t="verb" >}} the Vision Pro, and it is the company's first {{< vocab w="mixed reality" ipa="/mɪkst riˈæl.ə.ti/" vn="thực tế hỗn hợp" t="noun" >}} headset. The device combines {{< vocab w="augmented reality" ipa="/ɔːɡˈmen.tɪd riˈæl.ə.ti/" vn="thực tế tăng cường" t="noun" >}} and {{< vocab w="virtual reality" ipa="/ˈvɜː.tʃu.əl riˈæl.ə.ti/" vn="thực tế ảo" t="noun" >}}, so users can see both digital content and the real world.
 
-The Vision Pro has been designed with a special chip called M2, and it can run apps, play games, and show movies in 3D. Users control the device with their eyes, hands, and voice, so no **controller** is needed.
+The Vision Pro has been designed with a special chip called M2, and it can run apps, play games, and show movies in 3D. Users control the device with their eyes, hands, and voice, so no {{< vocab w="controller" ipa="/kənˈtrəʊ.lər/" vn="tay cầm điều khiển" t="noun" >}} is needed.
 
-The headset has received **mixed reviews** because it is very expensive. The price starts at $3,499, but Apple believes the technology will become cheaper over time. Some **developers** have already created apps for the device, and Apple has **partnered** with Disney to offer **exclusive** content.
+The headset has received {{< vocab w="mixed reviews" ipa="/mɪkst rɪˈvjuːz/" vn="đánh giá trái chiều" t="noun" >}} because it is very expensive. The price starts at $3,499, but Apple believes the technology will become cheaper over time. Some {{< vocab w="developers" ipa="/dɪˈvel.ə.pərz/" vn="nhà phát triển" t="noun" >}} have already created apps for the device, and Apple has {{< vocab w="partnered" ipa="/ˈpɑːt.nərd/" vn="hợp tác" t="verb" >}} with Disney to offer {{< vocab w="exclusive" ipa="/ɪkˈskluː.sɪv/" vn="độc quyền" t="adjective" >}} content.
 
 ## 📚 Từ vựng chính
 

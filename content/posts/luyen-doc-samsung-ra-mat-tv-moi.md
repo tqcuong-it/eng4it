@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Samsung **announced** a new smart TV at the CES tech show. The TV has a 98-inch **display** with very high **resolution**. It uses new technology to make colors brighter and more real. The TV also has a built-in **speaker** system for better sound. Users can control the TV with their **voice**. Samsung says the TV will cost about $5,000. It will go on **sale** in April. Samsung is the world's biggest TV **manufacturer**.
+Samsung {{< vocab w="announced" ipa="/əˈnaʊnst/" vn="công bố" t="verb" >}} a new smart TV at the CES tech show. The TV has a 98-inch {{< vocab w="display" ipa="/dɪˈspleɪ/" vn="màn hình" t="noun" >}} with very high {{< vocab w="resolution" ipa="/ˌrez.əˈluː.ʃən/" vn="độ phân giải" t="noun" >}}. It uses new technology to make colors brighter and more real. The TV also has a built-in {{< vocab w="speaker" ipa="/ˈspiː.kər/" vn="loa" t="noun" >}} system for better sound. Users can control the TV with their {{< vocab w="voice" ipa="/vɔɪs/" vn="giọng nói" t="noun" >}}. Samsung says the TV will cost about $5,000. It will go on {{< vocab w="sale" ipa="/seɪl/" vn="bán" t="noun" >}} in April. Samsung is the world's biggest TV {{< vocab w="manufacturer" ipa="/ˌmæn.juˈfæk.tʃər.ər/" vn="nhà sản xuất" t="noun" >}}.
 
 ## 📚 Từ vựng chính
 

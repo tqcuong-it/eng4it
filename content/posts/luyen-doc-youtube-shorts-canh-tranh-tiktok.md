@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-YouTube **launched** a new update for YouTube Shorts this week. The **platform** now lets users make **videos** up to 60 seconds long. YouTube wants to **compete** with TikTok, the most popular short video app in the world.
+YouTube **launched** a new update for YouTube Shorts this week. The {{< vocab w="platform" ipa="/ˈplæt.fɔːrm/" vn="nền tảng" t="noun" >}} now lets users make **videos** up to 60 seconds long. YouTube wants to {{< vocab w="compete" ipa="/kəmˈpiːt/" vn="cạnh tranh" t="verb" >}} with TikTok, the most popular short video app in the world.
 
 YouTube Shorts already has 1.5 billion **users** every month. The company says **creators** can now add music and text to their videos more easily. Many young people enjoy watching short videos on their phones.
 
-TikTok is still the **leader** in short video, but YouTube is growing fast. This is good news for creators who want more choices.
+TikTok is still the {{< vocab w="leader" ipa="/ˈliː.dər/" vn="người dẫn đầu" t="noun" >}} in short video, but YouTube is growing fast. This is good news for creators who want more choices.
 
 ## 📚 Từ vựng chính
 

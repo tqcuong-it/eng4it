@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Sony has **launched** new **wireless** headphones. The headphones have great **noise canceling** technology. They can block sounds from the outside. The **sound quality** is very clear. Sony says the **battery** lasts up to 30 hours. You can also use them for phone calls. The headphones are light and **comfortable** to wear. They cost $349 and are available in black and silver.
+Sony has {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} new {{< vocab w="wireless" ipa="/ˈwaɪr.ləs/" vn="không dây" t="adjective" >}} headphones. The headphones have great {{< vocab w="noise canceling" ipa="/nɔɪz ˈkæn.səl.ɪŋ/" vn="chống ồn" t="noun" >}} technology. They can block sounds from the outside. The {{< vocab w="sound quality" ipa="/saʊnd ˈkwɑː.lə.t̬i/" vn="chất lượng âm thanh" t="noun" >}} is very clear. Sony says the {{< vocab w="battery" ipa="/ˈbæt̬.ər.i/" vn="pin" t="noun" >}} lasts up to 30 hours. You can also use them for phone calls. The headphones are light and {{< vocab w="comfortable" ipa="/ˈkʌm.fər.t̬ə.bəl/" vn="thoải mái" t="adjective" >}} to wear. They cost $349 and are available in black and silver.
 
 ## 📚 Từ vựng chính
 

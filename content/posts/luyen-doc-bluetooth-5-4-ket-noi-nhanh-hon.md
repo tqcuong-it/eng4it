@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-The Bluetooth Special Interest Group has **announced** the release of **Bluetooth** 5.4, which brings several important **improvements** to wireless connectivity. The new version has been **designed** to be faster, more **reliable**, and more energy-efficient than previous versions.
+The Bluetooth Special Interest Group has **announced** the release of {{< vocab w="Bluetooth" ipa="/ˈbluː.tuːθ/" vn="Bluetooth (công nghệ kết nối không dây)" t="noun" >}} 5.4, which brings several important {{< vocab w="improvements" ipa="/ɪmˈpruːv.mənts/" vn="cải tiến" t="noun" >}} to wireless connectivity. The new version has been {{< vocab w="designed" ipa="/dɪˈzaɪnd/" vn="được thiết kế" t="verb" >}} to be faster, more {{< vocab w="reliable" ipa="/rɪˈlaɪ.ə.bəl/" vn="đáng tin cậy" t="adjective" >}}, and more energy-efficient than previous versions.
 
-One of the biggest changes is a new feature called **PAwR** (Periodic Advertising with Responses). This allows **devices** to communicate more efficiently in places like stores and warehouses. For example, electronic **shelf labels** in supermarkets can be updated wirelessly using Bluetooth 5.4, and battery life has been **extended** significantly.
+One of the biggest changes is a new feature called **PAwR** (Periodic Advertising with Responses). This allows {{< vocab w="devices" ipa="/dɪˈvaɪ.sɪz/" vn="thiết bị" t="noun" >}} to communicate more efficiently in places like stores and warehouses. For example, electronic {{< vocab w="shelf labels" ipa="/ʃelf ˈleɪ.bəlz/" vn="nhãn giá kệ hàng" t="noun" >}} in supermarkets can be updated wirelessly using Bluetooth 5.4, and battery life has been {{< vocab w="extended" ipa="/ɪkˈsten.dɪd/" vn="kéo dài" t="verb" >}} significantly.
 
-The new standard has also **improved** the connection between smartphones and **accessories** such as earbuds, smartwatches, and fitness **trackers**. Data **transfer** speeds have been increased, and the connection range has been made wider. Many tech companies have already started building products with Bluetooth 5.4, and the first devices are expected to arrive in stores later this year.
+The new standard has also **improved** the connection between smartphones and {{< vocab w="accessories" ipa="/əkˈses.ər.iz/" vn="phụ kiện" t="noun" >}} such as earbuds, smartwatches, and fitness {{< vocab w="trackers" ipa="/ˈtræk.ərz/" vn="thiết bị theo dõi" t="noun" >}}. Data {{< vocab w="transfer" ipa="/ˈtræns.fɜːr/" vn="truyền tải" t="noun" >}} speeds have been increased, and the connection range has been made wider. Many tech companies have already started building products with Bluetooth 5.4, and the first devices are expected to arrive in stores later this year.
 
 ## 📚 Từ vựng chính
 

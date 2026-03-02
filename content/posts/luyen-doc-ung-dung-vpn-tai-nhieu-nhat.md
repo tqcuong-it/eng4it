@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-**VPN** apps have been **downloaded** more than ever this year. A VPN, or Virtual Private Network, is a tool that **protects** your online **privacy** by hiding your IP address and **encrypting** your internet traffic. The most popular VPN apps include NordVPN, ExpressVPN, and Surfshark.
+{{< vocab w="VPN" ipa="/ˌviː.piːˈen/" vn="mạng riêng ảo" t="noun" >}} apps have been {{< vocab w="downloaded" ipa="/ˌdaʊnˈloʊ.dɪd/" vn="tải xuống" t="verb" >}} more than ever this year. A VPN, or Virtual Private Network, is a tool that {{< vocab w="protects" ipa="/prəˈtekts/" vn="bảo vệ" t="verb" >}} your online {{< vocab w="privacy" ipa="/ˈprɪv.ə.si/" vn="quyền riêng tư" t="noun" >}} by hiding your IP address and {{< vocab w="encrypting" ipa="/ɪnˈkrɪp.tɪŋ/" vn="mã hóa" t="verb" >}} your internet traffic. The most popular VPN apps include NordVPN, ExpressVPN, and Surfshark.
 
-A new report shows that VPN downloads have **increased** by 35% compared to last year. This growth has been **driven** by concerns about data privacy and government **surveillance**. In some countries, VPN usage has been **banned**, but people still find ways to use them.
+A new report shows that VPN downloads have {{< vocab w="increased" ipa="/ɪnˈkriːst/" vn="tăng lên" t="verb" >}} by 35% compared to last year. This growth has been {{< vocab w="driven" ipa="/ˈdrɪv.ən/" vn="thúc đẩy" t="verb" >}} by concerns about data privacy and government {{< vocab w="surveillance" ipa="/sɜːˈveɪ.ləns/" vn="giám sát" t="noun" >}}. In some countries, VPN usage has been **banned**, but people still find ways to use them.
 
-Many users have **switched** to paid VPN services because free VPNs often collect and sell user data. Security experts say a good VPN should have a **no-log policy**, which means it does not store any information about your online activity. The VPN market is expected to reach $75 billion by 2027.
+Many users have {{< vocab w="switched" ipa="/swɪtʃt/" vn="chuyển đổi" t="verb" >}} to paid VPN services because free VPNs often collect and sell user data. Security experts say a good VPN should have a **no-log policy**, which means it does not store any information about your online activity. The VPN market is expected to reach $75 billion by 2027.
 
 ## 📚 Từ vựng chính
 

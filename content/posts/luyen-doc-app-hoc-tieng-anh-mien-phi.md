@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-A new **free** app for learning English has reached 50 million **downloads**. The app uses short **lessons** and games to help people learn. Each lesson is only 5 minutes long. The app can teach **vocabulary**, **grammar**, and listening skills. Users can study on their phone anytime, anywhere. The **developer** says they will add more languages soon. The app works on both **Android** and iOS. It is one of the top education apps in many countries.
+A new {{< vocab w="free" ipa="/friː/" vn="miễn phí" t="adjective" >}} app for learning English has reached 50 million {{< vocab w="downloads" ipa="/ˈdaʊn.loʊdz/" vn="lượt tải" t="noun" >}}. The app uses short {{< vocab w="lessons" ipa="/ˈles.ənz/" vn="bài học" t="noun" >}} and games to help people learn. Each lesson is only 5 minutes long. The app can teach {{< vocab w="vocabulary" ipa="/vəˈkæb.jə.ler.i/" vn="từ vựng" t="noun" >}}, {{< vocab w="grammar" ipa="/ˈɡræm.ər/" vn="ngữ pháp" t="noun" >}}, and listening skills. Users can study on their phone anytime, anywhere. The {{< vocab w="developer" ipa="/dɪˈvel.ə.pər/" vn="nhà phát triển" t="noun" >}} says they will add more languages soon. The app works on both {{< vocab w="Android" ipa="/ˈæn.drɔɪd/" vn="Android" t="noun" >}} and iOS. It is one of the top education apps in many countries.
 
 ## 📚 Từ vựng chính
 

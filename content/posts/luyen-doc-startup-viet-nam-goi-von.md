@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-A Vietnamese tech **startup** has raised $50 million in a new **funding** round, and it is the largest deal this year. The company builds **fintech** solutions for small businesses, so it has grown very fast in Southeast Asia.
+A Vietnamese tech {{< vocab w="startup" ipa="/ˈstɑːt.ʌp/" vn="công ty khởi nghiệp" t="noun" >}} has raised $50 million in a new {{< vocab w="funding" ipa="/ˈfʌn.dɪŋ/" vn="gọi vốn, tài trợ" t="noun" >}} round, and it is the largest deal this year. The company builds {{< vocab w="fintech" ipa="/ˈfɪn.tek/" vn="công nghệ tài chính" t="noun" >}} solutions for small businesses, so it has grown very fast in Southeast Asia.
 
-The **investment** was led by a major **venture capital** firm from Singapore. The startup has already **expanded** to three countries, and it plans to enter Japan and Korea next year. The **founder** said the money will be used to hire more engineers and improve the **platform**.
+The {{< vocab w="investment" ipa="/ɪnˈvest.mənt/" vn="khoản đầu tư" t="noun" >}} was led by a major {{< vocab w="venture capital" ipa="/ˈven.tʃər ˈkæp.ɪ.təl/" vn="vốn đầu tư mạo hiểm" t="noun" >}} firm from Singapore. The startup has already {{< vocab w="expanded" ipa="/ɪkˈspæn.dɪd/" vn="mở rộng" t="verb" >}} to three countries, and it plans to enter Japan and Korea next year. The {{< vocab w="founder" ipa="/ˈfaʊn.dər/" vn="nhà sáng lập" t="noun" >}} said the money will be used to hire more engineers and improve the {{< vocab w="platform" ipa="/ˈplæt.fɔːm/" vn="nền tảng" t="noun" >}}.
 
-Vietnam's tech industry has **attracted** more foreign investors because the country has many talented developers. The **government** has also supported startups with new policies, so the ecosystem has become stronger.
+Vietnam's tech industry has {{< vocab w="attracted" ipa="/əˈtræk.tɪd/" vn="thu hút" t="verb" >}} more foreign investors because the country has many talented developers. The {{< vocab w="government" ipa="/ˈɡʌv.ən.mənt/" vn="chính phủ" t="noun" >}} has also supported startups with new policies, so the ecosystem has become stronger.
 
 ## 📚 Từ vựng chính
 

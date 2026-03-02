@@ -16,9 +16,9 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Microsoft **announced** a new Surface laptop yesterday. The new **device** is thinner and lighter than the old one. It has a 13.5-inch **screen** and a fast new **processor**.
+Microsoft **announced** a new Surface laptop yesterday. The new {{< vocab w="device" ipa="/dɪˈvaɪs/" vn="thiết bị" t="noun" >}} is thinner and lighter than the old one. It has a 13.5-inch {{< vocab w="screen" ipa="/skriːn/" vn="màn hình" t="noun" >}} and a fast new {{< vocab w="processor" ipa="/ˈprɑː.ses.ər/" vn="bộ vi xử lý" t="noun" >}}.
 
-The laptop costs $999 and will be **available** next month. Microsoft says the **battery** can last up to 15 hours. This is great for people who work or study all day.
+The laptop costs $999 and will be {{< vocab w="available" ipa="/əˈveɪ.lə.bəl/" vn="có sẵn, sẵn có" t="adjective" >}} next month. Microsoft says the {{< vocab w="battery" ipa="/ˈbæt.ər.i/" vn="pin" t="noun" >}} can last up to 15 hours. This is great for people who work or study all day.
 
 The Surface laptop **runs** Windows 11. It comes in four colors: black, blue, green, and silver. Many tech experts say it looks very nice.
 

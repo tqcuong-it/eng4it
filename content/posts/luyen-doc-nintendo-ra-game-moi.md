@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Nintendo has **released** a new game in The Legend of Zelda series. The game is called Tears of the Kingdom. It is only for the Nintendo **Switch** console.
+Nintendo has **released** a new game in The Legend of Zelda series. The game is called Tears of the Kingdom. It is only for the Nintendo {{< vocab w="Switch" ipa="/swɪtʃ/" vn="(máy) chuyển đổi" t="noun" >}} console.
 
-The game **sold** 10 million copies in the first three days. This is a new **record** for Nintendo. Players can explore a big open world, solve **puzzles**, and fight enemies.
+The game **sold** 10 million copies in the first three days. This is a new {{< vocab w="record" ipa="/ˈrek.ɔːrd/" vn="kỷ lục" t="noun" >}} for Nintendo. Players can explore a big open world, solve **puzzles**, and fight enemies.
 
-Many **reviews** say it is one of the best games of the year. The game costs $69.99. Nintendo fans around the world are very **excited** about it.
+Many **reviews** say it is one of the best games of the year. The game costs $69.99. Nintendo fans around the world are very {{< vocab w="excited" ipa="/ɪkˈsaɪ.tɪd/" vn="hào hứng" t="adjective" >}} about it.
 
 ## 📚 Từ vựng chính
 

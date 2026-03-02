@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Facebook has changed its **company** name to Meta. The **CEO**, Mark Zuckerberg, made the **announcement** last year. He says the company will **focus** on building the metaverse.
+Facebook has changed its {{< vocab w="company" ipa="/ˈkʌm.pə.ni/" vn="công ty" t="noun" >}} name to Meta. The {{< vocab w="CEO" ipa="/ˌsiː.iːˈoʊ/" vn="giám đốc điều hành" t="noun" >}}, Mark Zuckerberg, made the {{< vocab w="announcement" ipa="/əˈnaʊns.mənt/" vn="thông báo" t="noun" >}} last year. He says the company will {{< vocab w="focus" ipa="/ˈfoʊ.kəs/" vn="tập trung" t="verb" >}} on building the metaverse.
 
-The metaverse is a **virtual** world where people can work, play, and meet online. Meta is spending billions of dollars on this **project**. The company still owns Facebook, Instagram, and WhatsApp.
+The metaverse is a {{< vocab w="virtual" ipa="/ˈvɜːr.tʃu.əl/" vn="ảo" t="adjective" >}} world where people can work, play, and meet online. Meta is spending billions of dollars on this {{< vocab w="project" ipa="/ˈprɑː.dʒekt/" vn="dự án" t="noun" >}}. The company still owns Facebook, Instagram, and WhatsApp.
 
-Some people think the name change is a good idea. Others say Meta should **improve** its current apps first. The new name is now used for the parent company.
+Some people think the name change is a good idea. Others say Meta should {{< vocab w="improve" ipa="/ɪmˈpruːv/" vn="cải thiện" t="verb" >}} its current apps first. The new name is now used for the parent company.
 
 ## 📚 Từ vựng chính
 

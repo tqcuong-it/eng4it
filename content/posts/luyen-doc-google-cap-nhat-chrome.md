@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Google **released** a new **update** for its Chrome **browser** this week. The update makes Chrome **faster** and more **secure**. Google also fixed some **bugs** that caused the browser to crash. Users can now open more tabs without the browser slowing down. The update is **free** and will **download** automatically. Chrome is the most popular browser in the world, with over 3 billion users.
+Google {{< vocab w="released" ipa="/rɪˈliːst/" vn="phát hành" t="verb" >}} a new {{< vocab w="update" ipa="/ˈʌp.deɪt/" vn="bản cập nhật" t="noun" >}} for its Chrome {{< vocab w="browser" ipa="/ˈbraʊ.zər/" vn="trình duyệt" t="noun" >}} this week. The update makes Chrome {{< vocab w="faster" ipa="/ˈfɑːs.tər/" vn="nhanh hơn" t="adjective" >}} and more {{< vocab w="secure" ipa="/sɪˈkjʊr/" vn="an toàn, bảo mật" t="adjective" >}}. Google also fixed some {{< vocab w="bugs" ipa="/bʌɡz/" vn="lỗi phần mềm" t="noun" >}} that caused the browser to crash. Users can now open more tabs without the browser slowing down. The update is {{< vocab w="free" ipa="/friː/" vn="miễn phí" t="adjective" >}} and will {{< vocab w="download" ipa="/ˈdaʊn.loʊd/" vn="tải xuống" t="verb" >}} automatically. Chrome is the most popular browser in the world, with over 3 billion users.
 
 ## 📚 Từ vựng chính
 

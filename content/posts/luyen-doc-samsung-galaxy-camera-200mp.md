@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Samsung has **announced** the new Galaxy S with a 200MP camera, and it is the highest **resolution** on any smartphone. The phone can take very **detailed** photos because the **sensor** is much larger than before.
+Samsung has {{< vocab w="announced" ipa="/əˈnaʊnst/" vn="công bố" t="verb" >}} the new Galaxy S with a 200MP camera, and it is the highest {{< vocab w="resolution" ipa="/ˌrez.əˈluː.ʃən/" vn="độ phân giải" t="noun" >}} on any smartphone. The phone can take very {{< vocab w="detailed" ipa="/ˈdiː.teɪld/" vn="chi tiết" t="adjective" >}} photos because the {{< vocab w="sensor" ipa="/ˈsen.sər/" vn="cảm biến" t="noun" >}} is much larger than before.
 
-The new camera system has been **improved** with AI technology, so photos look better in low light. Samsung has also added a new **zoom** feature that can reach 100x, but experts say the quality drops after 30x.
+The new camera system has been {{< vocab w="improved" ipa="/ɪmˈpruːvd/" vn="cải thiện" t="verb" >}} with AI technology, so photos look better in low light. Samsung has also added a new **zoom** feature that can reach 100x, but experts say the quality drops after 30x.
 
-The Galaxy S has a 6.8-inch **display** and a powerful **chipset**. The **battery** lasts up to two days because Samsung has **optimized** the software. The phone is available in four colors, and the price starts at $1,199.
+The Galaxy S has a 6.8-inch {{< vocab w="display" ipa="/dɪˈspleɪ/" vn="màn hình" t="noun" >}} and a powerful {{< vocab w="chipset" ipa="/ˈtʃɪp.set/" vn="bộ vi xử lý" t="noun" >}}. The {{< vocab w="battery" ipa="/ˈbæt.ər.i/" vn="pin" t="noun" >}} lasts up to two days because Samsung has {{< vocab w="optimized" ipa="/ˈɒp.tɪ.maɪzd/" vn="tối ưu hóa" t="verb" >}} the software. The phone is available in four colors, and the price starts at $1,199.
 
 ## 📚 Từ vựng chính
 

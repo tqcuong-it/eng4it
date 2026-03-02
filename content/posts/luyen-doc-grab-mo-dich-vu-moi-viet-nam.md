@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Grab has **launched** a new **service** in Vietnam. The new service lets users send **packages** to other cities. It is called GrabExpress Plus. Users can **track** their packages on the app. Grab says the **delivery** takes one to two days. The price is cheaper than other services. Grab is already popular in Vietnam for rides and food **delivery**. The company wants to become a **super app** for everything.
+Grab has {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} a new {{< vocab w="service" ipa="/ˈsɜːr.vɪs/" vn="dịch vụ" t="noun" >}} in Vietnam. The new service lets users send {{< vocab w="packages" ipa="/ˈpæk.ɪ.dʒɪz/" vn="bưu kiện, gói hàng" t="noun" >}} to other cities. It is called GrabExpress Plus. Users can {{< vocab w="track" ipa="/træk/" vn="theo dõi" t="verb" >}} their packages on the app. Grab says the {{< vocab w="delivery" ipa="/dɪˈlɪv.ər.i/" vn="giao hàng" t="noun" >}} takes one to two days. The price is cheaper than other services. Grab is already popular in Vietnam for rides and food {{< vocab w="delivery" ipa="/dɪˈlɪv.ər.i/" vn="giao hàng" t="noun" >}}. The company wants to become a {{< vocab w="super app" ipa="/ˈsuː.pər æp/" vn="siêu ứng dụng" t="noun" >}} for everything.
 
 ## 📚 Từ vựng chính
 

@@ -16,7 +16,7 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Apple **launched** its new iPhone yesterday. The new **device** has a better **camera** and a faster **processor**. The **screen** is also bigger than the old model. Apple says the **battery** can last all day. The phone comes in three colors: black, white, and blue. It will be **available** in stores next week. The price **starts** at $799. Many people are excited about the new iPhone.
+Apple {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}} its new iPhone yesterday. The new {{< vocab w="device" ipa="/dɪˈvaɪs/" vn="thiết bị" t="noun" >}} has a better {{< vocab w="camera" ipa="/ˈkæm.ər.ə/" vn="máy ảnh" t="noun" >}} and a faster {{< vocab w="processor" ipa="/ˈprɒs.es.ər/" vn="bộ xử lý" t="noun" >}}. The {{< vocab w="screen" ipa="/skriːn/" vn="màn hình" t="noun" >}} is also bigger than the old model. Apple says the {{< vocab w="battery" ipa="/ˈbæt.ər.i/" vn="pin" t="noun" >}} can last all day. The phone comes in three colors: black, white, and blue. It will be {{< vocab w="available" ipa="/əˈveɪ.lə.bəl/" vn="có sẵn" t="adjective" >}} in stores next week. The price {{< vocab w="starts" ipa="/stɑːrts/" vn="bắt đầu từ" t="verb" >}} at $799. Many people are excited about the new iPhone.
 
 ## 📚 Từ vựng chính
 

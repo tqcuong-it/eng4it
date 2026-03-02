@@ -16,11 +16,11 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Apple has **released** its new M3 **chip**, and early **benchmarks** show it is significantly faster than the M2. The M3 has been **built** using a 3-nanometer **process**, which makes it more powerful and energy-**efficient**. Apple says the new chip is up to 35% faster for CPU tasks and 65% faster for **graphics**.
+Apple has {{< vocab w="released" ipa="/rɪˈliːst/" vn="phát hành" t="verb" >}} its new M3 {{< vocab w="chip" ipa="/tʃɪp/" vn="vi xử lý" t="noun" >}}, and early {{< vocab w="benchmarks" ipa="/ˈbentʃ.mɑːrks/" vn="điểm chuẩn (đo hiệu năng)" t="noun" >}} show it is significantly faster than the M2. The M3 has been {{< vocab w="built" ipa="/bɪlt/" vn="được chế tạo" t="verb" >}} using a 3-nanometer {{< vocab w="process" ipa="/ˈprɒs.es/" vn="quy trình (sản xuất)" t="noun" >}}, which makes it more powerful and energy-{{< vocab w="efficient" ipa="/ɪˈfɪʃ.ənt/" vn="hiệu quả" t="adjective" >}}. Apple says the new chip is up to 35% faster for CPU tasks and 65% faster for {{< vocab w="graphics" ipa="/ˈɡræf.ɪks/" vn="đồ họa" t="noun" >}}.
 
-The M3 chip has been **designed** for the new MacBook Pro and iMac. It includes an improved **neural engine** that can handle AI tasks much faster. The chip also supports hardware-accelerated **ray tracing**, a technology used to create realistic lighting in games and 3D applications.
+The M3 chip has been **designed** for the new MacBook Pro and iMac. It includes an improved {{< vocab w="neural engine" ipa="/ˈnjʊə.rəl ˈen.dʒɪn/" vn="bộ xử lý thần kinh" t="noun" >}} that can handle AI tasks much faster. The chip also supports hardware-accelerated **ray tracing**, a technology used to create realistic lighting in games and 3D applications.
 
-**Reviewers** have praised the M3 for its excellent **performance** and long battery life. A MacBook Pro with the M3 chip has been tested to last up to 22 hours on a single charge. Compared to Intel and AMD processors, Apple's M3 has been ranked among the top chips for laptops.
+{{< vocab w="Reviewers" ipa="/rɪˈvjuː.ərz/" vn="người đánh giá" t="noun" >}} have praised the M3 for its excellent {{< vocab w="performance" ipa="/pəˈfɔː.məns/" vn="hiệu năng" t="noun" >}} and long battery life. A MacBook Pro with the M3 chip has been tested to last up to 22 hours on a single charge. Compared to Intel and AMD processors, Apple's M3 has been ranked among the top chips for laptops.
 
 ## 📚 Từ vựng chính
 

@@ -16,9 +16,9 @@ draft: false
 
 ## 📰 Bài đọc (English)
 
-Twitter has been **renamed** to X, and a new paid **subscription** service has been **launched**. The service is called X Premium, and it costs $8 per month. **Subscribers** can get a blue checkmark, and their posts are shown to more people. Free users have been **limited** in how many posts they can read each day.
+Twitter has been {{< vocab w="renamed" ipa="/ˌriːˈneɪmd/" vn="đổi tên" t="verb" >}} to X, and a new paid {{< vocab w="subscription" ipa="/səbˈskrɪp.ʃən/" vn="gói đăng ký" t="noun" >}} service has been {{< vocab w="launched" ipa="/lɔːntʃt/" vn="ra mắt" t="verb" >}}. The service is called X Premium, and it costs $8 per month. {{< vocab w="Subscribers" ipa="/səbˈskraɪ.bərz/" vn="người đăng ký" t="noun" >}} can get a blue checkmark, and their posts are shown to more people. Free users have been {{< vocab w="limited" ipa="/ˈlɪm.ɪ.tɪd/" vn="bị giới hạn" t="adjective" >}} in how many posts they can read each day.
 
-Elon Musk has said that the **subscription** model will help fight **bots** on the **platform**. However, many users are not happy with the changes. Some **features** that were free before have been moved behind a **paywall**. The company has also **announced** that advertisers will get new tools to reach Premium users.
+Elon Musk has said that the {{< vocab w="subscription" ipa="/səbˈskrɪp.ʃən/" vn="gói đăng ký" t="noun" >}} model will help fight {{< vocab w="bots" ipa="/bɒts/" vn="tài khoản tự động (bot)" t="noun" >}} on the {{< vocab w="platform" ipa="/ˈplæt.fɔːrm/" vn="nền tảng" t="noun" >}}. However, many users are not happy with the changes. Some {{< vocab w="features" ipa="/ˈfiː.tʃərz/" vn="tính năng" t="noun" >}} that were free before have been moved behind a {{< vocab w="paywall" ipa="/ˈpeɪ.wɔːl/" vn="tường phí (chặn nội dung miễn phí)" t="noun" >}}. The company has also {{< vocab w="announced" ipa="/əˈnaʊnst/" vn="công bố" t="verb" >}} that advertisers will get new tools to reach Premium users.
 
 Since the change, millions of users have left the platform, but X still has over 500 million active users worldwide.
 
