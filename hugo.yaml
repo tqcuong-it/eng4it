@@ -91,6 +91,9 @@ menu:
     - name: "Terms of Service"
       url: /terms/
       weight: 2
+    - name: "Affiliate Disclosure"
+      url: /affiliate-disclosure/
+      weight: 3
 
 outputs:
   home:
