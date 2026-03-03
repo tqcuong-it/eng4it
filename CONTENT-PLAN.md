@@ -14,8 +14,8 @@
 - [x] 3. Email xin nghỉ phép (Leave Request) — mẫu & từ vựng
 - [x] 4. Cách viết Pull Request Description chuyên nghiệp
 - [x] 5. 20 câu nói trong Sprint Planning Meeting
-- [ ] 6. Cách viết Bug Report bằng tiếng Anh
-- [ ] 7. Email báo cáo tiến độ dự án (Progress Report)
+- [x] 6. Cách viết Bug Report bằng tiếng Anh
+- [x] 7. Email báo cáo tiến độ dự án (Progress Report)
 - [ ] 8. 25 câu dùng trong Daily Scrum/Standup
 - [ ] 9. Cách viết Technical Proposal
 - [ ] 10. Email follow-up sau meeting — template & phrases
