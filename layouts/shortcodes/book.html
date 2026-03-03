@@ -1,0 +1,16 @@
+{{- $asin := .Get "asin" -}}
+{{- $title := .Get "title" -}}
+{{- $desc := .Get "desc" -}}
+{{- $tag := "cuongtq-22" -}}
+{{- $img := printf "https://m.media-amazon.com/images/P/%s.01._SCLZZZZZZZ_SX200_.jpg" $asin -}}
+{{- $link := printf "https://www.amazon.co.jp/dp/%s?tag=%s" $asin $tag -}}
+<div class="book-card">
+  <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-img">
+    <img src="{{ $img }}" alt="{{ $title }}" loading="lazy" />
+  </a>
+  <div class="book-card-info">
+    <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-title">{{ $title }}</a>
+    <p class="book-card-desc">{{ $desc }}</p>
+    <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-btn">🛒 Mua trên Amazon</a>
+  </div>
+</div>

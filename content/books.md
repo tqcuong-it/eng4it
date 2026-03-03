@@ -1,7 +1,6 @@
 ---
 title: "Sách tiếng Anh hay"
 slug: "books"
-layout: "page"
 description: "Tổng hợp 40+ sách học tiếng Anh hay nhất — IELTS, tiếng Anh công sở, chuyên ngành IT, phỏng vấn, thuyết trình, viết email."
 hidemeta: true
 ShowToc: true
@@ -18,25 +17,27 @@ TocOpen: true
 
 "Kinh thánh" của IELTS — đề thi thật từ Cambridge, **phải làm** trước khi thi.
 
-- 📕 **[Cambridge IELTS 18 Academic](https://www.amazon.co.jp/dp/1108933858?tag=cuongtq-22)** — Mới nhất, 4 bộ đề đầy đủ
-- 📕 **[Cambridge IELTS 17 Academic](https://www.amazon.co.jp/dp/1108933811?tag=cuongtq-22)** — 4 bộ đề + audio
-- 📕 **[Cambridge IELTS 16 Academic](https://www.amazon.co.jp/dp/1108933769?tag=cuongtq-22)** — Càng nhiều đề càng quen format
-- 📕 **[Cambridge IELTS 15 Academic](https://www.amazon.co.jp/dp/1108781608?tag=cuongtq-22)** — Thêm 4 bộ nữa
+{{< book asin="1108933858" title="Cambridge IELTS 18 Academic" desc="Mới nhất — 4 bộ đề đầy đủ 4 kỹ năng + audio." >}}
+
+{{< book asin="1108933811" title="Cambridge IELTS 17 Academic" desc="4 bộ đề thi thật + đáp án + audio." >}}
+
+{{< book asin="1108933769" title="Cambridge IELTS 16 Academic" desc="Càng nhiều đề càng quen format." >}}
+
+{{< book asin="1108781608" title="Cambridge IELTS 15 Academic" desc="Thêm 4 bộ nữa để luyện tập." >}}
 
 ### Hướng dẫn & Strategy
 
-- 📗 **[The Official Cambridge Guide to IELTS](https://www.amazon.co.jp/dp/1108702880?tag=cuongtq-22)** — Hướng dẫn toàn diện + 8 practice tests
-- 📗 **[IELTS Trainer 2 Academic](https://www.amazon.co.jp/dp/1108567576?tag=cuongtq-22)** — 6 bộ test + guided practice + tips
+{{< book asin="1108702880" title="The Official Cambridge Guide to IELTS" desc="Hướng dẫn toàn diện từ Cambridge + 8 practice tests." >}}
+
+{{< book asin="1108567576" title="IELTS Trainer 2 Academic" desc="6 bộ test + guided practice + tips cho từng kỹ năng." >}}
 
 ### Writing
 
-- 📘 **[IELTS Writing Task 2 — Actual Tests](https://www.amazon.co.jp/dp/B0C7T5WK12?tag=cuongtq-22)** — Đề thật + bài mẫu band 7-8
-- 📘 **[Collins Writing for IELTS](https://www.amazon.co.jp/dp/0007423268?tag=cuongtq-22)** — Step-by-step writing cả Task 1 + Task 2
+{{< book asin="0007423268" title="Collins Writing for IELTS" desc="Step-by-step writing cả Task 1 + Task 2." >}}
 
 ### Vocabulary cho IELTS
 
-- 📙 **[Cambridge Vocabulary for IELTS Advanced](https://www.amazon.co.jp/dp/0521179225?tag=cuongtq-22)** — Từ vựng band 6.5+, theo topic
-- 📙 **[Collins Vocabulary for IELTS](https://www.amazon.co.jp/dp/0007456824?tag=cuongtq-22)** — Từ vựng theo chủ đề thi thường gặp
+{{< book asin="0521179225" title="Cambridge Vocabulary for IELTS Advanced" desc="Từ vựng band 6.5+, theo topic, có audio." >}}
 
 ---
 
@@ -46,39 +47,45 @@ Dành cho developer, PM, BrSE làm việc trong môi trường quốc tế.
 
 ### Email & Viết
 
-- 📕 **[Writing for the Real World 2](https://www.amazon.co.jp/dp/0194538265?tag=cuongtq-22)** — Email, báo cáo, proposal — template thực tế
-- 📗 **[Business Email Writing](https://www.amazon.co.jp/dp/4757436157?tag=cuongtq-22)** — Mẫu email: request, follow-up, complaint, apology
-- 📘 **[HBR Guide to Better Business Writing](https://www.amazon.co.jp/dp/1422184033?tag=cuongtq-22)** — Viết chuẩn business từ Harvard Business Review
+{{< book asin="0194538265" title="Writing for the Real World 2" desc="Email, báo cáo, proposal — template thực tế, dễ áp dụng ngay." >}}
+
+{{< book asin="1422184033" title="HBR Guide to Better Business Writing" desc="Viết chuẩn business từ Harvard Business Review." >}}
 
 ### Họp & Thuyết trình
 
-- 📕 **[Business Result Intermediate](https://www.amazon.co.jp/dp/0194738868?tag=cuongtq-22)** — Meeting, negotiation, presentation — full course
-- 📗 **[TED Talks: The Official Guide](https://www.amazon.co.jp/dp/1328710289?tag=cuongtq-22)** — Học cách thuyết trình như TED speaker
-- 📘 **[English for Presentations](https://www.amazon.co.jp/dp/0194579360?tag=cuongtq-22)** — Oxford, chuyên về presentation skills
+{{< book asin="0194738868" title="Business Result Intermediate" desc="Meeting, negotiation, presentation — full course từ Oxford." >}}
+
+{{< book asin="1328710289" title="TED Talks: The Official Guide" desc="Học cách thuyết trình như TED speaker — Chris Anderson." >}}
+
+{{< book asin="0194579360" title="English for Presentations" desc="Oxford — chuyên về presentation skills bằng tiếng Anh." >}}
 
 ### Giao tiếp chung
 
-- 📕 **[Business Vocabulary in Use Intermediate](https://www.amazon.co.jp/dp/1316629988?tag=cuongtq-22)** — Từ vựng business theo chủ đề
-- 📗 **[Speak Business English Like an American](https://www.amazon.co.jp/dp/0972530061?tag=cuongtq-22)** — Idioms và cách nói tự nhiên trong công việc
+{{< book asin="1316629988" title="Business Vocabulary in Use Intermediate" desc="Từ vựng business theo chủ đề — Cambridge." >}}
+
+{{< book asin="0972530061" title="Speak Business English Like an American" desc="Idioms và cách nói tự nhiên trong công việc." >}}
 
 ---
 
 ## 💻 Tiếng Anh chuyên ngành IT
 
-Dành cho Software Engineer, DevOps, Data, AI — đọc docs, viết spec, code review.
+Dành cho Software Engineer, DevOps, Data — đọc docs, viết spec, code review.
 
 ### Technical English
 
-- 📕 **[English for Information Technology](https://www.amazon.co.jp/dp/0194574938?tag=cuongtq-22)** — Oxford, từ vựng IT cơ bản: networking, database, security
-- 📗 **[Professional English in Use: ICT](https://www.amazon.co.jp/dp/0521685435?tag=cuongtq-22)** — Cambridge, từ vựng IT theo chủ đề: cloud, AI, mobile, web
-- 📘 **[Oxford English for Careers: Technology 2](https://www.amazon.co.jp/dp/0194569535?tag=cuongtq-22)** — Intermediate+, communication in tech workplace
+{{< book asin="0194574938" title="English for Information Technology" desc="Oxford — từ vựng IT: networking, database, security." >}}
+
+{{< book asin="0521685435" title="Professional English in Use: ICT" desc="Cambridge — từ vựng IT: cloud, AI, mobile, web." >}}
 
 ### Software Engineering (đọc song ngữ)
 
-- 📕 **[Clean Code](https://www.amazon.co.jp/dp/0132350882?tag=cuongtq-22)** — Robert C. Martin — kinh điển về code quality, vừa học code vừa luyện reading
-- 📗 **[The Pragmatic Programmer](https://www.amazon.co.jp/dp/0135957052?tag=cuongtq-22)** — Must-read cho developer, tiếng Anh technical dễ đọc
-- 📘 **[Designing Data-Intensive Applications](https://www.amazon.co.jp/dp/1449373321?tag=cuongtq-22)** — System design bible — luyện đọc technical English cấp cao
-- 📙 **[Staff Engineer](https://www.amazon.co.jp/dp/1736417916?tag=cuongtq-22)** — Career growth cho senior dev — vocabulary về leadership, architecture
+{{< book asin="0132350882" title="Clean Code" desc="Robert C. Martin — kinh điển về code quality. Vừa học code vừa luyện reading." >}}
+
+{{< book asin="0135957052" title="The Pragmatic Programmer (20th Anniversary)" desc="Must-read cho developer — tiếng Anh technical dễ đọc." >}}
+
+{{< book asin="1449373321" title="Designing Data-Intensive Applications" desc="System design bible — luyện đọc technical English cấp cao." >}}
+
+{{< book asin="1736417916" title="Staff Engineer" desc="Career growth cho senior dev — vocabulary về leadership, architecture." >}}
 
 ---
 
@@ -86,31 +93,33 @@ Dành cho Software Engineer, DevOps, Data, AI — đọc docs, viết spec, code
 
 Chuẩn bị phỏng vấn IT bằng tiếng Anh — behavioral + technical.
 
-- 📕 **[Cracking the Coding Interview](https://www.amazon.co.jp/dp/0984782850?tag=cuongtq-22)** — 189 câu hỏi coding interview + cách trả lời bằng tiếng Anh
-- 📗 **[System Design Interview Vol.1](https://www.amazon.co.jp/dp/B08CMF2CQF?tag=cuongtq-22)** — Alex Xu, system design bằng tiếng Anh dễ hiểu
-- 📘 **[System Design Interview Vol.2](https://www.amazon.co.jp/dp/1736049119?tag=cuongtq-22)** — Tiếp nối Vol.1, advanced topics
-- 📙 **[Behavioral Interviews for Software Engineers](https://www.amazon.co.jp/dp/B0CG7JR7QX?tag=cuongtq-22)** — STAR method, leadership principles — Amazon/Google style
+{{< book asin="0984782850" title="Cracking the Coding Interview" desc="189 câu hỏi coding interview + cách trả lời bằng tiếng Anh." >}}
+
+{{< book asin="B08CMF2CQF" title="System Design Interview Vol.1" desc="Alex Xu — system design dễ hiểu, best-seller." >}}
+
+{{< book asin="1736049119" title="System Design Interview Vol.2" desc="Tiếp nối Vol.1 — advanced topics." >}}
 
 ---
 
 ## 🔤 Nền tảng tiếng Anh
 
-Sách cơ bản — grammar, pronunciation, vocabulary.
-
 ### Grammar
 
-- 📕 **[English Grammar in Use (5th Ed)](https://www.amazon.co.jp/dp/1108457657?tag=cuongtq-22)** — Raymond Murphy, "kinh thánh" ngữ pháp, intermediate
-- 📗 **[Advanced Grammar in Use](https://www.amazon.co.jp/dp/1107539307?tag=cuongtq-22)** — Nâng cao, C1-C2, cần cho IELTS 7+
+{{< book asin="1108457657" title="English Grammar in Use (5th Ed)" desc="Raymond Murphy — 'kinh thánh' ngữ pháp tiếng Anh. Intermediate." >}}
+
+{{< book asin="1107539307" title="Advanced Grammar in Use" desc="Grammar nâng cao C1-C2 — cần cho IELTS 7+." >}}
 
 ### Pronunciation
 
-- 📕 **[English Pronunciation in Use Intermediate](https://www.amazon.co.jp/dp/1108403697?tag=cuongtq-22)** — IPA, minimal pairs, connected speech + audio
-- 📗 **[American Accent Training](https://www.amazon.co.jp/dp/1438011741?tag=cuongtq-22)** — Luyện accent Mỹ chuẩn, có audio
+{{< book asin="1108403697" title="English Pronunciation in Use Intermediate" desc="IPA, minimal pairs, connected speech + audio." >}}
+
+{{< book asin="1438011741" title="American Accent Training" desc="Luyện accent Mỹ chuẩn, có audio đi kèm." >}}
 
 ### Vocabulary
 
-- 📕 **[English Vocabulary in Use Upper-Intermediate](https://www.amazon.co.jp/dp/1316631753?tag=cuongtq-22)** — 100 units theo chủ đề
-- 📗 **[Word Power Made Easy](https://www.amazon.co.jp/dp/110187385X?tag=cuongtq-22)** — Mở rộng vốn từ qua etymology — rất hay
+{{< book asin="1316631753" title="English Vocabulary in Use Upper-Intermediate" desc="100 units từ vựng theo chủ đề — Cambridge." >}}
+
+{{< book asin="110187385X" title="Word Power Made Easy" desc="Mở rộng vốn từ qua etymology — best-seller." >}}
 
 ---
 
@@ -118,10 +127,11 @@ Sách cơ bản — grammar, pronunciation, vocabulary.
 
 Đọc nhiều ở level phù hợp — cách tốt nhất để improve English tự nhiên.
 
-- 📕 **[Atomic Habits](https://www.amazon.co.jp/dp/0735211299?tag=cuongtq-22)** — James Clear — best-seller, tiếng Anh dễ đọc, nội dung hay
-- 📗 **[Sapiens: A Brief History of Humankind](https://www.amazon.co.jp/dp/0062316117?tag=cuongtq-22)** — Yuval Noah Harari — non-fiction engaging
-- 📘 **[The Phoenix Project](https://www.amazon.co.jp/dp/1942788290?tag=cuongtq-22)** — Novel về DevOps — vừa giải trí vừa học IT English
-- 📙 **[Penguin Readers Level 5-6](https://www.amazon.co.jp/dp/0241553466?tag=cuongtq-22)** — Graded readers cho intermediate+
+{{< book asin="0735211299" title="Atomic Habits" desc="James Clear — best-seller, tiếng Anh dễ đọc, nội dung cực hay." >}}
+
+{{< book asin="0062316117" title="Sapiens: A Brief History of Humankind" desc="Yuval Noah Harari — non-fiction engaging, mở rộng kiến thức." >}}
+
+{{< book asin="1942788290" title="The Phoenix Project" desc="Novel về DevOps — vừa giải trí vừa học IT English." >}}
 
 ---
 
@@ -129,8 +139,8 @@ Sách cơ bản — grammar, pronunciation, vocabulary.
 
 1. **IELTS → Cambridge là vua** — ưu tiên đề thi Cambridge trước mọi nguồn khác
 2. **Đừng chỉ đọc** — viết, nói, nghe theo sách mới hiệu quả
-3. **Kết hợp sách + blog** — dùng sách giấy + bài học miễn phí trên [eng4it.com](https://eng4it.com)
-4. **IT books = 2 trong 1** — vừa học kỹ thuật vừa luyện reading comprehension
+3. **IT books = 2 trong 1** — vừa học kỹ thuật vừa luyện reading comprehension
+4. **Kết hợp sách + blog** — dùng sách giấy + bài học miễn phí trên [eng4it.com](https://eng4it.com)
 5. **Đọc mỗi ngày 15 phút** — consistency beats intensity
 
 Chúc bạn học tốt! 🚀

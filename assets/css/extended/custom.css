@@ -11,3 +11,16 @@ html[data-theme=dark] .post-description{color:var(--primary)!important}
 ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
 
 
+
+/* Book Cards */
+.book-card{display:flex;gap:1rem;padding:1rem;margin:0.8rem 0;border:1px solid var(--border);border-radius:8px;background:var(--entry);transition:transform .2s}
+.book-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.1)}
+.book-card-img{flex-shrink:0;width:120px}
+.book-card-img img{width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.book-card-info{flex:1;display:flex;flex-direction:column;justify-content:center}
+.book-card-title{font-weight:700;font-size:1rem;color:var(--primary);text-decoration:none;line-height:1.4}
+.book-card-title:hover{text-decoration:underline}
+.book-card-desc{font-size:0.88rem;color:var(--secondary);margin:0.4rem 0;line-height:1.5}
+.book-card-btn{display:inline-block;margin-top:0.5rem;padding:0.35rem 0.8rem;background:var(--tertiary);color:var(--primary);border-radius:4px;font-size:0.85rem;text-decoration:none;width:fit-content;transition:background .2s}
+.book-card-btn:hover{background:var(--border)}
+@media(max-width:500px){.book-card{flex-direction:column;align-items:center;text-align:center}.book-card-img{width:100px}}
