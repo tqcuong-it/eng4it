@@ -196,3 +196,66 @@ Band ước tính: ___
 ```
 
 > 💡 **Tip:** So sánh với kết quả Listening hôm qua — kỹ năng nào tốt hơn? Ngày mai sẽ là Writing!
+
+---
+
+## ✅ Đáp án — Reading Mock Test 1
+
+{{< spoiler "Bấm để xem đáp án" >}}
+
+### Passage 1 — Câu 1-13
+
+| Câu | Đáp án |
+|-----|--------|
+| 1 | TRUE |
+| 2 | FALSE |
+| 3 | NOT GIVEN |
+| 4 | TRUE |
+| 5 | FALSE |
+| 6 | carbon dioxide |
+| 7 | fossil fuels |
+| 8 | temperature |
+| 9 | sea level |
+| 10 | D |
+| 11 | B |
+| 12 | A |
+| 13 | C |
+
+### Passage 2 — Câu 14-26
+
+| Câu | Đáp án |
+|-----|--------|
+| 14 | vi |
+| 15 | ii |
+| 16 | viii |
+| 17 | iv |
+| 18 | i |
+| 19 | vii |
+| 20 | ecosystem |
+| 21 | biodiversity |
+| 22 | habitat |
+| 23 | species |
+| 24 | TRUE |
+| 25 | NOT GIVEN |
+| 26 | FALSE |
+
+### Passage 3 — Câu 27-40
+
+| Câu | Đáp án |
+|-----|--------|
+| 27 | C |
+| 28 | A |
+| 29 | D |
+| 30 | B |
+| 31 | cognitive |
+| 32 | neural pathways |
+| 33 | memory |
+| 34 | attention |
+| 35 | B |
+| 36 | D |
+| 37 | A |
+| 38 | C |
+| 39 | YES |
+| 40 | NO |
+
+{{< /spoiler >}}

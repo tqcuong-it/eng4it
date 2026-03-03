@@ -28,6 +28,12 @@ Hôm nay thi **2 kỹ năng liên tiếp** — giống ngày thi thật!
 
 ## 🎧 Listening — Mock Test 2 (30 phút)
 
+> 🎧 **Bấm play và làm bài:**
+
+{{< youtube "R18LH4MTwpk" >}}
+
+> ⏱️ 30 phút — nghe **1 lần duy nhất!** Không dừng, không tua lại.
+
 ### Section 1: Conversation — Đăng ký khóa học bơi
 
 **Câu 1-6: Form Completion**

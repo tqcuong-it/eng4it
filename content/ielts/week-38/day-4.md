@@ -30,6 +30,12 @@ draft: false
 
 ## 🎧 Listening — Mock Test 3 (30 phút)
 
+> 🎧 **Bấm play và làm bài:**
+
+{{< youtube "yNt4oyUM6NI" >}}
+
+> ⏱️ 30 phút — nghe **1 lần duy nhất!**
+
 ### Section 1: Conversation — Thuê căn hộ
 
 **Câu 1-6: Form Completion**
