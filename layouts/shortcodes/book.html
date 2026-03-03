@@ -4,6 +4,8 @@
 {{- $tag := "cuongtq-22" -}}
 {{- $img := printf "https://m.media-amazon.com/images/P/%s.01._SCLZZZZZZZ_SX200_.jpg" $asin -}}
 {{- $link := printf "https://www.amazon.co.jp/dp/%s?tag=%s" $asin $tag -}}
+{{- $tiki := printf "https://tiki.vn/search?q=%s" (querify "q" $title | strings.TrimPrefix "q=") -}}
+{{- $shopee := printf "https://shopee.vn/search?keyword=%s" (querify "q" $title | strings.TrimPrefix "q=") -}}
 <div class="book-card">
   <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-img">
     <img src="{{ $img }}" alt="{{ $title }}" loading="lazy" />
@@ -11,6 +13,10 @@
   <div class="book-card-info">
     <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-title">{{ $title }}</a>
     <p class="book-card-desc">{{ $desc }}</p>
-    <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-btn">🛒 Mua trên Amazon</a>
+    <div class="book-card-links">
+      <a href="{{ $link }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-btn btn-amazon">🇯🇵 Amazon JP</a>
+      <a href="{{ $tiki }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-btn btn-tiki">🇻🇳 Tiki</a>
+      <a href="{{ $shopee }}" target="_blank" rel="noopener noreferrer nofollow" class="book-card-btn btn-shopee">🇻🇳 Shopee</a>
+    </div>
   </div>
 </div>

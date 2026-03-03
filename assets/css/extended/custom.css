@@ -24,3 +24,12 @@ ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
 .book-card-btn{display:inline-block;margin-top:0.5rem;padding:0.35rem 0.8rem;background:var(--tertiary);color:var(--primary);border-radius:4px;font-size:0.85rem;text-decoration:none;width:fit-content;transition:background .2s}
 .book-card-btn:hover{background:var(--border)}
 @media(max-width:500px){.book-card{flex-direction:column;align-items:center;text-align:center}.book-card-img{width:100px}}
+
+/* Book Card Links */
+.book-card-links{display:flex;gap:0.4rem;flex-wrap:wrap;margin-top:0.5rem}
+.btn-amazon{background:#ff9900!important;color:#111!important}
+.btn-amazon:hover{background:#e88a00!important}
+.btn-tiki{background:#1a94ff!important;color:#fff!important}
+.btn-tiki:hover{background:#0d7fe8!important}
+.btn-shopee{background:#ee4d2d!important;color:#fff!important}
+.btn-shopee:hover{background:#d4421f!important}
