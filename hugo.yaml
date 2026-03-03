@@ -69,18 +69,21 @@ menu:
     - name: "Luyện Đọc"
       url: /reading/
       weight: 2
+    - name: "Sách"
+      url: /books/
+      weight: 3
     - name: "Bài viết"
       url: /posts/
-      weight: 3
+      weight: 4
     - name: "Chủ đề"
       url: /tags/
-      weight: 4
+      weight: 5
     - name: "Tìm kiếm"
       url: /search/
-      weight: 5
+      weight: 6
     - name: "Tác giả"
       url: /about/
-      weight: 6
+      weight: 7
   footer:
     - name: "Privacy Policy"
       url: /privacy/
