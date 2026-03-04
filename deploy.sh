@@ -15,7 +15,7 @@ cd "$SITE_DIR"
 $HUGO_BIN --minify --buildFuture
 
 echo "🚀 Deploying..."
-wrangler pages deploy public --project-name eng4it --commit-message "${1:-auto deploy}" --commit-dirty=true
+npx wrangler pages deploy public --project-name eng4it --commit-message "${1:-auto deploy}" --commit-dirty=true
 
 echo "📦 Pushing to GitHub..."
 git add -A
