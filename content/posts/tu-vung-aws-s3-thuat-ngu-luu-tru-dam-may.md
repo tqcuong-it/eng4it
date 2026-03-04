@@ -84,3 +84,20 @@ draft: false
 ## Tổng kết
 
 S3 là service "không thể thiếu" trên AWS — hiểu 14 thuật ngữ trên sẽ giúp bạn tự tin hơn khi làm việc với storage, đọc hiểu AWS docs, và giải thích kiến trúc cho team. Bài tiếp theo mình sẽ cùng học về AWS Lambda — thế giới serverless! ⚡
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+- [Cloud Computing Cơ Bản — Thuật Ngữ Đám Mây Cho Developer](/posts/tu-vung-cloud-computing-co-ban/)
+- [AWS ECS & EKS — Thuật Ngữ Container & Kubernetes Bằng Tiếng Anh](/posts/tu-vung-aws-ecs-eks-container-kubernetes/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

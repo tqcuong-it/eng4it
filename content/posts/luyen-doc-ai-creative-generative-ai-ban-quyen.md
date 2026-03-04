@@ -126,3 +126,20 @@ Các nhà quan sát trong ngành dự đoán rằng việc giải quyết các t
 4. **transparency** — sự minh bạch
 5. **attribution** — sự ghi công, ghi nguồn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [The rise of AI infrastructure — GPU shortage và cuộc đua data](/posts/luyen-doc-ai-infrastructure-gpu-shortage-data-center/)
+- [Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT](/posts/luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai/)
+- [Nghịch lý nghiên cứu an toàn AI — làm AI an toàn hơn có thể](/posts/luyen-doc-ai-safety-paradox-nghich-ly-an-toan-ai/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -84,3 +84,20 @@ draft: false
 ## Tổng kết
 
 Lambda là trái tim của serverless architecture trên AWS. Nắm vững 14 thuật ngữ trên giúp bạn hiểu rõ cách Lambda hoạt động, tối ưu hiệu năng, và trao đổi chuyên nghiệp với team. Bài tiếp theo mình sẽ học về AWS RDS — thuật ngữ database trên cloud! 🗄️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS SQS & SNS — Thuật Ngữ Message Queue Cho Developer](/posts/tu-vung-aws-sqs-sns-message-queue/)
+- [AWS Route 53 & API Gateway — Thuật Ngữ DNS & API Bằng Tiếng Anh](/posts/tu-vung-aws-route53-api-gateway-dns-api/)
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

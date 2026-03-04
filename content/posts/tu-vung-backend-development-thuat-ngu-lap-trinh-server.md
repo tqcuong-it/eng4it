@@ -82,3 +82,11 @@ Backend là "bộ não" phía sau mọi ứng dụng — xử lý logic, lưu tr
 ## 🎯 Tổng kết
 
 Backend development xoay quanh việc xây dựng hệ thống ổn định, bảo mật và hiệu quả. 14 thuật ngữ này là nền tảng bạn sẽ gặp hàng ngày — từ viết API, quản lý database đến thiết kế kiến trúc xử lý nền. Master chúng để tự tin hơn khi đọc docs và thảo luận technical! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Mobile Development — 13 Thuật Ngữ Lập Trình Di Động Developer Cần Biết](/posts/tu-vung-mobile-development-thuat-ngu-lap-trinh-di-dong/)
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)

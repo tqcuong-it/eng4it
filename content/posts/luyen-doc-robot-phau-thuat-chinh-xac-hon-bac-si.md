@@ -95,3 +95,20 @@ Tuy nhiên, các chuyên gia cho biết nếu bệnh viện muốn sử dụng n
 3. **trial** — thử nghiệm cho thấy thuốc hiệu quả
 4. **recovered** — hồi phục nhanh
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Xe tự lái Waymo bắt đầu chạy thương mại](/posts/luyen-doc-waymo-xe-tu-lai-thuong-mai/)
+- [Ransomware tấn công bệnh viện — hậu quả nghiêm trọng](/posts/luyen-doc-ransomware-tan-cong-benh-vien/)
+- [Bài 151: AI-Powered Drug Discovery — AI Tìm Thuốc Mới Nhanh Hơn](/posts/luyen-doc-ai-powered-drug-discovery-ai-pharma/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

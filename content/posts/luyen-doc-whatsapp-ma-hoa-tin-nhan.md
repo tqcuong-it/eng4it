@@ -74,3 +74,20 @@ WhatsApp đã làm tin nhắn an toàn hơn. Ứng dụng hiện sử dụng mã
 2. **privacy** — quyền riêng tư
 3. **automatically** — tự động
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Biometric Authentication — Nhận diện khuôn mặt thay mật khẩu](/posts/luyen-doc-biometric-authentication-security/)
+- [Privacy-enhancing technologies — federated learning,](/posts/luyen-doc-privacy-enhancing-technologies-pets/)
+- [Nhật Bản ra luật bảo vệ dữ liệu mới](/posts/luyen-doc-nhat-ban-luat-bao-ve-du-lieu/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -76,3 +76,20 @@ Một công ty Nhật Bản đang thử nghiệm robot giao hàng trên đườn
 2. **sensors** — cảm biến
 3. **launch** — ra mắt
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [LG ra robot dọn nhà](/posts/luyen-doc-lg-ra-robot-don-nha/)
+- [Amazon drone giao hàng — Giao hàng bằng drone trong 30 phút](/posts/luyen-doc-amazon-drone-giao-hang/)
+- [Uber dùng xe tự lái](/posts/luyen-doc-uber-xe-tu-lai/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

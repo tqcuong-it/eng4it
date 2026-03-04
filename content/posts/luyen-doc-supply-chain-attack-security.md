@@ -98,3 +98,20 @@ Các tổ chức được thúc giục kiểm tra ngay các thư viện phụ th
 3. **sophisticated** — tinh vi
 4. **framework** / **mitigate** — khung / giảm thiểu
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Biometric Authentication — Nhận diện khuôn mặt thay mật khẩu](/posts/luyen-doc-biometric-authentication-security/)
+- [Ransomware-as-a-Service — hacker bán công cụ tấn công](/posts/luyen-doc-ransomware-as-a-service-raas/)
+- [Quantum-safe encryption — mã hóa chống máy tính lượng tử](/posts/luyen-doc-quantum-safe-encryption-ma-hoa-luong-tu/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

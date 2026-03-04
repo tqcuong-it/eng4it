@@ -414,3 +414,11 @@ Hãy bookmark template ở phần 3 và dùng cho email progress report tiếp t
 ---
 
 *Bạn thấy bài viết hữu ích? Hãy chia sẻ cho đồng nghiệp developer cùng đọc!*
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cách viết Bug Report bằng tiếng Anh — Template & Từ vựng cho Developer](/posts/cach-viet-bug-report-bang-tieng-anh/)
+- [Tiếng Anh trong 1-on-1 Meeting với Manager](/posts/tieng-anh-trong-1-on-1-meeting-voi-manager/)
+- [Cách viết Weekly Report / Progress Update bằng tiếng Anh](/posts/cach-viet-weekly-report-progress-update-bang-tieng-anh/)

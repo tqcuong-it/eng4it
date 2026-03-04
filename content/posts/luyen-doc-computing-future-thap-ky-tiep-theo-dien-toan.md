@@ -130,3 +130,20 @@ Không chỉ ngành điện toán phải điều hướng các chuyển đổi c
 4. **render...obsolete** — khiến lỗi thời
 5. **prescient** — có tầm nhìn xa
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Nghịch lý nghiên cứu an toàn AI — làm AI an toàn hơn có thể](/posts/luyen-doc-ai-safety-paradox-nghich-ly-an-toan-ai/)
+- [Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn](/posts/luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do/)
+- [The intersection of AI and climate change — opportunities and](/posts/luyen-doc-ai-climate-change-opportunities-risks/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

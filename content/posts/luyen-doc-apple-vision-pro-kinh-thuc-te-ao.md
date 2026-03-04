@@ -87,3 +87,20 @@ Kính đã nhận được đánh giá trái chiều vì nó rất đắt. Giá 
 2. **partnered** — hợp tác
 3. **exclusive** — độc quyền
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Metaverse — thế giới ảo có thật sự cần thiết?](/posts/luyen-doc-metaverse-the-gioi-ao-co-can-thiet/)
+- [Nintendo ra game mới — The Legend of Zelda phá kỷ lục doanh số](/posts/luyen-doc-nintendo-ra-game-moi/)
+- [Chip M3 của Apple nhanh hơn bao nhiêu?](/posts/luyen-doc-chip-m3-apple-nhanh-hon/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

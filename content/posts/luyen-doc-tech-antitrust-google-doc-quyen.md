@@ -101,3 +101,20 @@ Các nhà phân tích pháp lý dự đoán rằng nếu tòa án phán quyết 
 3. **anti-competitive** / **competitors** — phản cạnh tranh / đối thủ cạnh tranh
 4. **verdict** / **divest** — phán quyết / thoái vốn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Right to Repair — Quyền tự sửa thiết bị điện tử](/posts/luyen-doc-right-to-repair-consumer-rights/)
+- [Cuộc chiến chip: TSMC, Samsung, Intel](/posts/luyen-doc-cuoc-chien-chip-tsmc-samsung-intel/)
+- [OpenAI và Google chạy đua phát triển AGI](/posts/luyen-doc-openai-google-agi-race/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

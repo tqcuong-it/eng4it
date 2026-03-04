@@ -120,3 +120,20 @@ Những người hoài nghi cảnh báo rằng PETs không phải thuốc chữa
 4. **encrypted** — được mã hóa trước khi lưu
 5. **panacea** — thuốc chữa bách bệnh cho mọi vấn đề privacy
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Nhật Bản ra luật bảo vệ dữ liệu mới](/posts/luyen-doc-nhat-ban-luat-bao-ve-du-lieu/)
+- [Quantum-safe encryption — mã hóa chống máy tính lượng tử](/posts/luyen-doc-quantum-safe-encryption-ma-hoa-luong-tu/)
+- [Cybersecurity insurance — bảo hiểm an ninh mạng tăng vọt](/posts/luyen-doc-cybersecurity-insurance-bao-hiem-an-ninh-mang/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

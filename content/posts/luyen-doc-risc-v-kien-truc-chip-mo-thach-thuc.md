@@ -114,3 +114,20 @@ Nếu ARM mất đi sự kiểm soát chặt trên thị trường chip di độ
 3. **viable** — khả thi
 4. **tailored** — được tùy chỉnh
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AI regulation worldwide — mỗi nước một kiểu quản lý](/posts/luyen-doc-ai-regulation-worldwide-quan-ly-ai-toan-cau/)
+- [Technical Due Diligence — Đánh giá công nghệ trước khi mua](/posts/luyen-doc-technical-due-diligence-danh-gia-cong-nghe-startup/)
+- [AI hallucination — khi ChatGPT bịa thông tin](/posts/luyen-doc-ai-hallucination-chatgpt-bia-thong-tin/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

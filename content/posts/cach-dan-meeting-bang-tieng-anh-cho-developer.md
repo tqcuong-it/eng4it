@@ -241,3 +241,11 @@ Dẫn meeting bằng tiếng Anh không khó nếu bạn có **cấu trúc rõ r
 - 📝 **Kết thúc cụ thể** — action items có người phụ trách và deadline
 
 Chúc bạn tự tin dẫn meeting như một pro! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Tiếng Anh trong Retrospective / Sprint Review](/posts/tieng-anh-trong-retrospective-sprint-review/)
+- [Cách viết Daily Standup Report bằng tiếng Anh](/posts/cach-viet-daily-standup-report-bang-tieng-anh/)
+- [Tiếng Anh trong 1-on-1 Meeting với Manager](/posts/tieng-anh-trong-1-on-1-meeting-voi-manager/)

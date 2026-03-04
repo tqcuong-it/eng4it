@@ -130,3 +130,20 @@ Con đường hướng tới cơ sở hạ tầng số bền vững hơn tồn t
 4. **attributed** — quy cho
 5. **concerted** — phối hợp, đồng lòng
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn](/posts/luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do/)
+- [Từ Web2 đến Web3 rồi quay lại — bài học từ thí nghiệm phi tập](/posts/luyen-doc-web3-retrospective-bai-hoc-phi-tap-trung/)
+- [Bài 152: Sovereign Cloud — Chính Phủ Tự Xây Cloud Riêng](/posts/luyen-doc-sovereign-cloud-chinh-phu-xay-cloud-rieng/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

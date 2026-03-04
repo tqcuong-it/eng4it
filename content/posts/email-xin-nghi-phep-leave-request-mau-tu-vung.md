@@ -278,3 +278,11 @@ Lưu lại các mẫu email trên và customize theo tình huống của bạn. 
 ---
 
 *Bài viết thuộc series [Workplace English](/categories/workplace-english/) — Tiếng Anh cho dân IT đi làm.*
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Mẫu Câu Tiếng Anh Trong Công Việc Thường Ngày Của Developer](/posts/50-email-phrases-for-developers/)
+- [30 câu hỏi & trả lời trong Code Review bằng tiếng Anh](/posts/30-cau-hoi-tra-loi-trong-code-review-bang-tieng-anh/)
+- [20 câu nói trong Sprint Planning Meeting bằng tiếng Anh](/posts/20-cau-noi-trong-sprint-planning-meeting-bang-tieng-anh/)

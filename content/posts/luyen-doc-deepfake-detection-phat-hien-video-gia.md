@@ -102,3 +102,20 @@ Mức độ rủi ro đặc biệt cao trong các mùa bầu cử, nơi mà mộ
 3. **manipulated** — bị chỉnh sửa, thao túng
 4. **misinformation** — thông tin sai lệch
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Biometric Authentication — Nhận diện khuôn mặt thay mật khẩu](/posts/luyen-doc-biometric-authentication-security/)
+- [Bài 147: Passkey thay thế password — Tương lai không mật khẩu](/posts/luyen-doc-passkey-thay-the-password-tuong-lai-khong-mat-khau/)
+- [Ransomware-as-a-Service — hacker bán công cụ tấn công](/posts/luyen-doc-ransomware-as-a-service-raas/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

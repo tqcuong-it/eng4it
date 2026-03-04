@@ -87,3 +87,20 @@ GPT-5 có sẵn thông qua API, và các lập trình viên có thể tích hợ
 2. **integrate** — tích hợp vào ứng dụng
 3. **released** — phát hành phiên bản mới
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Google Pixel và AI chụp ảnh](/posts/luyen-doc-google-pixel-ai-chup-anh/)
+- [Vector Database và AI Search — Pinecone, Weaviate](/posts/luyen-doc-vector-database-ai-search/)
+- [Uber dùng xe tự lái](/posts/luyen-doc-uber-xe-tu-lai/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

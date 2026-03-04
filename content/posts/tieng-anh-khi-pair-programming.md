@@ -215,3 +215,11 @@ Pair Programming không chỉ là viết code — đó là **giao tiếp liên t
 **Nhớ 3 nguyên tắc:** Think out loud — Suggest, don't dictate — Swap regularly.
 
 Chúc bạn có những buổi pair programming thật productive! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Tiếng Anh trong Job Interview cho Developer](/posts/tieng-anh-trong-job-interview-cho-developer/)
+- [Tiếng Anh trong Retrospective / Sprint Review](/posts/tieng-anh-trong-retrospective-sprint-review/)
+- [Tiếng Anh trong 1-on-1 Meeting với Manager](/posts/tieng-anh-trong-1-on-1-meeting-voi-manager/)

@@ -122,3 +122,20 @@ Làn sóng AI cũng thúc đẩy hàng loạt thương vụ mua lại nhỏ hơn
 4. **abandoned** — bị hủy bỏ
 5. **leverage** — tận dụng
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT](/posts/luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai/)
+- [Bài 143: China vs US Tech War — Hạn chế xuất khẩu chip](/posts/luyen-doc-china-us-tech-war-han-che-xuat-khau-chip/)
+- [Bài 153: Prompt Engineering — Nghề Mới Hot Nhất 2024](/posts/luyen-doc-prompt-engineering-nghe-moi-hot-nhat/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

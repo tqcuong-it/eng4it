@@ -133,3 +133,20 @@ Sự đồng thuận giữa các chuyên gia dường như là lạc quan thận
 4. **greenwashing** — tẩy xanh
 5. **accountability** — trách nhiệm giải trình
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Sustainable AI — làm sao để AI không tốn quá nhiều năng lượng](/posts/luyen-doc-sustainable-ai-green-ai-tiet-kiem-nang-luong/)
+- [Chi phí môi trường của đời sống số — trung tâm dữ liệu, crypto](/posts/luyen-doc-digital-carbon-footprint-chi-phi-moi-truong/)
+- [Carbon footprint của AI — chi phí môi trường](/posts/luyen-doc-carbon-footprint-ai-chi-phi-moi-truong/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

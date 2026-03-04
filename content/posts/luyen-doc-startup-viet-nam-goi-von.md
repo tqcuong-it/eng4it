@@ -87,3 +87,20 @@ Ngành công nghệ Việt Nam đã thu hút nhiều nhà đầu tư nước ngo
 2. **funding** — vốn đầu tư
 3. **expanded** — mở rộng
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [PayPal cho phép mua crypto](/posts/luyen-doc-paypal-cho-phep-mua-crypto/)
+- [Bài 139: Open banking API — ngân hàng mở và fintech revolution](/posts/luyen-doc-open-banking-api-ngan-hang-mo/)
+- [Digital wallet thay thế ví truyền thống](/posts/luyen-doc-digital-wallet-thay-the-vi-truyen-thong/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

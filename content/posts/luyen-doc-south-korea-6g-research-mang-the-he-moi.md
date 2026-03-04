@@ -102,3 +102,20 @@ Trong khi đó, Trung Quốc, Nhật Bản và Liên minh châu Âu cũng đã t
 3. **spectrum** — phổ tần
 4. **infrastructure** / **telecommunications** — hạ tầng / viễn thông
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [5G phủ sóng toàn cầu](/posts/luyen-doc-5g-phu-song-toan-cau/)
+- [Bài 179: The dark web economy — kinh tế ngầm trên dark web](/posts/luyen-doc-cybersecurity-dark-web-economy/)
+- [WiFi 7 là gì?](/posts/luyen-doc-wifi-7-la-gi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

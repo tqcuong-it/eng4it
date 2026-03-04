@@ -85,3 +85,20 @@ Nếu bạn làm việc với cloud, đặc biệt là AWS, thì **EC2 (Elastic 
 ## Tổng kết
 
 EC2 là nền tảng compute của AWS — hiểu rõ 15 thuật ngữ trên sẽ giúp bạn tự tin hơn khi đọc documentation, trao đổi với team, hay trả lời câu hỏi phỏng vấn về cloud. Hãy thử dùng những từ này trong daily standup hoặc khi viết technical docs nhé! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+- [Cloud Computing Cơ Bản — Thuật Ngữ Đám Mây Cho Developer](/posts/tu-vung-cloud-computing-co-ban/)
+- [AWS ECS & EKS — Thuật Ngữ Container & Kubernetes Bằng Tiếng Anh](/posts/tu-vung-aws-ecs-eks-container-kubernetes/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

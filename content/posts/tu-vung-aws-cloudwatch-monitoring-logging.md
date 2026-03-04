@@ -76,3 +76,20 @@ draft: false
 ## Tổng Kết
 
 Monitoring không phải "nice-to-have" — nó là **must-have** cho bất kỳ hệ thống production nào. 11 thuật ngữ CloudWatch trên sẽ giúp bạn setup observability stack, debug incident, và communicate hiệu quả khi on-call. Remember: **"No metrics, no alerts, no sleep"** 📊🔔
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+- [Cloud Computing Cơ Bản — Thuật Ngữ Đám Mây Cho Developer](/posts/tu-vung-cloud-computing-co-ban/)
+- [AWS ECS & EKS — Thuật Ngữ Container & Kubernetes Bằng Tiếng Anh](/posts/tu-vung-aws-ecs-eks-container-kubernetes/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

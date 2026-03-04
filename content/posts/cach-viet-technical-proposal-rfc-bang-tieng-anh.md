@@ -237,3 +237,11 @@ Viết Technical Proposal / RFC tốt là kỹ năng giúp bạn **thăng tiến
 **Nhớ 3 nguyên tắc:** Problem có data — Solution có trade-offs — Timeline có milestones.
 
 Chúc bạn viết proposal ngày càng thuyết phục! 📝
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cách viết Weekly Report / Progress Update bằng tiếng Anh](/posts/cach-viet-weekly-report-progress-update-bang-tieng-anh/)
+- [Cách viết Pull Request Description bằng tiếng Anh](/posts/cach-viet-pull-request-description-bang-tieng-anh/)
+- [Cách viết Slack/Teams message chuyên nghiệp bằng tiếng Anh](/posts/cach-viet-slack-teams-message-chuyen-nghiep-bang-tieng-anh/)

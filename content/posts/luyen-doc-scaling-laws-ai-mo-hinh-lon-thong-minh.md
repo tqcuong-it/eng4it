@@ -122,3 +122,20 @@ Không nơi nào căng thẳng giữa lạc quan scaling và ràng buộc thực
 4. **undertrained** — huấn luyện chưa đủ
 5. **diminishing returns** — lợi ích giảm dần
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [The rise of AI infrastructure — GPU shortage và cuộc đua data](/posts/luyen-doc-ai-infrastructure-gpu-shortage-data-center/)
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+- [Right to Repair — Quyền tự sửa thiết bị điện tử](/posts/luyen-doc-right-to-repair-consumer-rights/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

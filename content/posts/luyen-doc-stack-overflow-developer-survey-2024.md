@@ -95,3 +95,20 @@ Khảo sát cũng tiết lộ rằng 76% lập trình viên hiện sử dụng c
 3. **salary** — lương sẽ tăng
 4. **community** — cộng đồng lập trình viên
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Rust ngôn ngữ yêu thích nhất 7 năm liên tiếp](/posts/luyen-doc-rust-ngon-ngu-yeu-thich-nhat/)
+- [Figma bị Adobe mua lại — cộng đồng design phản đối](/posts/luyen-doc-figma-adobe-mua-lai-cong-dong-phan-doi/)
+- [SpaceX phóng vệ tinh internet cho vùng xa](/posts/luyen-doc-spacex-phong-ve-tinh-internet-vung-xa/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

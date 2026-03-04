@@ -209,3 +209,11 @@ Retro và Sprint Review là cơ hội để team **học hỏi và phát triển
 - ✅ **Action items rõ ràng** — Ai làm, làm gì, khi nào xong
 
 Chúc bạn tự tin hơn trong mỗi buổi retro! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Tiếng Anh trong Job Interview cho Developer](/posts/tieng-anh-trong-job-interview-cho-developer/)
+- [Tiếng Anh khi Pair Programming](/posts/tieng-anh-khi-pair-programming/)
+- [Cách dẫn Meeting bằng tiếng Anh cho Developer](/posts/cach-dan-meeting-bang-tieng-anh-cho-developer/)

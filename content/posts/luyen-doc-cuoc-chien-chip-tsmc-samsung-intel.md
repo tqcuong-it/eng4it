@@ -106,3 +106,20 @@ Khi nhu cầu chip AI tiếp tục tăng mạnh, kết quả của cuộc chiế
 3. **dependence** — sự phụ thuộc
 4. **subsidies** — trợ cấp
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Apple ngừng hỗ trợ Lightning, chuyển sang USB-C](/posts/luyen-doc-apple-lightning-usb-c/)
+- [Hàn Quốc đầu tư lớn vào chip bán dẫn](/posts/luyen-doc-han-quoc-semiconductor-investment/)
+- [Rust ngôn ngữ yêu thích nhất 7 năm liên tiếp](/posts/luyen-doc-rust-ngon-ngu-yeu-thich-nhat/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

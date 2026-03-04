@@ -75,3 +75,20 @@ Viết code giỏi thôi chưa đủ — developer còn cần biết làm việc
 ## Tổng kết
 
 Làm việc nhóm hiệu quả là kỹ năng quan trọng không kém viết code. Nắm vững các thuật ngữ collaboration giúp bạn tham gia thảo luận tự tin hơn và trở thành team player mà ai cũng muốn làm việc cùng. Teamwork makes the dream work! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Daily Standup — 13 Thuật Ngữ Họp Hàng Ngày Mà Developer Cần Biết](/posts/tu-vung-daily-standup-hop-hang-ngay/)
+- [Remote Work — 14 Thuật Ngữ Làm Việc Từ Xa Mọi Developer Cần Biết](/posts/tu-vung-remote-work-lam-viec-tu-xa/)
+- [Client Communication — 14 Thuật Ngữ Giao Tiếp Khách Hàng Cho Developer](/posts/tu-vung-client-communication-giao-tiep-khach-hang/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

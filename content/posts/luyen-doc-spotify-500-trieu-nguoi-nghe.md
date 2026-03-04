@@ -84,3 +84,20 @@ Công ty cho biết podcast cũng rất phổ biến trên nền tảng. Ngày c
 2. **milestone** — cột mốc
 3. **ads** — quảng cáo
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Google cập nhật trình duyệt Chrome](/posts/luyen-doc-google-cap-nhat-chrome/)
+- [Microsoft ra mắt laptop Surface mới — Thiết kế mỏng hơn, mạnh hơn](/posts/luyen-doc-microsoft-surface-laptop-moi/)
+- [Samsung ra mắt TV mới tại CES](/posts/luyen-doc-samsung-ra-mat-tv-moi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

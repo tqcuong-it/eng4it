@@ -76,3 +76,20 @@ Khi hệ thống lớn dần, các service cần "nói chuyện" với nhau mà 
 ## Tổng kết
 
 SQS và SNS là hai dịch vụ messaging nền tảng của AWS. Hiểu rõ các thuật ngữ như **queue**, **dead-letter queue**, **fan-out** sẽ giúp bạn tự tin hơn khi thiết kế hệ thống distributed và đọc tài liệu AWS. Hãy thử áp dụng ngay vào project tiếp theo nhé! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS Route 53 & API Gateway — Thuật Ngữ DNS & API Bằng Tiếng Anh](/posts/tu-vung-aws-route53-api-gateway-dns-api/)
+- [AWS Lambda — Thuật Ngữ Serverless Mà Developer Cần Nắm Vững](/posts/tu-vung-aws-lambda-thuat-ngu-serverless/)
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

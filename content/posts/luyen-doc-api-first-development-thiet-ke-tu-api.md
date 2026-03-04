@@ -123,3 +123,20 @@ Quá trình chuyển đổi không phải không có ma sát. Các team cũ quen
 4. **deprecation** — ngừng hỗ trợ
 5. **bottleneck** — nút thắt cổ chai
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [The state of WebAssembly — từ browser đến server-side (WASM](/posts/luyen-doc-webassembly-wasm-ecosystem/)
+- [Low-code/No-code platform cho người không biết code](/posts/luyen-doc-low-code-no-code-platform-citizen-developer/)
+- [Microservices vs Monolith — khi nào nên chuyển đổi?](/posts/luyen-doc-microservices-vs-monolith-kien-truc/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

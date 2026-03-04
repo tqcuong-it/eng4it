@@ -76,3 +76,20 @@ Mobile app đang chiếm hơn 50% traffic internet toàn cầu. Dù bạn là we
 ---
 
 Mobile development đang ngày càng phổ biến với nhiều framework mạnh mẽ. Nắm vững 13 thuật ngữ này giúp bạn tự tin khi làm việc với mobile team hoặc bắt đầu hành trình lập trình di động. Ship it! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Backend Development — 14 Thuật Ngữ Lập Trình Server Developer Phải Biết](/posts/tu-vung-backend-development-thuat-ngu-lap-trinh-server/)
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

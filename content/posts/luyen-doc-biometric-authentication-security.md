@@ -98,3 +98,20 @@ Tuy nhiên, những người bảo vệ quyền riêng tư đã đưa ra những
 3. **vulnerable** — dễ bị tấn công
 4. **misusing** / **surveillance** — lạm dụng / giám sát
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Deepfake detection — AI phát hiện video giả](/posts/luyen-doc-deepfake-detection-phat-hien-video-gia/)
+- [Ransomware-as-a-Service — hacker bán công cụ tấn công](/posts/luyen-doc-ransomware-as-a-service-raas/)
+- [Supply Chain Attack — Hacker nhắm vào chuỗi cung ứng phần mềm](/posts/luyen-doc-supply-chain-attack-security/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -78,3 +78,20 @@ Git là công cụ quản lý mã nguồn mà **developer nào cũng phải dùn
 ## Tổng kết
 
 Git là công cụ bạn dùng **mỗi ngày**, nên việc hiểu rõ thuật ngữ tiếng Anh sẽ giúp bạn đọc docs, trao đổi với team, và debug hiệu quả hơn. Hãy thử dùng `git blame` và `git stash` nếu chưa quen — hai lệnh này cực kỳ hữu ích! 🔥
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Performance Review — 13 Thuật Ngữ Đánh Giá Hiệu Suất Developer Cần Biết](/posts/tu-vung-performance-review-danh-gia-hieu-suat/)
+- [Release & Deployment — 12 Thuật Ngữ Phát Hành Phần Mềm Developer Cần Biết](/posts/tu-vung-release-deployment-phat-hanh-phan-mem/)
+- [Code Review — 14 Thuật Ngữ Review Code Mọi Developer Phải Biết](/posts/tu-vung-code-review-thuat-ngu-review-code/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

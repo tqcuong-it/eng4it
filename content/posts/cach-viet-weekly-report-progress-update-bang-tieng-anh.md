@@ -315,3 +315,11 @@ Weekly Report tốt giúp manager **tin tưởng** bạn, stakeholders **nắm t
 **Nhớ 3 nguyên tắc:** Highlight wins — Be honest about blockers — Clear next steps.
 
 Chúc bạn viết weekly report ngày càng pro! 📊
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cách viết Pull Request Description bằng tiếng Anh](/posts/cach-viet-pull-request-description-bang-tieng-anh/)
+- [Cách viết Slack/Teams message chuyên nghiệp bằng tiếng Anh](/posts/cach-viet-slack-teams-message-chuyen-nghiep-bang-tieng-anh/)
+- [Cách viết Technical Proposal / RFC bằng tiếng Anh](/posts/cach-viet-technical-proposal-rfc-bang-tieng-anh/)

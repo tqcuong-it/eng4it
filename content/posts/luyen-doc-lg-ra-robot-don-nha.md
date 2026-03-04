@@ -76,3 +76,20 @@ LG đã công bố một robot gia đình mới. Robot có thể tự dọn dẹ
 2. **control** — điều khiển
 3. **announced** — công bố
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Robot giao hàng tại Nhật Bản](/posts/luyen-doc-robot-giao-hang-nhat-ban/)
+- [Amazon drone giao hàng — Giao hàng bằng drone trong 30 phút](/posts/luyen-doc-amazon-drone-giao-hang/)
+- [WiFi 7 là gì?](/posts/luyen-doc-wifi-7-la-gi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

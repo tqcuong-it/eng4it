@@ -77,3 +77,20 @@ Code review là kỹ năng quan trọng không kém viết code. Một PR tốt 
 ---
 
 Code review không chỉ là tìm bug — nó là cơ hội để team học hỏi lẫn nhau và nâng cao chất lượng code. Nắm vững 14 thuật ngữ này giúp bạn review và nhận review chuyên nghiệp hơn. Happy reviewing! ✅
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Performance Review — 13 Thuật Ngữ Đánh Giá Hiệu Suất Developer Cần Biết](/posts/tu-vung-performance-review-danh-gia-hieu-suat/)
+- [Release & Deployment — 12 Thuật Ngữ Phát Hành Phần Mềm Developer Cần Biết](/posts/tu-vung-release-deployment-phat-hanh-phan-mem/)
+- [Monitoring & Observability — 15 Thuật Ngữ Giám Sát Hệ Thống Developer Cần Biết](/posts/tu-vung-monitoring-thuat-ngu-giam-sat-he-thong/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

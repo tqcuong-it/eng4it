@@ -281,3 +281,11 @@ Viết Slack/Teams message hay là nghệ thuật **truyền đạt đủ thông
 - 📱 **Format đẹp** — Bullet points, emoji, thread
 
 Chúc bạn chat như một pro! 💬
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cách viết Weekly Report / Progress Update bằng tiếng Anh](/posts/cach-viet-weekly-report-progress-update-bang-tieng-anh/)
+- [Cách viết Pull Request Description bằng tiếng Anh](/posts/cach-viet-pull-request-description-bang-tieng-anh/)
+- [Cách viết Technical Proposal / RFC bằng tiếng Anh](/posts/cach-viet-technical-proposal-rfc-bang-tieng-anh/)

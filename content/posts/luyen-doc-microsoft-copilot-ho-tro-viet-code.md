@@ -87,3 +87,20 @@ Tuy nhiên, một số lập trình viên đã lo ngại về chất lượng co
 2. **functions** — hàm
 3. **programming languages** — ngôn ngữ lập trình
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Deepfake — video giả mạo ngày càng nguy hiểm](/posts/luyen-doc-deepfake-video-gia-mao-nguy-hiem/)
+- [AI regulation worldwide — mỗi nước một kiểu quản lý](/posts/luyen-doc-ai-regulation-worldwide-quan-ly-ai-toan-cau/)
+- [Retrieval-Augmented Generation (RAG) — Giải pháp cho AI](/posts/luyen-doc-rag-giai-phap-ai-hallucination/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

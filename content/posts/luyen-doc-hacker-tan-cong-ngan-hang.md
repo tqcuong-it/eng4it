@@ -87,3 +87,20 @@ Ngân hàng đã thuê một đội an ninh mạng để điều tra vụ tấn 
 2. **phishing** — lừa đảo qua email
 3. **investigate** — điều tra
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Ransomware tấn công bệnh viện — hậu quả nghiêm trọng](/posts/luyen-doc-ransomware-tan-cong-benh-vien/)
+- [Zero trust security — không tin ai, xác thực mọi thứ](/posts/luyen-doc-zero-trust-security-xac-thuc-moi-thu/)
+- [Bài 142: Software Supply Chain Security — Bảo mật từ dependency](/posts/luyen-doc-software-supply-chain-security-bao-mat-dependency/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

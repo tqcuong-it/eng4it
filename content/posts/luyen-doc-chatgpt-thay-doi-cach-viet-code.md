@@ -96,3 +96,20 @@ Tuy nhiên, các chuyên gia cảnh báo rằng nếu lập trình viên phụ t
 3. **rely** — phụ thuộc
 4. **review** — đánh giá, xem xét
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Robot phẫu thuật chính xác hơn bác sĩ](/posts/luyen-doc-robot-phau-thuat-chinh-xac-hon-bac-si/)
+- [Bài 148: Autonomous Coding Agents — AI software engineer](/posts/luyen-doc-autonomous-coding-agents-ai-software-engineer/)
+- [Notion ra AI assistant tích hợp](/posts/luyen-doc-notion-ai-assistant/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

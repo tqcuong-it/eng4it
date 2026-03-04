@@ -115,3 +115,20 @@ Những người ủng hộ phản bác rằng vai trò này sẽ tiến hóa ch
 3. **diminish** — giảm đi
 4. **orchestrate** — điều phối
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT](/posts/luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai/)
+- [Multimodal AI — GPT-4V và tương lai AI đa phương thức](/posts/luyen-doc-multimodal-ai-gpt4v-da-phuong-thuc/)
+- [Sustainable AI — làm sao để AI không tốn quá nhiều năng lượng](/posts/luyen-doc-sustainable-ai-green-ai-tiet-kiem-nang-luong/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

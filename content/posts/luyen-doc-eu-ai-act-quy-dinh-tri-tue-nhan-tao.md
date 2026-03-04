@@ -96,3 +96,20 @@ Các công ty công nghệ hoạt động tại Châu Âu phải tuân thủ cá
 3. **fines** — tiền phạt
 4. **innovation** — đổi mới, sáng tạo
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Open source AI — Meta phát hành LLaMA miễn phí](/posts/luyen-doc-meta-llama-open-source-ai/)
+- [AI regulation worldwide — mỗi nước một kiểu quản lý](/posts/luyen-doc-ai-regulation-worldwide-quan-ly-ai-toan-cau/)
+- [Stack Overflow khảo sát developer 2024](/posts/luyen-doc-stack-overflow-developer-survey-2024/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -131,3 +131,20 @@ Nếu quỹ đạo hiện tại tiếp tục, internet năm 2030 có thể khác
 4. **joint ventures** — liên doanh
 5. **repercussions** — hậu quả, tác động
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Big Tech earnings: Apple, Google, Microsoft kết quả kinh doanh](/posts/luyen-doc-big-tech-earnings-ket-qua-kinh-doanh/)
+- [Semiconductor Geopolitics — Chip trở thành vũ khí địa chính trị](/posts/luyen-doc-semiconductor-geopolitics-chip-dia-chinh-tri/)
+- [AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine](/posts/luyen-doc-ai-chip-wars-nvidia-amd-google-apple/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

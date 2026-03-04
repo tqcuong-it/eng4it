@@ -77,3 +77,20 @@ Google đã phát hành bản cập nhật mới cho trình duyệt Chrome trong
 2. **secure** — bảo mật
 3. **browser** — trình duyệt
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Microsoft ra mắt laptop Surface mới — Thiết kế mỏng hơn, mạnh hơn](/posts/luyen-doc-microsoft-surface-laptop-moi/)
+- [Spotify có 500 triệu người nghe — Vượt mốc kỷ lục streaming](/posts/luyen-doc-spotify-500-trieu-nguoi-nghe/)
+- [Samsung ra mắt TV mới tại CES](/posts/luyen-doc-samsung-ra-mat-tv-moi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

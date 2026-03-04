@@ -95,3 +95,20 @@ Notion cho biết AI được hỗ trợ bởi các mô hình ngôn ngữ lớn 
 3. **launched** — ra mắt
 4. **adoption** — sự áp dụng
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Robot phẫu thuật chính xác hơn bác sĩ](/posts/luyen-doc-robot-phau-thuat-chinh-xac-hon-bac-si/)
+- [Carbon footprint của AI — chi phí môi trường](/posts/luyen-doc-carbon-footprint-ai-chi-phi-moi-truong/)
+- [Xe tự lái Waymo bắt đầu chạy thương mại](/posts/luyen-doc-waymo-xe-tu-lai-thuong-mai/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

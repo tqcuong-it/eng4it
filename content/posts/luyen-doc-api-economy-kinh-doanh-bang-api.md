@@ -102,3 +102,20 @@ Nền kinh tế API được dự báo sẽ vượt 14 tỷ đô la vào năm 20
 3. **vendor lock-in** — bị phụ thuộc nhà cung cấp
 4. **pay-per-use** — trả theo lượt sử dụng
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cloud Gaming — chơi game không cần máy mạnh](/posts/luyen-doc-cloud-gaming-choi-game-khong-can-may-manh/)
+- [Remote-first company — công ty không cần văn phòng](/posts/luyen-doc-remote-first-company-khong-van-phong/)
+- [Cloud Repatriation — Doanh nghiệp rời cloud về on-premise](/posts/luyen-doc-cloud-repatriation-doanh-nghiep-roi-cloud/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

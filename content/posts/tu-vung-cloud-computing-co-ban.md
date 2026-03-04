@@ -77,3 +77,20 @@ Dù bạn dùng AWS, Azure hay GCP, các thuật ngữ cloud computing cơ bản
 ## Tổng kết
 
 Cloud computing đã trở thành kiến thức bắt buộc với mọi developer. Hiểu rõ các khái niệm nền tảng như **IaaS/PaaS/SaaS**, **elasticity**, **scalability** sẽ giúp bạn lựa chọn dịch vụ phù hợp và trao đổi kiến trúc tự tin hơn. Đây là bước đầu tiên trước khi đi sâu vào bất kỳ cloud platform nào! ☁️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+- [AWS ECS & EKS — Thuật Ngữ Container & Kubernetes Bằng Tiếng Anh](/posts/tu-vung-aws-ecs-eks-container-kubernetes/)
+- [AWS Cost Optimization — Thuật Ngữ Tối Ưu Chi Phí Cloud](/posts/tu-vung-aws-cost-optimization/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -77,3 +77,20 @@ draft: false
 ## Tổng Kết
 
 CloudFormation là công cụ IaC mạnh mẽ nhất trong hệ sinh thái AWS. 12 thuật ngữ trên bao phủ toàn bộ lifecycle: từ viết template, tạo stack, đến quản lý thay đổi và phát hiện drift. Hãy nhớ: **IaC không chỉ là viết code — mà là quản lý thay đổi một cách có kiểm soát** 🏗️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cloud Computing Cơ Bản — Thuật Ngữ Đám Mây Cho Developer](/posts/tu-vung-cloud-computing-co-ban/)
+- [AWS ECS & EKS — Thuật Ngữ Container & Kubernetes Bằng Tiếng Anh](/posts/tu-vung-aws-ecs-eks-container-kubernetes/)
+- [AWS Cost Optimization — Thuật Ngữ Tối Ưu Chi Phí Cloud](/posts/tu-vung-aws-cost-optimization/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -275,3 +275,11 @@ Học thuộc bảng này, bạn sẽ **tự tin đọc phiên âm** bất kỳ 
 *Đây là bài nền tảng quan trọng nhất. Hãy bookmark lại để tra cứu khi cần!* 📌
 
 *Tiếp theo: [Lộ Trình IELTS 6.0 Cho Dân IT](/ielts/roadmap/) →*
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Mẫu Câu Tiếng Anh Trong Công Việc Thường Ngày Của Developer](/posts/50-email-phrases-for-developers/)
+- [AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine](/posts/luyen-doc-ai-chip-wars-nvidia-amd-google-apple/)
+- [Robot phẫu thuật chính xác hơn bác sĩ](/posts/luyen-doc-robot-phau-thuat-chinh-xac-hon-bac-si/)

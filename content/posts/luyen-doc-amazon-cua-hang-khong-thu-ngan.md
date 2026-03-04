@@ -87,3 +87,20 @@ Một số người thích sự tiện lợi, nhưng những người khác lo n
 2. **deployed** — triển khai
 3. **receipt** — hóa đơn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Uber dùng xe tự lái](/posts/luyen-doc-uber-xe-tu-lai/)
+- [Ứng dụng đo sức khỏe trên smartwatch ngày càng chính xác](/posts/luyen-doc-ung-dung-suc-khoe-smartwatch/)
+- [Đồng hồ thông minh đo đường huyết](/posts/luyen-doc-dong-ho-thong-minh-do-duong-huyet/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

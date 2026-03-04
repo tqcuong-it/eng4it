@@ -84,3 +84,20 @@ Xiaomi giờ là thương hiệu smartphone lớn thứ ba trên thế giới. C
 2. **storage** — bộ nhớ
 3. **brand** — thương hiệu
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Apple ra mắt iPhone mới](/posts/luyen-doc-apple-ra-mat-iphone-moi/)
+- [App học tiếng Anh miễn phí đạt 50 triệu lượt tải](/posts/luyen-doc-app-hoc-tieng-anh-mien-phi/)
+- [Máy tính bảng cho học sinh](/posts/luyen-doc-may-tinh-bang-cho-hoc-sinh/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

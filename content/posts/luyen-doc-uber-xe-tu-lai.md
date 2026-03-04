@@ -87,3 +87,20 @@ Một số người hào hứng với công nghệ này vì nó có thể làm c
 2. **request** — yêu cầu
 3. **concerned** — lo ngại
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Xe tự lái Waymo bắt đầu chạy thương mại](/posts/luyen-doc-waymo-xe-tu-lai-thuong-mai/)
+- [Máy bay drone được dùng để chữa cháy rừng](/posts/luyen-doc-drone-chua-chay-rung/)
+- [Amazon mở cửa hàng không thu ngân](/posts/luyen-doc-amazon-cua-hang-khong-thu-ngan/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

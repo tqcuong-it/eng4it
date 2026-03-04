@@ -75,3 +75,20 @@ Data is the new oil — nhưng dầu thô thì cần lọc. Data Engineering là
 ---
 
 Data Engineering là nền tảng của mọi hệ thống analytics và AI. Nắm vững 12 thuật ngữ này giúp bạn thiết kế pipeline dữ liệu hiệu quả và giao tiếp tốt hơn với data team. Keep building! 🏗️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)
+- [Machine Learning Cơ Bản — 14 Thuật Ngữ AI/ML Developer Nên Biết](/posts/tu-vung-machine-learning-thuat-ngu-ai-ml/)
+- [Security & Cybersecurity — 14 Thuật Ngữ An Ninh Mạng Developer Phải Biết](/posts/tu-vung-security-thuat-ngu-an-ninh-mang/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

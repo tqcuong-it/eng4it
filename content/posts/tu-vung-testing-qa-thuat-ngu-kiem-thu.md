@@ -82,3 +82,11 @@ draft: false
 ## 🎯 Tổng kết
 
 Testing không chỉ là "chạy cho pass" — nó là văn hóa chất lượng. Nắm 14 thuật ngữ này giúp bạn viết test hiệu quả, đọc hiểu test report, và communicate với QA team bằng tiếng Anh một cách tự tin. Remember: untested code is broken code! 🎯
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Bug Report — 15 Thuật Ngữ Báo Cáo Lỗi Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-bug-report-bao-cao-loi/)
+- [Performance Review — 13 Thuật Ngữ Đánh Giá Hiệu Suất Developer Cần Biết](/posts/tu-vung-performance-review-danh-gia-hieu-suat/)

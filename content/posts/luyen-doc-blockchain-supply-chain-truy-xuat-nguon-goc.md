@@ -101,3 +101,20 @@ Các nhà phê bình cho rằng khả năng mở rộng của blockchain vẫn l
 3. **traceability** — khả năng truy xuất nguồn gốc
 4. **distributed** — phân tán
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Rust ngôn ngữ yêu thích nhất 7 năm liên tiếp](/posts/luyen-doc-rust-ngon-ngu-yeu-thich-nhat/)
+- [Cuộc chiến chip: TSMC, Samsung, Intel](/posts/luyen-doc-cuoc-chien-chip-tsmc-samsung-intel/)
+- [Singapore trở thành trung tâm AI Đông Nam Á](/posts/luyen-doc-singapore-ai-hub-dong-nam-a/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

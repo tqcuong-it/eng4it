@@ -125,3 +125,20 @@ Các giải pháp mã nguồn mở, dẫn đầu bởi LLaMA của Meta và các
 4. **democratized** — dân chủ hóa
 5. **multimodal** — đa phương thức
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Bài 179: The dark web economy — kinh tế ngầm trên dark web](/posts/luyen-doc-cybersecurity-dark-web-economy/)
+- [AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine](/posts/luyen-doc-ai-chip-wars-nvidia-amd-google-apple/)
+- [Retrieval-Augmented Generation (RAG) — Giải pháp cho AI](/posts/luyen-doc-rag-giai-phap-ai-hallucination/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

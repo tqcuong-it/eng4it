@@ -84,3 +84,20 @@ Một số người nghĩ việc đổi tên là ý tưởng tốt. Những ngư
 2. **virtual** — ảo
 3. **focus** — tập trung
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Elon Musk mua lại Twitter](/posts/luyen-doc-elon-musk-mua-twitter/)
+- [YouTube Shorts cạnh tranh TikTok — Video ngắn đang thay đổi](/posts/luyen-doc-youtube-shorts-canh-tranh-tiktok/)
+- [Instagram thêm tính năng mới cho Reels](/posts/luyen-doc-instagram-tinh-nang-moi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

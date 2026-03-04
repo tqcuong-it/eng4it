@@ -82,3 +82,20 @@ Bảo mật không phải việc riêng của team security — mọi developer 
 ---
 
 Security là trách nhiệm của mọi developer, không chỉ riêng team bảo mật. Nắm vững 14 thuật ngữ này giúp bạn viết code an toàn hơn và phản ứng nhanh hơn khi có sự cố. Stay secure! 🛡️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)
+- [Bài 139: Open banking API — ngân hàng mở và fintech revolution](/posts/luyen-doc-open-banking-api-ngan-hang-mo/)
+- [Privacy-enhancing technologies — federated learning,](/posts/luyen-doc-privacy-enhancing-technologies-pets/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

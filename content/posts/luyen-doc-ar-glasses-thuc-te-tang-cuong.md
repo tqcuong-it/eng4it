@@ -96,3 +96,20 @@ Các công ty như Apple và Meta đang đầu tư hàng tỷ đô la vào phầ
 3. **affordable** — giá phải chăng
 4. **manufacturing** — sản xuất
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Metaverse — thế giới ảo có thật sự cần thiết?](/posts/luyen-doc-metaverse-the-gioi-ao-co-can-thiet/)
+- [Notion ra AI assistant tích hợp](/posts/luyen-doc-notion-ai-assistant/)
+- [Xe tự lái Waymo bắt đầu chạy thương mại](/posts/luyen-doc-waymo-xe-tu-lai-thuong-mai/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

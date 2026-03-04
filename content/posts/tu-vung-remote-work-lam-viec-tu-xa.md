@@ -76,3 +76,20 @@ Sau COVID, remote work đã trở thành tiêu chuẩn mới trong ngành tech. 
 ## Tổng kết
 
 Remote work đã thay đổi cách chúng ta làm việc trong ngành tech. Nắm vững các thuật ngữ này giúp bạn tự tin hơn khi tham gia team quốc tế, dù bạn đang ngồi ở Hà Nội hay Tokyo. Happy remote working! 🌍
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Daily Standup — 13 Thuật Ngữ Họp Hàng Ngày Mà Developer Cần Biết](/posts/tu-vung-daily-standup-hop-hang-ngay/)
+- [Team Collaboration — 12 Thuật Ngữ Làm Việc Nhóm Cho Developer](/posts/tu-vung-team-collaboration-lam-viec-nhom/)
+- [Client Communication — 14 Thuật Ngữ Giao Tiếp Khách Hàng Cho Developer](/posts/tu-vung-client-communication-giao-tiep-khach-hang/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

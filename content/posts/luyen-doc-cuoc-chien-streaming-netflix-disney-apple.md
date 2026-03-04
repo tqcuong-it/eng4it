@@ -96,3 +96,20 @@ Nếu các nền tảng này tiếp tục tăng giá thuê bao, nhiều người
 3. **tier** — gói dịch vụ
 4. **cancel** — hủy
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Figma bị Adobe mua lại — cộng đồng design phản đối](/posts/luyen-doc-figma-adobe-mua-lai-cong-dong-phan-doi/)
+- [Software Engineering at Scale — Lessons from Google, Meta, and](/posts/luyen-doc-software-engineering-at-scale-google-meta-amazon/)
+- [Cuộc chiến chip: TSMC, Samsung, Intel](/posts/luyen-doc-cuoc-chien-chip-tsmc-samsung-intel/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

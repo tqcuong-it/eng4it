@@ -95,3 +95,20 @@ Tuy nhiên, chi phí đăng ký 120 USD mỗi tháng quá đắt đối với nh
 3. **subscription** — phí đăng ký
 4. **orbiting** — quay quanh quỹ đạo
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Stack Overflow khảo sát developer 2024](/posts/luyen-doc-stack-overflow-developer-survey-2024/)
+- [Figma bị Adobe mua lại — cộng đồng design phản đối](/posts/luyen-doc-figma-adobe-mua-lai-cong-dong-phan-doi/)
+- [NASA chụp ảnh sao Hỏa](/posts/luyen-doc-nasa-chup-anh-sao-hoa/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

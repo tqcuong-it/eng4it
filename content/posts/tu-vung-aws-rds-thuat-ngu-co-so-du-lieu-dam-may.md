@@ -82,3 +82,20 @@ draft: false
 ## Tổng kết
 
 RDS giúp bạn vận hành database trên cloud dễ dàng hơn nhiều so với tự quản lý. 12 thuật ngữ trên là nền tảng để bạn hiểu cách RDS hoạt động, đọc docs, và troubleshoot hiệu quả. Bài tiếp theo mình sẽ học về AWS VPC — thuật ngữ mạng đám mây! 🌐
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS DynamoDB — Thuật Ngữ NoSQL Database Cho Developer](/posts/tu-vung-aws-dynamodb-nosql-database/)
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

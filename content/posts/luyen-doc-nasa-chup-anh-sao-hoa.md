@@ -76,3 +76,20 @@ Xe tự hành của NASA đã chụp những bức ảnh mới trên sao Hỏa. 
 2. **mission** — sứ mệnh, nhiệm vụ
 3. **soil** — đất
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Google cập nhật trình duyệt Chrome](/posts/luyen-doc-google-cap-nhat-chrome/)
+- [Microsoft ra mắt laptop Surface mới — Thiết kế mỏng hơn, mạnh hơn](/posts/luyen-doc-microsoft-surface-laptop-moi/)
+- [Instagram thêm tính năng mới cho Reels](/posts/luyen-doc-instagram-tinh-nang-moi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

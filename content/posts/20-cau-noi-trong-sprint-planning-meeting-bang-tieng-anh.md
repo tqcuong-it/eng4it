@@ -205,3 +205,11 @@ Lưu lại 20 câu trên và thử dùng trong sprint planning tiếp theo nhé!
 ---
 
 *Bài viết thuộc series [Workplace English](/categories/workplace-english/) — Tiếng Anh cho dân IT đi làm.*
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cách viết Daily Standup Report bằng tiếng Anh](/posts/cach-viet-daily-standup-report-bang-tieng-anh/)
+- [Daily Standup — 13 Thuật Ngữ Họp Hàng Ngày Mà Developer Cần Biết](/posts/tu-vung-daily-standup-hop-hang-ngay/)
+- [Cách dẫn Meeting bằng tiếng Anh cho Developer](/posts/cach-dan-meeting-bang-tieng-anh-cho-developer/)

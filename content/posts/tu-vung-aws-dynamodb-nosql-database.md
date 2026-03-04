@@ -83,3 +83,20 @@ DynamoDB là dịch vụ NoSQL database phổ biến nhất trên AWS — nhanh,
 ## Tổng kết
 
 DynamoDB có hệ thuật ngữ riêng khác biệt so với SQL database truyền thống. Hiểu rõ **partition key**, **GSI**, và sự khác biệt giữa **query** và **scan** là chìa khóa để thiết kế bảng hiệu quả và tiết kiệm chi phí. Hãy bắt đầu với on-demand mode để thử nghiệm trước khi optimize throughput nhé! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS RDS — Thuật Ngữ Cơ Sở Dữ Liệu Đám Mây Cho Developer](/posts/tu-vung-aws-rds-thuat-ngu-co-so-du-lieu-dam-may/)
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

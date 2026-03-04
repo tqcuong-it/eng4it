@@ -1,6 +1,7 @@
 ---
 title: "Chính Sách Bảo Mật (Privacy Policy)"
 slug: "privacy"
+aliases: ["/privacy-policy/"]
 date: 2023-01-01
 description: "Chính sách bảo mật của Eng4IT — cách chúng tôi thu thập, sử dụng và bảo vệ thông tin người dùng."
 ShowToc: false

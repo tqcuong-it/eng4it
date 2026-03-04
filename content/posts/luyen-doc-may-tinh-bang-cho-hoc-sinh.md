@@ -76,3 +76,20 @@ Nhiều trường học hiện đang phát máy tính bảng cho học sinh. Má
 2. **assignments** — bài tập
 3. **digital** — kỹ thuật số
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [App học tiếng Anh miễn phí đạt 50 triệu lượt tải](/posts/luyen-doc-app-hoc-tieng-anh-mien-phi/)
+- [Sony ra tai nghe mới](/posts/luyen-doc-sony-ra-tai-nghe-moi/)
+- [Apple Watch cứu người — Đồng hồ thông minh phát hiện bệnh tim](/posts/luyen-doc-apple-watch-cuu-nguoi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

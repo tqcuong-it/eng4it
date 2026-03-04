@@ -84,3 +84,20 @@ Amazon nói giao hàng bằng drone nhanh hơn và tốt hơn cho môi trường
 2. **drone** — máy bay không người lái
 3. **safety** — an toàn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Robot giao hàng tại Nhật Bản](/posts/luyen-doc-robot-giao-hang-nhat-ban/)
+- [LG ra robot dọn nhà](/posts/luyen-doc-lg-ra-robot-don-nha/)
+- [WiFi 7 là gì?](/posts/luyen-doc-wifi-7-la-gi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -87,3 +87,20 @@ Tuy nhiên, một số vấn đề đã được người chơi báo cáo. Độ
 2. **compatible** — tương thích
 3. **Latency** — độ trễ
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [The Economics of Cloud Computing — Chi phí ẩn và tối ưu hóa](/posts/luyen-doc-economics-cloud-computing-chi-phi-toi-uu/)
+- [API economy — kinh doanh bằng API](/posts/luyen-doc-api-economy-kinh-doanh-bang-api/)
+- [Cloud Repatriation — Doanh nghiệp rời cloud về on-premise](/posts/luyen-doc-cloud-repatriation-doanh-nghiep-roi-cloud/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

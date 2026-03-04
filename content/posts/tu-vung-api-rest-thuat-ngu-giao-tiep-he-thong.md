@@ -83,3 +83,20 @@ Trong thế giới microservices và web hiện đại, **API** là cách các h
 ---
 
 API là ngôn ngữ chung giữa frontend và backend, giữa service này với service khác. Nắm vững 15 thuật ngữ trên, bạn sẽ tự tin hơn khi thiết kế, sử dụng, và debug API hàng ngày. Happy coding! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Frontend Development — 14 Thuật Ngữ Lập Trình Giao Diện Developer Phải Biết](/posts/tu-vung-frontend-development-thuat-ngu-lap-trinh-giao-dien/)
+- [Từ Vựng Linux & Terminal — Thuật Ngữ Dòng Lệnh Cho Developer](/posts/tu-vung-linux-terminal-thuat-ngu-dong-lenh/)
+- [Networking — 15 Thuật Ngữ Mạng Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-networking-thuat-ngu-mang/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -96,3 +96,20 @@ Tuy nhiên, các chuyên gia làm việc với chuyển đổi cloud cảnh báo
 3. **flexibility** — tính linh hoạt
 4. **migration** — chuyển đổi
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Data center dùng năng lượng tái tạo](/posts/luyen-doc-data-center-nang-luong-tai-tao/)
+- [Kubernetes trở thành tiêu chuẩn container](/posts/luyen-doc-kubernetes-tieu-chuan-container/)
+- [Edge computing — xử lý dữ liệu tại chỗ](/posts/luyen-doc-edge-computing-xu-ly-du-lieu-tai-cho/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

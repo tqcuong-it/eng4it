@@ -87,3 +87,20 @@ Kể từ khi thay đổi, hàng triệu người dùng đã rời khỏi nền 
 2. **subscription** — gói đăng ký
 3. **bots** — tài khoản tự động
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [TikTok Shop — mua sắm trên mạng xã hội](/posts/luyen-doc-tiktok-shop-mua-sam-mang-xa-hoi/)
+- [Instagram thêm tính năng mới cho Reels](/posts/luyen-doc-instagram-tinh-nang-moi/)
+- [TikTok đạt 1 tỷ người dùng](/posts/luyen-doc-tiktok-mot-ty-nguoi-dung/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

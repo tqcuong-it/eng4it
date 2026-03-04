@@ -133,3 +133,20 @@ Chuyển sang **Passive Voice**:
 2. The root cause **was identified** by the engineering team.
 3. The incident **was resolved** by Anthropic at 15:50 UTC.
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Bài 140: Edge AI — chạy AI trên thiết bị thay vì cloud](/posts/luyen-doc-edge-ai-chay-ai-tren-thiet-bi/)
+- [OpenAI và Google chạy đua phát triển AGI](/posts/luyen-doc-openai-google-agi-race/)
+- [Vector Database và AI Search — Pinecone, Weaviate](/posts/luyen-doc-vector-database-ai-search/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

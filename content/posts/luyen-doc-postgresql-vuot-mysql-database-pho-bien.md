@@ -95,3 +95,20 @@ MySQL, từng là cơ sở dữ liệu thống trị, vẫn có lượng ngườ
 3. **trend** — xu hướng
 4. **queries** — truy vấn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [React vs Vue vs Angular — framework nào tốt nhất?](/posts/luyen-doc-react-vue-angular-frontend-framework/)
+- [TypeScript vượt JavaScript trên GitHub](/posts/luyen-doc-typescript-vuot-javascript-github/)
+- [Technical Writing in Tech — Tại sao Documentation quan trọng](/posts/luyen-doc-technical-writing-documentation-quan-trong/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

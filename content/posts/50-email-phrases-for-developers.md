@@ -160,3 +160,11 @@ Cấu trúc email chuẩn cho mọi tình huống:
 *Bạn thấy bài viết hữu ích? Hãy bookmark và chia sẻ cho đồng nghiệp nhé!* 🚀
 
 *Theo dõi [Eng4IT](https://eng4it.com) để nhận thêm bài viết mỗi ngày.*
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Daily Standup — 13 Thuật Ngữ Họp Hàng Ngày Mà Developer Cần Biết](/posts/tu-vung-daily-standup-hop-hang-ngay/)
+- [Cách viết Weekly Report / Progress Update bằng tiếng Anh](/posts/cach-viet-weekly-report-progress-update-bang-tieng-anh/)
+- [Performance Review — 13 Thuật Ngữ Đánh Giá Hiệu Suất Developer Cần Biết](/posts/tu-vung-performance-review-danh-gia-hieu-suat/)

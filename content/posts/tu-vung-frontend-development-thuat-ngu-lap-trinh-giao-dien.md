@@ -82,3 +82,11 @@ Frontend là nơi user nhìn thấy và tương tác trực tiếp — một but
 ## 🎯 Tổng kết
 
 Frontend development ngày càng phức tạp — từ quản lý state, tối ưu rendering đến build optimization. Nắm vững 14 thuật ngữ này giúp bạn đọc hiểu documentation, tham gia code review, và tự tin trao đổi kỹ thuật bằng tiếng Anh. Hãy thử dùng chúng trong daily standup nhé! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [API & REST — 15 Thuật Ngữ Giao Tiếp Hệ Thống Developer Cần Nắm](/posts/tu-vung-api-rest-thuat-ngu-giao-tiep-he-thong/)
+- [TypeScript vượt JavaScript trên GitHub](/posts/luyen-doc-typescript-vuot-javascript-github/)
+- [React vs Vue vs Angular — framework nào tốt nhất?](/posts/luyen-doc-react-vue-angular-frontend-framework/)

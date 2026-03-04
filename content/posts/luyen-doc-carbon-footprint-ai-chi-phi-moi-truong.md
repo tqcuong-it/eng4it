@@ -95,3 +95,20 @@ Một số gã khổng lồ công nghệ đã hứa trung hòa carbon vào năm 
 3. **carbon footprint** — lượng khí thải carbon
 4. **efficient** — hiệu quả hơn, tiêu thụ ít điện hơn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Sustainable AI — làm sao để AI không tốn quá nhiều năng lượng](/posts/luyen-doc-sustainable-ai-green-ai-tiet-kiem-nang-luong/)
+- [The intersection of AI and climate change — opportunities and](/posts/luyen-doc-ai-climate-change-opportunities-risks/)
+- [Data center dùng năng lượng tái tạo](/posts/luyen-doc-data-center-nang-luong-tai-tao/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

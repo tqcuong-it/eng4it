@@ -87,3 +87,20 @@ Tiêu chuẩn mới cũng đã cải thiện kết nối giữa điện thoại 
 2. **shelf labels** — nhãn giá kệ hàng
 3. **accessories** — phụ kiện
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Ứng dụng đo sức khỏe trên smartwatch ngày càng chính xác](/posts/luyen-doc-ung-dung-suc-khoe-smartwatch/)
+- [Máy bay drone được dùng để chữa cháy rừng](/posts/luyen-doc-drone-chua-chay-rung/)
+- [Cloud Gaming — chơi game không cần máy mạnh](/posts/luyen-doc-cloud-gaming-choi-game-khong-can-may-manh/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

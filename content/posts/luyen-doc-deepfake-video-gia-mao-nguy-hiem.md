@@ -87,3 +87,20 @@ Chính phủ trên khắp thế giới đã làm việc để ban hành luật m
 2. **detected** — phát hiện
 3. **vulnerable** — dễ bị tổn thương
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Microsoft Copilot hỗ trợ viết code](/posts/luyen-doc-microsoft-copilot-ho-tro-viet-code/)
+- [AI regulation worldwide — mỗi nước một kiểu quản lý](/posts/luyen-doc-ai-regulation-worldwide-quan-ly-ai-toan-cau/)
+- [Retrieval-Augmented Generation (RAG) — Giải pháp cho AI](/posts/luyen-doc-rag-giai-phap-ai-hallucination/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

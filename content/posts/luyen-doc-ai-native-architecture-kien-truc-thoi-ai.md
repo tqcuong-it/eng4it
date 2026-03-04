@@ -128,3 +128,20 @@ Không chỉ phải tư duy lại cách xây dựng hệ thống, kiến trúc s
 4. **observability** — khả năng quan sát
 5. **orchestrate** — điều phối
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Nghịch lý nghiên cứu an toàn AI — làm AI an toàn hơn có thể](/posts/luyen-doc-ai-safety-paradox-nghich-ly-an-toan-ai/)
+- [Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT](/posts/luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai/)
+- [Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn](/posts/luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

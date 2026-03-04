@@ -83,3 +83,20 @@ Samsung đã ra mắt điện thoại thông minh màn hình gập mới nhất 
 2. **equipped** — được trang bị
 3. **unveiled** — ra mắt
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Qualcomm ra mắt chip Snapdragon mới cho Android](/posts/luyen-doc-chip-snapdragon-moi-android/)
+- [Apple Pay mở rộng sang Việt Nam](/posts/luyen-doc-apple-pay-mo-rong-viet-nam/)
+- [Samsung Galaxy S mới có camera 200MP](/posts/luyen-doc-samsung-galaxy-camera-200mp/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

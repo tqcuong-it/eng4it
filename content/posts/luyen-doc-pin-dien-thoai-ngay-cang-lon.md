@@ -74,3 +74,20 @@ Pin điện thoại ngày càng lớn hơn mỗi năm. Năm năm trước, hầu
 2. **Fast charging** — sạc nhanh
 3. **technology** — công nghệ
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Google cập nhật trình duyệt Chrome](/posts/luyen-doc-google-cap-nhat-chrome/)
+- [Microsoft ra mắt laptop Surface mới — Thiết kế mỏng hơn, mạnh hơn](/posts/luyen-doc-microsoft-surface-laptop-moi/)
+- [NASA chụp ảnh sao Hỏa](/posts/luyen-doc-nasa-chup-anh-sao-hoa/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

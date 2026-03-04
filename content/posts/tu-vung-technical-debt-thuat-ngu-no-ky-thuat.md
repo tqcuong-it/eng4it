@@ -75,3 +75,20 @@ draft: false
 ---
 
 Technical debt là thực tế không thể tránh khỏi — nhưng quản lý nó thông minh thì có thể. Nắm vững 12 thuật ngữ này giúp bạn discuss về tech debt với PM và team một cách chuyên nghiệp. Pay off your debt! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Agile & Scrum — 12 Thuật Ngữ Quản Lý Dự Án Mà Developer Nên Biết](/posts/tu-vung-agile-scrum-quan-ly-du-an/)
+- [Bug Report — 15 Thuật Ngữ Báo Cáo Lỗi Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-bug-report-bao-cao-loi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

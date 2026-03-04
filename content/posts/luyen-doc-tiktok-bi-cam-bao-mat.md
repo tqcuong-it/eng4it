@@ -95,3 +95,20 @@ TikTok phủ nhận những cáo buộc này và cho biết họ lưu trữ dữ
 3. **data privacy** — quyền riêng tư dữ liệu
 4. **sensitive** — nhạy cảm
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Ransomware tấn công bệnh viện — hậu quả nghiêm trọng](/posts/luyen-doc-ransomware-tan-cong-benh-vien/)
+- [Lỗ hổng zero-day trong Windows — Microsoft vá khẩn cấp](/posts/luyen-doc-lo-hong-zero-day-windows/)
+- [Phishing email — cách nhận biết và phòng tránh](/posts/luyen-doc-phishing-email-nhan-biet-phong-tranh/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

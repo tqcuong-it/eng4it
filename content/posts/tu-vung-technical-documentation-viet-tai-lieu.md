@@ -75,3 +75,20 @@ draft: false
 ## Tổng kết
 
 Documentation tốt là dấu hiệu của một team chuyên nghiệp. Viết tài liệu không chỉ giúp người khác — mà còn giúp chính bạn trong tương lai khi quay lại đọc code cũ. Write docs, save lives! 📝
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)
+- [Email Writing — 14 Thuật Ngữ Viết Email Chuyên Nghiệp Cho Developer](/posts/tu-vung-email-writing-viet-email-chuyen-nghiep/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

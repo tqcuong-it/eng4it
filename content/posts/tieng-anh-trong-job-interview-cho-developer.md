@@ -238,3 +238,11 @@ Phỏng vấn tiếng Anh không cần giỏi grammar — cần **tự tin, có 
 **Nhớ 3 nguyên tắc:** Prepare (chuẩn bị STAR stories) — Practice (luyện nói to) — Be genuine (thật thà, đừng bịa).
 
 Chúc bạn ace mọi buổi interview! 🎯
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Tiếng Anh trong 1-on-1 Meeting với Manager](/posts/tieng-anh-trong-1-on-1-meeting-voi-manager/)
+- [Tiếng Anh trong Retrospective / Sprint Review](/posts/tieng-anh-trong-retrospective-sprint-review/)
+- [Tiếng Anh khi Pair Programming](/posts/tieng-anh-khi-pair-programming/)

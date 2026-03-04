@@ -82,3 +82,20 @@ Docker đã trở thành công cụ **không thể thiếu** trong workflow củ
 ## Tổng kết
 
 Docker có hệ thống thuật ngữ khá rõ ràng và nhất quán. Khi đã nắm vững 14 từ trên, bạn sẽ đọc Docker documentation dễ dàng hơn rất nhiều. Hãy thử viết một Dockerfile cho project của mình và áp dụng ngay những từ vựng này nhé! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Bug Report — 15 Thuật Ngữ Báo Cáo Lỗi Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-bug-report-bao-cao-loi/)
+- [Từ Vựng CI/CD Pipeline — Thuật Ngữ Tích Hợp & Triển Khai Liên Tục](/posts/tu-vung-ci-cd-pipeline-tich-hop-trien-khai/)
+- [Testing & QA — 14 Thuật Ngữ Kiểm Thử Developer Phải Biết](/posts/tu-vung-testing-qa-thuat-ngu-kiem-thu/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -102,3 +102,20 @@ Các nhà cung cấp đám mây lớn bao gồm AWS và Google Cloud đã giới
 3. **cumulative** — tích lũy
 4. **dashboards** — bảng điều khiển
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Sustainable AI — làm sao để AI không tốn quá nhiều năng lượng](/posts/luyen-doc-sustainable-ai-green-ai-tiet-kiem-nang-luong/)
+- [Carbon footprint của AI — chi phí môi trường](/posts/luyen-doc-carbon-footprint-ai-chi-phi-moi-truong/)
+- [The intersection of AI and climate change — opportunities and](/posts/luyen-doc-ai-climate-change-opportunities-risks/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

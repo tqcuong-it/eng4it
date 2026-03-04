@@ -95,3 +95,20 @@ Tuy nhiên, một số cư dân lo ngại về an toàn. Đã có nhiều sự c
 3. **Autonomous/Driverless** — tự hành/không người lái
 4. **restrict** — hạn chế
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Robot phẫu thuật chính xác hơn bác sĩ](/posts/luyen-doc-robot-phau-thuat-chinh-xac-hon-bac-si/)
+- [Uber dùng xe tự lái](/posts/luyen-doc-uber-xe-tu-lai/)
+- [Bài 180: Agentic AI — AI tự hành và tương lai automation](/posts/luyen-doc-ai-agentic-ai-autonomous-agents/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

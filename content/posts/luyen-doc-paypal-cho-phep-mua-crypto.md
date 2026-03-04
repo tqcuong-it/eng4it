@@ -76,3 +76,20 @@ PayPal hiện cho phép người dùng mua và bán tiền mã hóa. Tính năng
 2. **account** — tài khoản
 3. **secure** — an toàn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Digital wallet thay thế ví truyền thống](/posts/luyen-doc-digital-wallet-thay-the-vi-truyen-thong/)
+- [Bài 139: Open banking API — ngân hàng mở và fintech revolution](/posts/luyen-doc-open-banking-api-ngan-hang-mo/)
+- [Bài 164: Decentralized Identity — DID và tương lai danh tính số](/posts/luyen-doc-decentralized-identity-did-danh-tinh-so/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

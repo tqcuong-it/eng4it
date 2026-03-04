@@ -96,3 +96,20 @@ Giao thức sử dụng kết nối mạng nội bộ, nghĩa là thiết bị s
 3. **secure** — an toàn, bảo mật
 4. **manufacturers** — nhà sản xuất
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Xe tự lái Waymo bắt đầu chạy thương mại](/posts/luyen-doc-waymo-xe-tu-lai-thuong-mai/)
+- [AR glasses — kính thực tế tăng cường cho công việc](/posts/luyen-doc-ar-glasses-thuc-te-tang-cuong/)
+- [Xe điện VinFast xuất khẩu sang Mỹ](/posts/luyen-doc-vinfast-xe-dien-xuat-khau-my/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

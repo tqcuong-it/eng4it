@@ -75,3 +75,20 @@ Grab đã ra mắt một dịch vụ mới tại Việt Nam. Dịch vụ mới c
 2. **service** — dịch vụ
 3. **delivery** — giao hàng
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Bài 155: RISC-V — Kiến Trúc Chip Mở Thách Thức ARM và x86](/posts/luyen-doc-risc-v-kien-truc-chip-mo-thach-thuc/)
+- [Technical Due Diligence — Đánh giá công nghệ trước khi mua](/posts/luyen-doc-technical-due-diligence-danh-gia-cong-nghe-startup/)
+- [Google cập nhật trình duyệt Chrome](/posts/luyen-doc-google-cap-nhat-chrome/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

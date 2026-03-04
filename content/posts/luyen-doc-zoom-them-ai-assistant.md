@@ -75,3 +75,20 @@ Zoom đã thêm một trợ lý AI mới vào ứng dụng gọi video của mì
 2. **notes** — ghi chú
 3. **tool** — công cụ
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Ứng dụng ChatGPT miễn phí — AI chatbot cho mọi người](/posts/luyen-doc-chatgpt-ung-dung-mien-phi/)
+- [Google Maps thêm tính năng — Dẫn đường thông minh hơn với AI](/posts/luyen-doc-google-maps-them-tinh-nang/)
+- [Sony ra tai nghe mới](/posts/luyen-doc-sony-ra-tai-nghe-moi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

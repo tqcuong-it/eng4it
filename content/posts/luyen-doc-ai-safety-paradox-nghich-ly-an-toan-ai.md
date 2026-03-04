@@ -136,3 +136,20 @@ Vậy phải làm gì? Các nhà nghiên cứu đã đề xuất nhiều cách t
 4. **withholding** — giữ lại, không công bố
 5. **adjudicate** — phân xử, phán quyết
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Tái tư duy kiến trúc phần mềm cho kỷ nguyên AI](/posts/luyen-doc-ai-native-architecture-kien-truc-thoi-ai/)
+- [Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT](/posts/luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai/)
+- [Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn](/posts/luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

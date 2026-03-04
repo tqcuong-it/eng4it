@@ -80,3 +80,11 @@ Microservices là kiến trúc mà hầu hết các hệ thống lớn đều đ
 ## 🎯 Tổng kết
 
 Microservices architecture mang lại flexibility và scalability, nhưng cũng kéo theo complexity. 12 thuật ngữ này là nền tảng để bạn hiểu và thảo luận kiến trúc microservices — từ design patterns đến infrastructure. Nắm chắc chúng, bạn sẽ tự tin hơn trong mọi cuộc thảo luận system design! 🏗️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [System Design — 13 Thuật Ngữ Thiết Kế Hệ Thống Developer Phải Biết](/posts/tu-vung-system-design-thuat-ngu-thiet-ke-he-thong/)
+- [Email Writing — 14 Thuật Ngữ Viết Email Chuyên Nghiệp Cho Developer](/posts/tu-vung-email-writing-viet-email-chuyen-nghiep/)
+- [API & REST — 15 Thuật Ngữ Giao Tiếp Hệ Thống Developer Cần Nắm](/posts/tu-vung-api-rest-thuat-ngu-giao-tiep-he-thong/)

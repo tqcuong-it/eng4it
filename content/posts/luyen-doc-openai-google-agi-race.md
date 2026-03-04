@@ -106,3 +106,20 @@ Câu hỏi không còn là liệu AGI có đạt được hay không, mà là kh
 3. **overlook** — bỏ qua, xem nhẹ
 4. **deployed** — triển khai
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT](/posts/luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai/)
+- [Google Maps thêm tính năng — Dẫn đường thông minh hơn với AI](/posts/luyen-doc-google-maps-them-tinh-nang/)
+- [Vector Database và AI Search — Pinecone, Weaviate](/posts/luyen-doc-vector-database-ai-search/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -79,3 +79,20 @@ Nếu bạn làm việc với AWS, **IAM (Identity and Access Management)** là 
 ## Tổng Kết
 
 IAM là nền tảng bảo mật của mọi hệ thống AWS. Nắm vững 14 thuật ngữ trên sẽ giúp bạn tự tin đọc tài liệu, viết policy, và thảo luận về security architecture với team quốc tế. Hãy bắt đầu từ việc **hiểu rõ sự khác nhau giữa user, role, và policy** — ba khái niệm nền tảng nhất! 🔐
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+- [AWS DynamoDB — Thuật Ngữ NoSQL Database Cho Developer](/posts/tu-vung-aws-dynamodb-nosql-database/)
+- [AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh](/posts/tu-vung-aws-cloudformation-infrastructure-as-code/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

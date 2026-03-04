@@ -81,3 +81,20 @@ Mùa performance review đến là nhiều developer lo lắng — không chỉ 
 ## Tổng kết
 
 Performance review không chỉ là lúc bị đánh giá — đó là cơ hội để bạn showcase **achievements**, nhận **feedback** giá trị, và plan cho career growth. Khi bạn viết **self-assessment** bằng tiếng Anh một cách tự tin và chuyên nghiệp, bạn đã tạo ấn tượng tốt trước cả khi meeting bắt đầu! ✨
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Release & Deployment — 12 Thuật Ngữ Phát Hành Phần Mềm Developer Cần Biết](/posts/tu-vung-release-deployment-phat-hanh-phan-mem/)
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Bug Report — 15 Thuật Ngữ Báo Cáo Lỗi Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-bug-report-bao-cao-loi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

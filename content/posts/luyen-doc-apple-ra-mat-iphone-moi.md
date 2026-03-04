@@ -77,3 +77,20 @@ Apple đã ra mắt chiếc iPhone mới vào ngày hôm qua. Thiết bị mới
 2. **battery** — pin
 3. **available** — có sẵn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Xiaomi bán điện thoại giá rẻ — Smartphone tốt không cần đắt](/posts/luyen-doc-xiaomi-dien-thoai-gia-re/)
+- [App học tiếng Anh miễn phí đạt 50 triệu lượt tải](/posts/luyen-doc-app-hoc-tieng-anh-mien-phi/)
+- [Máy tính bảng cho học sinh](/posts/luyen-doc-may-tinh-bang-cho-hoc-sinh/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

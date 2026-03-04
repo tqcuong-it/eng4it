@@ -118,3 +118,20 @@ Câu chuyện cảnh báo của WeWork — nộp đơn phá sản cuối năm 20
 4. **frenzy** — cơn sốt
 5. **downturn** — suy thoái
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Bài 155: RISC-V — Kiến Trúc Chip Mở Thách Thức ARM và x86](/posts/luyen-doc-risc-v-kien-truc-chip-mo-thach-thuc/)
+- [Bài 144: Vertical AI Agents — AI chuyên biệt cho từng ngành](/posts/luyen-doc-vertical-ai-agents-ai-chuyen-biet-tung-nganh/)
+- [Bài 156: Digital Nomad Visa — Các Nước Mở Cửa Cho Lao Động Tech](/posts/luyen-doc-digital-nomad-visa-lao-dong-tech/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

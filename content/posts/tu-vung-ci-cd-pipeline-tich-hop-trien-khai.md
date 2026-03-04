@@ -76,3 +76,11 @@ CI/CD (Continuous Integration / Continuous Delivery) là xương sống của qu
 ## Tổng kết
 
 CI/CD không chỉ là tool, mà là **văn hóa phát triển phần mềm**. Hiểu rõ thuật ngữ giúp bạn cấu hình pipeline, đọc docs, và thảo luận deployment strategy với team một cách chuyên nghiệp. Hãy thử thiết lập một pipeline đơn giản với GitHub Actions để thực hành nhé! 🎯
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn](/posts/luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do/)
+- [AWS Route 53 & API Gateway — Thuật Ngữ DNS & API Bằng Tiếng Anh](/posts/tu-vung-aws-route53-api-gateway-dns-api/)

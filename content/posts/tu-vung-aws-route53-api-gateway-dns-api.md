@@ -73,3 +73,20 @@ Mọi ứng dụng web đều cần hai thứ: **DNS** (để người dùng tì
 ## Tổng Kết
 
 Route 53 và API Gateway là cặp đôi không thể thiếu: Route 53 đưa user đến đúng nơi, API Gateway quản lý và bảo vệ API endpoints. 13 thuật ngữ trên giúp bạn tự tin thiết kế hệ thống từ DNS đến API layer. Pro tip: **luôn dùng alias record cho AWS resources và luôn bật throttling cho public API** 🌐🔑
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+- [AWS SQS & SNS — Thuật Ngữ Message Queue Cho Developer](/posts/tu-vung-aws-sqs-sns-message-queue/)
+- [AWS Lambda — Thuật Ngữ Serverless Mà Developer Cần Nắm Vững](/posts/tu-vung-aws-lambda-thuat-ngu-serverless/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

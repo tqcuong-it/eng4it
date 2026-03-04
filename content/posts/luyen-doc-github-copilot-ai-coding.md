@@ -83,3 +83,20 @@ Copilot đã được hơn một triệu nhà phát triển áp dụng kể từ
 2. **quality** — chất lượng
 3. **released** — phát hành
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [OpenAI ra GPT-5 và thay đổi ngành AI](/posts/luyen-doc-openai-gpt5-thay-doi-nganh-ai/)
+- [Google Pixel và AI chụp ảnh](/posts/luyen-doc-google-pixel-ai-chup-anh/)
+- [Bài 148: Autonomous Coding Agents — AI software engineer](/posts/luyen-doc-autonomous-coding-agents-ai-software-engineer/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

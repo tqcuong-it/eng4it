@@ -84,3 +84,20 @@ Laptop Surface chạy Windows 11. Nó có bốn màu: đen, xanh dương, xanh l
 2. **processor** — bộ vi xử lý
 3. **available** — có sẵn
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Google cập nhật trình duyệt Chrome](/posts/luyen-doc-google-cap-nhat-chrome/)
+- [Spotify có 500 triệu người nghe — Vượt mốc kỷ lục streaming](/posts/luyen-doc-spotify-500-trieu-nguoi-nghe/)
+- [Samsung ra mắt TV mới tại CES](/posts/luyen-doc-samsung-ra-mat-tv-moi/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

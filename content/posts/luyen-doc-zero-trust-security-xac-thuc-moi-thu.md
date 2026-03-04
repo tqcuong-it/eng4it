@@ -126,3 +126,20 @@ Bất chấp những thách thức này, sự đồng thuận giữa các chuyê
 4. **proliferation** — sự lan rộng, gia tăng nhanh
 5. **monitoring** — giám sát
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Bài 142: Software Supply Chain Security — Bảo mật từ dependency](/posts/luyen-doc-software-supply-chain-security-bao-mat-dependency/)
+- [Bài 147: Passkey thay thế password — Tương lai không mật khẩu](/posts/luyen-doc-passkey-thay-the-password-tuong-lai-khong-mat-khau/)
+- [Bài 152: Sovereign Cloud — Chính Phủ Tự Xây Cloud Riêng](/posts/luyen-doc-sovereign-cloud-chinh-phu-xay-cloud-rieng/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

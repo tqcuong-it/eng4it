@@ -83,3 +83,11 @@ Viết bug report rõ ràng là kỹ năng quan trọng không kém viết code.
 ## Tổng kết
 
 Bug report tốt = communication tốt. Khi bạn viết rõ ràng **steps to reproduce**, phân biệt được **severity** và **priority**, attach đúng **stack trace** — bạn không chỉ giúp team fix bug nhanh hơn mà còn thể hiện sự chuyên nghiệp trong môi trường làm việc quốc tế. Lần tới viết bug report, hãy áp dụng ngay nhé! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
+- [Testing & QA — 14 Thuật Ngữ Kiểm Thử Developer Phải Biết](/posts/tu-vung-testing-qa-thuat-ngu-kiem-thu/)
+- [Technical Interview — 12 Thuật Ngữ Phỏng Vấn Kỹ Thuật Developer Phải Biết](/posts/tu-vung-technical-interview-phong-van-ky-thuat/)

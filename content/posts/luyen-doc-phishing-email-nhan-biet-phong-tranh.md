@@ -95,3 +95,20 @@ Các công ty coi trọng bảo mật hiện đang sử dụng xác thực đa y
 3. **verify** — xác minh danh tính người gửi
 4. **compromised** — bị xâm nhập
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Ransomware tấn công bệnh viện — hậu quả nghiêm trọng](/posts/luyen-doc-ransomware-tan-cong-benh-vien/)
+- [Lỗ hổng zero-day trong Windows — Microsoft vá khẩn cấp](/posts/luyen-doc-lo-hong-zero-day-windows/)
+- [Supply Chain Attack — Hacker nhắm vào chuỗi cung ứng phần mềm](/posts/luyen-doc-supply-chain-attack-security/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

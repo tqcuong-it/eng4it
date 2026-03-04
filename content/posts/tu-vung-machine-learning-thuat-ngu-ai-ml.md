@@ -82,3 +82,20 @@ AI và Machine Learning đang len lỏi vào mọi sản phẩm — từ recomme
 ---
 
 AI/ML không còn là thứ xa vời — nó đang ở trong mọi sản phẩm bạn dùng hàng ngày. Nắm vững 14 thuật ngữ này giúp bạn tự tin hơn khi làm việc với data team và đọc paper. Keep learning! 🧠
+
+---
+
+## 📚 Bài viết liên quan
+
+- [The rise of AI infrastructure — GPU shortage và cuộc đua data](/posts/luyen-doc-ai-infrastructure-gpu-shortage-data-center/)
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)
+- [Data Engineering — 12 Thuật Ngữ Xử Lý Dữ Liệu Developer Cần Biết](/posts/tu-vung-data-engineering-thuat-ngu-xu-ly-du-lieu/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

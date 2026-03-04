@@ -52,11 +52,11 @@ nav{padding:12px 0;border-bottom:1px solid #eee}
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": {{ .Title | jsonify }},
-  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify }}{{ end }},
-  "url": {{ .Permalink | jsonify }},
-  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
-  "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify }},
+  "headline": {{ .Title | jsonify | safeJS }},
+  "description": {{ with .Description }}{{ . | jsonify | safeJS }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify | safeJS }}{{ end }},
+  "url": {{ .Permalink | jsonify | safeJS }},
+  "datePublished": {{ .Date.Format "2006-01-02" | jsonify | safeJS }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify | safeJS }},
   "author": {
     "@type": "Person",
     "name": "Cuong TQ",
@@ -72,7 +72,7 @@ nav{padding:12px 0;border-bottom:1px solid #eee}
     }
   },
   "inLanguage": "vi",
-  "mainEntityOfPage": {{ .Permalink | jsonify }}
+  "mainEntityOfPage": {{ .Permalink | jsonify | safeJS }}
 }
 </script>
 {{ end }}

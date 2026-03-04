@@ -121,3 +121,20 @@ Nếu một tổ chức không triển khai quản trị phù hợp trước khi
 4. **disparity** — sự chênh lệch
 5. **compliance** — sự tuân thủ
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [The rise of AI infrastructure — GPU shortage và cuộc đua data](/posts/luyen-doc-ai-infrastructure-gpu-shortage-data-center/)
+- [AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine](/posts/luyen-doc-ai-chip-wars-nvidia-amd-google-apple/)
+- [Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn](/posts/luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

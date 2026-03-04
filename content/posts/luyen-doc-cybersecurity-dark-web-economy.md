@@ -122,3 +122,20 @@ Khả năng phục hồi của nền kinh tế dark web đặt ra những câu h
 4. **escrow** — ký quỹ
 5. **resilience** — khả năng phục hồi
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Cybersecurity Mesh Architecture — Bảo mật phân tán thời Cloud](/posts/luyen-doc-cybersecurity-mesh-architecture-bao-mat-phan-tan/)
+- [Privacy-enhancing technologies — federated learning,](/posts/luyen-doc-privacy-enhancing-technologies-pets/)
+- [Ethical Hacking và Bug Bounty Programs — Hacker mũ trắng kiếm](/posts/luyen-doc-ethical-hacking-bug-bounty-programs/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

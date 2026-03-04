@@ -82,3 +82,20 @@ Kubernetes (K8s) là nền tảng **orchestration container** phổ biến nhấ
 ## Tổng kết
 
 Kubernetes có hệ thống thuật ngữ khá đồ sộ, nhưng 14 từ trên là **nền tảng cốt lõi** mà bạn cần biết. Khi đã quen với các khái niệm này, việc đọc K8s documentation và YAML manifest sẽ dễ dàng hơn nhiều. Hãy thử deploy một ứng dụng đơn giản lên Minikube để thực hành! ☸️
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua](/posts/tu-vung-aws-vpc-thuat-ngu-mang-dam-may/)
+- [Networking — 15 Thuật Ngữ Mạng Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-networking-thuat-ngu-mang/)
+- [AWS Route 53 & API Gateway — Thuật Ngữ DNS & API Bằng Tiếng Anh](/posts/tu-vung-aws-route53-api-gateway-dns-api/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

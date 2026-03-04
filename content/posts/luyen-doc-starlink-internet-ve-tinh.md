@@ -83,3 +83,20 @@ Starlink đã được khen ngợi vì cung cấp internet cho các cộng đồ
 2. **remote** — xa xôi
 3. **subscription** — gói đăng ký
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [NASA chụp ảnh sao Hỏa](/posts/luyen-doc-nasa-chup-anh-sao-hoa/)
+- [SpaceX phóng vệ tinh internet cho vùng xa](/posts/luyen-doc-spacex-phong-ve-tinh-internet-vung-xa/)
+- [Chip M3 của Apple nhanh hơn bao nhiêu?](/posts/luyen-doc-chip-m3-apple-nhanh-hon/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

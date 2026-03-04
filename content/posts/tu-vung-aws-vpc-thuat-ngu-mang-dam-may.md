@@ -83,3 +83,20 @@ draft: false
 ## Tổng kết
 
 VPC là "hệ thống mạng ảo" của bạn trên AWS — nắm vững 13 thuật ngữ trên giúp bạn thiết kế network architecture đúng cách, debug connectivity issues nhanh chóng, và tự tin khi thảo luận infrastructure với team. Networking có thể khó ban đầu, nhưng hiểu đúng concept thì mọi thứ sẽ logic! 💪
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AWS Route 53 & API Gateway — Thuật Ngữ DNS & API Bằng Tiếng Anh](/posts/tu-vung-aws-route53-api-gateway-dns-api/)
+- [Scaling Laws in AI — Tại sao mô hình lớn hơn lại thông minh hơn](/posts/luyen-doc-scaling-laws-ai-mo-hinh-lon-thong-minh/)
+- [Từ Vựng Kubernetes — Thuật Ngữ K8s Dành Cho Developer](/posts/tu-vung-kubernetes-thuat-ngu-k8s/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

@@ -87,3 +87,20 @@ Tuy nhiên, một số lo ngại đã được nêu ra về chất lượng sả
 2. **Influencers** — người có ảnh hưởng
 3. **verification** — xác minh
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AI viết nhạc — bản quyền thuộc về ai?](/posts/luyen-doc-ai-viet-nhac-ban-quyen/)
+- [Twitter/X ra tính năng trả phí](/posts/luyen-doc-twitter-x-tinh-nang-tra-phi/)
+- [Facebook đổi tên thành Meta — Tập trung vào thế giới ảo](/posts/luyen-doc-facebook-doi-ten-thanh-meta/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

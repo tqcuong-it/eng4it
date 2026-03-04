@@ -83,3 +83,20 @@ Chip mới được xây dựng trên kiến trúc 4nm và hỗ trợ các tính
 2. **benchmark** — điểm chuẩn
 3. **confirmed** — xác nhận
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Apple Pay mở rộng sang Việt Nam](/posts/luyen-doc-apple-pay-mo-rong-viet-nam/)
+- [Samsung ra mắt điện thoại màn hình gập mới](/posts/luyen-doc-samsung-man-hinh-gap-moi/)
+- [Samsung Galaxy S mới có camera 200MP](/posts/luyen-doc-samsung-galaxy-camera-200mp/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

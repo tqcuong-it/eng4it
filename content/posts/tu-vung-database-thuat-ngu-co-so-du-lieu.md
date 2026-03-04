@@ -82,3 +82,20 @@ Database là trái tim của hầu hết mọi ứng dụng. Dù bạn dùng Pos
 ---
 
 Database là kỹ năng cốt lõi của developer. Nắm vững 14 thuật ngữ này sẽ giúp bạn viết query tốt hơn, thiết kế schema chuẩn hơn, và tự tin discuss database design với team. Keep querying! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Security & Cybersecurity — 14 Thuật Ngữ An Ninh Mạng Developer Phải Biết](/posts/tu-vung-security-thuat-ngu-an-ninh-mang/)
+- [Data Engineering — 12 Thuật Ngữ Xử Lý Dữ Liệu Developer Cần Biết](/posts/tu-vung-data-engineering-thuat-ngu-xu-ly-du-lieu/)
+- [Machine Learning Cơ Bản — 14 Thuật Ngữ AI/ML Developer Nên Biết](/posts/tu-vung-machine-learning-thuat-ngu-ai-ml/)
+
+
+---
+
+## 🎯 Kết luận
+
+Hy vọng bài viết giúp bạn tự tin hơn khi sử dụng tiếng Anh trong công việc IT. Hãy bookmark lại để tra cứu khi cần nhé!
+
+👉 [Xem thêm bài viết](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

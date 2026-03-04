@@ -122,3 +122,20 @@ Nếu danh tính tự chủ thực hiện được lời hứa, nó sẽ cấu h
 4. **legitimacy** — tính hợp pháp
 5. **impediments** — trở ngại
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Digital wallet thay thế ví truyền thống](/posts/luyen-doc-digital-wallet-thay-the-vi-truyen-thong/)
+- [PayPal cho phép mua crypto](/posts/luyen-doc-paypal-cho-phep-mua-crypto/)
+- [Bài 172: Software-Defined Vehicles — Xe hơi chạy bằng phần mềm](/posts/luyen-doc-software-defined-vehicles-xe-hoi-phan-mem/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

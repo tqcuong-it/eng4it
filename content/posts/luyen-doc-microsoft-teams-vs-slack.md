@@ -74,3 +74,20 @@ Microsoft Teams và Slack là hai công cụ làm việc phổ biến. Cả hai 
 2. **integrations** — tích hợp
 3. **startups** — công ty khởi nghiệp
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Nintendo ra game mới — The Legend of Zelda phá kỷ lục doanh số](/posts/luyen-doc-nintendo-ra-game-moi/)
+- [Remote-first company — công ty không cần văn phòng](/posts/luyen-doc-remote-first-company-khong-van-phong/)
+- [India trở thành hub công nghệ lớn nhất thế giới](/posts/luyen-doc-india-tech-boom/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)

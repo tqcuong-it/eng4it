@@ -82,3 +82,11 @@ Buổi kickoff meeting quyết định hướng đi của cả dự án. Đây l
 ## Tổng kết
 
 Project kickoff là thời điểm then chốt để cả team hiểu rõ **scope**, **timeline** và **deliverables**. Khi bạn nắm vững những thuật ngữ này, bạn sẽ tham gia kickoff meeting tự tin hơn, đặt câu hỏi đúng chỗ và thể hiện mình là một team member chuyên nghiệp. Let's kick off! 🚀
+
+---
+
+## 📚 Bài viết liên quan
+
+- [Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết](/posts/tu-vung-database-thuat-ngu-co-so-du-lieu/)
+- [Daily Standup — 13 Thuật Ngữ Họp Hàng Ngày Mà Developer Cần Biết](/posts/tu-vung-daily-standup-hop-hang-ngay/)
+- [Client Communication — 14 Thuật Ngữ Giao Tiếp Khách Hàng Cho Developer](/posts/tu-vung-client-communication-giao-tiep-khach-hang/)

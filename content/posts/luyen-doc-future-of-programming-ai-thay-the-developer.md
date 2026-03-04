@@ -123,3 +123,20 @@ Tuy nhiên, những người hoài nghi chỉ ra một thực tế nhiều sắc
 4. **trade-offs** — sự đánh đổi
 5. **inflection point** — điểm chuyển đổi
 {{< /spoiler >}}
+
+---
+
+## 📚 Bài viết liên quan
+
+- [AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine](/posts/luyen-doc-ai-chip-wars-nvidia-amd-google-apple/)
+- [Bài 148: Autonomous Coding Agents — AI software engineer](/posts/luyen-doc-autonomous-coding-agents-ai-software-engineer/)
+- [Retrieval-Augmented Generation (RAG) — Giải pháp cho AI](/posts/luyen-doc-rag-giai-phap-ai-hallucination/)
+
+
+---
+
+## 🎯 Kết luận
+
+Bạn vừa luyện đọc xong một bài báo tiếng Anh IT! Hãy quay lại đọc thêm các bài khác để nâng cao kỹ năng nhé.
+
+👉 [Xem thêm bài luyện đọc](/posts/) | 📱 [App IELTS 6.0](https://ielts.eng4it.com)
