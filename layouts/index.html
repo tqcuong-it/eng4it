@@ -9,7 +9,7 @@
     <p>{{ .Site.Params.homeInfoParams.Content | markdownify }}</p>
   </div>
   <div class="hero-cta">
-    <a href="/ielts/" class="cta-btn cta-primary">Bắt đầu IELTS 6.0</a>
+    <a href="https://ielts.eng4it.com" class="cta-btn cta-primary">IELTS 6.0 ↗</a>
     <a href="/reading/" class="cta-btn cta-secondary">200 bài luyện đọc</a>
   </div>
   <footer class="entry-footer">
@@ -18,57 +18,18 @@
 </article>
 {{- end }}
 
-{{- /* IELTS Section — Collapsible by Phase */ -}}
-{{- with .Site.GetPage "/ielts" }}
+{{- /* IELTS Section — Redirect to ielts.eng4it.com */ -}}
 <div class="category-section">
-  <h2>
-    <a href="{{ .Permalink }}">📚 IELTS 6.0 — 40 Tuần</a>
-  </h2>
-
-  {{- $sections := sort .Sections "Weight" }}
+  <h2>📚 IELTS 6.0 — Đã chuyển sang site riêng!</h2>
   <div class="post-cards-grid" style="grid-template-columns:1fr">
-    {{- /* Phase 1 */ -}}
-    {{- $p1 := slice }}
-    {{- range $sections }}{{ if and (ge .Weight 1) (le .Weight 12) }}{{ $p1 = $p1 | append . }}{{ end }}{{ end }}
-    <a href="{{ (index $p1 0).Permalink }}" class="post-card">
+    <a href="https://ielts.eng4it.com" class="post-card">
       <div class="post-card-body">
-        <h3>🌱 Phase 1: Nền Tảng</h3>
-        <p>Tuần 1-12 · {{ range $i, $s := $p1 }}{{ if $i }}{{ end }}{{ end }}{{ len $p1 }} tuần · Xây dựng nền tảng vững chắc</p>
-      </div>
-    </a>
-    {{- /* Phase 2 */ -}}
-    {{- $p2 := slice }}
-    {{- range $sections }}{{ if and (ge .Weight 13) (le .Weight 24) }}{{ $p2 = $p2 | append . }}{{ end }}{{ end }}
-    <a href="{{ (index $p2 0).Permalink }}" class="post-card">
-      <div class="post-card-body">
-        <h3>📖 Phase 2: Kỹ Năng IELTS</h3>
-        <p>Tuần 13-24 · {{ len $p2 }} tuần · Luyện 4 kỹ năng chuyên sâu</p>
-      </div>
-    </a>
-    {{- /* Phase 3 */ -}}
-    {{- $p3 := slice }}
-    {{- range $sections }}{{ if and (ge .Weight 25) (le .Weight 36) }}{{ $p3 = $p3 | append . }}{{ end }}{{ end }}
-    <a href="{{ (index $p3 0).Permalink }}" class="post-card">
-      <div class="post-card-body">
-        <h3>🎯 Phase 3: Luyện Thi</h3>
-        <p>Tuần 25-36 · {{ len $p3 }} tuần · Làm đề thi thực tế</p>
-      </div>
-    </a>
-    {{- /* Phase 4 */ -}}
-    {{- $p4 := slice }}
-    {{- range $sections }}{{ if and (ge .Weight 37) (le .Weight 40) }}{{ $p4 = $p4 | append . }}{{ end }}{{ end }}
-    <a href="{{ (index $p4 0).Permalink }}" class="post-card">
-      <div class="post-card-body">
-        <h3>🏆 Phase 4: Sprint Cuối</h3>
-        <p>Tuần 37-40 · {{ len $p4 }} tuần · Tổng ôn trước khi thi</p>
+        <h3>👉 Đi đến IELTS by Eng4IT →</h3>
+        <p>Toàn bộ nội dung IELTS đã chuyển sang <strong>ielts.eng4it.com</strong> — Flashcard SRS, bài tập có chấm điểm, theo dõi tiến độ!</p>
       </div>
     </a>
   </div>
-  {{- with .GetPage "roadmap" }}
-  <p style="text-align:center;margin-top:.5rem"><a href="{{ .Permalink }}">→ 📋 {{ .Title }}</a></p>
-  {{- end }}
 </div>
-{{- end }}
 
 {{- /* Reading Practice Section — Level summary */ -}}
 {{- $readingPosts := where .Site.RegularPages "Params.categories" "intersect" (slice "Reading Practice") }}

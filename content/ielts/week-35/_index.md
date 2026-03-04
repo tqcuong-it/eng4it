@@ -10,7 +10,7 @@ TocOpen: true
 weight: 35
 draft: false
 ---
-> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Học từ vựng, ngữ pháp, đọc, nghe + kiểm tra ngay!
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts-app.eng4it.com) — Học từ vựng, ngữ pháp, đọc, nghe + kiểm tra ngay!
 
 ## 🎯 Tuần 35 — Weakness Focus
 

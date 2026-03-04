@@ -10,7 +10,7 @@ TocOpen: true
 weight: 14
 draft: false
 ---
-> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Học từ vựng, ngữ pháp, đọc, nghe + kiểm tra ngay!
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts-app.eng4it.com) — Học từ vựng, ngữ pháp, đọc, nghe + kiểm tra ngay!
 
 ## 🎯 Mục tiêu Tuần 14
 

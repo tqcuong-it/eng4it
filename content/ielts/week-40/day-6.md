@@ -12,7 +12,7 @@ TocOpen: true
 weight: 6
 draft: false
 ---
-> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts-app.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
 
 ## 🎯 EXAM DAY — Ngày bạn đã chờ đợi!
 

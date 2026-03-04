@@ -1,12 +1,10 @@
 ---
-title: "IELTS"
-description: "Lộ trình tự học IELTS 6.0 dành cho người mới bắt đầu — từ zero đến thi thật."
+title: "IELTS — Đã chuyển sang ielts.eng4it.com"
+description: "Nội dung IELTS đã được chuyển sang ielts.eng4it.com"
 ---
-> 📱 **App luyện thi miễn phí:** [ielts.eng4it.com](https://ielts.eng4it.com) — Flashcard SRS, bài tập có chấm điểm, theo dõi tiến độ!
 
+## 📢 IELTS đã có nhà mới!
 
-Chào mừng bạn đến với series **Tự Học IELTS 6.0**! 🎯
+Toàn bộ nội dung IELTS đã được chuyển sang **[ielts.eng4it.com](https://ielts.eng4it.com)** để phục vụ bạn tốt hơn!
 
-Đây là lộ trình tự học IELTS 6.0 trong 40 tuần, dành cho người mới bắt đầu. Mỗi ngày chỉ cần **1–2 giờ**, học theo giáo án chi tiết.
-
-👉 [Xem Lộ Trình Tổng Quan](/ielts/roadmap/)
+👉 **[Đi đến IELTS by Eng4IT →](https://ielts.eng4it.com)**

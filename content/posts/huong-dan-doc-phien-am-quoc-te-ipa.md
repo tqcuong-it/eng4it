@@ -274,7 +274,7 @@ Học thuộc bảng này, bạn sẽ **tự tin đọc phiên âm** bất kỳ 
 
 *Đây là bài nền tảng quan trọng nhất. Hãy bookmark lại để tra cứu khi cần!* 📌
 
-*Tiếp theo: [Lộ Trình IELTS 6.0 Cho Dân IT](/ielts/roadmap/) →*
+*Tiếp theo: [Lộ Trình IELTS 6.0 Cho Dân IT](https://ielts.eng4it.com/ielts/roadmap/) →*
 
 ---
 

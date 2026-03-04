@@ -83,3 +83,15 @@ Technical interview không chỉ test coding skill mà còn test cách bạn com
 - [Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết](/posts/tu-vung-docker-thuat-ngu-container/)
 - [Bug Report — 15 Thuật Ngữ Báo Cáo Lỗi Mà Developer Nào Cũng Phải Biết](/posts/tu-vung-bug-report-bao-cao-loi/)
 - [Testing & QA — 14 Thuật Ngữ Kiểm Thử Developer Phải Biết](/posts/tu-vung-testing-qa-thuat-ngu-kiem-thu/)
+
+---
+
+### 💡 Mẹo học từ vựng phỏng vấn IT hiệu quả
+
+- **Flashcard:** Tạo flashcard với Anki hoặc Quizlet cho các từ vựng trong bài, mỗi ngày ôn 10-15 từ để nhớ lâu
+- **Ngữ cảnh thực tế:** Đọc thêm câu hỏi phỏng vấn technical để thấy từ vựng được sử dụng trong context thực tế
+- **Viết câu:** Với mỗi từ mới, hãy viết 1-2 câu ví dụ liên quan đến project hoặc công việc đang làm
+- **Nói to:** Luyện phát âm theo IPA, đọc to các câu ví dụ để cải thiện cả pronunciation và memory retention
+- **Nhóm từ:** Gom các từ theo chủ đề con (ví dụ: verbs, nouns, adjectives) để dễ hệ thống hóa kiến thức
+- **Review định kỳ:** Áp dụng spaced repetition — ôn lại sau 1 ngày, 3 ngày, 7 ngày, 30 ngày để chuyển từ short-term sang long-term memory
+- **Thực hành ngay:** Cố gắng sử dụng ít nhất 3-5 từ mới trong standup meeting, code review, hoặc technical discussion hàng ngày

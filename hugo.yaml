@@ -14,7 +14,7 @@ params:
   adsenseArticleSlot: "9497669616"
   title: "Eng4IT"
   description: "Học tiếng Anh chuyên ngành IT — Dành cho dân IT tại Nhật và Việt Nam"
-  keywords: ["tiếng anh IT", "english for developer", "tiếng anh lập trình", "IELTS IT", "BrSE english"]
+  keywords: ["tiếng anh IT", "english for developer", "tiếng anh lập trình", "BrSE english"]
   author: "Cuong TQ"
   
   images:
@@ -33,7 +33,7 @@ params:
     Title: "Eng4IT"
     Content: >
       Học tiếng Anh thực tế dành riêng cho dân IT.
-      Email chuyên nghiệp, meeting tự tin, đọc docs nhanh, IELTS cho dân tech.
+      Email chuyên nghiệp, meeting tự tin, đọc docs nhanh.
   
   ShowAllPagesInArchive: true
   
@@ -63,8 +63,8 @@ params:
 
 menu:
   main:
-    - name: "IELTS"
-      url: /ielts/
+    - name: "IELTS ↗"
+      url: https://ielts.eng4it.com
       weight: 1
     - name: "Luyện Đọc"
       url: /reading/

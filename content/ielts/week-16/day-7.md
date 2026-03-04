@@ -12,7 +12,7 @@ TocOpen: true
 weight: 7
 draft: false
 ---
-> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
+> 📱 **Luyện tập trên App:** [Mở App IELTS](https://ielts-app.eng4it.com) — Flashcard từ vựng, bài tập ngữ pháp, đọc hiểu, nghe và kiểm tra có chấm điểm tự động!
 
 ## 📋 Tổng hợp 2 tuần Reading (Tuần 15-16)
 
