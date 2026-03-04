@@ -18,18 +18,6 @@
 </article>
 {{- end }}
 
-{{- /* IELTS Section — Redirect to ielts.eng4it.com */ -}}
-<div class="category-section">
-  <h2>📚 IELTS 6.0 — Đã chuyển sang site riêng!</h2>
-  <div class="post-cards-grid" style="grid-template-columns:1fr">
-    <a href="https://ielts.eng4it.com" class="post-card">
-      <div class="post-card-body">
-        <h3>👉 Đi đến IELTS by Eng4IT →</h3>
-        <p>Toàn bộ nội dung IELTS đã chuyển sang <strong>ielts.eng4it.com</strong> — Flashcard SRS, bài tập có chấm điểm, theo dõi tiến độ!</p>
-      </div>
-    </a>
-  </div>
-</div>
 
 {{- /* Reading Practice Section — Level summary */ -}}
 {{- $readingPosts := where .Site.RegularPages "Params.categories" "intersect" (slice "Reading Practice") }}
