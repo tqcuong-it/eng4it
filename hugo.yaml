@@ -115,3 +115,4 @@ markup:
     guessSyntax: true
     lineNos: true
     style: github
+ignoreFiles: ["_archived"]
