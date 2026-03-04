@@ -16,8 +16,8 @@
 - [x] 5. 20 câu nói trong Sprint Planning Meeting
 - [x] 6. Cách viết Bug Report bằng tiếng Anh
 - [x] 7. Email báo cáo tiến độ dự án (Progress Report)
-- [ ] 8. 25 câu dùng trong Daily Scrum/Standup
-- [ ] 9. Cách viết Technical Proposal
+- [x] 8. 25 câu dùng trong Daily Scrum/Standup
+- [x] 9. Cách viết Technical Proposal
 - [ ] 10. Email follow-up sau meeting — template & phrases
 - [ ] 11. Cách present demo cho khách hàng bằng tiếng Anh
 - [ ] 12. 30 từ vựng Agile/Scrum mà developer phải biết
