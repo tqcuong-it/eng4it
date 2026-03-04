@@ -1,10 +1,11 @@
 ---
 title: "Cuộc chiến nhân tài AI toàn cầu — giành giật bộ não quý hiếm"
 date: "2023-09-20"
+summary: "Luyện đọc tiếng Anh IT: giành giật bộ não quý hiếm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-talent-war-cuoc-chien-nhan-tai-ai"
-description: "Luyện đọc tiếng Anh IT qua bài phân tích cuộc cạnh tranh toàn cầu thu hút nhân tài AI. Từ vựng HR/AI, cấp độ Master."
+description: "Luyện đọc tiếng Anh IT qua bài phân tích cuộc cạnh tranh toàn cầu thu hút nhân tài AI. Từ vựng HR/AI, cấp độ Master, dành cho developer Việt Nam muốn nâng ca..."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

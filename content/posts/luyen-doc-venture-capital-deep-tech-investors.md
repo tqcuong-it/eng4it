@@ -1,10 +1,11 @@
 ---
 title: "Venture capital in deep tech — why investors are betting on"
 date: 2023-09-14
+summary: "Luyện đọc tiếng Anh IT: why investors are betting on — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-venture-capital-deep-tech-investors"
 description: "Luyện đọc tiếng Anh IT chủ đề đầu tư mạo hiểm vào deep tech — vì sao nhà đầu tư đặt cược vào bài toán khó. Cấp độ Master."
 categories: ["Reading Practice"]
-tags: ["master", "startup"]
+tags: ["master", "startup", "aws", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

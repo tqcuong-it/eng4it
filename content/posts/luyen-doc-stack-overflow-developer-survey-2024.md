@@ -1,10 +1,11 @@
 ---
 title: "Stack Overflow khảo sát developer 2024"
 date: "2023-05-29"
+summary: "Luyện đọc tiếng Anh IT: Stack Overflow khảo sát developer 2024 — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-stack-overflow-developer-survey-2024"
 description: "Luyện đọc tiếng Anh IT qua bài báo về khảo sát Stack Overflow Developer Survey 2024. Từ vựng programming, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "programming"]
+tags: ["pre-intermediate", "programming", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Bài 150: Neuromorphic Computing — Chip bắt chước não người"
 date: "2023-08-06"
+summary: "Luyện đọc tiếng Anh IT: Chip bắt chước não người — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-neuromorphic-computing-chip-bat-chuoc-nao"
 description: "Luyện đọc tiếng Anh IT chủ đề neuromorphic computing - chip xử lý bắt chước cách hoạt động của não người, tiết kiệm năng lượng cho AI"
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

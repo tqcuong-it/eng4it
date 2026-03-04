@@ -1,10 +1,11 @@
 ---
 title: "Tech M&A 2024 — Các thương vụ sáp nhập công nghệ đáng chú ý"
 date: 2023-08-15
+summary: "Luyện đọc tiếng Anh IT: Các thương vụ sáp nhập công nghệ đáng chú ý — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-big-tech-mergers-acquisitions-2024"
 description: "Luyện đọc tiếng Anh IT về các thương vụ M&A công nghệ lớn năm 2024, từ vựng mergers, acquisitions, regulatory approval cho dân IT."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "big-tech"]
+tags: ["upper-intermediate", "big-tech", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Xây dựng hệ thống bền bỉ — bài học từ các sự cố công nghệ lớn"
 date: "2023-09-24"
+summary: "Luyện đọc tiếng Anh IT: bài học từ các sự cố công nghệ lớn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-system-resilience-xay-dung-he-thong-ben-vung"
-description: "Luyện đọc tiếng Anh IT qua bài phân tích xây dựng hệ thống chống chịu sự cố. Từ vựng system design, cấp độ Master."
+description: "Luyện đọc tiếng Anh IT qua bài phân tích xây dựng hệ thống chống chịu sự cố. Từ vựng system design, cấp độ Master, dành cho developer Việt Nam muốn nâng cao ..."
 categories: ["Reading Practice"]
-tags: ["master", "cloud"]
+tags: ["master", "cloud", "cloud-computing", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

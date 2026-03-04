@@ -1,10 +1,11 @@
 ---
 title: "Green coding — viết code tiết kiệm năng lượng"
 date: "2023-07-02"
+summary: "Luyện đọc tiếng Anh IT: viết code tiết kiệm năng lượng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-green-coding-tiet-kiem-nang-luong"
 description: "Luyện đọc tiếng Anh IT về green coding và phần mềm bền vững, giảm tiêu thụ năng lượng qua tối ưu code. Từ vựng green tech, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "green-tech"]
+tags: ["intermediate", "green-tech", "sustainability"]
 ShowToc: true
 TocOpen: true
 draft: false

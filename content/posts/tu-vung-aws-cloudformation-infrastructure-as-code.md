@@ -1,6 +1,7 @@
 ---
 title: "AWS CloudFormation — Thuật Ngữ Infrastructure as Code Bằng Tiếng Anh"
 date: 2023-01-21
+summary: "Học 10+ thuật ngữ AWS CloudFormation quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-cloudformation-infrastructure-as-code"
 description: "Học 12 thuật ngữ tiếng Anh về AWS CloudFormation — stack, template, drift detection và hơn thế. Dành cho dev Việt làm IaC."
 categories: ["IT English"]

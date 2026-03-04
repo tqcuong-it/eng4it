@@ -1,10 +1,11 @@
 ---
 title: "Bug Report — 15 Thuật Ngữ Báo Cáo Lỗi Mà Developer Nào Cũng Phải Biết"
 date: 2023-02-24
+summary: "Học 15 thuật ngữ Bug Report quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-bug-report-bao-cao-loi"
 description: "Học 15 thuật ngữ tiếng Anh về Bug Report — từ reproduce, severity, priority đến root cause, stack trace và hotfix. Viết bug report chuẩn chỉnh bằng tiếng Anh."
 categories: ["IT English"]
-tags: ["devops", "workplace-english"]
+tags: ["devops", "workplace-english", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

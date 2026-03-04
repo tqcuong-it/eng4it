@@ -1,8 +1,9 @@
 ---
 title: "Serverless architecture — tương lai của backend"
 date: "2023-06-11"
+summary: "Luyện đọc tiếng Anh IT: tương lai của backend — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-serverless-architecture-tuong-lai-backend"
-description: "Bài luyện đọc về xu hướng serverless architecture và tác động đến phát triển backend, cấp độ Intermediate."
+description: "Bài luyện đọc về xu hướng serverless architecture và tác động đến phát triển backend, cấp độ Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
 tags: ["intermediate", "cloud", "programming"]
 ShowToc: true

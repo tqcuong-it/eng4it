@@ -1,6 +1,7 @@
 ---
 title: "AWS RDS — Thuật Ngữ Cơ Sở Dữ Liệu Đám Mây Cho Developer"
 date: 2023-01-18
+summary: "Học 10+ thuật ngữ AWS RDS quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-rds-thuat-ngu-co-so-du-lieu-dam-may"
 description: "Học 12 thuật ngữ tiếng Anh quan trọng về AWS RDS — từ replica, snapshot đến multi-AZ. Kèm ví dụ thực tế và bài tập cho developer Việt Nam."
 categories: ["IT English"]

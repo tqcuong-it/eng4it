@@ -3,7 +3,7 @@ title: "20 câu nói trong Sprint Planning Meeting bằng tiếng Anh"
 slug: "20-cau-noi-trong-sprint-planning-meeting-bang-tieng-anh"
 date: 2026-03-03
 summary: "Tổng hợp 20+ câu tiếng Anh hay dùng trong Sprint Planning — estimate, prioritize, assign tasks kèm từ vựng và ví dụ thực tế."
-description: "20 câu nói tiếng Anh phổ biến trong Sprint Planning Meeting cho developer và Scrum Master. Bao gồm từ vựng IPA, mẫu câu estimate, prioritize, assign tasks và bài tập thực hành."
+description: "20 câu nói tiếng Anh phổ biến trong Sprint Planning Meeting cho developer và Scrum Master. Bao gồm từ vựng IPA, mẫu câu estimate, prioritize."
 tags: ["workplace-english", "agile", "scrum", "meeting"]
 categories: ["workplace-english"]
 ShowToc: true

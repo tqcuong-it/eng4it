@@ -1,10 +1,11 @@
 ---
 title: "Nintendo ra game mới — The Legend of Zelda phá kỷ lục doanh số"
 date: "2023-03-24"
+summary: "Luyện đọc tiếng Anh IT: The Legend of Zelda phá kỷ lục doanh số — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-nintendo-ra-game-moi"
-description: "Luyện đọc tiếng Anh IT: Nintendo ra mắt game Zelda mới phá kỷ lục bán hàng. Từ vựng gaming cơ bản cho người mới."
+description: "Luyện đọc tiếng Anh IT: Nintendo ra mắt game Zelda mới phá kỷ lục bán hàng. Từ vựng gaming cơ bản cho người mới, dành cho developer Việt Nam muốn nâng cao ti..."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

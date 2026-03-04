@@ -1,6 +1,7 @@
 ---
 title: "Observability vs Monitoring — sự khác biệt quan trọng"
 date: "2023-07-15"
+summary: "Luyện đọc tiếng Anh IT: sự khác biệt quan trọng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-observability-vs-monitoring-he-thong"
 description: "Luyện đọc tiếng Anh IT qua bài so sánh observability và monitoring trong quản lý hệ thống. Từ vựng DevOps, cấp độ Intermediate."
 categories: ["Reading Practice"]

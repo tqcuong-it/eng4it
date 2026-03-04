@@ -1,10 +1,11 @@
 ---
 title: "Apple ngừng hỗ trợ Lightning, chuyển sang USB-C"
 date: "2023-06-12"
+summary: "Luyện đọc tiếng Anh IT: Apple ngừng hỗ trợ Lightning, chuyển sang USB-C — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-apple-lightning-usb-c"
-description: "Bài luyện đọc về việc Apple chuyển từ cổng Lightning sang USB-C theo quy định EU, cấp độ Intermediate."
+description: "Bài luyện đọc về việc Apple chuyển từ cổng Lightning sang USB-C theo quy định EU, cấp độ Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Deepfake detection — AI phát hiện video giả"
 date: "2023-07-05"
+summary: "Luyện đọc tiếng Anh IT: AI phát hiện video giả — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-deepfake-detection-phat-hien-video-gia"
 description: "Luyện đọc tiếng Anh IT về công nghệ phát hiện deepfake và cuộc chiến chống video giả mạo bằng AI. Từ vựng AI, cybersecurity, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "security", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

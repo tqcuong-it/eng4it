@@ -1,6 +1,7 @@
 ---
 title: "Bài 158: Confidential Computing — Tính Toán Bảo Mật Trên Cloud"
 date: "2023-08-14"
+summary: "Luyện đọc tiếng Anh IT: Tính Toán Bảo Mật Trên Cloud — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-confidential-computing-tinh-toan-bao-mat"
 description: "Luyện đọc tiếng Anh IT bài 158: Confidential computing bảo vệ dữ liệu ngay cả khi đang được xử lý, mở ra kỷ nguyên mới cho bảo mật cloud."
 categories: ["Reading Practice"]

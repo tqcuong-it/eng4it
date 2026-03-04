@@ -1,10 +1,11 @@
 ---
 title: "Bài 180: Agentic AI — AI tự hành và tương lai automation"
 date: 2023-09-05
+summary: "Luyện đọc tiếng Anh IT: AI tự hành và tương lai automation — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-agentic-ai-autonomous-agents"
 description: "Luyện đọc tiếng Anh IT chủ đề Agentic AI, AI tự hành có khả năng lập kế hoạch và hành động độc lập, tương lai của tự động hóa"
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Từ Vựng Docker — Thuật Ngữ Container Mà Developer Cần Biết"
 date: 2023-01-30
+summary: "Học 10+ thuật ngữ Từ Vựng Docker quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-docker-thuat-ngu-container"
 description: "Học 14 thuật ngữ Docker quan trọng nhất cho developer: image, container, volume, Dockerfile, multi-stage build và nhiều hơn nữa."
 categories: ["IT English"]
-tags: ["devops", "cloud-computing"]
+tags: ["devops", "cloud-computing", "backend", "testing", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

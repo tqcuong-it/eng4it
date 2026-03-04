@@ -1,10 +1,11 @@
 ---
 title: "Robot giao hàng tại Nhật Bản"
 date: "2023-03-13"
+summary: "Luyện đọc tiếng Anh IT: Robot giao hàng tại Nhật Bản — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-robot-giao-hang-nhat-ban"
-description: "Luyện đọc tiếng Anh IT qua bài báo robot giao hàng tại Nhật Bản. Từ vựng robotics, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo robot giao hàng tại Nhật Bản. Từ vựng robotics, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ev-iot"]
+tags: ["starter", "ev-iot", "iot", "testing", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

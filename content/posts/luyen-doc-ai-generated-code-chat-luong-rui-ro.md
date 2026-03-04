@@ -1,6 +1,7 @@
 ---
 title: "AI-generated code — chất lượng và rủi ro bảo mật"
 date: "2023-07-08"
+summary: "Luyện đọc tiếng Anh IT: chất lượng và rủi ro bảo mật — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-generated-code-chat-luong-rui-ro"
 description: "Luyện đọc tiếng Anh IT qua bài báo về chất lượng code do AI tạo ra và các rủi ro bảo mật tiềm ẩn. Từ vựng programming, cấp độ Intermediate."
 categories: ["Reading Practice"]

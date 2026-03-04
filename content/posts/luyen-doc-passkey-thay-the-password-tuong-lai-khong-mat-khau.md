@@ -1,10 +1,11 @@
 ---
 title: "Bài 147: Passkey thay thế password — Tương lai không mật khẩu"
 date: "2023-08-03"
+summary: "Luyện đọc tiếng Anh IT: Tương lai không mật khẩu — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-passkey-thay-the-password-tuong-lai-khong-mat-khau"
 description: "Luyện đọc tiếng Anh IT chủ đề passkey và passwordless authentication — tương lai xác thực không cần mật khẩu truyền thống."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "cybersecurity"]
+tags: ["upper-intermediate", "cybersecurity", "ai", "security", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

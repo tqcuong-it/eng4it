@@ -1,10 +1,11 @@
 ---
 title: "Singapore trở thành trung tâm AI Đông Nam Á"
 date: "2023-07-03"
+summary: "Luyện đọc tiếng Anh IT: Singapore trở thành trung tâm AI Đông Nam Á — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-singapore-ai-hub-dong-nam-a"
 description: "Luyện đọc tiếng Anh IT về Singapore đầu tư mạnh vào AI và trở thành trung tâm trí tuệ nhân tạo Đông Nam Á. Từ vựng AI, startup, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Chi phí môi trường của đời sống số — trung tâm dữ liệu, crypto"
 date: "2023-09-23"
+summary: "Luyện đọc tiếng Anh IT: trung tâm dữ liệu, crypto — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-digital-carbon-footprint-chi-phi-moi-truong"
-description: "Luyện đọc tiếng Anh IT qua bài phân tích tác động môi trường của hạ tầng số. Từ vựng green tech, cấp độ Master."
+description: "Luyện đọc tiếng Anh IT qua bài phân tích tác động môi trường của hạ tầng số. Từ vựng green tech, cấp độ Master, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["master", "green-tech"]
+tags: ["master", "green-tech", "cloud-computing", "blockchain", "devops"]
 ShowToc: true
 TocOpen: true
 draft: false

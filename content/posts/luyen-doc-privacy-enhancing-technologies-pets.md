@@ -1,10 +1,11 @@
 ---
 title: "Privacy-enhancing technologies — federated learning,"
 date: "2023-08-25"
+summary: "Luyện đọc tiếng Anh IT: federated learning, — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-privacy-enhancing-technologies-pets"
 description: "Luyện đọc tiếng Anh IT về các công nghệ bảo vệ quyền riêng tư - federated learning, differential privacy và homomorphic encryption"
 categories: ["Reading Practice"]
-tags: ["advanced", "cybersecurity"]
+tags: ["advanced", "cybersecurity", "security", "data", "privacy"]
 ShowToc: true
 TocOpen: true
 draft: false

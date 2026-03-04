@@ -1,10 +1,11 @@
 ---
 title: "Generative AI thay đổi ngành quảng cáo"
 date: "2023-06-18"
+summary: "Luyện đọc tiếng Anh IT: Generative AI thay đổi ngành quảng cáo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-generative-ai-advertising"
 description: "Luyện đọc tiếng Anh IT: Generative AI đang cách mạng hóa ngành quảng cáo, tạo nội dung tự động và cá nhân hóa trải nghiệm người dùng."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "social-media", "testing", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

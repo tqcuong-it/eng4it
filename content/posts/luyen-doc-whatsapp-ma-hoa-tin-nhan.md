@@ -1,10 +1,11 @@
 ---
 title: "WhatsApp mã hóa tin nhắn"
 date: "2023-04-03"
+summary: "Luyện đọc tiếng Anh IT: WhatsApp mã hóa tin nhắn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-whatsapp-ma-hoa-tin-nhan"
-description: "Luyện đọc tiếng Anh IT qua bài báo về WhatsApp tăng cường mã hóa tin nhắn. Từ vựng cybersecurity, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về WhatsApp tăng cường mã hóa tin nhắn. Từ vựng cybersecurity, cấp độ Starter, dành cho developer Việt Nam muốn nâng cao t..."
 categories: ["Reading Practice"]
-tags: ["starter", "cybersecurity"]
+tags: ["starter", "cybersecurity", "security", "privacy"]
 ShowToc: true
 TocOpen: true
 draft: false

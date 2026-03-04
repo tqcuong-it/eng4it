@@ -1,10 +1,11 @@
 ---
 title: "Bài 149: Tech IPO 2024 — Thị trường IPO phục hồi sau 2 năm"
 date: "2023-08-05"
+summary: "Luyện đọc tiếng Anh IT: Thị trường IPO phục hồi sau 2 năm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tech-ipo-2024-thi-truong-ipo-phuc-hoi"
 description: "Luyện đọc tiếng Anh IT chủ đề tech IPO market — thị trường IPO công nghệ phục hồi sau 2 năm đóng băng và triển vọng 2024."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "startup"]
+tags: ["upper-intermediate", "startup", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

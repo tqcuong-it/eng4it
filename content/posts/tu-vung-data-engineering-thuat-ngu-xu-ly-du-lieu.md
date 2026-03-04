@@ -1,10 +1,11 @@
 ---
 title: "Data Engineering — 12 Thuật Ngữ Xử Lý Dữ Liệu Developer Cần Biết"
 date: 2023-02-16
+summary: "Học 12 thuật ngữ Data Engineering quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-data-engineering-thuat-ngu-xu-ly-du-lieu"
-description: "Học 12 thuật ngữ tiếng Anh về Data Engineering — từ ETL, pipeline, data lake đến stream processing, partitioning và data lineage. Dễ hiểu cho developer Việt Nam."
+description: "Học 12 thuật ngữ tiếng Anh về Data Engineering — từ ETL, pipeline, data lake đến stream processing, partitioning và data lineage."
 categories: ["IT English"]
-tags: ["database", "backend"]
+tags: ["database", "backend", "data", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

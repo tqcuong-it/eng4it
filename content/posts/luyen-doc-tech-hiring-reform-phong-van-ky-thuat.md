@@ -1,10 +1,11 @@
 ---
 title: "Tại sao phỏng vấn kỹ thuật đang hỏng và cách sửa chúng"
 date: "2023-09-22"
+summary: "Luyện đọc tiếng Anh IT: Tại sao phỏng vấn kỹ thuật đang hỏng và cách sửa chúng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tech-hiring-reform-phong-van-ky-thuat"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích vấn đề phỏng vấn kỹ thuật và cải cách tuyển dụng. Từ vựng hiring, cấp độ Master."
 categories: ["Reading Practice"]
-tags: ["master", "programming"]
+tags: ["master", "programming", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

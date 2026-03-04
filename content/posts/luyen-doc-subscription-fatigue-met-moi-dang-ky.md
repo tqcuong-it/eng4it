@@ -1,10 +1,11 @@
 ---
 title: "Subscription fatigue — người dùng mệt mỏi vì quá nhiều gói"
 date: "2023-07-09"
+summary: "Luyện đọc tiếng Anh IT: người dùng mệt mỏi vì quá nhiều gói — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-subscription-fatigue-met-moi-dang-ky"
 description: "Luyện đọc tiếng Anh IT qua bài báo về hiện tượng subscription fatigue khi người dùng mệt mỏi với quá nhiều dịch vụ đăng ký. Cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

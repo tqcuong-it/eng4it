@@ -1,10 +1,11 @@
 ---
 title: "Bài 139: Open banking API — ngân hàng mở và fintech revolution"
 date: "2023-07-26"
+summary: "Luyện đọc tiếng Anh IT: ngân hàng mở và fintech revolution — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-open-banking-api-ngan-hang-mo"
-description: "Luyện đọc tiếng Anh IT chủ đề open banking API, cách ngân hàng mở dữ liệu cho fintech và cuộc cách mạng tài chính số"
+description: "Luyện đọc tiếng Anh IT chủ đề open banking API, cách ngân hàng mở dữ liệu cho fintech và cuộc cách mạng tài chính số, dành cho developer Việt Nam muốn nâng c..."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "blockchain"]
+tags: ["upper-intermediate", "blockchain", "fintech", "data", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

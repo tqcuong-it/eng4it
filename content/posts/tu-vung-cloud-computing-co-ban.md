@@ -1,6 +1,7 @@
 ---
 title: "Cloud Computing Cơ Bản — Thuật Ngữ Đám Mây Cho Developer"
 date: 2023-01-28
+summary: "Học 10+ thuật ngữ Cloud Computing Cơ Bản quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-cloud-computing-co-ban"
 description: "Học 14 thuật ngữ tiếng Anh về Cloud Computing — từ IaaS, PaaS, SaaS đến elasticity, scalability và pay-as-you-go, nền tảng kiến thức cloud cho mọi developer."
 categories: ["IT English"]

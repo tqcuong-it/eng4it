@@ -1,10 +1,11 @@
 ---
 title: "Microsoft Teams vs Slack"
 date: "2023-04-06"
+summary: "Luyện đọc tiếng Anh IT: Microsoft Teams vs Slack — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-microsoft-teams-vs-slack"
-description: "Luyện đọc tiếng Anh IT qua bài báo so sánh Microsoft Teams và Slack. Từ vựng workplace tools, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo so sánh Microsoft Teams và Slack. Từ vựng workplace tools, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "gaming", "startup", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -3,8 +3,8 @@ title: "Cách viết Technical Proposal / RFC bằng tiếng Anh"
 slug: "cach-viet-technical-proposal-rfc-bang-tieng-anh"
 date: 2023-03-13
 summary: "Hướng dẫn viết Technical Proposal / RFC bằng tiếng Anh — problem statement, proposed solution, alternatives, timeline và template copy-paste."
-description: "Học cách viết Technical Proposal và RFC bằng tiếng Anh cho developer. Bao gồm template chuẩn, mẫu câu cho problem statement, proposed solution, alternatives, timeline và bài tập thực hành."
-tags: ["workplace-english"]
+description: "Học cách viết Technical Proposal và RFC bằng tiếng Anh cho developer. Bao gồm template chuẩn, mẫu câu cho problem statement, proposed solution."
+tags: ["workplace-english", "networking", "it-english"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

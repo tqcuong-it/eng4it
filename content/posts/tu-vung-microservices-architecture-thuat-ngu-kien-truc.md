@@ -1,10 +1,11 @@
 ---
 title: "Microservices Architecture — 12 Thuật Ngữ Kiến Trúc Developer Phải Biết"
 date: 2023-02-12
+summary: "Học 12 thuật ngữ Microservices Architecture quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-microservices-architecture-thuat-ngu-kien-truc"
 description: "Học 12 thuật ngữ tiếng Anh quan trọng về Microservices Architecture — từ gateway, circuit breaker, saga pattern đến service mesh, CQRS và eventual consistency."
 categories: ["IT English"]
-tags: ["backend"]
+tags: ["backend", "it-english", "vocabulary"]
 ShowToc: true
 TocOpen: true
 draft: false

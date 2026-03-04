@@ -1,10 +1,11 @@
 ---
 title: "Phishing email — cách nhận biết và phòng tránh"
 date: "2023-05-30"
+summary: "Luyện đọc tiếng Anh IT: cách nhận biết và phòng tránh — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-phishing-email-nhan-biet-phong-tranh"
 description: "Luyện đọc tiếng Anh IT qua bài báo về phishing email và cách phòng tránh lừa đảo qua email. Từ vựng cybersecurity, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "cybersecurity"]
+tags: ["pre-intermediate", "cybersecurity", "security", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "TikTok bị cấm ở một số nước — lý do bảo mật"
 date: "2023-05-20"
+summary: "Luyện đọc tiếng Anh IT: lý do bảo mật — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tiktok-bi-cam-bao-mat"
 description: "Luyện đọc tiếng Anh IT qua bài báo về TikTok bị cấm vì lý do bảo mật dữ liệu. Từ vựng cybersecurity, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]

@@ -1,10 +1,11 @@
 ---
 title: "Japan's tech immigration policy — Nhật Bản thu hút nhân tài IT"
 date: "2023-07-24"
+summary: "Luyện đọc tiếng Anh IT: Nhật Bản thu hút nhân tài IT — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-japan-tech-immigration-nhat-ban-thu-hut-nhan-tai"
 description: "Luyện đọc tiếng Anh IT qua bài báo về chính sách thu hút nhân tài IT nước ngoài của Nhật Bản. Từ vựng immigration, cấp độ Upper-Intermediate."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "big-tech"]
+tags: ["upper-intermediate", "big-tech", "ai", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "AWS CodePipeline — Thuật Ngữ CI/CD Trên AWS Cho Developer"
 date: 2023-01-27
+summary: "Học 10+ thuật ngữ AWS CodePipeline quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-codepipeline-cicd"
 description: "Học 12 thuật ngữ tiếng Anh về AWS CodePipeline và CI/CD — từ pipeline, artifact đến buildspec và webhook, giúp developer tự tin triển khai CI/CD trên AWS."
 categories: ["IT English"]

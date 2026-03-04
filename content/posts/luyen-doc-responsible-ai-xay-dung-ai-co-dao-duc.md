@@ -1,10 +1,11 @@
 ---
 title: "Bài 141: Responsible AI — Xây dựng AI có đạo đức"
 date: "2023-07-28"
+summary: "Luyện đọc tiếng Anh IT: Xây dựng AI có đạo đức — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-responsible-ai-xay-dung-ai-co-dao-duc"
 description: "Luyện đọc tiếng Anh IT chủ đề AI ethics framework — cách các công ty xây dựng AI có trách nhiệm và đạo đức trong phát triển công nghệ."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

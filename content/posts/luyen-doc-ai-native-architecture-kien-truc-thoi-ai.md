@@ -1,10 +1,11 @@
 ---
 title: "Tái tư duy kiến trúc phần mềm cho kỷ nguyên AI"
 date: "2023-09-19"
+summary: "Luyện đọc tiếng Anh IT: Tái tư duy kiến trúc phần mềm cho kỷ nguyên AI — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-native-architecture-kien-truc-thoi-ai"
-description: "Luyện đọc tiếng Anh IT qua bài phân tích kiến trúc phần mềm AI-native. Từ vựng software architecture, cấp độ Master."
+description: "Luyện đọc tiếng Anh IT qua bài phân tích kiến trúc phần mềm AI-native. Từ vựng software architecture, cấp độ Master, dành cho developer Việt Nam muốn nâng ca..."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "NASA chụp ảnh sao Hỏa"
 date: "2023-04-02"
+summary: "Luyện đọc tiếng Anh IT: NASA chụp ảnh sao Hỏa — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-nasa-chup-anh-sao-hoa"
-description: "Luyện đọc tiếng Anh IT qua bài báo về NASA chụp ảnh mới trên sao Hỏa. Từ vựng space tech, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về NASA chụp ảnh mới trên sao Hỏa. Từ vựng space tech, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter"]
+tags: ["starter", "space-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

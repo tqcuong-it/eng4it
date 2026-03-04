@@ -1,10 +1,11 @@
 ---
 title: "Bài 153: Prompt Engineering — Nghề Mới Hot Nhất 2024"
 date: "2023-08-09"
+summary: "Luyện đọc tiếng Anh IT: Nghề Mới Hot Nhất 2024 — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-prompt-engineering-nghe-moi-hot-nhat"
 description: "Luyện đọc tiếng Anh IT bài 153: Prompt engineering trở thành nghề hot nhất ngành AI, với mức lương cao và nhu cầu tuyển dụng tăng vọt."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "backend", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

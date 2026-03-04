@@ -1,10 +1,11 @@
 ---
 title: "Bài 140: Edge AI — chạy AI trên thiết bị thay vì cloud"
 date: "2023-07-27"
+summary: "Luyện đọc tiếng Anh IT: chạy AI trên thiết bị thay vì cloud — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-edge-ai-chay-ai-tren-thiet-bi"
-description: "Luyện đọc tiếng Anh IT chủ đề Edge AI, xu hướng chạy mô hình AI trực tiếp trên thiết bị thay vì phụ thuộc vào cloud"
+description: "Luyện đọc tiếng Anh IT chủ đề Edge AI, xu hướng chạy mô hình AI trực tiếp trên thiết bị thay vì phụ thuộc vào cloud, dành cho developer Việt Nam muốn nâng ca..."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "cloud-computing", "mobile", "iot"]
 ShowToc: true
 TocOpen: true
 draft: false

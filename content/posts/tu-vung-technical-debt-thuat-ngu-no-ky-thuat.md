@@ -1,10 +1,11 @@
 ---
 title: "Technical Debt — 12 Thuật Ngữ Nợ Kỹ Thuật Developer Cần Hiểu"
 date: 2023-02-18
+summary: "Học 12 thuật ngữ Technical Debt quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-technical-debt-thuat-ngu-no-ky-thuat"
-description: "Học 12 thuật ngữ tiếng Anh về Technical Debt — từ legacy code, refactor, deprecate đến code smell, breaking change và backward compatible. Dễ hiểu cho developer Việt Nam."
+description: "Học 12 thuật ngữ tiếng Anh về Technical Debt — từ legacy code, refactor, deprecate đến code smell, breaking change và backward compatible."
 categories: ["IT English"]
-tags: ["backend", "agile"]
+tags: ["backend", "agile", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

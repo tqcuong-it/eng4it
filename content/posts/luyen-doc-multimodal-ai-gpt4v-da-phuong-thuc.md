@@ -1,10 +1,11 @@
 ---
 title: "Multimodal AI — GPT-4V và tương lai AI đa phương thức"
 date: "2023-07-25"
+summary: "Luyện đọc tiếng Anh IT: GPT-4V và tương lai AI đa phương thức — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-multimodal-ai-gpt4v-da-phuong-thuc"
-description: "Luyện đọc tiếng Anh IT qua bài báo về AI đa phương thức và GPT-4V. Từ vựng AI multimodal, cấp độ Upper-Intermediate."
+description: "Luyện đọc tiếng Anh IT qua bài báo về AI đa phương thức và GPT-4V. Từ vựng AI multimodal, cấp độ Upper-Intermediate, dành cho developer Việt Nam muốn nâng ca..."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

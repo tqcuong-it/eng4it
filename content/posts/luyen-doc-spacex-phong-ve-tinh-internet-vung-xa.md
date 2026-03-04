@@ -1,10 +1,11 @@
 ---
 title: "SpaceX phóng vệ tinh internet cho vùng xa"
 date: "2023-06-07"
+summary: "Luyện đọc tiếng Anh IT: SpaceX phóng vệ tinh internet cho vùng xa — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-spacex-phong-ve-tinh-internet-vung-xa"
 description: "Luyện đọc tiếng Anh IT qua bài báo về SpaceX phóng vệ tinh Starlink cung cấp internet cho vùng sâu vùng xa. Từ vựng space-tech, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate"]
+tags: ["pre-intermediate", "space-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

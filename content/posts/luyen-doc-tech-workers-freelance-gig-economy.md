@@ -1,10 +1,11 @@
 ---
 title: "Tech workers chuyển sang freelance — xu hướng mới"
 date: "2023-07-07"
+summary: "Luyện đọc tiếng Anh IT: xu hướng mới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tech-workers-freelance-gig-economy"
 description: "Luyện đọc tiếng Anh IT về xu hướng kỹ sư công nghệ chuyển sang làm freelance và gig economy. Từ vựng career, startup, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "startup"]
+tags: ["intermediate", "startup", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

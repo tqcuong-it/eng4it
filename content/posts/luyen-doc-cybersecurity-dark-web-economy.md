@@ -1,10 +1,11 @@
 ---
 title: "Bài 179: The dark web economy — kinh tế ngầm trên dark web"
 date: 2023-09-04
+summary: "Luyện đọc tiếng Anh IT: kinh tế ngầm trên dark web — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cybersecurity-dark-web-economy"
 description: "Luyện đọc tiếng Anh IT chủ đề dark web economy, chợ đen trực tuyến, tiền mã hóa và các hoạt động phi pháp trên mạng ngầm"
 categories: ["Reading Practice"]
-tags: ["advanced", "cybersecurity"]
+tags: ["advanced", "cybersecurity", "security", "e-commerce", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

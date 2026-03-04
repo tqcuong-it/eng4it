@@ -1,10 +1,11 @@
 ---
 title: "AWS Route 53 & API Gateway — Thuật Ngữ DNS & API Bằng Tiếng Anh"
 date: 2023-01-24
+summary: "Học 10+ thuật ngữ AWS Route 53 & API Gateway quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-route53-api-gateway-dns-api"
 description: "Học 13 thuật ngữ tiếng Anh về AWS Route 53 và API Gateway — hosted zone, routing policy, throttling. Cho dev Việt làm DNS & API."
 categories: ["IT English"]
-tags: ["aws"]
+tags: ["aws", "ai", "cloud-computing", "backend", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

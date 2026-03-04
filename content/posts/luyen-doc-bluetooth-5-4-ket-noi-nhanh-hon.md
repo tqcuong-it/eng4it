@@ -1,10 +1,11 @@
 ---
 title: "Bluetooth 5.4 — kết nối nhanh hơn"
 date: "2023-04-28"
+summary: "Luyện đọc tiếng Anh IT: kết nối nhanh hơn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-bluetooth-5-4-ket-noi-nhanh-hon"
-description: "Luyện đọc tiếng Anh IT qua bài báo Bluetooth 5.4 cải tiến kết nối. Từ vựng connectivity, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo Bluetooth 5.4 cải tiến kết nối. Từ vựng connectivity, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

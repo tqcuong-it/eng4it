@@ -1,10 +1,11 @@
 ---
 title: "Bài 152: Sovereign Cloud — Chính Phủ Tự Xây Cloud Riêng"
 date: "2023-08-08"
+summary: "Luyện đọc tiếng Anh IT: Chính Phủ Tự Xây Cloud Riêng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-sovereign-cloud-chinh-phu-xay-cloud-rieng"
 description: "Luyện đọc tiếng Anh IT bài 152: Xu hướng các chính phủ xây dựng hạ tầng cloud riêng để bảo vệ dữ liệu quốc gia và giảm phụ thuộc vào Big Tech."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "cloud"]
+tags: ["upper-intermediate", "cloud", "cloud-computing", "security", "devops"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "App học tiếng Anh miễn phí đạt 50 triệu lượt tải"
 date: "2023-03-14"
+summary: "Luyện đọc tiếng Anh IT: App học tiếng Anh miễn phí đạt 50 triệu lượt tải — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-app-hoc-tieng-anh-mien-phi"
-description: "Luyện đọc tiếng Anh IT qua bài báo về app học tiếng Anh miễn phí. Từ vựng mobile app, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về app học tiếng Anh miễn phí. Từ vựng mobile app, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Client Communication — 14 Thuật Ngữ Giao Tiếp Khách Hàng Cho Developer"
 date: 2023-02-26
+summary: "Học 14 thuật ngữ Client Communication quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-client-communication-giao-tiep-khach-hang"
 description: "Học 14 thuật ngữ tiếng Anh về Client Communication — từ requirement, specification, feedback đến UAT, SLA và escalate. Giao tiếp khách hàng chuyên nghiệp hơn."
 categories: ["IT English"]
-tags: ["workplace-english", "agile"]
+tags: ["workplace-english", "agile", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

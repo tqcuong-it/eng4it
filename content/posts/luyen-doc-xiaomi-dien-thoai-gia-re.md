@@ -1,10 +1,11 @@
 ---
 title: "Xiaomi bán điện thoại giá rẻ — Smartphone tốt không cần đắt"
 date: "2023-03-27"
+summary: "Luyện đọc tiếng Anh IT: Smartphone tốt không cần đắt — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-xiaomi-dien-thoai-gia-re"
-description: "Luyện đọc tiếng Anh IT: Xiaomi ra mắt điện thoại giá rẻ chất lượng tốt. Từ vựng smartphone cơ bản cho người mới."
+description: "Luyện đọc tiếng Anh IT: Xiaomi ra mắt điện thoại giá rẻ chất lượng tốt. Từ vựng smartphone cơ bản cho người mới, dành cho developer Việt Nam muốn nâng cao ti..."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "mobile", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

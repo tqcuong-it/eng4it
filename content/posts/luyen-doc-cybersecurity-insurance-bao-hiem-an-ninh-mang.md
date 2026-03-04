@@ -1,10 +1,11 @@
 ---
 title: "Cybersecurity insurance — bảo hiểm an ninh mạng tăng vọt"
 date: "2023-06-30"
+summary: "Luyện đọc tiếng Anh IT: bảo hiểm an ninh mạng tăng vọt — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cybersecurity-insurance-bao-hiem-an-ninh-mang"
 description: "Luyện đọc tiếng Anh IT về bảo hiểm an ninh mạng tăng mạnh do các cuộc tấn công ransomware. Từ vựng cybersecurity, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cybersecurity"]
+tags: ["intermediate", "cybersecurity", "security", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Foundation Models — Từ GPT đến Gemini, kiến trúc nền tảng AI"
 date: "2023-08-31"
+summary: "Luyện đọc tiếng Anh IT: Từ GPT đến Gemini, kiến trúc nền tảng AI — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-foundation-models-kien-truc-nen-tang-ai"
-description: "Bài luyện đọc cấp độ Advanced về foundation models, kiến trúc transformer và cuộc đua AI từ GPT đến Gemini."
+description: "Bài luyện đọc cấp độ Advanced về foundation models, kiến trúc transformer và cuộc đua AI từ GPT đến Gemini, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

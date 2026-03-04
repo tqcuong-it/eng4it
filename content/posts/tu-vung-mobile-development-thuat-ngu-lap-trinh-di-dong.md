@@ -1,10 +1,11 @@
 ---
 title: "Mobile Development — 13 Thuật Ngữ Lập Trình Di Động Developer Cần Biết"
 date: 2023-02-15
+summary: "Học 13 thuật ngữ Mobile Development quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-mobile-development-thuat-ngu-lap-trinh-di-dong"
-description: "Học 13 thuật ngữ tiếng Anh về Mobile Development — từ native, hybrid, cross-platform đến push notification, deep link và hot reload. Dễ hiểu cho developer Việt Nam."
+description: "Học 13 thuật ngữ tiếng Anh về Mobile Development — từ native, hybrid, cross-platform đến push notification, kèm phát âm IPA và ví dụ thực tế."
 categories: ["IT English"]
-tags: ["programming", "backend"]
+tags: ["programming", "backend", "mobile", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

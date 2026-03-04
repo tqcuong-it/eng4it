@@ -3,7 +3,7 @@ title: "Cách viết Bug Report bằng tiếng Anh — Template & Từ vựng ch
 slug: "cach-viet-bug-report-bang-tieng-anh"
 date: 2026-03-04
 summary: "Hướng dẫn viết Bug Report tiếng Anh chuẩn — template, từ vựng severity/priority, mẫu câu mô tả bug và bài tập thực hành."
-description: "Học cách viết Bug Report bằng tiếng Anh cho developer và QA. Bao gồm template chuẩn, cách phân loại severity/priority, từ vựng chuyên ngành, mẫu câu thực tế trên Jira/GitHub Issues và bài tập thực hành."
+description: "Học cách viết Bug Report bằng tiếng Anh cho developer và QA. Bao gồm template chuẩn, cách phân loại severity/priority, từ vựng chuyên ngành."
 tags: ["workplace-english", "bug-report", "jira", "qa"]
 categories: ["Workplace English"]
 ShowToc: true

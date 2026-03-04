@@ -1,6 +1,7 @@
 ---
 title: "AWS EC2 — Thuật Ngữ Máy Chủ Ảo Mà Developer Nào Cũng Phải Biết"
 date: 2023-01-15
+summary: "Học 10+ thuật ngữ AWS EC2 quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-ec2-thuat-ngu-may-chu-ao"
 description: "Học 15 thuật ngữ tiếng Anh quan trọng nhất về AWS EC2 — từ instance, AMI đến auto scaling. Giải thích dễ hiểu kèm ví dụ thực tế cho developer Việt Nam."
 categories: ["IT English"]

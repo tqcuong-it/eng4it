@@ -1,10 +1,11 @@
 ---
 title: "Low-code/No-code platform cho người không biết code"
 date: "2023-06-06"
+summary: "Luyện đọc tiếng Anh IT: Low-code/No-code platform cho người không biết code — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-low-code-no-code-platform-citizen-developer"
 description: "Luyện đọc tiếng Anh IT qua bài báo về nền tảng low-code/no-code giúp người không biết lập trình tạo ứng dụng. Từ vựng programming, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "programming"]
+tags: ["pre-intermediate", "programming", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

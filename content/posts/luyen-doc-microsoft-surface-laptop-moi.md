@@ -1,10 +1,11 @@
 ---
 title: "Microsoft ra mắt laptop Surface mới — Thiết kế mỏng hơn, mạnh hơn"
 date: "2023-03-21"
+summary: "Luyện đọc tiếng Anh IT: Thiết kế mỏng hơn, mạnh hơn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-microsoft-surface-laptop-moi"
-description: "Luyện đọc tiếng Anh IT: Microsoft ra laptop Surface mới với thiết kế mỏng và chip nhanh hơn. Từ vựng công nghệ cơ bản."
+description: "Luyện đọc tiếng Anh IT: Microsoft ra laptop Surface mới với thiết kế mỏng và chip nhanh hơn. Từ vựng công nghệ cơ bản, dành cho developer Việt Nam muốn nâng ..."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

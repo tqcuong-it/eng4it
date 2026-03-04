@@ -1,10 +1,11 @@
 ---
 title: "Synthetic Data — Dữ liệu tổng hợp thay thế dữ liệu thật để"
 date: 2023-08-16
+summary: "Luyện đọc tiếng Anh IT: Dữ liệu tổng hợp thay thế dữ liệu thật để — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-synthetic-data-training"
 description: "Luyện đọc tiếng Anh IT về synthetic data — dữ liệu tổng hợp dùng để huấn luyện AI thay thế dữ liệu thật, từ vựng chuyên ngành AI cho dân IT."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

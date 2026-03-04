@@ -1,8 +1,9 @@
 ---
 title: "Autonomous delivery robot mở rộng tại châu Á"
 date: "2023-06-13"
+summary: "Luyện đọc tiếng Anh IT: Autonomous delivery robot mở rộng tại châu Á — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-autonomous-delivery-robot-chau-a"
-description: "Bài luyện đọc về xu hướng robot giao hàng tự động mở rộng tại châu Á, cấp độ Intermediate."
+description: "Bài luyện đọc về xu hướng robot giao hàng tự động mở rộng tại châu Á, cấp độ Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
 tags: ["intermediate", "ev-iot", "ai"]
 ShowToc: true

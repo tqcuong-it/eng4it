@@ -1,10 +1,11 @@
 ---
 title: "TypeScript vượt JavaScript trên GitHub"
 date: "2023-05-19"
+summary: "Luyện đọc tiếng Anh IT: TypeScript vượt JavaScript trên GitHub — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-typescript-vuot-javascript-github"
 description: "Luyện đọc tiếng Anh IT qua bài báo về TypeScript vượt JavaScript trên GitHub. Từ vựng programming, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "programming"]
+tags: ["pre-intermediate", "programming", "gaming", "frontend", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

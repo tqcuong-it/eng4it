@@ -1,10 +1,11 @@
 ---
 title: "Máy tính bảng cho học sinh"
 date: "2023-04-08"
+summary: "Luyện đọc tiếng Anh IT: Máy tính bảng cho học sinh — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-may-tinh-bang-cho-hoc-sinh"
-description: "Luyện đọc tiếng Anh IT qua bài báo về máy tính bảng giá rẻ dành cho học sinh. Từ vựng education tech, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về máy tính bảng giá rẻ dành cho học sinh. Từ vựng education tech, cấp độ Starter, dành cho developer Việt Nam muốn nâng c..."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "aws", "education"]
 ShowToc: true
 TocOpen: true
 draft: false

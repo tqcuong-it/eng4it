@@ -1,10 +1,11 @@
 ---
 title: "Testing & QA — 14 Thuật Ngữ Kiểm Thử Developer Phải Biết"
 date: 2023-02-11
+summary: "Học 14 thuật ngữ Testing & QA quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-testing-qa-thuat-ngu-kiem-thu"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Testing & QA — từ unit test, integration test, mock đến TDD, BDD và test coverage. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["devops"]
+tags: ["devops", "testing", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,8 +1,9 @@
 ---
 title: "The intersection of AI and climate change — opportunities and"
 date: 2023-09-13
+summary: "Luyện đọc tiếng Anh IT: opportunities and — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-climate-change-opportunities-risks"
-description: "Luyện đọc tiếng Anh IT chủ đề AI và biến đổi khí hậu — cơ hội và rủi ro. Cấp độ Master với từ vựng chuyên sâu."
+description: "Luyện đọc tiếng Anh IT chủ đề AI và biến đổi khí hậu — cơ hội và rủi ro. Cấp độ Master với từ vựng chuyên sâu, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
 tags: ["master", "ai", "green-tech"]
 ShowToc: true

@@ -1,6 +1,7 @@
 ---
 title: "OpenAI và Google chạy đua phát triển AGI"
 date: "2023-06-08"
+summary: "Luyện đọc tiếng Anh IT: OpenAI và Google chạy đua phát triển AGI — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-openai-google-agi-race"
 description: "Bài luyện đọc về cuộc đua phát triển trí tuệ nhân tạo tổng quát AGI giữa OpenAI và Google DeepMind, cấp độ Intermediate."
 categories: ["Reading Practice"]

@@ -3,8 +3,8 @@ title: "Cách viết Weekly Report / Progress Update bằng tiếng Anh"
 slug: "cach-viet-weekly-report-progress-update-bang-tieng-anh"
 date: 2023-03-15
 summary: "Hướng dẫn viết Weekly Report / Progress Update bằng tiếng Anh — template, KPI, blockers, next steps và mẫu câu copy-paste."
-description: "Học cách viết Weekly Report và Progress Update bằng tiếng Anh cho developer. Bao gồm template chuẩn, cách báo cáo KPI, blockers, next steps và bài tập thực hành."
-tags: ["workplace-english"]
+description: "Học cách viết Weekly Report và Progress Update bằng tiếng Anh cho developer. Bao gồm template chuẩn, cách báo cáo KPI, blockers."
+tags: ["workplace-english", "networking", "it-english"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

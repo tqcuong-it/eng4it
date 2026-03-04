@@ -1,10 +1,11 @@
 ---
 title: "South Korea 6G research — thế hệ mạng tiếp theo"
 date: "2023-07-11"
+summary: "Luyện đọc tiếng Anh IT: thế hệ mạng tiếp theo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-south-korea-6g-research-mang-the-he-moi"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Hàn Quốc nghiên cứu công nghệ 6G, thế hệ mạng di động tiếp theo. Từ vựng telecom, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "smartphone"]
+tags: ["intermediate", "smartphone", "5g", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

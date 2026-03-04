@@ -1,10 +1,11 @@
 ---
 title: "Bài 156: Digital Nomad Visa — Các Nước Mở Cửa Cho Lao Động Tech"
 date: "2023-08-12"
+summary: "Luyện đọc tiếng Anh IT: Các Nước Mở Cửa Cho Lao Động Tech — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-digital-nomad-visa-lao-dong-tech"
 description: "Luyện đọc tiếng Anh IT bài 156: Ngày càng nhiều quốc gia cấp visa cho digital nomad, mở ra cơ hội sống và làm việc từ xa cho lao động tech."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "startup"]
+tags: ["upper-intermediate", "startup", "cloud-computing", "git", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Agile & Scrum — 12 Thuật Ngữ Quản Lý Dự Án Mà Developer Nên Biết"
 date: 2023-02-21
+summary: "Học 12 thuật ngữ Agile & Scrum quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-agile-scrum-quan-ly-du-an"
 description: "Học 12 thuật ngữ tiếng Anh về Agile & Scrum — từ sprint, retrospective, kanban đến burndown chart và cross-functional team. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["agile", "workplace-english"]
+tags: ["agile", "workplace-english", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

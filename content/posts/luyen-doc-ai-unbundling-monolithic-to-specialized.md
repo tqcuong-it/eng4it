@@ -1,10 +1,11 @@
 ---
 title: "The Great Unbundling of AI — From Monolithic Models to"
 date: 2023-09-11
+summary: "Luyện đọc tiếng Anh IT: From Monolithic Models to — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-unbundling-monolithic-to-specialized"
 description: "Xu hướng phân tách AI từ mô hình nguyên khối sang hệ thống chuyên biệt — tại sao tương lai AI không thuộc về một model duy nhất."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

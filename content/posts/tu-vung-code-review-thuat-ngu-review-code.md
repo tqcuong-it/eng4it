@@ -1,10 +1,11 @@
 ---
 title: "Code Review — 14 Thuật Ngữ Review Code Mọi Developer Phải Biết"
 date: 2023-02-17
+summary: "Học 14 thuật ngữ Code Review quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-code-review-thuat-ngu-review-code"
 description: "Học 14 thuật ngữ tiếng Anh về Code Review — từ pull request, approval, LGTM đến merge conflict, squash và revert. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["devops", "agile"]
+tags: ["devops", "agile", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

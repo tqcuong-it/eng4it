@@ -1,10 +1,11 @@
 ---
 title: "Python trở thành ngôn ngữ lập trình phổ biến nhất"
 date: "2023-04-29"
+summary: "Luyện đọc tiếng Anh IT: Python trở thành ngôn ngữ lập trình phổ biến nhất — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-python-ngon-ngu-lap-trinh-pho-bien-nhat"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Python vượt qua Java và C trở thành ngôn ngữ lập trình phổ biến nhất thế giới. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "programming"]
+tags: ["elementary", "programming", "aws", "testing", "python"]
 ShowToc: true
 TocOpen: true
 draft: false

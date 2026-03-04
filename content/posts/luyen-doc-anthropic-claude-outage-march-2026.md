@@ -1,6 +1,7 @@
 ---
 title: "Anthropic's Claude AI Hit by Major Outage"
 date: "2026-03-02"
+summary: "Luyện đọc tiếng Anh IT: Anthropic's Claude AI Hit by Major Outage — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-anthropic-claude-outage-march-2026"
 description: "Luyện đọc tiếng Anh IT qua sự cố sập server của Anthropic Claude ngày 2/3/2026. Từ vựng cloud, incident response, cấp độ Intermediate."
 categories: ["Reading Practice"]

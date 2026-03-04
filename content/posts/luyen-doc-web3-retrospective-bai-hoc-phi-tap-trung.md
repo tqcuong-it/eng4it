@@ -1,10 +1,11 @@
 ---
 title: "Từ Web2 đến Web3 rồi quay lại — bài học từ thí nghiệm phi tập"
 date: "2023-09-21"
+summary: "Luyện đọc tiếng Anh IT: bài học từ thí nghiệm phi tập — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-web3-retrospective-bai-hoc-phi-tap-trung"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích hành trình Web3 và bài học phi tập trung hóa. Từ vựng blockchain, cấp độ Master."
 categories: ["Reading Practice"]
-tags: ["master", "blockchain"]
+tags: ["master", "blockchain", "data", "agile"]
 ShowToc: true
 TocOpen: true
 draft: false

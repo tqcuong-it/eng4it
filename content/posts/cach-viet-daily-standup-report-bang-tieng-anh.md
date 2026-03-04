@@ -4,7 +4,7 @@ slug: "cach-viet-daily-standup-report-bang-tieng-anh"
 date: 2026-03-02
 summary: "Hướng dẫn viết Daily Standup Report tiếng Anh chuẩn cho developer — template, từ vựng, ví dụ thực tế."
 description: "Học cách viết Daily Standup Report bằng tiếng Anh cho developer. Bao gồm template, từ vựng chuyên ngành, ví dụ thực tế và bài tập thực hành."
-tags: ["workplace-english", "agile"]
+tags: ["workplace-english", "agile", "networking"]
 categories: ["workplace-english"]
 ShowToc: true
 TocOpen: true

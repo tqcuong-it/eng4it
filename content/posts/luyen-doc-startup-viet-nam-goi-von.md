@@ -1,10 +1,11 @@
 ---
 title: "Startup Việt Nam gọi vốn thành công"
 date: "2023-04-12"
+summary: "Luyện đọc tiếng Anh IT: Startup Việt Nam gọi vốn thành công — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-startup-viet-nam-goi-von"
-description: "Luyện đọc tiếng Anh IT qua bài báo về startup Việt Nam gọi vốn thành công. Từ vựng startup, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về startup Việt Nam gọi vốn thành công. Từ vựng startup, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "startup"]
+tags: ["elementary", "startup", "fintech"]
 ShowToc: true
 TocOpen: true
 draft: false

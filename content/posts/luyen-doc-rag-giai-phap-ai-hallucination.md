@@ -1,10 +1,11 @@
 ---
 title: "Retrieval-Augmented Generation (RAG) — Giải pháp cho AI"
 date: 2023-09-06
+summary: "Luyện đọc tiếng Anh IT: Giải pháp cho AI — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-rag-giai-phap-ai-hallucination"
 description: "Tìm hiểu về Retrieval-Augmented Generation (RAG) — kiến trúc giúp giảm thiểu hiện tượng AI hallucination bằng cách kết hợp truy xuất dữ liệu thực."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

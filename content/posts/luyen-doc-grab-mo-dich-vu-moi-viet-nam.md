@@ -1,10 +1,11 @@
 ---
 title: "Grab mở dịch vụ mới ở Việt Nam"
 date: "2023-04-05"
+summary: "Luyện đọc tiếng Anh IT: Grab mở dịch vụ mới ở Việt Nam — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-grab-mo-dich-vu-moi-viet-nam"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Grab ra mắt dịch vụ mới tại Việt Nam. Từ vựng startup, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Grab ra mắt dịch vụ mới tại Việt Nam. Từ vựng startup, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "startup"]
+tags: ["starter", "startup", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

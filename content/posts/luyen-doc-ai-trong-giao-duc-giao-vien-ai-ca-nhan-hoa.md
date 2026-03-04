@@ -1,10 +1,11 @@
 ---
 title: "Bài 146: AI trong giáo dục — Giáo viên AI cá nhân hóa"
 date: "2023-08-02"
+summary: "Luyện đọc tiếng Anh IT: Giáo viên AI cá nhân hóa — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-trong-giao-duc-giao-vien-ai-ca-nhan-hoa"
 description: "Luyện đọc tiếng Anh IT chủ đề AI personalized learning — cách trí tuệ nhân tạo cách mạng hóa giáo dục với giáo viên AI cá nhân hóa."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "gaming", "education"]
 ShowToc: true
 TocOpen: true
 draft: false

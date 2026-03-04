@@ -1,10 +1,11 @@
 ---
 title: "Twitter/X ra tính năng trả phí"
 date: "2023-04-19"
+summary: "Luyện đọc tiếng Anh IT: Twitter/X ra tính năng trả phí — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-twitter-x-tinh-nang-tra-phi"
-description: "Luyện đọc tiếng Anh IT qua bài báo Twitter/X ra mắt tính năng trả phí. Từ vựng social media, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo Twitter/X ra mắt tính năng trả phí. Từ vựng social media, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "social-media"]
+tags: ["elementary", "social-media", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

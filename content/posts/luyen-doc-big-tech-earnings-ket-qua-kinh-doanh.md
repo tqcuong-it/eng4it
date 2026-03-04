@@ -1,10 +1,11 @@
 ---
 title: "Big Tech earnings: Apple, Google, Microsoft kết quả kinh doanh"
 date: "2023-07-20"
+summary: "Luyện đọc tiếng Anh IT: Apple, Google, Microsoft kết quả kinh doanh — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-big-tech-earnings-ket-qua-kinh-doanh"
 description: "Luyện đọc tiếng Anh IT qua bài báo về kết quả kinh doanh quý của Apple, Google, Microsoft. Từ vựng tài chính công nghệ, cấp độ Upper-Intermediate."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "big-tech"]
+tags: ["upper-intermediate", "big-tech", "testing", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

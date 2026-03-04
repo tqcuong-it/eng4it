@@ -1,10 +1,11 @@
 ---
 title: "TikTok đạt 1 tỷ người dùng"
 date: "2023-03-11"
+summary: "Luyện đọc tiếng Anh IT: TikTok đạt 1 tỷ người dùng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tiktok-mot-ty-nguoi-dung"
-description: "Luyện đọc tiếng Anh IT qua bài báo TikTok đạt 1 tỷ người dùng. Từ vựng social media, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo TikTok đạt 1 tỷ người dùng. Từ vựng social media, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "social-media"]
+tags: ["starter", "social-media", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

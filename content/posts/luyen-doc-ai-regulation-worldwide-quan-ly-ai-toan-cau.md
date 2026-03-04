@@ -1,10 +1,11 @@
 ---
 title: "AI regulation worldwide — mỗi nước một kiểu quản lý"
 date: "2023-07-18"
+summary: "Luyện đọc tiếng Anh IT: mỗi nước một kiểu quản lý — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-regulation-worldwide-quan-ly-ai-toan-cau"
 description: "Luyện đọc tiếng Anh IT qua bài báo về các quốc gia quản lý AI theo cách riêng. Từ vựng AI governance, cấp độ Upper-Intermediate."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

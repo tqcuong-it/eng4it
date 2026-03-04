@@ -1,10 +1,11 @@
 ---
 title: "Daily Standup — 13 Thuật Ngữ Họp Hàng Ngày Mà Developer Cần Biết"
 date: 2023-02-19
+summary: "Học 13 thuật ngữ Daily Standup quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-daily-standup-hop-hang-ngay"
 description: "Học 13 thuật ngữ tiếng Anh về Daily Standup — từ blocker, action item đến parking lot, timebox. Giúp dev Việt tự tin hơn trong standup meeting."
 categories: ["IT English"]
-tags: ["agile", "workplace-english"]
+tags: ["agile", "workplace-english", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

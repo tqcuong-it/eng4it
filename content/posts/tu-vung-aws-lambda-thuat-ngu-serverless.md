@@ -1,6 +1,7 @@
 ---
 title: "AWS Lambda — Thuật Ngữ Serverless Mà Developer Cần Nắm Vững"
 date: 2023-01-17
+summary: "Học 10+ thuật ngữ AWS Lambda quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-lambda-thuat-ngu-serverless"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về AWS Lambda và Serverless — từ cold start, handler đến concurrency. Kèm ví dụ và bài tập cho dev Việt Nam."
 categories: ["IT English"]

@@ -1,10 +1,11 @@
 ---
 title: "WebAssembly — Chạy code native trên browser"
 date: "2023-06-20"
+summary: "Luyện đọc tiếng Anh IT: Chạy code native trên browser — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-webassembly-wasm-future"
 description: "Luyện đọc tiếng Anh IT: WebAssembly (WASM) cho phép chạy code native trên trình duyệt, mở ra kỷ nguyên mới cho ứng dụng web hiệu suất cao."
 categories: ["Reading Practice"]
-tags: ["intermediate", "programming"]
+tags: ["intermediate", "programming", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

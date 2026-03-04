@@ -1,10 +1,11 @@
 ---
 title: "PostgreSQL vượt MySQL trở thành DB phổ biến nhất"
 date: "2023-06-03"
+summary: "Luyện đọc tiếng Anh IT: PostgreSQL vượt MySQL trở thành DB phổ biến nhất — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-postgresql-vuot-mysql-database-pho-bien"
 description: "Luyện đọc tiếng Anh IT qua bài báo về PostgreSQL vượt MySQL trong bảng xếp hạng database phổ biến nhất. Từ vựng programming, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "programming"]
+tags: ["pre-intermediate", "programming", "gaming", "data", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

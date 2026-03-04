@@ -2,8 +2,8 @@
 title: "Hướng Dẫn Đọc Phiên Âm Quốc Tế (IPA) — Dành Cho Người Mới Bắt Đầu"
 date: 2026-03-01T02:00:00
 summary: "Bạn thấy /əˈkaʊnt/ mà không biết đọc sao? Bài này giúp bạn hiểu và phát âm được tất cả ký hiệu IPA trong 15 phút."
-description: "Hướng dẫn chi tiết cách đọc phiên âm quốc tế IPA cho người Việt học tiếng Anh — từ nguyên âm, phụ âm đến trọng âm."
-tags: ["beginner"]
+description: "Hướng dẫn chi tiết cách đọc phiên âm quốc tế IPA cho người Việt học tiếng Anh — từ nguyên âm, phụ âm đến trọng âm, dành cho developer Việt Nam muốn nâng cao ..."
+tags: ["beginner", "ai", "it-english"]
 series: ["Tieng Anh Can Ban"]
 categories: ["tieng-anh-can-ban"]
 ShowToc: true

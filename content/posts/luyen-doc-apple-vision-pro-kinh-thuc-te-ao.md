@@ -1,10 +1,11 @@
 ---
 title: "Apple Vision Pro — kính thực tế ảo"
 date: "2023-04-14"
+summary: "Luyện đọc tiếng Anh IT: kính thực tế ảo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-apple-vision-pro-kinh-thuc-te-ao"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Apple Vision Pro, kính thực tế ảo mới. Từ vựng AR/VR, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Apple Vision Pro, kính thực tế ảo mới. Từ vựng AR/VR, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "big-tech"]
+tags: ["elementary", "big-tech", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

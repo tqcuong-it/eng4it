@@ -1,10 +1,11 @@
 ---
 title: "System Design — 13 Thuật Ngữ Thiết Kế Hệ Thống Developer Phải Biết"
 date: 2023-02-13
+summary: "Học 13 thuật ngữ System Design quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-system-design-thuat-ngu-thiet-ke-he-thong"
-description: "Học 13 thuật ngữ tiếng Anh quan trọng về System Design — từ scalability, CAP theorem, sharding đến CDN, message queue và load balancing. Dễ hiểu cho developer Việt Nam."
+description: "Học 13 thuật ngữ tiếng Anh quan trọng về System Design — từ scalability, CAP theorem, sharding đến CDN, kèm phát âm IPA và ví dụ thực tế."
 categories: ["IT English"]
-tags: ["backend"]
+tags: ["backend", "it-english", "vocabulary"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Lỗ hổng zero-day trong Windows — Microsoft vá khẩn cấp"
 date: "2023-05-22"
+summary: "Luyện đọc tiếng Anh IT: Microsoft vá khẩn cấp — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-lo-hong-zero-day-windows"
 description: "Luyện đọc tiếng Anh IT qua bài báo về lỗ hổng zero-day trong Windows và bản vá khẩn cấp từ Microsoft. Từ vựng cybersecurity, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "cybersecurity"]
+tags: ["pre-intermediate", "cybersecurity", "security"]
 ShowToc: true
 TocOpen: true
 draft: false

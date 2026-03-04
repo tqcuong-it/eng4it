@@ -1,10 +1,11 @@
 ---
 title: "Bài 177: Site Reliability Engineering — SRE và văn hóa on-call"
 date: "2023-09-02"
+summary: "Luyện đọc tiếng Anh IT: SRE và văn hóa on-call — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-site-reliability-engineering-sre-on-call"
 description: "Bài luyện đọc cấp độ Advanced về Site Reliability Engineering, văn hóa on-call và cách SRE đảm bảo hệ thống hoạt động ổn định."
 categories: ["Reading Practice"]
-tags: ["advanced", "cloud"]
+tags: ["advanced", "cloud", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "The Economics of Cloud Computing — Chi phí ẩn và tối ưu hóa"
 date: "2023-08-29"
+summary: "Luyện đọc tiếng Anh IT: Chi phí ẩn và tối ưu hóa — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-economics-cloud-computing-chi-phi-toi-uu"
-description: "Bài luyện đọc cấp độ Advanced về kinh tế cloud computing, các chi phí ẩn và chiến lược tối ưu hóa chi phí đám mây."
+description: "Bài luyện đọc cấp độ Advanced về kinh tế cloud computing, các chi phí ẩn và chiến lược tối ưu hóa chi phí đám mây, dành cho developer Việt Nam muốn nâng cao ..."
 categories: ["Reading Practice"]
-tags: ["advanced", "cloud"]
+tags: ["advanced", "cloud", "cloud-computing", "devops", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

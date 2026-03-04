@@ -1,10 +1,11 @@
 ---
 title: "Nhật Bản ra luật bảo vệ dữ liệu mới"
 date: "2023-05-05"
+summary: "Luyện đọc tiếng Anh IT: Nhật Bản ra luật bảo vệ dữ liệu mới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-nhat-ban-luat-bao-ve-du-lieu"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Nhật Bản thông qua luật bảo vệ dữ liệu cá nhân mới, tăng cường quyền riêng tư. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "cybersecurity"]
+tags: ["elementary", "cybersecurity", "data", "privacy"]
 ShowToc: true
 TocOpen: true
 draft: false

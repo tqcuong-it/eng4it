@@ -1,10 +1,11 @@
 ---
 title: "AI viết nhạc — bản quyền thuộc về ai?"
 date: "2023-05-01"
+summary: "Luyện đọc tiếng Anh IT: bản quyền thuộc về ai? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-viet-nhac-ban-quyen"
 description: "Luyện đọc tiếng Anh IT qua bài báo về tranh cãi bản quyền khi AI sáng tác nhạc. Ai sở hữu bài hát do AI tạo ra? Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "ai"]
+tags: ["elementary", "ai", "social-media"]
 ShowToc: true
 TocOpen: true
 draft: false

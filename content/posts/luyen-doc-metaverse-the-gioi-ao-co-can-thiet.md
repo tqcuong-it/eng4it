@@ -1,10 +1,11 @@
 ---
 title: "Metaverse — thế giới ảo có thật sự cần thiết?"
 date: "2023-06-04"
+summary: "Luyện đọc tiếng Anh IT: thế giới ảo có thật sự cần thiết? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-metaverse-the-gioi-ao-co-can-thiet"
 description: "Luyện đọc tiếng Anh IT qua bài báo đánh giá thực tế về metaverse sau giai đoạn hype. Từ vựng big-tech, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "big-tech"]
+tags: ["pre-intermediate", "big-tech", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

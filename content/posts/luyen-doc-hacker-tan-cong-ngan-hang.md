@@ -1,10 +1,11 @@
 ---
 title: "Hacker tấn công ngân hàng lớn"
 date: "2023-04-11"
+summary: "Luyện đọc tiếng Anh IT: Hacker tấn công ngân hàng lớn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-hacker-tan-cong-ngan-hang"
-description: "Luyện đọc tiếng Anh IT qua bài báo về hacker tấn công ngân hàng lớn. Từ vựng cybersecurity, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về hacker tấn công ngân hàng lớn. Từ vựng cybersecurity, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "cybersecurity"]
+tags: ["elementary", "cybersecurity", "security"]
 ShowToc: true
 TocOpen: true
 draft: false

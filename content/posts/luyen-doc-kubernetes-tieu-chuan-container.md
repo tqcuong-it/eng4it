@@ -1,10 +1,11 @@
 ---
 title: "Kubernetes trở thành tiêu chuẩn container"
 date: "2023-05-25"
+summary: "Luyện đọc tiếng Anh IT: Kubernetes trở thành tiêu chuẩn container — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-kubernetes-tieu-chuan-container"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Kubernetes trở thành tiêu chuẩn container orchestration. Từ vựng cloud, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "cloud"]
+tags: ["pre-intermediate", "cloud", "devops", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

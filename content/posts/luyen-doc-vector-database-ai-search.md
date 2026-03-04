@@ -1,10 +1,11 @@
 ---
 title: "Vector Database và AI Search — Pinecone, Weaviate"
 date: "2023-06-26"
+summary: "Luyện đọc tiếng Anh IT: Pinecone, Weaviate — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-vector-database-ai-search"
 description: "Luyện đọc tiếng Anh IT: Vector database trở thành công nghệ nền tảng cho AI search, với Pinecone và Weaviate dẫn đầu xu hướng."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

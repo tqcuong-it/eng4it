@@ -1,10 +1,11 @@
 ---
 title: "Hàn Quốc đầu tư lớn vào chip bán dẫn"
 date: "2023-06-22"
+summary: "Luyện đọc tiếng Anh IT: Hàn Quốc đầu tư lớn vào chip bán dẫn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-han-quoc-semiconductor-investment"
 description: "Luyện đọc tiếng Anh IT: Hàn Quốc công bố gói đầu tư 230 tỷ USD vào ngành bán dẫn, cạnh tranh với Mỹ và Đài Loan trong cuộc đua chip toàn cầu."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

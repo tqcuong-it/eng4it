@@ -1,10 +1,11 @@
 ---
 title: "React vs Vue vs Angular — framework nào tốt nhất?"
 date: "2023-05-13"
+summary: "Luyện đọc tiếng Anh IT: framework nào tốt nhất? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-react-vue-angular-frontend-framework"
 description: "Luyện đọc tiếng Anh IT: So sánh React, Vue và Angular — framework frontend nào tốt nhất? Từ vựng programming cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "programming"]
+tags: ["pre-intermediate", "programming", "gaming", "frontend"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Cloud Gaming — chơi game không cần máy mạnh"
 date: "2023-04-21"
+summary: "Luyện đọc tiếng Anh IT: chơi game không cần máy mạnh — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cloud-gaming-choi-game-khong-can-may-manh"
-description: "Luyện đọc tiếng Anh IT qua bài báo cloud gaming. Từ vựng gaming và cloud, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo cloud gaming. Từ vựng gaming và cloud, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "cloud"]
+tags: ["elementary", "cloud", "cloud-computing", "gaming", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

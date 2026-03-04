@@ -1,10 +1,11 @@
 ---
 title: "Performance Review — 13 Thuật Ngữ Đánh Giá Hiệu Suất Developer Cần Biết"
 date: 2023-02-27
+summary: "Học 13 thuật ngữ Performance Review quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-performance-review-danh-gia-hieu-suat"
 description: "Học 13 thuật ngữ tiếng Anh về Performance Review — từ KPI, OKR, self-assessment đến 360 feedback, promotion và probation. Tự tin trong mùa đánh giá hiệu suất."
 categories: ["IT English"]
-tags: ["workplace-english"]
+tags: ["workplace-english", "devops", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

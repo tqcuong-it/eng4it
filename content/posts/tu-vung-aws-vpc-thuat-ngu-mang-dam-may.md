@@ -1,10 +1,11 @@
 ---
 title: "AWS VPC — Thuật Ngữ Mạng Đám Mây Mà Developer Không Thể Bỏ Qua"
 date: 2023-01-19
+summary: "Học 10+ thuật ngữ AWS VPC quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-vpc-thuat-ngu-mang-dam-may"
 description: "Học 13 thuật ngữ tiếng Anh quan trọng về AWS VPC — từ subnet, route table đến NAT gateway. Kèm ví dụ thực tế và bài tập cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["aws", "cloud-computing"]
+tags: ["aws", "cloud-computing", "data", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

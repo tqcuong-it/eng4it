@@ -1,6 +1,7 @@
 ---
 title: "AWS CloudWatch — Thuật Ngữ Monitoring & Logging Bằng Tiếng Anh"
 date: 2023-01-23
+summary: "Học 10+ thuật ngữ AWS CloudWatch quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-cloudwatch-monitoring-logging"
 description: "Học 11 thuật ngữ tiếng Anh về AWS CloudWatch — metric, alarm, log group, anomaly detection. Dành cho dev Việt làm monitoring."
 categories: ["IT English"]

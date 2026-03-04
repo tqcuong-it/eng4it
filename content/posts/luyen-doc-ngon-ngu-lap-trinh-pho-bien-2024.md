@@ -1,10 +1,11 @@
 ---
 title: "Ngôn ngữ lập trình phổ biến nhất 2024"
 date: "2023-04-16"
+summary: "Luyện đọc tiếng Anh IT: Ngôn ngữ lập trình phổ biến nhất 2024 — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ngon-ngu-lap-trinh-pho-bien-2024"
 description: "Luyện đọc tiếng Anh IT qua bài báo về bảng xếp hạng ngôn ngữ lập trình phổ biến nhất 2024. Từ vựng programming, cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "programming"]
+tags: ["elementary", "programming", "gaming", "frontend", "python"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Supply Chain Attack — Hacker nhắm vào chuỗi cung ứng phần mềm"
 date: "2023-06-19"
+summary: "Luyện đọc tiếng Anh IT: Hacker nhắm vào chuỗi cung ứng phần mềm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-supply-chain-attack-security"
 description: "Luyện đọc tiếng Anh IT: Hacker tấn công chuỗi cung ứng phần mềm, đe dọa hàng nghìn tổ chức thông qua thư viện mã nguồn mở bị nhiễm mã độc."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cybersecurity"]
+tags: ["intermediate", "cybersecurity", "security", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

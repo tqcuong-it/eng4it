@@ -1,10 +1,11 @@
 ---
 title: "Cloud Repatriation — Doanh nghiệp rời cloud về on-premise"
 date: "2023-08-01"
+summary: "Luyện đọc tiếng Anh IT: Doanh nghiệp rời cloud về on-premise — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cloud-repatriation-doanh-nghiep-roi-cloud"
 description: "Luyện đọc tiếng Anh IT chủ đề cloud repatriation — xu hướng doanh nghiệp chuyển workload từ cloud về hạ tầng on-premise."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "cloud"]
+tags: ["upper-intermediate", "cloud", "cloud-computing"]
 ShowToc: true
 TocOpen: true
 draft: false

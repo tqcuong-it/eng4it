@@ -1,10 +1,11 @@
 ---
 title: "WiFi 7 là gì?"
 date: "2023-03-18"
+summary: "Luyện đọc tiếng Anh IT: WiFi 7 là gì? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-wifi-7-la-gi"
-description: "Luyện đọc tiếng Anh IT qua bài báo giới thiệu WiFi 7. Từ vựng networking, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo giới thiệu WiFi 7. Từ vựng networking, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ev-iot"]
+tags: ["starter", "ev-iot", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

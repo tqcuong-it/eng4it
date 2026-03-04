@@ -1,10 +1,11 @@
 ---
 title: "Rust ngôn ngữ yêu thích nhất 7 năm liên tiếp"
 date: "2023-06-15"
+summary: "Luyện đọc tiếng Anh IT: Rust ngôn ngữ yêu thích nhất 7 năm liên tiếp — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-rust-ngon-ngu-yeu-thich-nhat"
 description: "Bài luyện đọc về Rust trở thành ngôn ngữ lập trình được yêu thích nhất 7 năm liên tiếp trong khảo sát Stack Overflow, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "programming"]
+tags: ["intermediate", "programming", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

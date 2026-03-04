@@ -1,10 +1,11 @@
 ---
 title: "Release & Deployment — 12 Thuật Ngữ Phát Hành Phần Mềm Developer Cần Biết"
 date: 2023-03-05
+summary: "Học 12 thuật ngữ Release & Deployment quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-release-deployment-phat-hanh-phan-mem"
 description: "Học 12 thuật ngữ tiếng Anh về Release & Deployment — từ hotfix, rollback, feature flag đến blue-green deployment, canary release, semantic versioning."
 categories: ["IT English"]
-tags: ["devops", "workplace-english"]
+tags: ["devops", "workplace-english", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

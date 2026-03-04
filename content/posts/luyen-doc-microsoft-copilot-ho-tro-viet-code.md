@@ -1,10 +1,11 @@
 ---
 title: "Microsoft Copilot hỗ trợ viết code"
 date: "2023-04-25"
+summary: "Luyện đọc tiếng Anh IT: Microsoft Copilot hỗ trợ viết code — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-microsoft-copilot-ho-tro-viet-code"
-description: "Luyện đọc tiếng Anh IT qua bài báo Microsoft Copilot hỗ trợ lập trình. Từ vựng AI coding, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo Microsoft Copilot hỗ trợ lập trình. Từ vựng AI coding, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "ai"]
+tags: ["elementary", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

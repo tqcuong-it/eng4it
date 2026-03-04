@@ -4,7 +4,7 @@ slug: "tieng-anh-khi-pair-programming"
 date: 2023-03-12
 summary: "20+ mẫu câu tiếng Anh thực tế khi Pair Programming — suggest, explain, navigate, drive và giao tiếp hiệu quả với đồng nghiệp."
 description: "Học tiếng Anh khi Pair Programming cho developer. Bao gồm 20+ mẫu câu thực tế cho driver/navigator, cách suggest, explain, navigate và bài tập thực hành."
-tags: ["workplace-english"]
+tags: ["workplace-english", "ai", "networking"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

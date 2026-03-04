@@ -1,10 +1,11 @@
 ---
 title: "OpenAI ra GPT-5 và thay đổi ngành AI"
 date: "2023-04-09"
+summary: "Luyện đọc tiếng Anh IT: OpenAI ra GPT-5 và thay đổi ngành AI — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-openai-gpt5-thay-doi-nganh-ai"
-description: "Luyện đọc tiếng Anh IT qua bài báo về OpenAI ra mắt GPT-5 và tác động lên ngành AI. Từ vựng AI, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về OpenAI ra mắt GPT-5 và tác động lên ngành AI. Từ vựng AI, cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao ..."
 categories: ["Reading Practice"]
-tags: ["elementary", "ai"]
+tags: ["elementary", "ai", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

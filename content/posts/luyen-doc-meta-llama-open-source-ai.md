@@ -1,10 +1,11 @@
 ---
 title: "Open source AI — Meta phát hành LLaMA miễn phí"
 date: "2023-05-27"
+summary: "Luyện đọc tiếng Anh IT: Meta phát hành LLaMA miễn phí — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-meta-llama-open-source-ai"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Meta phát hành LLaMA mã nguồn mở. Từ vựng AI, cấp độ Pre-Intermediate."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Meta phát hành LLaMA mã nguồn mở. Từ vựng AI, cấp độ Pre-Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ai"]
+tags: ["pre-intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

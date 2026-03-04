@@ -1,10 +1,11 @@
 ---
 title: "Qualcomm ra mắt chip Snapdragon mới cho Android"
 date: "2023-05-06"
+summary: "Luyện đọc tiếng Anh IT: Qualcomm ra mắt chip Snapdragon mới cho Android — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-chip-snapdragon-moi-android"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Qualcomm ra mắt chip Snapdragon thế hệ mới cho điện thoại Android. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "smartphone"]
+tags: ["elementary", "smartphone", "mobile"]
 ShowToc: true
 TocOpen: true
 draft: false

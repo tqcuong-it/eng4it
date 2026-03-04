@@ -1,6 +1,7 @@
 ---
 title: "GDPR phạt Meta 1.2 tỷ euro — bài học về data privacy"
 date: "2023-06-14"
+summary: "Luyện đọc tiếng Anh IT: bài học về data privacy — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-gdpr-phat-meta-data-privacy"
 description: "Bài luyện đọc về khoản phạt kỷ lục 1.2 tỷ euro của GDPR đối với Meta và bài học về bảo mật dữ liệu, cấp độ Intermediate."
 categories: ["Reading Practice"]

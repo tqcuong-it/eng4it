@@ -1,10 +1,11 @@
 ---
 title: "Right to Repair — Quyền tự sửa thiết bị điện tử"
 date: "2023-06-27"
+summary: "Luyện đọc tiếng Anh IT: Quyền tự sửa thiết bị điện tử — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-right-to-repair-consumer-rights"
 description: "Luyện đọc tiếng Anh IT: Phong trào Right to Repair đang thay đổi ngành công nghệ, buộc các hãng lớn phải cho phép người dùng tự sửa chữa thiết bị."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "cloud-computing", "aws"]
 ShowToc: true
 TocOpen: true
 draft: false

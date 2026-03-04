@@ -1,6 +1,7 @@
 ---
 title: "Bài 157: AI Trong Nông Nghiệp — Drone và Sensor Giám Sát Mùa Vụ"
 date: "2023-08-13"
+summary: "Luyện đọc tiếng Anh IT: Drone và Sensor Giám Sát Mùa Vụ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-nong-nghiep-drone-sensor-giam-sat"
 description: "Luyện đọc tiếng Anh IT bài 157: AI, drone và sensor IoT đang cách mạng hóa nông nghiệp chính xác, giúp nông dân tối ưu mùa vụ và giảm lãng phí."
 categories: ["Reading Practice"]

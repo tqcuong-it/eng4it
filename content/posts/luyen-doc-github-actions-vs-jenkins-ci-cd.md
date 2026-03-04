@@ -1,6 +1,7 @@
 ---
 title: "GitHub Actions vs Jenkins — CI/CD nào phù hợp?"
 date: "2023-07-12"
+summary: "Luyện đọc tiếng Anh IT: CI/CD nào phù hợp? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-github-actions-vs-jenkins-ci-cd"
 description: "Luyện đọc tiếng Anh IT qua bài so sánh GitHub Actions và Jenkins cho CI/CD pipeline. Từ vựng DevOps, cấp độ Intermediate."
 categories: ["Reading Practice"]

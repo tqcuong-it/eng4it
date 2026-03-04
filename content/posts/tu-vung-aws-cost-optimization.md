@@ -1,6 +1,7 @@
 ---
 title: "AWS Cost Optimization — Thuật Ngữ Tối Ưu Chi Phí Cloud"
 date: 2023-01-29
+summary: "Học 10+ thuật ngữ AWS Cost Optimization quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-cost-optimization"
 description: "Học 12 thuật ngữ tiếng Anh về tối ưu chi phí AWS — từ reserved instance, spot instance đến right-sizing và cost allocation, giúp developer tiết kiệm tiền cloud."
 categories: ["IT English"]

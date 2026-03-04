@@ -1,10 +1,11 @@
 ---
 title: "Notion ra AI assistant tích hợp"
 date: "2023-05-23"
+summary: "Luyện đọc tiếng Anh IT: Notion ra AI assistant tích hợp — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-notion-ai-assistant"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Notion ra mắt AI assistant tích hợp. Từ vựng productivity AI, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ai"]
+tags: ["pre-intermediate", "ai", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

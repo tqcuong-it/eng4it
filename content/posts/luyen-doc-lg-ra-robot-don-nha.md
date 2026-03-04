@@ -1,10 +1,11 @@
 ---
 title: "LG ra robot dọn nhà"
 date: "2023-04-01"
+summary: "Luyện đọc tiếng Anh IT: LG ra robot dọn nhà — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-lg-ra-robot-don-nha"
-description: "Luyện đọc tiếng Anh IT qua bài báo về LG ra mắt robot dọn nhà thông minh. Từ vựng smart home, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về LG ra mắt robot dọn nhà thông minh. Từ vựng smart home, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ev-iot"]
+tags: ["starter", "ev-iot", "iot", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

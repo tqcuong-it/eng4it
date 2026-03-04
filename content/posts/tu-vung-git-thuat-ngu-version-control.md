@@ -1,10 +1,11 @@
 ---
 title: "Từ Vựng Git — Thuật Ngữ Version Control Cho Developer"
 date: 2023-01-31
+summary: "Học 10+ thuật ngữ Từ Vựng Git quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-git-thuat-ngu-version-control"
 description: "Nắm vững 15 thuật ngữ Git quan trọng: repository, commit, branch, merge, rebase, cherry-pick, pull request và hơn thế nữa."
 categories: ["IT English"]
-tags: ["devops"]
+tags: ["devops", "git", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

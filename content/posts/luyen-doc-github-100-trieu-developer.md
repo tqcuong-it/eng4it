@@ -1,6 +1,7 @@
 ---
 title: "GitHub đạt 100 triệu developer"
 date: "2023-05-17"
+summary: "Luyện đọc tiếng Anh IT: GitHub đạt 100 triệu developer — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-github-100-trieu-developer"
 description: "Luyện đọc tiếng Anh IT: GitHub đạt mốc 100 triệu lập trình viên trên nền tảng. Từ vựng developer community cho pre-intermediate."
 categories: ["Reading Practice"]

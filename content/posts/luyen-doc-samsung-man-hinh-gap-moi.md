@@ -1,10 +1,11 @@
 ---
 title: "Samsung ra mắt điện thoại màn hình gập mới"
 date: "2023-05-02"
+summary: "Luyện đọc tiếng Anh IT: Samsung ra mắt điện thoại màn hình gập mới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-samsung-man-hinh-gap-moi"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Samsung ra mắt điện thoại màn hình gập Galaxy Z Fold thế hệ mới. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "smartphone"]
+tags: ["elementary", "smartphone", "mobile", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

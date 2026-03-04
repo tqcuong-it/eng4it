@@ -1,10 +1,11 @@
 ---
 title: "EU ra luật AI Act — quy định trí tuệ nhân tạo"
 date: "2023-05-15"
+summary: "Luyện đọc tiếng Anh IT: quy định trí tuệ nhân tạo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-eu-ai-act-quy-dinh-tri-tue-nhan-tao"
 description: "Luyện đọc tiếng Anh IT: EU thông qua AI Act quy định về trí tuệ nhân tạo. Từ vựng regulation, AI policy cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ai"]
+tags: ["pre-intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

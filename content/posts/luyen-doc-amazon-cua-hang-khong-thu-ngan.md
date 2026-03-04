@@ -1,10 +1,11 @@
 ---
 title: "Amazon mở cửa hàng không thu ngân"
 date: "2023-04-15"
+summary: "Luyện đọc tiếng Anh IT: Amazon mở cửa hàng không thu ngân — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-amazon-cua-hang-khong-thu-ngan"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Amazon mở cửa hàng không thu ngân viên. Từ vựng AI và IoT, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Amazon mở cửa hàng không thu ngân viên. Từ vựng AI và IoT, cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao..."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "ai", "iot"]
 ShowToc: true
 TocOpen: true
 draft: false

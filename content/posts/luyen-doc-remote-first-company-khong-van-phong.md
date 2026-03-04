@@ -1,10 +1,11 @@
 ---
 title: "Remote-first company — công ty không cần văn phòng"
 date: "2023-07-17"
+summary: "Luyện đọc tiếng Anh IT: công ty không cần văn phòng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-remote-first-company-khong-van-phong"
 description: "Luyện đọc tiếng Anh IT qua bài báo về xu hướng remote-first company và tương lai làm việc từ xa. Từ vựng workplace, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "startup"]
+tags: ["intermediate", "startup", "backend", "git", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Machine Learning Cơ Bản — 14 Thuật Ngữ AI/ML Developer Nên Biết"
 date: 2023-02-14
+summary: "Học 14 thuật ngữ Machine Learning Cơ Bản quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-machine-learning-thuat-ngu-ai-ml"
-description: "Học 14 thuật ngữ tiếng Anh quan trọng về Machine Learning — từ model, training, inference đến overfitting, neural network và deep learning. Dễ hiểu cho developer Việt Nam."
+description: "Học 14 thuật ngữ tiếng Anh quan trọng về Machine Learning — từ model, training, inference đến overfitting, kèm phát âm IPA và ví dụ thực tế."
 categories: ["IT English"]
-tags: ["backend", "database"]
+tags: ["backend", "database", "ai", "devops", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

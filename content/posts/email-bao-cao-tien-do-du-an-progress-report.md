@@ -3,7 +3,7 @@ title: "Email báo cáo tiến độ dự án (Progress Report) — Template & M
 slug: "email-bao-cao-tien-do-du-an-progress-report"
 date: 2026-03-04
 summary: "Hướng dẫn viết email Progress Report tiếng Anh — template, mẫu câu báo cáo tiến độ, từ vựng project management và bài tập thực hành."
-description: "Học cách viết email báo cáo tiến độ dự án (Progress Report) bằng tiếng Anh cho developer và PM. Bao gồm template email, mẫu câu chuyên nghiệp, cách báo cáo blockers/risks, từ vựng project management và bài tập thực hành."
+description: "Học cách viết email báo cáo tiến độ dự án (Progress Report) bằng tiếng Anh cho developer và PM. Bao gồm template email, mẫu câu chuyên nghiệp."
 tags: ["workplace-english", "email", "project-management", "progress-report"]
 categories: ["Workplace English"]
 ShowToc: true

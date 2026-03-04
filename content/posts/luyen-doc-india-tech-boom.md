@@ -1,10 +1,11 @@
 ---
 title: "India trở thành hub công nghệ lớn nhất thế giới"
 date: "2023-06-25"
+summary: "Luyện đọc tiếng Anh IT: India trở thành hub công nghệ lớn nhất thế giới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-india-tech-boom"
 description: "Luyện đọc tiếng Anh IT: Ấn Độ vượt qua Trung Quốc trở thành trung tâm công nghệ lớn nhất thế giới với lực lượng developer khổng lồ và hệ sinh thái..."
 categories: ["Reading Practice"]
-tags: ["intermediate", "startup"]
+tags: ["intermediate", "startup", "testing", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

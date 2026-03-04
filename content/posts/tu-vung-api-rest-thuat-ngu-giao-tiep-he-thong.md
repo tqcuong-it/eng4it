@@ -1,10 +1,11 @@
 ---
 title: "API & REST — 15 Thuật Ngữ Giao Tiếp Hệ Thống Developer Cần Nắm"
 date: 2023-02-06
+summary: "Học 15 thuật ngữ API & REST quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-api-rest-thuat-ngu-giao-tiep-he-thong"
 description: "Học 15 thuật ngữ tiếng Anh quan trọng về API & REST — từ endpoint, request, response đến webhook và GraphQL. Giải thích kèm ví dụ thực tế cho developer."
 categories: ["IT English"]
-tags: ["backend"]
+tags: ["backend", "frontend", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

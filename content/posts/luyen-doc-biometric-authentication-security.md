@@ -1,10 +1,11 @@
 ---
 title: "Biometric Authentication — Nhận diện khuôn mặt thay mật khẩu"
 date: "2023-06-24"
+summary: "Luyện đọc tiếng Anh IT: Nhận diện khuôn mặt thay mật khẩu — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-biometric-authentication-security"
 description: "Luyện đọc tiếng Anh IT: Xác thực sinh trắc học đang dần thay thế mật khẩu truyền thống, nhưng đặt ra nhiều lo ngại về quyền riêng tư."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cybersecurity"]
+tags: ["intermediate", "cybersecurity", "security", "backend", "privacy"]
 ShowToc: true
 TocOpen: true
 draft: false

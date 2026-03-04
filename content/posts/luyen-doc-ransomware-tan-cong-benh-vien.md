@@ -1,10 +1,11 @@
 ---
 title: "Ransomware tấn công bệnh viện — hậu quả nghiêm trọng"
 date: "2023-05-11"
+summary: "Luyện đọc tiếng Anh IT: hậu quả nghiêm trọng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ransomware-tan-cong-benh-vien"
 description: "Luyện đọc tiếng Anh IT: Ransomware tấn công bệnh viện gây hậu quả nghiêm trọng. Từ vựng cybersecurity cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "cybersecurity"]
+tags: ["pre-intermediate", "cybersecurity", "security", "healthcare"]
 ShowToc: true
 TocOpen: true
 draft: false

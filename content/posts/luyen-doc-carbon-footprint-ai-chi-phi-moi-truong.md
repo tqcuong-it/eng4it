@@ -1,10 +1,11 @@
 ---
 title: "Carbon footprint của AI — chi phí môi trường"
 date: "2023-06-05"
+summary: "Luyện đọc tiếng Anh IT: chi phí môi trường — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-carbon-footprint-ai-chi-phi-moi-truong"
 description: "Luyện đọc tiếng Anh IT qua bài báo về chi phí năng lượng và tác động môi trường của AI. Từ vựng green-tech và AI, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "green-tech"]
+tags: ["pre-intermediate", "green-tech", "ai", "sustainability"]
 ShowToc: true
 TocOpen: true
 draft: false

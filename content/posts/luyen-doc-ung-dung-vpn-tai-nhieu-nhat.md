@@ -1,10 +1,11 @@
 ---
 title: "Ứng dụng VPN được tải nhiều nhất"
 date: "2023-04-24"
+summary: "Luyện đọc tiếng Anh IT: Ứng dụng VPN được tải nhiều nhất — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ung-dung-vpn-tai-nhieu-nhat"
-description: "Luyện đọc tiếng Anh IT qua bài báo ứng dụng VPN phổ biến nhất. Từ vựng privacy tool, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo ứng dụng VPN phổ biến nhất. Từ vựng privacy tool, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "cybersecurity"]
+tags: ["elementary", "cybersecurity", "privacy", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

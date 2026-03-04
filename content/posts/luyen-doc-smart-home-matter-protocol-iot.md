@@ -1,10 +1,11 @@
 ---
 title: "Smart home — nhà thông minh với Matter protocol"
 date: "2023-05-18"
+summary: "Luyện đọc tiếng Anh IT: nhà thông minh với Matter protocol — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-smart-home-matter-protocol-iot"
 description: "Luyện đọc tiếng Anh IT: Matter protocol thống nhất tiêu chuẩn nhà thông minh IoT. Từ vựng smart home, IoT cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ev-iot"]
+tags: ["pre-intermediate", "ev-iot", "iot"]
 ShowToc: true
 TocOpen: true
 draft: false

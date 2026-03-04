@@ -1,10 +1,11 @@
 ---
 title: "Monitoring & Observability — 15 Thuật Ngữ Giám Sát Hệ Thống Developer Cần Biết"
 date: 2023-02-08
+summary: "Học 15 thuật ngữ Monitoring & Observability quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-monitoring-thuat-ngu-giam-sat-he-thong"
 description: "Học 15 thuật ngữ tiếng Anh về Monitoring & Observability — từ metrics, logs, traces đến SLA, incident và postmortem. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["devops", "cloud-computing"]
+tags: ["devops", "cloud-computing", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

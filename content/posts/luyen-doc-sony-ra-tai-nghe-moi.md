@@ -1,10 +1,11 @@
 ---
 title: "Sony ra tai nghe mới"
 date: "2023-04-04"
+summary: "Luyện đọc tiếng Anh IT: Sony ra tai nghe mới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-sony-ra-tai-nghe-moi"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Sony ra mắt tai nghe chống ồn mới. Từ vựng audio gadget, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Sony ra mắt tai nghe chống ồn mới. Từ vựng audio gadget, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "ai"]
 ShowToc: true
 TocOpen: true
 draft: false

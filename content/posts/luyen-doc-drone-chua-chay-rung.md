@@ -1,10 +1,11 @@
 ---
 title: "Máy bay drone được dùng để chữa cháy rừng"
 date: "2023-05-03"
+summary: "Luyện đọc tiếng Anh IT: Máy bay drone được dùng để chữa cháy rừng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-drone-chua-chay-rung"
-description: "Luyện đọc tiếng Anh IT qua bài báo về công nghệ drone được sử dụng trong chữa cháy rừng tại Mỹ. Cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về công nghệ drone được sử dụng trong chữa cháy rừng tại Mỹ. Cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao ..."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

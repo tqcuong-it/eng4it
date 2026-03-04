@@ -1,10 +1,11 @@
 ---
 title: "Technical Interview — 12 Thuật Ngữ Phỏng Vấn Kỹ Thuật Developer Phải Biết"
 date: 2023-02-22
+summary: "Học 12 thuật ngữ Technical Interview quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-technical-interview-phong-van-ky-thuat"
-description: "Học 12 thuật ngữ tiếng Anh về Technical Interview — từ whiteboard, algorithm, time complexity đến system design và behavioral question. Chuẩn bị phỏng vấn tự tin hơn."
+description: "Học 12 thuật ngữ tiếng Anh về Technical Interview — từ whiteboard, algorithm, time complexity đến system design và behavioral question."
 categories: ["IT English"]
-tags: ["workplace-english"]
+tags: ["workplace-english", "testing", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

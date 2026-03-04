@@ -1,10 +1,11 @@
 ---
 title: "Chip M3 của Apple nhanh hơn bao nhiêu?"
 date: "2023-04-26"
+summary: "Luyện đọc tiếng Anh IT: Chip M3 của Apple nhanh hơn bao nhiêu? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-chip-m3-apple-nhanh-hon"
-description: "Luyện đọc tiếng Anh IT qua bài báo chip M3 của Apple. Từ vựng processor benchmark, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo chip M3 của Apple. Từ vựng processor benchmark, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "big-tech"]
+tags: ["elementary", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

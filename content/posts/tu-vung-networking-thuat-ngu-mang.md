@@ -1,10 +1,11 @@
 ---
 title: "Networking — 15 Thuật Ngữ Mạng Mà Developer Nào Cũng Phải Biết"
 date: 2023-02-04
+summary: "Học 15 thuật ngữ Networking quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-networking-thuat-ngu-mang"
 description: "Học 15 thuật ngữ tiếng Anh quan trọng nhất về Networking — từ TCP, DNS đến load balancer và CDN. Giải thích dễ hiểu kèm ví dụ thực tế cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["backend", "devops"]
+tags: ["backend", "devops", "frontend", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

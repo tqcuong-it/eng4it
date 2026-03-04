@@ -1,10 +1,11 @@
 ---
 title: "Ứng dụng ChatGPT miễn phí — AI chatbot cho mọi người"
 date: "2023-03-23"
+summary: "Luyện đọc tiếng Anh IT: AI chatbot cho mọi người — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-chatgpt-ung-dung-mien-phi"
-description: "Luyện đọc tiếng Anh IT: ChatGPT ra ứng dụng miễn phí, AI chatbot phổ biến nhất thế giới. Từ vựng AI cơ bản."
+description: "Luyện đọc tiếng Anh IT: ChatGPT ra ứng dụng miễn phí, AI chatbot phổ biến nhất thế giới. Từ vựng AI cơ bản, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ai"]
+tags: ["starter", "ai", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

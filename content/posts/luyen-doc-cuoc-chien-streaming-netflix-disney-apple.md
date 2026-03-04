@@ -1,10 +1,11 @@
 ---
 title: "Cuộc chiến streaming: Netflix vs Disney+ vs Apple TV+"
 date: "2023-05-10"
+summary: "Luyện đọc tiếng Anh IT: Netflix vs Disney+ vs Apple TV+ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cuoc-chien-streaming-netflix-disney-apple"
 description: "Luyện đọc tiếng Anh IT: Cuộc chiến giữa Netflix, Disney+ và Apple TV+. Từ vựng streaming, subscription cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "big-tech"]
+tags: ["pre-intermediate", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

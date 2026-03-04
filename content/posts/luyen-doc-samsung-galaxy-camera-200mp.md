@@ -1,10 +1,11 @@
 ---
 title: "Samsung Galaxy S mới có camera 200MP"
 date: "2023-04-10"
+summary: "Luyện đọc tiếng Anh IT: Samsung Galaxy S mới có camera 200MP — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-samsung-galaxy-camera-200mp"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Samsung Galaxy S mới với camera 200MP. Từ vựng smartphone, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Samsung Galaxy S mới với camera 200MP. Từ vựng smartphone, cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao..."
 categories: ["Reading Practice"]
-tags: ["elementary", "smartphone"]
+tags: ["elementary", "smartphone", "mobile", "iot"]
 ShowToc: true
 TocOpen: true
 draft: false

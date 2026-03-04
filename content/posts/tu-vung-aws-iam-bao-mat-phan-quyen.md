@@ -1,6 +1,7 @@
 ---
 title: "AWS IAM — Thuật Ngữ Bảo Mật & Phân Quyền Bằng Tiếng Anh"
 date: 2023-01-20
+summary: "Học 10+ thuật ngữ AWS IAM quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-iam-bao-mat-phan-quyen"
 description: "Học 14 thuật ngữ tiếng Anh về AWS IAM — user, role, policy, MFA và hơn thế. Dành cho developer Việt muốn master cloud security."
 categories: ["IT English"]

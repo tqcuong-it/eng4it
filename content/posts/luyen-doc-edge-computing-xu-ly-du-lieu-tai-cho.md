@@ -1,10 +1,11 @@
 ---
 title: "Edge computing — xử lý dữ liệu tại chỗ"
 date: "2023-05-31"
+summary: "Luyện đọc tiếng Anh IT: xử lý dữ liệu tại chỗ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-edge-computing-xu-ly-du-lieu-tai-cho"
 description: "Luyện đọc tiếng Anh IT qua bài báo về edge computing và so sánh với cloud computing. Từ vựng cloud, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "cloud"]
+tags: ["pre-intermediate", "cloud", "cloud-computing", "iot", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

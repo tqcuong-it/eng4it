@@ -1,6 +1,7 @@
 ---
 title: "Google Pixel và AI chụp ảnh"
 date: "2023-04-17"
+summary: "Luyện đọc tiếng Anh IT: Google Pixel và AI chụp ảnh — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-google-pixel-ai-chup-anh"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Google Pixel và tính năng AI chụp ảnh. Từ vựng smartphone và AI, cấp độ Elementary."
 categories: ["Reading Practice"]

@@ -1,10 +1,11 @@
 ---
 title: "Bài 155: RISC-V — Kiến Trúc Chip Mở Thách Thức ARM và x86"
 date: "2023-08-11"
+summary: "Luyện đọc tiếng Anh IT: Kiến Trúc Chip Mở Thách Thức ARM và x86 — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-risc-v-kien-truc-chip-mo-thach-thuc"
 description: "Luyện đọc tiếng Anh IT bài 155: RISC-V, kiến trúc tập lệnh mã nguồn mở, đang thách thức sự thống trị của ARM và x86 trong ngành bán dẫn."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "startup"]
+tags: ["upper-intermediate", "startup", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

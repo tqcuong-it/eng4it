@@ -1,10 +1,11 @@
 ---
 title: "TikTok Shop — mua sắm trên mạng xã hội"
 date: "2023-04-27"
+summary: "Luyện đọc tiếng Anh IT: mua sắm trên mạng xã hội — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tiktok-shop-mua-sam-mang-xa-hoi"
-description: "Luyện đọc tiếng Anh IT qua bài báo TikTok Shop và xu hướng social commerce. Từ vựng e-commerce, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo TikTok Shop và xu hướng social commerce. Từ vựng e-commerce, cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao ..."
 categories: ["Reading Practice"]
-tags: ["elementary", "social-media"]
+tags: ["elementary", "social-media", "e-commerce"]
 ShowToc: true
 TocOpen: true
 draft: false

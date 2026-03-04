@@ -1,10 +1,11 @@
 ---
 title: "Microservices vs Monolith — khi nào nên chuyển đổi?"
 date: "2023-06-29"
+summary: "Luyện đọc tiếng Anh IT: khi nào nên chuyển đổi? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-microservices-vs-monolith-kien-truc"
 description: "Luyện đọc tiếng Anh IT về cuộc tranh luận kiến trúc Microservices và Monolith. Từ vựng software architecture, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "programming"]
+tags: ["intermediate", "programming", "devops", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "Cloud computing giúp startup tiết kiệm chi phí"
 date: "2023-05-12"
+summary: "Luyện đọc tiếng Anh IT: Cloud computing giúp startup tiết kiệm chi phí — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cloud-computing-giup-startup-tiet-kiem"
 description: "Luyện đọc tiếng Anh IT: Cloud computing giúp startup tiết kiệm chi phí vận hành. Từ vựng cloud, infrastructure cho pre-intermediate."
 categories: ["Reading Practice"]

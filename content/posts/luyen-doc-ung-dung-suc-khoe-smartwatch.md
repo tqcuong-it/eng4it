@@ -1,10 +1,11 @@
 ---
 title: "Ứng dụng đo sức khỏe trên smartwatch ngày càng chính xác"
 date: "2023-05-07"
+summary: "Luyện đọc tiếng Anh IT: Ứng dụng đo sức khỏe trên smartwatch ngày càng chính xác — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ung-dung-suc-khoe-smartwatch"
 description: "Luyện đọc tiếng Anh IT qua bài báo về ứng dụng theo dõi sức khỏe trên đồng hồ thông minh ngày càng chính xác hơn. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "iot", "healthcare"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -4,7 +4,7 @@ slug: "cach-present-technical-demo-bang-tieng-anh"
 date: 2023-03-10
 summary: "Hướng dẫn present technical demo bằng tiếng Anh — opening, walkthrough, Q&A, closing với 20+ mẫu câu thực tế."
 description: "Học cách present technical demo bằng tiếng Anh cho developer. Bao gồm mẫu câu opening, walkthrough, xử lý Q&A, closing và bài tập thực hành."
-tags: ["workplace-english"]
+tags: ["workplace-english", "networking", "it-english"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

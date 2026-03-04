@@ -1,10 +1,11 @@
 ---
 title: "Elon Musk ra Grok AI — Cạnh tranh ChatGPT"
 date: "2023-06-21"
+summary: "Luyện đọc tiếng Anh IT: Cạnh tranh ChatGPT — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-grok-ai-chatbot-competition"
 description: "Luyện đọc tiếng Anh IT: Elon Musk ra mắt Grok AI thông qua xAI, tham gia cuộc đua chatbot AI cạnh tranh trực tiếp với ChatGPT và Google Bard."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "startup"]
 ShowToc: true
 TocOpen: true
 draft: false

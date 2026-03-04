@@ -1,10 +1,11 @@
 ---
 title: "AI trong y tế — chẩn đoán ung thư sớm hơn bác sĩ"
 date: "2023-07-13"
+summary: "Luyện đọc tiếng Anh IT: chẩn đoán ung thư sớm hơn bác sĩ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-healthcare-chan-doan-ung-thu"
 description: "Luyện đọc tiếng Anh IT qua bài báo về AI phát hiện ung thư sớm hơn bác sĩ trong lĩnh vực y tế. Từ vựng AI healthcare, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "healthcare"]
 ShowToc: true
 TocOpen: true
 draft: false

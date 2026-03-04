@@ -1,10 +1,11 @@
 ---
 title: "Đồng hồ thông minh đo đường huyết"
 date: "2023-04-20"
+summary: "Luyện đọc tiếng Anh IT: Đồng hồ thông minh đo đường huyết — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-dong-ho-thong-minh-do-duong-huyet"
-description: "Luyện đọc tiếng Anh IT qua bài báo đồng hồ thông minh đo đường huyết. Từ vựng health wearable, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo đồng hồ thông minh đo đường huyết. Từ vựng health wearable, cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao t..."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "iot", "gaming", "healthcare"]
 ShowToc: true
 TocOpen: true
 draft: false

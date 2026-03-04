@@ -1,10 +1,11 @@
 ---
 title: "Spotify có 500 triệu người nghe — Vượt mốc kỷ lục streaming"
 date: "2023-03-26"
+summary: "Luyện đọc tiếng Anh IT: Vượt mốc kỷ lục streaming — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-spotify-500-trieu-nguoi-nghe"
-description: "Luyện đọc tiếng Anh IT: Spotify đạt 500 triệu người dùng trên toàn cầu. Từ vựng streaming và milestone cơ bản."
+description: "Luyện đọc tiếng Anh IT: Spotify đạt 500 triệu người dùng trên toàn cầu. Từ vựng streaming và milestone cơ bản, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

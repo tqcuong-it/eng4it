@@ -1,10 +1,11 @@
 ---
 title: "Robot phẫu thuật chính xác hơn bác sĩ"
 date: "2023-06-02"
+summary: "Luyện đọc tiếng Anh IT: Robot phẫu thuật chính xác hơn bác sĩ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-robot-phau-thuat-chinh-xac-hon-bac-si"
 description: "Luyện đọc tiếng Anh IT qua bài báo về robot phẫu thuật với độ chính xác vượt bác sĩ. Từ vựng AI, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ai"]
+tags: ["pre-intermediate", "ai", "healthcare", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

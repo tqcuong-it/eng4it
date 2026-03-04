@@ -1,10 +1,11 @@
 ---
 title: "Semiconductor Geopolitics — Chip trở thành vũ khí địa chính trị"
 date: "2023-08-18"
+summary: "Luyện đọc tiếng Anh IT: Chip trở thành vũ khí địa chính trị — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-semiconductor-geopolitics-chip-dia-chinh-tri"
 description: "Phân tích cuộc chiến bán dẫn toàn cầu — chip trở thành công cụ địa chính trị giữa Mỹ, Trung Quốc và Đài Loan qua bài đọc song ngữ Advanced."
 categories: ["Reading Practice"]
-tags: ["advanced", "big-tech"]
+tags: ["advanced", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

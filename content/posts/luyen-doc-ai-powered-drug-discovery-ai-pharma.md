@@ -1,10 +1,11 @@
 ---
 title: "Bài 151: AI-Powered Drug Discovery — AI Tìm Thuốc Mới Nhanh Hơn"
 date: "2023-08-07"
+summary: "Luyện đọc tiếng Anh IT: AI Tìm Thuốc Mới Nhanh Hơn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-powered-drug-discovery-ai-pharma"
 description: "Luyện đọc tiếng Anh IT bài 151: AI đang cách mạng hóa ngành dược phẩm, giúp tìm ra thuốc mới nhanh hơn và rẻ hơn so với phương pháp truyền thống."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "healthcare"]
 ShowToc: true
 TocOpen: true
 draft: false

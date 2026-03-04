@@ -4,7 +4,7 @@ slug: "30-cau-hoi-tra-loi-trong-code-review-bang-tieng-anh"
 date: 2026-03-02
 summary: "Tổng hợp 30 câu hỏi và trả lời hay dùng khi Code Review bằng tiếng Anh — giúp developer giao tiếp chuyên nghiệp hơn."
 description: "30 câu hỏi và trả lời phổ biến trong Code Review bằng tiếng Anh cho developer. Bao gồm từ vựng, mẫu câu thực tế và tips giao tiếp chuyên nghiệp."
-tags: ["workplace-english", "programming"]
+tags: ["workplace-english", "programming", "networking"]
 categories: ["workplace-english"]
 ShowToc: true
 TocOpen: true

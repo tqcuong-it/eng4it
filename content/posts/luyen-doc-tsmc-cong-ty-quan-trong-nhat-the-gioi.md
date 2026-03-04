@@ -1,10 +1,11 @@
 ---
 title: "TSMC trở thành công ty quan trọng nhất thế giới như thế nào"
 date: "2023-09-17"
+summary: "Luyện đọc tiếng Anh IT: TSMC trở thành công ty quan trọng nhất thế giới như thế nào — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tsmc-cong-ty-quan-trong-nhat-the-gioi"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích sự thống trị của TSMC trong ngành bán dẫn. Từ vựng semiconductor, cấp độ Master."
 categories: ["Reading Practice"]
-tags: ["master", "big-tech"]
+tags: ["master", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "AR glasses — kính thực tế tăng cường cho công việc"
 date: "2023-05-26"
+summary: "Luyện đọc tiếng Anh IT: kính thực tế tăng cường cho công việc — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ar-glasses-thuc-te-tang-cuong"
-description: "Luyện đọc tiếng Anh IT qua bài báo về kính AR cho công việc. Từ vựng augmented reality, cấp độ Pre-Intermediate."
+description: "Luyện đọc tiếng Anh IT qua bài báo về kính AR cho công việc. Từ vựng augmented reality, cấp độ Pre-Intermediate, dành cho developer Việt Nam muốn nâng cao ti..."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ev-iot"]
+tags: ["pre-intermediate", "ev-iot", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

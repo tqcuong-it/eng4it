@@ -1,10 +1,11 @@
 ---
 title: "Backend Development — 14 Thuật Ngữ Lập Trình Server Developer Phải Biết"
 date: 2023-02-10
+summary: "Học 14 thuật ngữ Backend Development quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-backend-development-thuat-ngu-lap-trinh-server"
 description: "Học 14 thuật ngữ tiếng Anh về Backend Development — từ API, middleware, ORM đến authentication và dependency injection. Dễ hiểu cho dev Việt."
 categories: ["IT English"]
-tags: ["backend"]
+tags: ["backend", "mobile", "python", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

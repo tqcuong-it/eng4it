@@ -1,10 +1,11 @@
 ---
 title: "Starlink cung cấp internet vệ tinh cho vùng xa"
 date: "2023-05-08"
+summary: "Luyện đọc tiếng Anh IT: Starlink cung cấp internet vệ tinh cho vùng xa — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-starlink-internet-ve-tinh"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Starlink của SpaceX cung cấp internet vệ tinh tốc độ cao cho vùng nông thôn. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary"]
+tags: ["elementary", "space-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

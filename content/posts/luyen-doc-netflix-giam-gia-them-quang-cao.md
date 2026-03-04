@@ -1,10 +1,11 @@
 ---
 title: "Netflix giảm giá và thêm quảng cáo"
 date: "2023-04-13"
+summary: "Luyện đọc tiếng Anh IT: Netflix giảm giá và thêm quảng cáo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-netflix-giam-gia-them-quang-cao"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Netflix giảm giá gói xem có quảng cáo. Từ vựng streaming, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Netflix giảm giá gói xem có quảng cáo. Từ vựng streaming, cấp độ Elementary, dành cho developer Việt Nam muốn nâng cao ..."
 categories: ["Reading Practice"]
-tags: ["elementary", "big-tech"]
+tags: ["elementary", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

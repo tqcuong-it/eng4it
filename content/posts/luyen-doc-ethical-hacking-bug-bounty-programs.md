@@ -1,10 +1,11 @@
 ---
 title: "Ethical Hacking và Bug Bounty Programs — Hacker mũ trắng kiếm"
 date: "2023-08-30"
+summary: "Luyện đọc tiếng Anh IT: Hacker mũ trắng kiếm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ethical-hacking-bug-bounty-programs"
 description: "Bài luyện đọc cấp độ Advanced về ethical hacking, bug bounty programs và cách hacker mũ trắng kiếm hàng triệu đô từ việc tìm lỗ hổng bảo mật."
 categories: ["Reading Practice"]
-tags: ["advanced", "cybersecurity"]
+tags: ["advanced", "cybersecurity", "security", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

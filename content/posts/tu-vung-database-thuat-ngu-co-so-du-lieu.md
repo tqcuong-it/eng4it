@@ -1,10 +1,11 @@
 ---
 title: "Database Fundamentals — 14 Thuật Ngữ Cơ Sở Dữ Liệu Developer Cần Biết"
 date: 2023-02-05
+summary: "Học 14 thuật ngữ Database Fundamentals quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-database-thuat-ngu-co-so-du-lieu"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Database — từ schema, index, transaction đến ORM và stored procedure. Giải thích dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["database", "backend"]
+tags: ["database", "backend", "blockchain", "data", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

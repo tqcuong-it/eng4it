@@ -1,10 +1,11 @@
 ---
 title: "Tech layoffs 2024 — hàng chục nghìn nhân viên bị sa thải"
 date: "2023-06-17"
+summary: "Luyện đọc tiếng Anh IT: hàng chục nghìn nhân viên bị sa thải — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tech-layoffs-2024"
 description: "Bài luyện đọc về làn sóng sa thải trong ngành công nghệ năm 2024 và tác động đến thị trường lao động, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

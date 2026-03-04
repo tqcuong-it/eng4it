@@ -1,10 +1,11 @@
 ---
 title: "Team Collaboration — 12 Thuật Ngữ Làm Việc Nhóm Cho Developer"
 date: 2023-03-03
+summary: "Học 12 thuật ngữ Team Collaboration quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-team-collaboration-lam-viec-nhom"
-description: "Học 12 thuật ngữ tiếng Anh về Team Collaboration — từ brainstorm, delegate, escalate đến pair programming, cross-functional, knowledge sharing. Dành cho dev Việt."
+description: "Học 12 thuật ngữ tiếng Anh về Team Collaboration — từ brainstorm, delegate, escalate đến pair programming, cross-functional."
 categories: ["IT English"]
-tags: ["workplace-english", "agile"]
+tags: ["workplace-english", "agile", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

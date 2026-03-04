@@ -1,10 +1,11 @@
 ---
 title: "Technical Writing in Tech — Tại sao Documentation quan trọng"
 date: 2023-09-10
+summary: "Luyện đọc tiếng Anh IT: Tại sao Documentation quan trọng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-technical-writing-documentation-quan-trong"
 description: "Tìm hiểu tầm quan trọng của technical writing và documentation trong ngành công nghệ — kỹ năng bị đánh giá thấp nhưng tạo ra giá trị khổng lồ."
 categories: ["Reading Practice"]
-tags: ["advanced", "programming"]
+tags: ["advanced", "programming", "gaming", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

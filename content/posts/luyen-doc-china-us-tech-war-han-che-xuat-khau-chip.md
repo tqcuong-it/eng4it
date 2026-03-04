@@ -1,10 +1,11 @@
 ---
 title: "Bài 143: China vs US Tech War — Hạn chế xuất khẩu chip"
 date: "2023-07-30"
+summary: "Luyện đọc tiếng Anh IT: Hạn chế xuất khẩu chip — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-china-us-tech-war-han-che-xuat-khau-chip"
 description: "Luyện đọc tiếng Anh IT chủ đề cuộc chiến công nghệ Mỹ-Trung — hạn chế xuất khẩu chip bán dẫn và tác động đến ngành công nghiệp toàn cầu."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "big-tech"]
+tags: ["upper-intermediate", "big-tech", "gaming", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

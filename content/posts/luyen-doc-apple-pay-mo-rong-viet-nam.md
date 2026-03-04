@@ -1,10 +1,11 @@
 ---
 title: "Apple Pay mở rộng sang Việt Nam"
 date: "2023-04-30"
+summary: "Luyện đọc tiếng Anh IT: Apple Pay mở rộng sang Việt Nam — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-apple-pay-mo-rong-viet-nam"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Apple Pay chính thức ra mắt tại Việt Nam, hỗ trợ thanh toán di động. Cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "smartphone"]
+tags: ["elementary", "smartphone", "mobile"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "AI Governance Framework — Xây dựng quy trình quản lý AI trong"
 date: "2023-08-23"
+summary: "Luyện đọc tiếng Anh IT: Xây dựng quy trình quản lý AI trong — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-governance-framework-quan-ly-ai-doanh-nghiep"
 description: "Cách doanh nghiệp xây dựng framework quản lý AI — chính sách, đạo đức, rủi ro và trách nhiệm giải trình qua bài đọc song ngữ Advanced."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "devops"]
 ShowToc: true
 TocOpen: true
 draft: false

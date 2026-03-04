@@ -1,10 +1,11 @@
 ---
 title: "Uber dùng xe tự lái"
 date: "2023-04-22"
+summary: "Luyện đọc tiếng Anh IT: Uber dùng xe tự lái — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-uber-xe-tu-lai"
-description: "Luyện đọc tiếng Anh IT qua bài báo Uber triển khai xe tự lái. Từ vựng autonomous vehicle, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo Uber triển khai xe tự lái. Từ vựng autonomous vehicle, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "ai", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

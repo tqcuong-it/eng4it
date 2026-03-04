@@ -1,10 +1,11 @@
 ---
 title: "Deepfake — video giả mạo ngày càng nguy hiểm"
 date: "2023-04-23"
+summary: "Luyện đọc tiếng Anh IT: video giả mạo ngày càng nguy hiểm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-deepfake-video-gia-mao-nguy-hiem"
-description: "Luyện đọc tiếng Anh IT qua bài báo Deepfake và nguy cơ video giả mạo. Từ vựng AI misuse, cấp độ Elementary."
+description: "Luyện đọc tiếng Anh IT qua bài báo Deepfake và nguy cơ video giả mạo. Từ vựng AI misuse, cấp độ Elementary, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["elementary", "ai"]
+tags: ["elementary", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

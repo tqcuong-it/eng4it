@@ -1,10 +1,11 @@
 ---
 title: "Onboarding — 14 Thuật Ngữ Nhập Môn Nhân Viên Mới Trong Công Ty IT"
 date: 2023-02-28
+summary: "Học 14 thuật ngữ Onboarding quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-onboarding-nhap-mon-nhan-vien-moi"
 description: "Học 14 thuật ngữ tiếng Anh về Onboarding — từ orientation, handbook, mentor đến ramp-up, shadow và credential. Tự tin ngày đầu đi làm ở công ty nước ngoài."
 categories: ["IT English"]
-tags: ["workplace-english"]
+tags: ["workplace-english", "aws", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

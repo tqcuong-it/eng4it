@@ -3,8 +3,8 @@ title: "Tiếng Anh trong Job Interview cho Developer"
 slug: "tieng-anh-trong-job-interview-cho-developer"
 date: 2023-03-14
 summary: "30+ mẫu câu tiếng Anh trong phỏng vấn IT — tell me about yourself, behavioral questions (STAR method), technical discussion, salary negotiation."
-description: "Học tiếng Anh phỏng vấn cho Developer. Bao gồm 30+ mẫu câu cho self-introduction, behavioral questions với STAR method, technical discussion, salary negotiation và bài tập thực hành."
-tags: ["workplace-english"]
+description: "Học tiếng Anh phỏng vấn cho Developer. Bao gồm 30+ mẫu câu cho self-introduction, behavioral questions với STAR method, technical discussion."
+tags: ["workplace-english", "ai", "gaming", "career", "networking"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

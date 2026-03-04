@@ -1,10 +1,11 @@
 ---
 title: "Xe tự lái Waymo bắt đầu chạy thương mại"
 date: "2023-05-14"
+summary: "Luyện đọc tiếng Anh IT: Xe tự lái Waymo bắt đầu chạy thương mại — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-waymo-xe-tu-lai-thuong-mai"
 description: "Luyện đọc tiếng Anh IT: Waymo triển khai dịch vụ taxi tự lái thương mại. Từ vựng autonomous vehicle cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ev-iot"]
+tags: ["pre-intermediate", "ev-iot", "ai", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

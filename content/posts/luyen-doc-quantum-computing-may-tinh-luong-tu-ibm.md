@@ -1,10 +1,11 @@
 ---
 title: "Quantum computing — máy tính lượng tử đầu tiên của IBM"
 date: "2023-05-16"
+summary: "Luyện đọc tiếng Anh IT: máy tính lượng tử đầu tiên của IBM — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-quantum-computing-may-tinh-luong-tu-ibm"
 description: "Luyện đọc tiếng Anh IT: IBM ra mắt máy tính lượng tử mạnh nhất thế giới. Từ vựng quantum computing cho pre-intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "big-tech"]
+tags: ["pre-intermediate", "big-tech", "quantum"]
 ShowToc: true
 TocOpen: true
 draft: false

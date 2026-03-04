@@ -1,10 +1,11 @@
 ---
 title: "The Alignment Problem — Làm sao để AI tuân theo ý muốn con người"
 date: "2023-08-17"
+summary: "Luyện đọc tiếng Anh IT: Làm sao để AI tuân theo ý muốn con người — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-alignment-problem-van-de-dong-bo"
 description: "Tìm hiểu về bài toán alignment trong AI — thách thức đảm bảo trí tuệ nhân tạo hành động đúng ý muốn con người, qua bài đọc song ngữ cấp độ Advanced."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

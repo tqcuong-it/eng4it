@@ -1,10 +1,11 @@
 ---
 title: "Ransomware-as-a-Service — hacker bán công cụ tấn công"
 date: "2023-06-10"
+summary: "Luyện đọc tiếng Anh IT: hacker bán công cụ tấn công — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ransomware-as-a-service-raas"
-description: "Bài luyện đọc về mô hình Ransomware-as-a-Service, nơi hacker bán công cụ tấn công mạng, cấp độ Intermediate."
+description: "Bài luyện đọc về mô hình Ransomware-as-a-Service, nơi hacker bán công cụ tấn công mạng, cấp độ Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cybersecurity"]
+tags: ["intermediate", "cybersecurity", "security"]
 ShowToc: true
 TocOpen: true
 draft: false

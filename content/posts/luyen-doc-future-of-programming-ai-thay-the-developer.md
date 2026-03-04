@@ -1,10 +1,11 @@
 ---
 title: "The Future of Programming — Liệu AI có thay thế developer?"
 date: "2023-08-19"
+summary: "Luyện đọc tiếng Anh IT: Liệu AI có thay thế developer? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-future-of-programming-ai-thay-the-developer"
 description: "AI coding assistants đang thay đổi ngành lập trình — liệu developer có bị thay thế? Bài đọc song ngữ cấp độ Advanced phân tích xu hướng AI vs programmers."
 categories: ["Reading Practice"]
-tags: ["advanced", "programming"]
+tags: ["advanced", "programming", "ai"]
 ShowToc: true
 TocOpen: true
 draft: false

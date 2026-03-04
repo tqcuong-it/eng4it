@@ -1,10 +1,11 @@
 ---
 title: "Platform engineering — vai trò mới trong DevOps"
 date: "2023-07-22"
+summary: "Luyện đọc tiếng Anh IT: vai trò mới trong DevOps — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-platform-engineering-vai-tro-moi-devops"
 description: "Luyện đọc tiếng Anh IT qua bài báo về platform engineering và vai trò mới trong DevOps. Từ vựng cloud, cấp độ Upper-Intermediate."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "cloud"]
+tags: ["upper-intermediate", "cloud", "ai", "cloud-computing", "devops"]
 ShowToc: true
 TocOpen: true
 draft: false

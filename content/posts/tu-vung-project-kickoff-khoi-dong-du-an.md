@@ -1,10 +1,11 @@
 ---
 title: "Project Kickoff — 14 Thuật Ngữ Khởi Động Dự Án IT Bạn Cần Nắm Vững"
 date: 2023-02-25
+summary: "Học 14 thuật ngữ Project Kickoff quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-project-kickoff-khoi-dong-du-an"
 description: "Học 14 thuật ngữ tiếng Anh về Project Kickoff — từ scope, milestone, stakeholder đến deliverable, constraint và sign-off. Tự tin trong buổi họp khởi động dự án."
 categories: ["IT English"]
-tags: ["agile", "workplace-english"]
+tags: ["agile", "workplace-english", "blockchain"]
 ShowToc: true
 TocOpen: true
 draft: false

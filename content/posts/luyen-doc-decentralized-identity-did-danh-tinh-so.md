@@ -1,10 +1,11 @@
 ---
 title: "Bài 164: Decentralized Identity — DID và tương lai danh tính số"
 date: "2023-08-20"
+summary: "Luyện đọc tiếng Anh IT: DID và tương lai danh tính số — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-decentralized-identity-did-danh-tinh-so"
 description: "Tìm hiểu về danh tính phi tập trung (DID) và self-sovereign identity — tương lai của quản lý danh tính số qua bài đọc song ngữ Advanced."
 categories: ["Reading Practice"]
-tags: ["advanced", "blockchain"]
+tags: ["advanced", "blockchain", "ai", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "The rise of AI infrastructure — GPU shortage và cuộc đua data"
 date: "2023-08-26"
+summary: "Luyện đọc tiếng Anh IT: GPU shortage và cuộc đua data — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-infrastructure-gpu-shortage-data-center"
-description: "Luyện đọc tiếng Anh IT về cuộc đua hạ tầng AI - thiếu hụt GPU, xây dựng data center và bùng nổ đầu tư AI infrastructure"
+description: "Luyện đọc tiếng Anh IT về cuộc đua hạ tầng AI - thiếu hụt GPU, xây dựng data center và bùng nổ đầu tư AI infrastructure, dành cho developer Việt Nam muốn nân..."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "devops", "data", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

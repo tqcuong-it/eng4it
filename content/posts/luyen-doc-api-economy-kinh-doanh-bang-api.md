@@ -1,10 +1,11 @@
 ---
 title: "API economy — kinh doanh bằng API"
 date: "2023-07-04"
+summary: "Luyện đọc tiếng Anh IT: kinh doanh bằng API — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-api-economy-kinh-doanh-bang-api"
 description: "Luyện đọc tiếng Anh IT về API economy và cách các công ty kiếm tiền bằng API. Từ vựng cloud, business model, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cloud"]
+tags: ["intermediate", "cloud", "cloud-computing", "backend", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

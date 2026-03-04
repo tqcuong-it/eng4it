@@ -1,6 +1,7 @@
 ---
 title: "AWS ECS & EKS — Thuật Ngữ Container & Kubernetes Bằng Tiếng Anh"
 date: 2023-01-22
+summary: "Học 10+ thuật ngữ AWS ECS & EKS quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-ecs-eks-container-kubernetes"
 description: "Học 12 thuật ngữ tiếng Anh về AWS ECS, EKS — cluster, pod, Fargate, Helm chart. Dành cho dev Việt làm việc với container."
 categories: ["IT English"]

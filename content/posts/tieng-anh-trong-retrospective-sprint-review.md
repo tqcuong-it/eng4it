@@ -4,7 +4,7 @@ slug: "tieng-anh-trong-retrospective-sprint-review"
 date: 2023-03-07
 summary: "Mẫu câu tiếng Anh cho Retrospective và Sprint Review — what went well, improvements, action items với 20+ câu thực tế."
 description: "Học tiếng Anh dùng trong Retrospective và Sprint Review cho developer. Bao gồm mẫu câu what went well, improvements, action items và bài tập thực hành."
-tags: ["workplace-english"]
+tags: ["workplace-english", "ai", "agile", "networking"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

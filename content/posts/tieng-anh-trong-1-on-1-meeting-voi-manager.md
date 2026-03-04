@@ -4,7 +4,7 @@ slug: "tieng-anh-trong-1-on-1-meeting-voi-manager"
 date: 2023-03-09
 summary: "Mẫu câu tiếng Anh cho 1-on-1 meeting với manager — career goals, feedback, concerns với 20+ câu thực tế."
 description: "Học tiếng Anh dùng trong 1-on-1 meeting với manager cho developer. Bao gồm mẫu câu về career goals, xin feedback, nêu concerns và bài tập thực hành."
-tags: ["workplace-english"]
+tags: ["workplace-english", "career", "networking"]
 categories: ["Workplace English"]
 ShowToc: true
 TocOpen: true

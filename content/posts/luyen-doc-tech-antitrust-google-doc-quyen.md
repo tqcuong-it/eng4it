@@ -1,10 +1,11 @@
 ---
 title: "Tech antitrust — Mỹ kiện Google độc quyền tìm kiếm"
 date: "2023-07-14"
+summary: "Luyện đọc tiếng Anh IT: Mỹ kiện Google độc quyền tìm kiếm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-tech-antitrust-google-doc-quyen"
 description: "Luyện đọc tiếng Anh IT qua bài báo về vụ kiện chống độc quyền của Mỹ nhắm vào Google Search. Từ vựng big-tech, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "cloud-computing", "aws"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Generative AI in creative industries — AI sáng tạo nội dung và"
 date: 2023-09-03
+summary: "Luyện đọc tiếng Anh IT: AI sáng tạo nội dung và — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-creative-generative-ai-ban-quyen"
 description: "Luyện đọc tiếng Anh IT chủ đề Generative AI trong ngành sáng tạo, tranh cãi bản quyền và tác động đến nghệ sĩ, nhà sáng tạo nội dung"
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

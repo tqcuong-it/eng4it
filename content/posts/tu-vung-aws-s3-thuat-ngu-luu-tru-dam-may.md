@@ -1,6 +1,7 @@
 ---
 title: "AWS S3 — Thuật Ngữ Lưu Trữ Đám Mây Dành Cho Developer"
 date: 2023-01-16
+summary: "Học 10+ thuật ngữ AWS S3 quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-s3-thuat-ngu-luu-tru-dam-may"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về AWS S3 — từ bucket, object đến lifecycle policy. Kèm ví dụ thực tế và bài tập cho developer Việt Nam."
 categories: ["IT English"]

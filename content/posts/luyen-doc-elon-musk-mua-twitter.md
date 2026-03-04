@@ -1,10 +1,11 @@
 ---
 title: "Elon Musk mua lại Twitter"
 date: "2023-03-17"
+summary: "Luyện đọc tiếng Anh IT: Elon Musk mua lại Twitter — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-elon-musk-mua-twitter"
-description: "Luyện đọc tiếng Anh IT qua bài báo Elon Musk mua Twitter. Từ vựng big tech, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo Elon Musk mua Twitter. Từ vựng big tech, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "social-media", "space-tech"]
 ShowToc: true
 TocOpen: true
 draft: false

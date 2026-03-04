@@ -1,10 +1,11 @@
 ---
 title: "Zero trust security — không tin ai, xác thực mọi thứ"
 date: "2023-07-19"
+summary: "Luyện đọc tiếng Anh IT: không tin ai, xác thực mọi thứ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-zero-trust-security-xac-thuc-moi-thu"
-description: "Luyện đọc tiếng Anh IT qua bài báo về mô hình bảo mật Zero Trust. Từ vựng cybersecurity, cấp độ Upper-Intermediate."
+description: "Luyện đọc tiếng Anh IT qua bài báo về mô hình bảo mật Zero Trust. Từ vựng cybersecurity, cấp độ Upper-Intermediate, dành cho developer Việt Nam muốn nâng cao..."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "cybersecurity"]
+tags: ["upper-intermediate", "cybersecurity", "security"]
 ShowToc: true
 TocOpen: true
 draft: false

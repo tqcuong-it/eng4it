@@ -1,10 +1,11 @@
 ---
 title: "Bài 172: Software-Defined Vehicles — Xe hơi chạy bằng phần mềm"
 date: "2023-08-28"
+summary: "Luyện đọc tiếng Anh IT: Xe hơi chạy bằng phần mềm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-software-defined-vehicles-xe-hoi-phan-mem"
 description: "Bài luyện đọc cấp độ Advanced về xu hướng software-defined vehicles, cách phần mềm đang cách mạng hóa ngành ô tô hiện đại."
 categories: ["Reading Practice"]
-tags: ["advanced", "ev-iot"]
+tags: ["advanced", "ev-iot", "blockchain", "mobile"]
 ShowToc: true
 TocOpen: true
 draft: false

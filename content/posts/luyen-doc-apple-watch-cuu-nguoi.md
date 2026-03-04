@@ -1,10 +1,11 @@
 ---
 title: "Apple Watch cứu người — Đồng hồ thông minh phát hiện bệnh tim"
 date: "2023-03-28"
+summary: "Luyện đọc tiếng Anh IT: Đồng hồ thông minh phát hiện bệnh tim — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-apple-watch-cuu-nguoi"
-description: "Luyện đọc tiếng Anh IT: Apple Watch phát hiện bệnh tim và cứu sống người dùng. Từ vựng smartwatch và sức khỏe cơ bản."
+description: "Luyện đọc tiếng Anh IT: Apple Watch phát hiện bệnh tim và cứu sống người dùng. Từ vựng smartwatch và sức khỏe cơ bản, dành cho developer Việt Nam muốn nâng c..."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "healthcare"]
 ShowToc: true
 TocOpen: true
 draft: false

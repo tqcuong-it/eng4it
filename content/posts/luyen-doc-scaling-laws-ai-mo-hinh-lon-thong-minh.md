@@ -1,10 +1,11 @@
 ---
 title: "Scaling Laws in AI — Tại sao mô hình lớn hơn lại thông minh hơn"
 date: "2023-08-21"
+summary: "Luyện đọc tiếng Anh IT: Tại sao mô hình lớn hơn lại thông minh hơn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-scaling-laws-ai-mo-hinh-lon-thong-minh"
 description: "Khám phá scaling laws trong AI — tại sao tăng kích thước mô hình và dữ liệu lại cải thiện hiệu suất LLM, qua bài đọc song ngữ Advanced."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "cloud-computing", "aws", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "5G phủ sóng toàn cầu"
 date: "2023-04-18"
+summary: "Luyện đọc tiếng Anh IT: 5G phủ sóng toàn cầu — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-5g-phu-song-toan-cau"
 description: "Luyện đọc tiếng Anh IT qua bài báo về 5G phủ sóng toàn cầu và tác động công nghệ. Từ vựng IoT và viễn thông, cấp độ Elementary."
 categories: ["Reading Practice"]
-tags: ["elementary", "ev-iot"]
+tags: ["elementary", "ev-iot", "5g", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

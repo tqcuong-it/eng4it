@@ -1,10 +1,11 @@
 ---
 title: "Salary & Benefits — 14 Thuật Ngữ Lương Thưởng Developer Cần Biết"
 date: 2023-03-01
+summary: "Học 14 thuật ngữ Salary & Benefits quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-salary-benefits-luong-thuong"
 description: "Học 14 thuật ngữ tiếng Anh về Salary & Benefits — từ compensation, base salary, bonus đến equity, stock option, payroll. Cực kỳ hữu ích khi negotiate offer."
 categories: ["IT English"]
-tags: ["workplace-english"]
+tags: ["workplace-english", "career", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

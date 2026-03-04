@@ -1,10 +1,11 @@
 ---
 title: "Technical Documentation — 12 Thuật Ngữ Viết Tài Liệu Kỹ Thuật"
 date: 2023-03-04
+summary: "Học 12 thuật ngữ Technical Documentation quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-technical-documentation-viet-tai-lieu"
-description: "Học 12 thuật ngữ tiếng Anh về Technical Documentation — từ README, changelog, specification đến API docs, runbook, architecture decision record. Dành cho developer."
+description: "Học 12 thuật ngữ tiếng Anh về Technical Documentation — từ README, changelog, specification đến API docs, runbook, kèm phát âm IPA và ví dụ thực tế."
 categories: ["IT English"]
-tags: ["workplace-english", "backend"]
+tags: ["workplace-english", "backend", "gaming"]
 ShowToc: true
 TocOpen: true
 draft: false

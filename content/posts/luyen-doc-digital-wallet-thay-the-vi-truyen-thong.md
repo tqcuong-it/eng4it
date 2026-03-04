@@ -1,10 +1,11 @@
 ---
 title: "Digital wallet thay thế ví truyền thống"
 date: "2023-05-28"
+summary: "Luyện đọc tiếng Anh IT: Digital wallet thay thế ví truyền thống — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-digital-wallet-thay-the-vi-truyen-thong"
 description: "Luyện đọc tiếng Anh IT qua bài báo về ví điện tử thay thế ví truyền thống. Từ vựng digital payment, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "blockchain"]
+tags: ["pre-intermediate", "blockchain", "mobile", "fintech", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

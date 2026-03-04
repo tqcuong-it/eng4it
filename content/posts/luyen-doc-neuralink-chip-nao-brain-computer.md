@@ -1,6 +1,7 @@
 ---
 title: "Neuralink cấy chip não — tương lai hay viễn tưởng?"
 date: "2023-07-16"
+summary: "Luyện đọc tiếng Anh IT: tương lai hay viễn tưởng? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-neuralink-chip-nao-brain-computer"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Neuralink cấy chip não và giao diện não-máy tính. Từ vựng công nghệ y sinh, cấp độ Intermediate."
 categories: ["Reading Practice"]

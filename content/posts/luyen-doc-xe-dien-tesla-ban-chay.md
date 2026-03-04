@@ -1,10 +1,11 @@
 ---
 title: "Xe điện Tesla bán chạy nhất thế giới"
 date: "2023-03-19"
+summary: "Luyện đọc tiếng Anh IT: Xe điện Tesla bán chạy nhất thế giới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-xe-dien-tesla-ban-chay"
-description: "Luyện đọc tiếng Anh IT qua bài báo xe điện Tesla bán chạy. Từ vựng electric vehicle, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo xe điện Tesla bán chạy. Từ vựng electric vehicle, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ev-iot"]
+tags: ["starter", "ev-iot", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

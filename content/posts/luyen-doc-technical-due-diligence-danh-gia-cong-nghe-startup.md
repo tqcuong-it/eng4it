@@ -1,10 +1,11 @@
 ---
 title: "Technical Due Diligence — Đánh giá công nghệ trước khi mua"
 date: "2023-08-22"
+summary: "Luyện đọc tiếng Anh IT: Đánh giá công nghệ trước khi mua — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-technical-due-diligence-danh-gia-cong-nghe-startup"
 description: "Quy trình technical due diligence khi M&A startup — đánh giá codebase, kiến trúc, nợ kỹ thuật qua bài đọc song ngữ Advanced."
 categories: ["Reading Practice"]
-tags: ["advanced", "startup"]
+tags: ["advanced", "startup", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

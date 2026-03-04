@@ -1,8 +1,9 @@
 ---
 title: "Facebook đổi tên thành Meta — Tập trung vào thế giới ảo"
 date: "2023-03-22"
+summary: "Luyện đọc tiếng Anh IT: Tập trung vào thế giới ảo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-facebook-doi-ten-thanh-meta"
-description: "Luyện đọc tiếng Anh IT: Facebook đổi tên công ty thành Meta để tập trung vào metaverse. Từ vựng big-tech cơ bản."
+description: "Luyện đọc tiếng Anh IT: Facebook đổi tên công ty thành Meta để tập trung vào metaverse. Từ vựng big-tech cơ bản, dành cho developer Việt Nam muốn nâng cao ti..."
 categories: ["Reading Practice"]
 tags: ["starter", "big-tech", "social-media"]
 ShowToc: true

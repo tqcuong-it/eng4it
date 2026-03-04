@@ -1,10 +1,11 @@
 ---
 title: "Existential Risk of Superintelligence — Rủi ro hiện sinh từ"
 date: "2023-08-27"
+summary: "Luyện đọc tiếng Anh IT: Rủi ro hiện sinh từ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-rui-ro-hien-sinh-sieu-tri-tue-ai"
 description: "Bài luyện đọc cấp độ Advanced về rủi ro hiện sinh từ siêu trí tuệ nhân tạo, các cuộc tranh luận về AI alignment và tương lai nhân loại."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

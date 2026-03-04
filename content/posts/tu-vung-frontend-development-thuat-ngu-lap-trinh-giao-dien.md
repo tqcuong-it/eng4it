@@ -1,10 +1,11 @@
 ---
 title: "Frontend Development — 14 Thuật Ngữ Lập Trình Giao Diện Developer Phải Biết"
 date: 2023-02-09
+summary: "Học 14 thuật ngữ Frontend Development quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-frontend-development-thuat-ngu-lap-trinh-giao-dien"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Frontend Development — từ component, state, props đến virtual DOM, hook và hydration. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["programming"]
+tags: ["programming", "frontend", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

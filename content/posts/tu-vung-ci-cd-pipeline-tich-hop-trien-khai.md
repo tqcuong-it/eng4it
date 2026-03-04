@@ -1,10 +1,11 @@
 ---
 title: "Từ Vựng CI/CD Pipeline — Thuật Ngữ Tích Hợp & Triển Khai Liên Tục"
 date: 2023-02-01
+summary: "Học 10+ thuật ngữ Từ Vựng CI/CD Pipeline quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-ci-cd-pipeline-tich-hop-trien-khai"
 description: "Tìm hiểu 13 thuật ngữ CI/CD Pipeline quan trọng: pipeline, build, deploy, artifact, rollback, blue-green, canary deployment và hơn thế."
 categories: ["IT English"]
-tags: ["devops", "cloud-computing"]
+tags: ["devops", "cloud-computing", "ai", "testing", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

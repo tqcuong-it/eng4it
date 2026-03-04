@@ -1,10 +1,11 @@
 ---
 title: "AI Chip Wars — NVIDIA vs AMD vs Google TPU vs Apple Neural Engine"
 date: 2023-09-09
+summary: "Luyện đọc tiếng Anh IT: NVIDIA vs AMD vs Google TPU vs Apple Neural Engine — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-chip-wars-nvidia-amd-google-apple"
-description: "Cuộc chiến chip AI giữa NVIDIA, AMD, Google TPU và Apple Neural Engine — ai sẽ thống trị thị trường AI accelerator?"
+description: "Cuộc chiến chip AI giữa NVIDIA, AMD, Google TPU và Apple Neural Engine — ai sẽ thống trị thị trường AI accelerator?, dành cho developer Việt Nam muốn nâng ca..."
 categories: ["Reading Practice"]
-tags: ["advanced", "ai"]
+tags: ["advanced", "ai", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

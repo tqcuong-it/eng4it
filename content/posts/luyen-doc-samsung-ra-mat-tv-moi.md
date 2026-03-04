@@ -1,10 +1,11 @@
 ---
 title: "Samsung ra mắt TV mới tại CES"
 date: "2023-03-15"
+summary: "Luyện đọc tiếng Anh IT: Samsung ra mắt TV mới tại CES — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-samsung-ra-mat-tv-moi"
-description: "Luyện đọc tiếng Anh IT qua bài báo Samsung ra mắt TV mới. Từ vựng gadget, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo Samsung ra mắt TV mới. Từ vựng gadget, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

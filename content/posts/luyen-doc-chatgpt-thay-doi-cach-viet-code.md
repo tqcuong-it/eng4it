@@ -1,6 +1,7 @@
 ---
 title: "ChatGPT thay đổi cách viết code — AI trong phát triển phần mềm"
 date: "2023-05-09"
+summary: "Luyện đọc tiếng Anh IT: AI trong phát triển phần mềm — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-chatgpt-thay-doi-cach-viet-code"
 description: "Luyện đọc tiếng Anh IT: ChatGPT thay đổi cách lập trình viên viết code. Từ vựng AI, software development cho pre-intermediate."
 categories: ["Reading Practice"]

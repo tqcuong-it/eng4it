@@ -1,6 +1,7 @@
 ---
 title: "Bài 148: Autonomous Coding Agents — AI software engineer"
 date: "2023-08-04"
+summary: "Luyện đọc tiếng Anh IT: AI software engineer — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-autonomous-coding-agents-ai-software-engineer"
 description: "Luyện đọc tiếng Anh IT chủ đề autonomous coding agents như Devin và Copilot Workspace — AI tự viết code thay lập trình viên."
 categories: ["Reading Practice"]

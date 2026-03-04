@@ -1,10 +1,11 @@
 ---
 title: "Figma bị Adobe mua lại — cộng đồng design phản đối"
 date: "2023-06-01"
+summary: "Luyện đọc tiếng Anh IT: cộng đồng design phản đối — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-figma-adobe-mua-lai-cong-dong-phan-doi"
 description: "Luyện đọc tiếng Anh IT qua bài báo về Adobe mua lại Figma và phản ứng từ cộng đồng designer. Từ vựng big-tech, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "big-tech"]
+tags: ["pre-intermediate", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "The future of work in an AI-augmented world — economic"
 date: 2023-09-15
+summary: "Luyện đọc tiếng Anh IT: economic — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-future-of-work-economic-transformation"
-description: "Luyện đọc tiếng Anh IT chủ đề tương lai công việc trong thế giới AI — chuyển đổi kinh tế phía trước. Cấp độ Master."
+description: "Luyện đọc tiếng Anh IT chủ đề tương lai công việc trong thế giới AI — chuyển đổi kinh tế phía trước. Cấp độ Master, dành cho developer Việt Nam muốn nâng cao..."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "gaming", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

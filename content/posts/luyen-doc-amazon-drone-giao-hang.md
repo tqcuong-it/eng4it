@@ -1,10 +1,11 @@
 ---
 title: "Amazon drone giao hàng — Giao hàng bằng drone trong 30 phút"
 date: "2023-03-25"
+summary: "Luyện đọc tiếng Anh IT: Giao hàng bằng drone trong 30 phút — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-amazon-drone-giao-hang"
-description: "Luyện đọc tiếng Anh IT: Amazon dùng drone giao hàng trong 30 phút. Từ vựng delivery và công nghệ drone cơ bản."
+description: "Luyện đọc tiếng Anh IT: Amazon dùng drone giao hàng trong 30 phút. Từ vựng delivery và công nghệ drone cơ bản, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ev-iot"]
+tags: ["starter", "ev-iot", "testing", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

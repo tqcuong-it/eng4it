@@ -1,10 +1,11 @@
 ---
 title: "Quantum-safe encryption — mã hóa chống máy tính lượng tử"
 date: "2023-07-10"
+summary: "Luyện đọc tiếng Anh IT: mã hóa chống máy tính lượng tử — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-quantum-safe-encryption-ma-hoa-luong-tu"
 description: "Luyện đọc tiếng Anh IT qua bài báo về mã hóa quantum-safe bảo vệ dữ liệu trước máy tính lượng tử. Từ vựng cybersecurity, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cybersecurity"]
+tags: ["intermediate", "cybersecurity", "security", "data", "quantum"]
 ShowToc: true
 TocOpen: true
 draft: false

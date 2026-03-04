@@ -1,6 +1,7 @@
 ---
 title: "AWS DynamoDB — Thuật Ngữ NoSQL Database Cho Developer"
 date: 2023-01-26
+summary: "Học 10+ thuật ngữ AWS DynamoDB quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-dynamodb-nosql-database"
 description: "Học 15 thuật ngữ tiếng Anh về AWS DynamoDB và NoSQL — từ partition key, GSI đến scan và query, giúp developer đọc docs và thiết kế database hiệu quả."
 categories: ["IT English"]

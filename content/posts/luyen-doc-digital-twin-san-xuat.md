@@ -1,8 +1,9 @@
 ---
 title: "Digital twin — bản sao kỹ thuật số trong sản xuất"
 date: "2023-06-16"
+summary: "Luyện đọc tiếng Anh IT: bản sao kỹ thuật số trong sản xuất — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-digital-twin-san-xuat"
-description: "Bài luyện đọc về công nghệ digital twin và ứng dụng trong ngành sản xuất, cấp độ Intermediate."
+description: "Bài luyện đọc về công nghệ digital twin và ứng dụng trong ngành sản xuất, cấp độ Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
 tags: ["intermediate", "ev-iot", "ai"]
 ShowToc: true

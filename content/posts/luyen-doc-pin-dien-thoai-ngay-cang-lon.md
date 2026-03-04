@@ -1,10 +1,11 @@
 ---
 title: "Pin điện thoại ngày càng lớn"
 date: "2023-04-07"
+summary: "Luyện đọc tiếng Anh IT: Pin điện thoại ngày càng lớn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-pin-dien-thoai-ngay-cang-lon"
-description: "Luyện đọc tiếng Anh IT qua bài báo về xu hướng pin điện thoại ngày càng lớn hơn. Từ vựng battery tech, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về xu hướng pin điện thoại ngày càng lớn hơn. Từ vựng battery tech, cấp độ Starter, dành cho developer Việt Nam muốn nâng ..."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

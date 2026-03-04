@@ -1,10 +1,11 @@
 ---
 title: "Bài 144: Vertical AI Agents — AI chuyên biệt cho từng ngành"
 date: "2023-07-31"
+summary: "Luyện đọc tiếng Anh IT: AI chuyên biệt cho từng ngành — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-vertical-ai-agents-ai-chuyen-biet-tung-nganh"
-description: "Luyện đọc tiếng Anh IT chủ đề vertical AI agents — xu hướng xây dựng AI chuyên biệt cho từng ngành thay vì AI đa năng."
+description: "Luyện đọc tiếng Anh IT chủ đề vertical AI agents — xu hướng xây dựng AI chuyên biệt cho từng ngành thay vì AI đa năng, dành cho developer Việt Nam muốn nâng ..."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "startup", "robotics"]
 ShowToc: true
 TocOpen: true
 draft: false

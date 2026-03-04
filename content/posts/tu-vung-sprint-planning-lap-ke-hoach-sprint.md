@@ -1,10 +1,11 @@
 ---
 title: "Sprint Planning — 12 Thuật Ngữ Lập Kế Hoạch Sprint Developer Cần Nắm"
 date: 2023-02-20
+summary: "Học 12 thuật ngữ Sprint Planning quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-sprint-planning-lap-ke-hoach-sprint"
 description: "Học 12 thuật ngữ tiếng Anh về Sprint Planning — từ backlog, story point, velocity đến definition of done. Giúp dev Việt tự tin tham gia planning meeting."
 categories: ["IT English"]
-tags: ["agile", "workplace-english"]
+tags: ["agile", "workplace-english", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

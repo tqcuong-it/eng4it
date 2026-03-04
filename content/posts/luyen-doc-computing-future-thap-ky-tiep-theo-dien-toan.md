@@ -1,10 +1,11 @@
 ---
 title: "Thập kỷ tiếp theo của điện toán — từ AI đến lượng tử đến máy"
 date: "2023-09-25"
+summary: "Luyện đọc tiếng Anh IT: từ AI đến lượng tử đến máy — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-computing-future-thap-ky-tiep-theo-dien-toan"
 description: "Luyện đọc tiếng Anh IT qua bài phân tích tương lai điện toán: AI, quantum, biological computing. Từ vựng computing, cấp độ Master."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "quantum"]
 ShowToc: true
 TocOpen: true
 draft: false

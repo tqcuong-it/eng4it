@@ -2,8 +2,8 @@
 title: "Email xin nghỉ phép (Leave Request) — mẫu & từ vựng tiếng Anh"
 slug: "email-xin-nghi-phep-leave-request-mau-tu-vung"
 date: 2026-03-03
-summary: "Tổng hợp mẫu email xin nghỉ phép bằng tiếng Anh — annual leave, sick leave, personal leave kèm từ vựng và bài tập."
-description: "Hướng dẫn viết email xin nghỉ phép (Leave Request) bằng tiếng Anh cho developer. Bao gồm mẫu email annual leave, sick leave, personal leave, bảng từ vựng IPA và bài tập thực hành."
+summary: "Học 10+ thuật ngữ Email xin nghỉ phép (Leave Request) quan trọng nhất cho developer — có IPA, ví dụ thực tế."
+description: "Hướng dẫn viết email xin nghỉ phép (Leave Request) bằng tiếng Anh cho developer. Bao gồm mẫu email annual leave, sick leave, personal leave."
 tags: ["workplace-english", "email-writing", "leave-request"]
 categories: ["workplace-english"]
 ShowToc: true

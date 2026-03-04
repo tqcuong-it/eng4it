@@ -1,10 +1,11 @@
 ---
 title: "PayPal cho phép mua crypto"
 date: "2023-03-30"
+summary: "Luyện đọc tiếng Anh IT: PayPal cho phép mua crypto — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-paypal-cho-phep-mua-crypto"
-description: "Luyện đọc tiếng Anh IT qua bài báo về PayPal cho phép người dùng mua bán tiền mã hóa. Từ vựng fintech, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về PayPal cho phép người dùng mua bán tiền mã hóa. Từ vựng fintech, cấp độ Starter, dành cho developer Việt Nam muốn nâng ..."
 categories: ["Reading Practice"]
-tags: ["starter", "blockchain"]
+tags: ["starter", "blockchain", "fintech", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

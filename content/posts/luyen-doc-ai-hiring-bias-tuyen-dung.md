@@ -1,10 +1,11 @@
 ---
 title: "AI trong tuyển dụng — công bằng hay thiên vị?"
 date: "2023-06-28"
+summary: "Luyện đọc tiếng Anh IT: công bằng hay thiên vị? — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-hiring-bias-tuyen-dung"
-description: "Luyện đọc tiếng Anh IT về AI trong tuyển dụng và vấn đề thiên vị thuật toán. Từ vựng AI, HR tech, cấp độ Intermediate."
+description: "Luyện đọc tiếng Anh IT về AI trong tuyển dụng và vấn đề thiên vị thuật toán. Từ vựng AI, HR tech, cấp độ Intermediate, dành cho developer Việt Nam muốn nâng ..."
 categories: ["Reading Practice"]
-tags: ["intermediate", "ai"]
+tags: ["intermediate", "ai", "career"]
 ShowToc: true
 TocOpen: true
 draft: false

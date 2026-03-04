@@ -1,10 +1,11 @@
 ---
 title: "Google cập nhật trình duyệt Chrome"
 date: "2023-03-12"
+summary: "Luyện đọc tiếng Anh IT: Google cập nhật trình duyệt Chrome — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-google-cap-nhat-chrome"
-description: "Luyện đọc tiếng Anh IT qua bài báo Google cập nhật Chrome. Từ vựng browser, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo Google cập nhật Chrome. Từ vựng browser, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "big-tech"]
+tags: ["starter", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

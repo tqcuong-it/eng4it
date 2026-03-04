@@ -1,10 +1,11 @@
 ---
 title: "DevOps vs Platform Engineering — Xu hướng mới"
 date: "2023-06-23"
+summary: "Luyện đọc tiếng Anh IT: Xu hướng mới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-devops-platform-engineering"
 description: "Luyện đọc tiếng Anh IT: Platform Engineering nổi lên như xu hướng mới thay thế DevOps truyền thống, giảm cognitive load cho developer."
 categories: ["Reading Practice"]
-tags: ["intermediate", "cloud"]
+tags: ["intermediate", "cloud", "devops", "testing"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Cybersecurity Mesh Architecture — Bảo mật phân tán thời Cloud"
 date: 2023-09-07
+summary: "Luyện đọc tiếng Anh IT: Bảo mật phân tán thời Cloud — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cybersecurity-mesh-architecture-bao-mat-phan-tan"
 description: "Tìm hiểu về Cybersecurity Mesh Architecture (CSMA) — mô hình bảo mật phân tán giúp bảo vệ tài sản số trong môi trường cloud đa nền tảng."
 categories: ["Reading Practice"]
-tags: ["advanced", "cybersecurity"]
+tags: ["advanced", "cybersecurity", "cloud-computing", "security", "iot"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "The state of WebAssembly — từ browser đến server-side (WASM"
 date: "2023-08-24"
+summary: "Luyện đọc tiếng Anh IT: từ browser đến server-side (WASM — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-webassembly-wasm-ecosystem"
-description: "Luyện đọc tiếng Anh IT về WebAssembly - từ công nghệ trình duyệt đến server-side, WASI và tương lai WASM ecosystem"
+description: "Luyện đọc tiếng Anh IT về WebAssembly - từ công nghệ trình duyệt đến server-side, WASI và tương lai WASM ecosystem, dành cho developer Việt Nam muốn nâng cao..."
 categories: ["Reading Practice"]
-tags: ["advanced", "programming"]
+tags: ["advanced", "programming", "backend", "startup"]
 ShowToc: true
 TocOpen: true
 draft: false

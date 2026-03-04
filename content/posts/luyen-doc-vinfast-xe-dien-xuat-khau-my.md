@@ -1,10 +1,11 @@
 ---
 title: "Xe điện VinFast xuất khẩu sang Mỹ"
 date: "2023-05-24"
+summary: "Luyện đọc tiếng Anh IT: Xe điện VinFast xuất khẩu sang Mỹ — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-vinfast-xe-dien-xuat-khau-my"
 description: "Luyện đọc tiếng Anh IT qua bài báo về VinFast xuất khẩu xe điện sang thị trường Mỹ. Từ vựng EV, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]
-tags: ["pre-intermediate", "ev-iot"]
+tags: ["pre-intermediate", "ev-iot", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

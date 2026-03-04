@@ -1,10 +1,11 @@
 ---
 title: "Zoom thêm AI assistant"
 date: "2023-03-31"
+summary: "Luyện đọc tiếng Anh IT: Zoom thêm AI assistant — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-zoom-them-ai-assistant"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Zoom ra mắt trợ lý AI cho cuộc họp video. Từ vựng AI, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Zoom ra mắt trợ lý AI cho cuộc họp video. Từ vựng AI, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "ai"]
+tags: ["starter", "ai", "workplace-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Instagram thêm tính năng mới cho Reels"
 date: "2023-03-16"
+summary: "Luyện đọc tiếng Anh IT: Instagram thêm tính năng mới cho Reels — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-instagram-tinh-nang-moi"
-description: "Luyện đọc tiếng Anh IT qua bài báo Instagram thêm tính năng mới. Từ vựng social media, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo Instagram thêm tính năng mới. Từ vựng social media, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "social-media"]
+tags: ["starter", "social-media", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Bài 142: Software Supply Chain Security — Bảo mật từ dependency"
 date: "2023-07-29"
+summary: "Luyện đọc tiếng Anh IT: Bảo mật từ dependency — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-software-supply-chain-security-bao-mat-dependency"
-description: "Luyện đọc tiếng Anh IT chủ đề bảo mật chuỗi cung ứng phần mềm — SBOM, SCA và cách phòng chống tấn công qua dependency."
+description: "Luyện đọc tiếng Anh IT chủ đề bảo mật chuỗi cung ứng phần mềm — SBOM, SCA và cách phòng chống tấn công qua dependency, dành cho developer Việt Nam muốn nâng ..."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "cybersecurity"]
+tags: ["upper-intermediate", "cybersecurity", "security"]
 ShowToc: true
 TocOpen: true
 draft: false

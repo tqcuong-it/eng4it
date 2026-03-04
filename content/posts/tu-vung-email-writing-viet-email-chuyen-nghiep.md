@@ -1,10 +1,11 @@
 ---
 title: "Email Writing — 14 Thuật Ngữ Viết Email Chuyên Nghiệp Cho Developer"
 date: 2023-02-23
+summary: "Học 14 thuật ngữ Email Writing quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-email-writing-viet-email-chuyen-nghiep"
 description: "Học 14 thuật ngữ tiếng Anh về Email Writing — từ regarding, as per, FYI đến cc, bcc, subject line. Giúp dev Việt viết email chuyên nghiệp hơn."
 categories: ["IT English"]
-tags: ["workplace-english"]
+tags: ["workplace-english", "backend", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Từ Vựng Kubernetes — Thuật Ngữ K8s Dành Cho Developer"
 date: 2023-02-02
+summary: "Học 10+ thuật ngữ Từ Vựng Kubernetes quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-kubernetes-thuat-ngu-k8s"
-description: "Học 14 thuật ngữ Kubernetes cần biết: pod, deployment, service, ingress, configmap, helm, kubectl và nhiều hơn nữa."
+description: "Học 14 thuật ngữ Kubernetes cần biết: pod, deployment, service, ingress, configmap, helm, kubectl và nhiều hơn nữa, kèm phát âm IPA và ví dụ thực tế."
 categories: ["IT English"]
-tags: ["devops", "cloud-computing"]
+tags: ["devops", "cloud-computing", "space-tech", "networking"]
 ShowToc: true
 TocOpen: true
 draft: false

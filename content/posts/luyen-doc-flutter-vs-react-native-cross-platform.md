@@ -1,10 +1,11 @@
 ---
 title: "Flutter vs React Native — cross-platform nào tốt hơn 2024"
 date: "2023-07-01"
+summary: "Luyện đọc tiếng Anh IT: cross-platform nào tốt hơn 2024 — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-flutter-vs-react-native-cross-platform"
 description: "Luyện đọc tiếng Anh IT so sánh Flutter và React Native cho phát triển ứng dụng đa nền tảng. Từ vựng mobile development, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "programming"]
+tags: ["intermediate", "programming", "mobile", "frontend", "space-tech"]
 ShowToc: true
 TocOpen: true
 draft: false

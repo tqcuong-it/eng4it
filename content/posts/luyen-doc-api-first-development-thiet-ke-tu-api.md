@@ -1,10 +1,11 @@
 ---
 title: "The API-First Development Approach — Thiết kế từ API trước"
 date: 2023-09-08
+summary: "Luyện đọc tiếng Anh IT: Thiết kế từ API trước — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-api-first-development-thiet-ke-tu-api"
 description: "Tìm hiểu API-first development — phương pháp thiết kế API trước khi viết code, giúp tăng tốc phát triển và cải thiện collaboration giữa các team."
 categories: ["Reading Practice"]
-tags: ["advanced", "programming"]
+tags: ["advanced", "programming", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Sustainable AI — làm sao để AI không tốn quá nhiều năng lượng"
 date: "2023-07-21"
+summary: "Luyện đọc tiếng Anh IT: làm sao để AI không tốn quá nhiều năng lượng — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-sustainable-ai-green-ai-tiet-kiem-nang-luong"
 description: "Luyện đọc tiếng Anh IT qua bài báo về AI bền vững và tiết kiệm năng lượng. Từ vựng green tech, cấp độ Upper-Intermediate."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "green-tech"]
+tags: ["upper-intermediate", "green-tech", "ai", "backend", "sustainability"]
 ShowToc: true
 TocOpen: true
 draft: false

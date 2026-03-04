@@ -1,10 +1,11 @@
 ---
 title: "Nghịch lý nghiên cứu an toàn AI — làm AI an toàn hơn có thể"
 date: "2023-09-16"
+summary: "Luyện đọc tiếng Anh IT: làm AI an toàn hơn có thể — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-safety-paradox-nghich-ly-an-toan-ai"
-description: "Luyện đọc tiếng Anh IT qua bài phân tích nghịch lý nghiên cứu an toàn AI. Từ vựng AI safety, cấp độ Master."
+description: "Luyện đọc tiếng Anh IT qua bài phân tích nghịch lý nghiên cứu an toàn AI. Từ vựng AI safety, cấp độ Master, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "backend"]
 ShowToc: true
 TocOpen: true
 draft: false

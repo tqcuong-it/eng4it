@@ -1,10 +1,11 @@
 ---
 title: "Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn"
 date: "2023-09-18"
+summary: "Luyện đọc tiếng Anh IT: Hạ tầng nghìn tỷ đô đằng sau các mô hình ngôn ngữ lớn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-llm-infrastructure-ha-tang-nghin-ty-do"
-description: "Luyện đọc tiếng Anh IT qua bài phân tích hạ tầng khổng lồ phục vụ LLM. Từ vựng AI infrastructure, cấp độ Master."
+description: "Luyện đọc tiếng Anh IT qua bài phân tích hạ tầng khổng lồ phục vụ LLM. Từ vựng AI infrastructure, cấp độ Master, dành cho developer Việt Nam muốn nâng cao ti..."
 categories: ["Reading Practice"]
-tags: ["master", "ai"]
+tags: ["master", "ai", "cloud-computing", "devops"]
 ShowToc: true
 TocOpen: true
 draft: false

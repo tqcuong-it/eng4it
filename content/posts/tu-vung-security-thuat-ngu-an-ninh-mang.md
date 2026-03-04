@@ -1,10 +1,11 @@
 ---
 title: "Security & Cybersecurity — 14 Thuật Ngữ An Ninh Mạng Developer Phải Biết"
 date: 2023-02-07
+summary: "Học 14 thuật ngữ Security & Cybersecurity quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-security-thuat-ngu-an-ninh-mang"
 description: "Học 14 thuật ngữ tiếng Anh quan trọng về Security — từ encryption, JWT, OAuth đến XSS, SQL injection và penetration testing. Dễ hiểu cho developer Việt Nam."
 categories: ["IT English"]
-tags: ["cybersecurity", "backend"]
+tags: ["cybersecurity", "backend", "security", "blockchain", "data"]
 ShowToc: true
 TocOpen: true
 draft: false

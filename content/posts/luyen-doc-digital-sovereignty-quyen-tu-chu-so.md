@@ -1,10 +1,11 @@
 ---
 title: "Bài 176: Digital Sovereignty — Quyền tự chủ số của các quốc gia"
 date: "2023-09-01"
+summary: "Luyện đọc tiếng Anh IT: Quyền tự chủ số của các quốc gia — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-digital-sovereignty-quyen-tu-chu-so"
 description: "Bài luyện đọc cấp độ Advanced về digital sovereignty, cuộc đấu tranh giành quyền tự chủ công nghệ số của các quốc gia trên thế giới."
 categories: ["Reading Practice"]
-tags: ["advanced", "big-tech"]
+tags: ["advanced", "big-tech", "testing", "git"]
 ShowToc: true
 TocOpen: true
 draft: false

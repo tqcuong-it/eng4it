@@ -1,10 +1,11 @@
 ---
 title: "Cuộc chiến chip: TSMC, Samsung, Intel"
 date: "2023-06-09"
+summary: "Luyện đọc tiếng Anh IT: TSMC, Samsung, Intel — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-cuoc-chien-chip-tsmc-samsung-intel"
-description: "Bài luyện đọc về cuộc cạnh tranh sản xuất bán dẫn giữa TSMC, Samsung và Intel, cấp độ Intermediate."
+description: "Bài luyện đọc về cuộc cạnh tranh sản xuất bán dẫn giữa TSMC, Samsung và Intel, cấp độ Intermediate, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["intermediate", "big-tech"]
+tags: ["intermediate", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

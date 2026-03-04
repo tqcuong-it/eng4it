@@ -1,6 +1,7 @@
 ---
 title: "Data center dùng năng lượng tái tạo"
 date: "2023-05-21"
+summary: "Luyện đọc tiếng Anh IT: Data center dùng năng lượng tái tạo — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-data-center-nang-luong-tai-tao"
 description: "Luyện đọc tiếng Anh IT qua bài báo về data center sử dụng năng lượng tái tạo. Từ vựng green tech, cấp độ Pre-Intermediate."
 categories: ["Reading Practice"]

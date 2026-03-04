@@ -1,10 +1,11 @@
 ---
 title: "Blockchain trong supply chain — truy xuất nguồn gốc"
 date: "2023-07-06"
+summary: "Luyện đọc tiếng Anh IT: truy xuất nguồn gốc — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-blockchain-supply-chain-truy-xuat-nguon-goc"
 description: "Luyện đọc tiếng Anh IT về ứng dụng blockchain trong chuỗi cung ứng để truy xuất nguồn gốc sản phẩm. Từ vựng blockchain, logistics, cấp độ Intermediate."
 categories: ["Reading Practice"]
-tags: ["intermediate", "blockchain"]
+tags: ["intermediate", "blockchain", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

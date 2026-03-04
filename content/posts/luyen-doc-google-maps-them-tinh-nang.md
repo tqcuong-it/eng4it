@@ -1,8 +1,9 @@
 ---
 title: "Google Maps thêm tính năng — Dẫn đường thông minh hơn với AI"
 date: "2023-03-29"
+summary: "Luyện đọc tiếng Anh IT: Dẫn đường thông minh hơn với AI — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-google-maps-them-tinh-nang"
-description: "Luyện đọc tiếng Anh IT: Google Maps cập nhật tính năng mới dùng AI để dẫn đường tốt hơn. Từ vựng navigation cơ bản."
+description: "Luyện đọc tiếng Anh IT: Google Maps cập nhật tính năng mới dùng AI để dẫn đường tốt hơn. Từ vựng navigation cơ bản, dành cho developer Việt Nam muốn nâng cao..."
 categories: ["Reading Practice"]
 tags: ["starter", "ai", "big-tech"]
 ShowToc: true

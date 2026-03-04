@@ -1,6 +1,7 @@
 ---
 title: "GitHub Copilot giúp lập trình viên code nhanh hơn"
 date: "2023-05-04"
+summary: "Luyện đọc tiếng Anh IT: GitHub Copilot giúp lập trình viên code nhanh hơn — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-github-copilot-ai-coding"
 description: "Luyện đọc tiếng Anh IT qua bài báo về GitHub Copilot — công cụ AI hỗ trợ lập trình viên viết code nhanh hơn. Cấp độ Elementary."
 categories: ["Reading Practice"]

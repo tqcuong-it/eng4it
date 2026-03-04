@@ -1,10 +1,11 @@
 ---
 title: "Apple ra mắt iPhone mới"
 date: "2023-03-10"
+summary: "Luyện đọc tiếng Anh IT: Apple ra mắt iPhone mới — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-apple-ra-mat-iphone-moi"
-description: "Luyện đọc tiếng Anh IT qua bài báo về Apple ra mắt iPhone mới. Từ vựng smartphone, cấp độ Starter."
+description: "Luyện đọc tiếng Anh IT qua bài báo về Apple ra mắt iPhone mới. Từ vựng smartphone, cấp độ Starter, kèm từ vựng IPA, bài tập và giải thích chi tiết."
 categories: ["Reading Practice"]
-tags: ["starter", "smartphone"]
+tags: ["starter", "smartphone", "mobile"]
 ShowToc: true
 TocOpen: true
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Software Engineering at Scale — Lessons from Google, Meta, and"
 date: 2023-09-12
+summary: "Luyện đọc tiếng Anh IT: Lessons from Google, Meta, and — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-software-engineering-at-scale-google-meta-amazon"
 description: "Bài học kỹ thuật phần mềm quy mô lớn từ Google, Meta và Amazon — cách các big tech quản lý hàng tỷ dòng code và hàng nghìn kỹ sư."
 categories: ["Reading Practice"]
-tags: ["master", "big-tech"]
+tags: ["master", "big-tech", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false

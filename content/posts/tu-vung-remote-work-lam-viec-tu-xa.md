@@ -1,10 +1,11 @@
 ---
 title: "Remote Work — 14 Thuật Ngữ Làm Việc Từ Xa Mọi Developer Cần Biết"
 date: 2023-03-02
+summary: "Học 14 thuật ngữ Remote Work quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-remote-work-lam-viec-tu-xa"
 description: "Học 14 thuật ngữ tiếng Anh về Remote Work — từ asynchronous, hybrid, VPN đến digital nomad, standup, work-life balance. Dành cho dev làm việc từ xa."
 categories: ["IT English"]
-tags: ["workplace-english", "agile"]
+tags: ["workplace-english", "agile", "it-english"]
 ShowToc: true
 TocOpen: true
 draft: false

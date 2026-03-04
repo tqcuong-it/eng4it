@@ -1,6 +1,7 @@
 ---
 title: "AWS SQS & SNS — Thuật Ngữ Message Queue Cho Developer"
 date: 2023-01-25
+summary: "Học 10+ thuật ngữ AWS SQS & SNS quan trọng nhất cho developer — có IPA, ví dụ thực tế."
 slug: "tu-vung-aws-sqs-sns-message-queue"
 description: "Học 13 thuật ngữ tiếng Anh về AWS SQS, SNS và Message Queue — từ queue, dead-letter queue đến fan-out. Dễ hiểu cho developer Việt."
 categories: ["IT English"]

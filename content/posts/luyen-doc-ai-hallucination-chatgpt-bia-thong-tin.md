@@ -1,10 +1,11 @@
 ---
 title: "AI hallucination — khi ChatGPT bịa thông tin"
 date: "2023-07-23"
+summary: "Luyện đọc tiếng Anh IT: khi ChatGPT bịa thông tin — kèm từ vựng, phát âm IPA và bài tập."
 slug: "luyen-doc-ai-hallucination-chatgpt-bia-thong-tin"
 description: "Luyện đọc tiếng Anh IT qua bài báo về hiện tượng AI hallucination khi LLM bịa thông tin. Từ vựng AI, cấp độ Upper-Intermediate."
 categories: ["Reading Practice"]
-tags: ["upper-intermediate", "ai"]
+tags: ["upper-intermediate", "ai", "reading-practice"]
 ShowToc: true
 TocOpen: true
 draft: false
