@@ -11,7 +11,7 @@ TocOpen: true
 draft: false
 ---
 
-> 📱 **Học IELTS miễn phí:** [App IELTS 6.0](https://ielts.eng4it.com)
+> 📱 **Học IELTS miễn phí:** [App IELTS 6.0](https://ielts-app.eng4it.com)
 
 ## Giới thiệu
 

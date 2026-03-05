@@ -47,6 +47,10 @@ params:
 
   assets:
     favicon: "/favicon.svg"
+    favicon16x16: "/favicon.svg"
+    favicon32x32: "/favicon.svg"
+    apple_touch_icon: "/favicon.svg"
+    safari_pinned_tab: "/favicon.svg"
 
   analytics:
     google:
@@ -64,7 +68,7 @@ params:
 menu:
   main:
     - name: "IELTS ↗"
-      url: https://ielts.eng4it.com
+      url: https://ielts-app.eng4it.com
       weight: 1
     - name: "Luyện Đọc"
       url: /reading/

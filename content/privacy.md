@@ -11,7 +11,7 @@ disableShare: true
 
 ## 1. Giới thiệu
 
-Eng4IT ("chúng tôi") cam kết bảo vệ quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin khi bạn sử dụng website **eng4it.com** và ứng dụng **ielts.eng4it.com**.
+Eng4IT ("chúng tôi") cam kết bảo vệ quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin khi bạn sử dụng website **eng4it.com** và ứng dụng **ielts-app.eng4it.com**.
 
 ## 2. Thông tin chúng tôi thu thập
 
@@ -20,7 +20,7 @@ Eng4IT ("chúng tôi") cam kết bảo vệ quyền riêng tư của bạn. Chí
 - **Google Analytics:** Thu thập dữ liệu ẩn danh về hành vi truy cập (trang xem, thời gian, thiết bị).
 - **Google AdSense:** Hiển thị quảng cáo được cá nhân hóa dựa trên sở thích và lịch sử duyệt web.
 
-### 2.2 Thông tin người dùng cung cấp (ielts.eng4it.com)
+### 2.2 Thông tin người dùng cung cấp (ielts-app.eng4it.com)
 - **Đăng nhập Google:** Tên, email, ảnh đại diện (qua Google OAuth).
 - **Tiến độ học tập:** Điểm bài tập, lịch sử ôn tập (lưu trên Supabase).
 
@@ -47,7 +47,7 @@ Bạn có thể quản lý tùy chọn quảng cáo tại: [Google Ads Settings]
 
 Chúng tôi **KHÔNG** bán hoặc chia sẻ thông tin cá nhân với bên thứ ba, ngoại trừ:
 - **Google** (Analytics & AdSense) — theo chính sách của Google
-- **Supabase** — lưu trữ dữ liệu học tập (cho ielts.eng4it.com)
+- **Supabase** — lưu trữ dữ liệu học tập (cho ielts-app.eng4it.com)
 - **Cloudflare** — CDN và bảo mật website
 
 ## 6. Quyền của bạn

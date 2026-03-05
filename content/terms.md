@@ -10,7 +10,7 @@ disableShare: true
 
 ## 1. Chấp nhận điều khoản
 
-Khi truy cập và sử dụng **eng4it.com** và **ielts.eng4it.com**, bạn đồng ý với các điều khoản dưới đây.
+Khi truy cập và sử dụng **eng4it.com** và **ielts-app.eng4it.com**, bạn đồng ý với các điều khoản dưới đây.
 
 ## 2. Nội dung
 
@@ -18,7 +18,7 @@ Khi truy cập và sử dụng **eng4it.com** và **ielts.eng4it.com**, bạn đ
 - Bạn **không được** sao chép, phân phối hoặc bán nội dung mà không có sự đồng ý.
 - Chúng tôi cố gắng đảm bảo tính chính xác nhưng **không chịu trách nhiệm** cho lỗi nội dung.
 
-## 3. Tài khoản người dùng (ielts.eng4it.com)
+## 3. Tài khoản người dùng (ielts-app.eng4it.com)
 
 - Bạn đăng nhập qua **Google OAuth** — chúng tôi không lưu mật khẩu.
 - Bạn chịu trách nhiệm bảo mật tài khoản Google của mình.
