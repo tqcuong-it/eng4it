@@ -20,8 +20,8 @@
 - [x] 9. Cách viết Technical Proposal
 - [x] 10. Email follow-up sau meeting — template & phrases
 - [x] 11. Cách present demo cho khách hàng bằng tiếng Anh
-- [ ] 12. 30 từ vựng Agile/Scrum mà developer phải biết
-- [ ] 13. Cách viết Release Notes chuyên nghiệp
+- [x] 12. 30 từ vựng Agile/Scrum mà developer phải biết
+- [x] 13. Cách viết Release Notes chuyên nghiệp
 - [ ] 14. Email escalation — báo vấn đề lên cấp trên
 - [ ] 15. Cách điều hành meeting bằng tiếng Anh
 
