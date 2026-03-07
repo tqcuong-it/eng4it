@@ -22,8 +22,8 @@
 - [x] 11. Cách present demo cho khách hàng bằng tiếng Anh
 - [x] 12. 30 từ vựng Agile/Scrum mà developer phải biết
 - [x] 13. Cách viết Release Notes chuyên nghiệp
-- [ ] 14. Email escalation — báo vấn đề lên cấp trên
-- [ ] 15. Cách điều hành meeting bằng tiếng Anh
+- [x] 14. Email escalation — báo vấn đề lên cấp trên
+- [x] 15. Cách điều hành meeting bằng tiếng Anh
 
 ### 💻 Tiếng Anh Chuyên Ngành IT
 - [ ] 16. 50 thuật ngữ Git mà developer hay dùng
