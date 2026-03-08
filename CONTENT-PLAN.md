@@ -26,8 +26,8 @@
 - [x] 15. Cách điều hành meeting bằng tiếng Anh
 
 ### 💻 Tiếng Anh Chuyên Ngành IT
-- [ ] 16. 50 thuật ngữ Git mà developer hay dùng
-- [ ] 17. Đọc hiểu AWS Documentation — từ vựng cần biết
+- [x] 16. 50 thuật ngữ Git mà developer hay dùng
+- [x] 17. Đọc hiểu AWS Documentation — từ vựng cần biết
 - [ ] 18. 40 từ vựng Database cho Backend Developer
 - [ ] 19. Cách đọc Error Messages & Stack Traces
 - [ ] 20. 30 từ vựng Docker & Container
