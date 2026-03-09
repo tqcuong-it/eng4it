@@ -28,8 +28,8 @@
 ### 💻 Tiếng Anh Chuyên Ngành IT
 - [x] 16. 50 thuật ngữ Git mà developer hay dùng
 - [x] 17. Đọc hiểu AWS Documentation — từ vựng cần biết
-- [ ] 18. 40 từ vựng Database cho Backend Developer
-- [ ] 19. Cách đọc Error Messages & Stack Traces
+- [x] 18. 40 từ vựng Database cho Backend Developer
+- [x] 19. Cách đọc Error Messages & Stack Traces
 - [ ] 20. 30 từ vựng Docker & Container
 - [ ] 21. API Documentation — cách đọc và viết
 - [ ] 22. 25 từ vựng CI/CD Pipeline
