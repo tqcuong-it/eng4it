@@ -30,8 +30,8 @@
 - [x] 17. Đọc hiểu AWS Documentation — từ vựng cần biết
 - [x] 18. 40 từ vựng Database cho Backend Developer
 - [x] 19. Cách đọc Error Messages & Stack Traces
-- [ ] 20. 30 từ vựng Docker & Container
-- [ ] 21. API Documentation — cách đọc và viết
+- [x] 20. 30 từ vựng Docker & Container
+- [x] 21. API Documentation — cách đọc và viết
 - [ ] 22. 25 từ vựng CI/CD Pipeline
 - [ ] 23. Cách viết README.md bằng tiếng Anh
 - [ ] 24. 30 thuật ngữ Security mà developer cần biết
