@@ -32,8 +32,8 @@
 - [x] 19. Cách đọc Error Messages & Stack Traces
 - [x] 20. 30 từ vựng Docker & Container
 - [x] 21. API Documentation — cách đọc và viết
-- [ ] 22. 25 từ vựng CI/CD Pipeline
-- [ ] 23. Cách viết README.md bằng tiếng Anh
+- [x] 22. 25 từ vựng CI/CD Pipeline
+- [x] 23. Cách viết README.md bằng tiếng Anh
 - [ ] 24. 30 thuật ngữ Security mà developer cần biết
 - [ ] 25. Linux Command Line — tiếng Anh cần thiết
 - [ ] 26. 40 từ vựng Cloud Computing (AWS/GCP/Azure)
