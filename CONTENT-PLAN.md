@@ -36,8 +36,8 @@
 - [x] 23. Cách viết README.md bằng tiếng Anh
 - [x] 24. 30 thuật ngữ Security mà developer cần biết
 - [x] 25. Linux Command Line — tiếng Anh cần thiết
-- [ ] 26. 40 từ vựng Cloud Computing (AWS/GCP/Azure)
-- [ ] 27. Cách đọc hiểu RFC & Technical Specifications
+- [x] 26. 40 từ vựng Cloud Computing (AWS/GCP/Azure)
+- [x] 27. Cách đọc hiểu RFC & Technical Specifications
 - [ ] 28. 20 design patterns — tên & giải thích bằng tiếng Anh
 - [ ] 29. Monitoring & Logging — từ vựng DevOps
 - [ ] 30. Microservices Architecture — thuật ngữ tiếng Anh
