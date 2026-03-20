@@ -38,8 +38,8 @@
 - [x] 25. Linux Command Line — tiếng Anh cần thiết
 - [x] 26. 40 từ vựng Cloud Computing (AWS/GCP/Azure)
 - [x] 27. Cách đọc hiểu RFC & Technical Specifications
-- [ ] 28. 20 design patterns — tên & giải thích bằng tiếng Anh
-- [ ] 29. Monitoring & Logging — từ vựng DevOps
+- [x] 28. 20 design patterns — tên & giải thích bằng tiếng Anh
+- [x] 29. Monitoring & Logging — từ vựng DevOps
 - [ ] 30. Microservices Architecture — thuật ngữ tiếng Anh
 
 ### 🎯 Phỏng Vấn & Career
