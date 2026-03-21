@@ -40,10 +40,10 @@
 - [x] 27. Cách đọc hiểu RFC & Technical Specifications
 - [x] 28. 20 design patterns — tên & giải thích bằng tiếng Anh
 - [x] 29. Monitoring & Logging — từ vựng DevOps
-- [ ] 30. Microservices Architecture — thuật ngữ tiếng Anh
+- [x] 30. Microservices Architecture — thuật ngữ tiếng Anh
 
 ### 🎯 Phỏng Vấn & Career
-- [ ] 31. Top 20 câu phỏng vấn IT bằng tiếng Anh + cách trả lời
+- [x] 31. Top 20 câu phỏng vấn IT bằng tiếng Anh + cách trả lời
 - [ ] 32. Cách giới thiệu bản thân (Self-Introduction) cho developer
 - [ ] 33. Behavioral Interview — STAR method bằng tiếng Anh
 - [ ] 34. Salary Negotiation — từ vựng & mẫu câu
