@@ -44,8 +44,8 @@
 
 ### 🎯 Phỏng Vấn & Career
 - [x] 31. Top 20 câu phỏng vấn IT bằng tiếng Anh + cách trả lời
-- [ ] 32. Cách giới thiệu bản thân (Self-Introduction) cho developer
-- [ ] 33. Behavioral Interview — STAR method bằng tiếng Anh
+- [x] 32. Cách giới thiệu bản thân (Self-Introduction) cho developer
+- [x] 33. Behavioral Interview — STAR method bằng tiếng Anh
 - [ ] 34. Salary Negotiation — từ vựng & mẫu câu
 - [ ] 35. Cách viết CV/Resume tiếng Anh cho developer
 - [ ] 36. LinkedIn Profile Tips cho IT professionals
