@@ -46,8 +46,8 @@
 - [x] 31. Top 20 câu phỏng vấn IT bằng tiếng Anh + cách trả lời
 - [x] 32. Cách giới thiệu bản thân (Self-Introduction) cho developer
 - [x] 33. Behavioral Interview — STAR method bằng tiếng Anh
-- [ ] 34. Salary Negotiation — từ vựng & mẫu câu
-- [ ] 35. Cách viết CV/Resume tiếng Anh cho developer
+- [x] 34. Salary Negotiation — từ vựng & mẫu câu
+- [x] 35. Cách viết CV/Resume tiếng Anh cho developer
 - [ ] 36. LinkedIn Profile Tips cho IT professionals
 - [ ] 37. Cách trả lời "Tell me about a challenging project"
 - [ ] 38. Technical Interview — cách explain code bằng tiếng Anh
