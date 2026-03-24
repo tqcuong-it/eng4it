@@ -48,8 +48,8 @@
 - [x] 33. Behavioral Interview — STAR method bằng tiếng Anh
 - [x] 34. Salary Negotiation — từ vựng & mẫu câu
 - [x] 35. Cách viết CV/Resume tiếng Anh cho developer
-- [ ] 36. LinkedIn Profile Tips cho IT professionals
-- [ ] 37. Cách trả lời "Tell me about a challenging project"
+- [x] 36. LinkedIn Profile Tips cho IT professionals
+- [x] 37. Cách trả lời "Tell me about a challenging project"
 - [ ] 38. Technical Interview — cách explain code bằng tiếng Anh
 - [ ] 39. Remote Work Communication — email & chat tiếng Anh
 - [ ] 40. Onboarding tại công ty nước ngoài — từ vựng cần biết
