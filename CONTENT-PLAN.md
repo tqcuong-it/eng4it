@@ -50,8 +50,8 @@
 - [x] 35. Cách viết CV/Resume tiếng Anh cho developer
 - [x] 36. LinkedIn Profile Tips cho IT professionals
 - [x] 37. Cách trả lời "Tell me about a challenging project"
-- [ ] 38. Technical Interview — cách explain code bằng tiếng Anh
-- [ ] 39. Remote Work Communication — email & chat tiếng Anh
+- [x] 38. Technical Interview — cách explain code bằng tiếng Anh
+- [x] 39. Remote Work Communication — email & chat tiếng Anh
 - [ ] 40. Onboarding tại công ty nước ngoài — từ vựng cần biết
 
 ### 📝 Tiếng Anh Căn Bản cho IT
