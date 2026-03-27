@@ -52,10 +52,10 @@
 - [x] 37. Cách trả lời "Tell me about a challenging project"
 - [x] 38. Technical Interview — cách explain code bằng tiếng Anh
 - [x] 39. Remote Work Communication — email & chat tiếng Anh
-- [ ] 40. Onboarding tại công ty nước ngoài — từ vựng cần biết
+- [x] 40. Onboarding tại công ty nước ngoài — từ vựng cần biết
 
 ### 📝 Tiếng Anh Căn Bản cho IT
-- [ ] 41. Phát âm đúng 30 từ IT hay đọc sai (cache, query, sudo...)
+- [x] 41. Phát âm đúng 30 từ IT hay đọc sai (cache, query, sudo...)
 - [ ] 42. Thì hiện tại đơn vs hiện tại tiếp diễn — cho developer
 - [ ] 43. Cách dùng Modal Verbs trong email công việc
 - [ ] 44. Passive Voice trong Technical Writing
