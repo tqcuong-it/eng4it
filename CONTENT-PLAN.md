@@ -56,8 +56,8 @@
 
 ### 📝 Tiếng Anh Căn Bản cho IT
 - [x] 41. Phát âm đúng 30 từ IT hay đọc sai (cache, query, sudo...)
-- [ ] 42. Thì hiện tại đơn vs hiện tại tiếp diễn — cho developer
-- [ ] 43. Cách dùng Modal Verbs trong email công việc
+- [x] 42. Thì hiện tại đơn vs hiện tại tiếp diễn — cho developer
+- [x] 43. Cách dùng Modal Verbs trong email công việc
 - [ ] 44. Passive Voice trong Technical Writing
 - [ ] 45. Conditional Sentences — viết requirements & specs
 - [ ] 46. Articles (a/an/the) trong văn bản kỹ thuật
