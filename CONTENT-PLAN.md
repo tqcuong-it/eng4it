@@ -60,8 +60,8 @@
 - [x] 43. Cách dùng Modal Verbs trong email công việc
 - [x] 44. Passive Voice trong Technical Writing
 - [x] 45. Conditional Sentences — viết requirements & specs
-- [ ] 46. Articles (a/an/the) trong văn bản kỹ thuật
-- [ ] 47. Prepositions hay dùng sai trong IT English
+- [x] 46. Articles (a/an/the) trong văn bản kỹ thuật
+- [x] 47. Prepositions hay dùng sai trong IT English
 - [ ] 48. Cách viết số, ngày tháng, đơn vị trong tiếng Anh IT
 - [ ] 49. Linking Words cho Technical Writing
 - [ ] 50. Common Grammar Mistakes của developer Việt Nam
