@@ -64,7 +64,10 @@
 - [x] 47. Prepositions hay dùng sai trong IT English
 - [x] 48. Cách viết số, ngày tháng, đơn vị trong tiếng Anh IT
 - [x] 49. Linking Words cho Technical Writing
-- [ ] 50. Common Grammar Mistakes của developer Việt Nam
+- [x] 50. Common Grammar Mistakes của developer Việt Nam
+
+### 🔥 Bonus — Thêm chủ đề mới
+- [x] 51. Cách viết Commit Message bằng tiếng Anh — Chuẩn Conventional Commits
 
 ## Đã đăng
 - [x] 50 Email Phrases for Developers (workplace-english)
