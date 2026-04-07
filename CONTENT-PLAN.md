@@ -68,6 +68,8 @@
 
 ### 🔥 Bonus — Thêm chủ đề mới
 - [x] 51. Cách viết Commit Message bằng tiếng Anh — Chuẩn Conventional Commits
+- [x] 52. Cách viết Code Comment bằng tiếng Anh — Dễ hiểu, chuyên nghiệp
+- [x] 53. Cách viết Thank-You Email sau phỏng vấn IT — Mẫu & từ vựng
 
 ## Đã đăng
 - [x] 50 Email Phrases for Developers (workplace-english)
