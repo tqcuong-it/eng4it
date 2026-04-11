@@ -70,6 +70,10 @@
 - [x] 51. Cách viết Commit Message bằng tiếng Anh — Chuẩn Conventional Commits
 - [x] 52. Cách viết Code Comment bằng tiếng Anh — Dễ hiểu, chuyên nghiệp
 - [x] 53. Cách viết Thank-You Email sau phỏng vấn IT — Mẫu & từ vựng
+- [x] 54. Cách viết Technical Documentation bằng tiếng Anh — Structure, Templates & Best Practices
+- [x] 55. Tiếng Anh trong Incident Response — Báo cáo sự cố & viết Post-Mortem
+- [x] 56. Cách viết Jira Ticket bằng tiếng Anh — User Story, Task & Bug
+- [x] 57. Từ vựng Terraform & Infrastructure as Code — Thuật ngữ DevOps cần biết
 
 ## Đã đăng
 - [x] 50 Email Phrases for Developers (workplace-english)
